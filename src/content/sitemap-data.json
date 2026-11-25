@@ -1,0 +1,134 @@
+{
+  "locales": [
+    "en",
+    "zh",
+    "de"
+  ],
+  "tours": [
+    {
+      "slug": "ayurveda-healing-forest-silence",
+      "updatedAt": "2026-10-05T11:21:24.165Z"
+    },
+    {
+      "slug": "bespoke-ceylon-honeymoon",
+      "updatedAt": "2026-10-05T11:21:24.162Z"
+    },
+    {
+      "slug": "ceylon-family-wonder-discovery",
+      "updatedAt": "2026-10-05T11:21:24.164Z"
+    },
+    {
+      "slug": "cultural-odyssey",
+      "updatedAt": "2026-10-05T11:22:05.215Z"
+    },
+    {
+      "slug": "grand-ceylon-odyssey",
+      "updatedAt": "2026-10-05T11:21:24.159Z"
+    },
+    {
+      "slug": "highland-trekking-cloud-forest-peaks",
+      "updatedAt": "2026-10-05T11:21:24.163Z"
+    },
+    {
+      "slug": "sacred-ramayana-heritage-trail",
+      "updatedAt": "2026-10-05T11:21:24.163Z"
+    },
+    {
+      "slug": "southern-beaches-whale-trails",
+      "updatedAt": "2026-10-05T11:21:24.161Z"
+    },
+    {
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "updatedAt": "2026-10-05T11:21:24.160Z"
+    },
+    {
+      "slug": "wild-leopards-untamed-coastlines",
+      "updatedAt": "2026-10-05T11:21:24.160Z"
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "anuradhapura-polonnaruwa",
+      "updatedAt": "2026-10-05T11:33:29.939Z"
+    },
+    {
+      "slug": "bentota",
+      "updatedAt": "2026-10-05T11:33:29.941Z"
+    },
+    {
+      "slug": "colombo",
+      "updatedAt": "2026-10-05T11:33:29.940Z"
+    },
+    {
+      "slug": "ella",
+      "updatedAt": "2026-10-05T11:33:29.926Z"
+    },
+    {
+      "slug": "galle-fort",
+      "updatedAt": "2026-10-05T11:33:29.933Z"
+    },
+    {
+      "slug": "kandy-knuckles",
+      "updatedAt": "2026-10-05T11:33:29.937Z"
+    },
+    {
+      "slug": "mirissa-weligama",
+      "updatedAt": "2026-10-05T11:33:29.937Z"
+    },
+    {
+      "slug": "nuwara-eliya",
+      "updatedAt": "2026-10-05T11:33:29.938Z"
+    },
+    {
+      "slug": "sigiriya-dambulla",
+      "updatedAt": "2026-10-05T11:33:29.932Z"
+    },
+    {
+      "slug": "trincomalee-pasikudah",
+      "updatedAt": "2026-10-05T11:33:29.938Z"
+    },
+    {
+      "slug": "udawalawe",
+      "updatedAt": "2026-10-05T11:33:29.939Z"
+    },
+    {
+      "slug": "yala-bundala",
+      "updatedAt": "2026-10-05T11:33:29.934Z"
+    }
+  ],
+  "blog": [
+    {
+      "slug": "ceylon-cinnamon-and-street-kottu",
+      "updatedAt": "2026-10-05T09:31:13.679Z"
+    },
+    {
+      "slug": "geoffrey-bawa-architectural-legacy",
+      "updatedAt": "2026-10-05T09:31:13.690Z"
+    },
+    {
+      "slug": "monsoons-decoded-always-good-weather",
+      "updatedAt": "2026-10-05T09:31:13.698Z"
+    },
+    {
+      "slug": "plastic-free-flasks-and-fair-trackers",
+      "updatedAt": "2026-10-05T11:40:35.431Z"
+    },
+    {
+      "slug": "scenic-blue-train-without-the-crowds",
+      "updatedAt": "2026-10-05T09:31:13.672Z"
+    },
+    {
+      "slug": "secret-vantage-points-of-sigiriya-at-sunrise",
+      "updatedAt": "2026-10-05T09:31:13.667Z"
+    },
+    {
+      "slug": "sigiriya-at-dawn-without-the-crowds",
+      "updatedAt": "2026-10-05T09:31:13.662Z"
+    },
+    {
+      "slug": "tracking-leopards-of-yala-block-1-vs-lunugamvehera",
+      "updatedAt": "2026-10-05T09:31:13.684Z"
+    }
+  ],
+  "generatedAt": "2026-10-05T12:13:18.196Z"
+}

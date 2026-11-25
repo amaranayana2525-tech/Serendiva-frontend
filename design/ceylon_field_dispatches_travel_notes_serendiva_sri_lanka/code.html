@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><title>Serendiva - Ceylon Private Journeys</title><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;family=Playfair+Display:ital,wght@0,500;0,600;1,400;1,500&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "surface-container-high": "#ede8dd", "on-primary-fixed": "#001f28", "on-secondary": "#ffffff", "on-error": "#ffffff", "inverse-surface": "#333029", "primary-fixed-dim": "#9acee1", "on-secondary-fixed": "#370e00", "tertiary-fixed": "#c5eeb4", "on-secondary-container": "#752803", "surface-container-lowest": "#ffffff", "surface-container-highest": "#e8e2d7", "outline-variant": "#c0c8cb", "tertiary": "#16370f", "surface": "#fff9ee", "on-primary-container": "#87bbce", "outline": "#70787c", "on-tertiary": "#ffffff", "tertiary-fixed-dim": "#aad19a", "on-error-container": "#93000a", "surface-bright": "#fff9ee", "on-tertiary-fixed": "#022100", "on-tertiary-fixed-variant": "#2d4f24", "inverse-on-surface": "#f6f0e5", "secondary": "#9c441e", "tertiary-container": "#2c4e23", "background": "#fff9ee", "on-primary": "#ffffff", "secondary-fixed": "#ffdbce", "surface-tint": "#306576", "error-container": "#ffdad6", "surface-container": "#f3ede2", "primary-fixed": "#b6ebfe", "secondary-fixed-dim": "#ffb59a", "surface-variant": "#e8e2d7", "secondary-container": "#ff9064", "on-surface-variant": "#40484b", "surface-dim": "dfd9cf", "inverse-primary": "#9acee1", "on-background": "#1d1c15", "on-surface": "#1d1c15", "surface-container-low": "#f9f3e8", "primary": "#003441", "on-secondary-fixed-variant": "#7d2d08", "error": "#ba1a1a", "on-tertiary-container": "#98bf89", "primary-container": "#0f4c5c", "on-primary-fixed-variant": "#114d5d" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "space-xl": "2.5rem", "margin-md": "3rem", "gutter-lg": "2.5rem", "margin": "1.5rem", "space-sm": "0.5rem", "space-3xl": "6rem", "space-xs": "0.25rem", "space-lg": "1.5rem", "space-md": "1rem", "gutter": "1.5rem", "space-2xl": "4rem", "margin-lg": "5rem" }, "fontFamily": { "headline-xl-mobile": [ "Playfair Display" ], "label-lg": [ "Inter" ], "label-md": [ "Inter" ], "caption": [ "Inter" ], "body-xl": [ "Inter" ], "headline-lg": [ "Playfair Display" ], "body-lg": [ "Inter" ], "headline-sm": [ "Playfair Display" ], "body-md": [ "Inter" ], "headline-lg-mobile": [ "Playfair Display" ], "display-lg": [ "Playfair Display" ], "display-lg-mobile": [ "Playfair Display" ], "headline-xl": [ "Playfair Display" ], "headline-md": [ "Playfair Display" ] }, "fontSize": { "headline-xl-mobile": [ "30px", { "lineHeight": "38px", "letterSpacing": "0", "fontWeight": "600" } ], "label-lg": [ "13px", { "lineHeight": "18px", "letterSpacing": "0.08em", "fontWeight": "600" } ], "label-md": [ "11px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" } ], "caption": [ "12px", { "lineHeight": "16px", "fontWeight": "400" } ], "body-xl": [ "18px", { "lineHeight": "30px", "letterSpacing": "-0.005em", "fontWeight": "300" } ], "headline-lg": [ "32px", { "lineHeight": "40px", "fontWeight": "500" } ], "body-lg": [ "16px", { "lineHeight": "26px", "fontWeight": "400" } ], "headline-sm": [ "20px", { "lineHeight": "28px", "fontWeight": "600" } ], "body-md": [ "14px", { "lineHeight": "22px", "fontWeight": "400" } ], "headline-lg-mobile": [ "24px", { "lineHeight": "32px", "fontWeight": "500" } ], "display-lg": [ "56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "600" } ], "display-lg-mobile": [ "38px", { "lineHeight": "46px", "letterSpacing": "-0.01em", "fontWeight": "600" } ], "headline-xl": [ "40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "600" } ], "headline-md": [ "24px", { "lineHeight": "32px", "fontWeight": "500" } ] } } } };</script></head><body class="bg-surface font-body-md text-on-surface antialiased selection:bg-secondary-fixed selection:text-on-secondary-fixed"><header class="fixed top-0 left-0 right-0 z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-20 max-w-[1440px] mx-auto px-margin lg:px-margin-lg flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-md shrink-0"><img alt="Elegant boutique emblem logo for Serendiva Sri Lanka Tours featuring a stylized Ceylon tea leaf, sunburst, and ocean wave with refined serif typography Serendiva - Ceylon Private Journeys. Brand logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VQ4AIrGfGYIQ4hXv_6vXCglc2B386ZdxbNqItM2n38Dyfl97tvY6h6bVbqfr9Rz3ZBQsFyRroh-M6BhNKkl2wjV8JI_cVgwsCSZn91P9FvCNslwtfTTAl2yH9-0Wf8JCrkvJM6POcIOgrG_7DohE2RxpWMCIVZzIfpYpSEOCY9iRQ9qCWGWrlfpB1MFwthNbgutwiHSEyIu_9jBhHNdKxlE9BcQ_jtAZfEFXq3g24xoomwBqmkkA-tfQ"/><div class="hidden sm:flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight leading-none">SERENDIVA</span><span class="font-label-md text-label-md uppercase tracking-[0.2em] text-on-surface-variant mt-1">Ceylon Private Journeys</span></div></div><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-primary font-bold"><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="home" href="#">Home</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="tours" href="#">Tours</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="destinations" href="#">Destinations</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="corporate" href="#">Corporate</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="about" href="#">About</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="gallery" href="#">Gallery</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="reviews" href="#">Reviews</a><a aria-current="page" class="uppercase tracking-wider transition-colors duration-200 text-primary font-bold" data-path="travel-guide" href="#">Travel Guide</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center font-label-md text-label-md tracking-wider text-on-surface-variant uppercase"><button class="text-primary font-semibold hover:text-primary-container px-1 py-0.5 transition-colors">EN</button><span class="opacity-40 px-0.5">|</span><button class="hover:text-primary px-1 py-0.5 transition-colors">中文</button><span class="opacity-40 px-0.5">|</span><button class="hover:text-primary px-1 py-0.5 transition-colors">DE</button></div><a class="hidden sm:inline-flex items-center justify-center bg-secondary hover:bg-[#a64a22] text-on-secondary font-label-lg text-label-lg uppercase tracking-widest px-space-lg py-space-sm rounded-xl shadow-[0_16px_36px_-12px_rgba(43,43,43,0.08)] transition-all duration-300 transform active:scale-95" data-path="plan-my-trip" href="#">Plan My Trip</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><aside class="fixed right-0 top-1/2 -translate-y-1/2 z-40 hidden md:block"><a class="flex items-center gap-space-xs bg-primary text-on-primary font-label-md text-label-md uppercase tracking-[0.15em] px-space-md py-space-sm rounded-l-xl shadow-[0_16px_36px_-12px_rgba(43,43,43,0.15)] hover:bg-primary-container transition-all -rotate-90 origin-bottom-right translate-x-2 -translate-y-8" data-path="inquire" href="#"><span class="material-symbols-outlined text-[16px]">edit_calendar</span>Inquire</a></aside><div class="fixed bottom-space-lg right-space-lg z-50 flex items-center justify-center"><a aria-label="WhatsApp Private Concierge" class="w-14 h-14 rounded-full bg-tertiary-container hover:bg-tertiary text-on-tertiary flex items-center justify-center shadow-[0_16px_36px_-12px_rgba(43,43,43,0.25)] transition-all duration-300 hover:scale-105 active:scale-95" href="https://wa.me/94771234567" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-[28px]">chat</span></a></div><main class="w-full pt-20 bg-surface min-h-[calc(100vh-20rem)]"><div class="flex flex-col w-full">
+<!-- Top Breadcrumb & Archive Meta Bar -->
+<section class="w-full bg-surface-container-low/70 py-space-sm">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg flex flex-wrap items-center justify-between gap-space-xs">
+<nav aria-label="Breadcrumbs" class="flex items-center gap-space-xs text-on-surface-variant font-label-md text-label-md uppercase tracking-[0.14em]">
+<a class="hover:text-primary transition-colors flex items-center gap-1" data-path="home" href="#">
+<span class="material-symbols-outlined text-[15px]">home</span>
+          Home
+        </a>
+<span class="opacity-40">/</span>
+<span class="text-primary font-semibold">Dispatches &amp; Field Notes</span>
+</nav>
+<div class="flex items-center gap-space-sm font-label-md text-label-md tracking-widest text-on-surface-variant uppercase">
+<span class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-tertiary-container inline-block"></span>Live Journal • Vol. IV</span>
+<span class="opacity-30">|</span>
+<span>Colombo Bureau &amp; Galle Fort</span>
+</div>
+</div>
+</section>
+<!-- Journal Header Section -->
+<section class="w-full py-space-xl lg:py-space-2xl bg-surface">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-end">
+<div class="lg:col-span-8 flex flex-col gap-space-xs">
+<div class="flex items-center gap-space-xs">
+<span class="font-label-lg text-label-lg uppercase tracking-[0.25em] text-secondary">The Serendiva Journal</span>
+<span class="w-8 h-[1px] bg-secondary/40 inline-block"></span>
+<span class="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant">Stories &amp; Field Notes</span>
+</div>
+<h1 class="font-display-lg text-display-lg text-primary tracking-tight mt-1">
+            Dispatches from the <span class="italic font-normal font-display-lg text-secondary">Teardrop Island</span>
+</h1>
+<p class="font-body-xl text-body-xl text-on-surface-variant max-w-2xl mt-space-xs">
+            Insider essays, seasonal wildlife migrations, culinary revelations, and off-the-beaten-track itineraries penned by our private hosts, naturalists, and resident scholars.
+          </p>
+</div>
+<div class="lg:col-span-4 flex flex-col items-start lg:items-end justify-end">
+<div class="bg-surface-container-high/70 p-space-md rounded-xl shadow-sm flex items-center gap-space-md max-w-sm">
+<div class="w-12 h-12 rounded-full bg-primary flex items-center justify-center shrink-0 shadow-md">
+<span class="material-symbols-outlined text-on-primary text-[24px]">stylus_note</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-primary leading-tight">Curated by Resident Naturalists</span>
+<span class="font-caption text-caption text-on-surface-variant mt-0.5">Ground notes vetted by Dinesh Jayasuriya &amp; Ceylon historians</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Featured Editorial Hero Card (Split Asymmetric Layout with Layered Depth) -->
+<section class="w-full pb-space-2xl">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<article class="bg-surface-container-lowest rounded-xl shadow-xl overflow-hidden grid grid-cols-1 lg:grid-cols-12 group transition-all duration-300">
+<!-- Panoramic / Dramatic Imagery (Col 1-7) -->
+<div class="lg:col-span-7 relative min-h-[380px] lg:min-h-[520px] overflow-hidden">
+<div class="w-full h-full bg-cover bg-center transition-transform duration-700 group-hover:scale-105" data-alt="Cinematic panoramic dawn light illuminating the ancient western rock fortress of Sigiriya in Sri Lanka with zero tourists in sight. Wisps of soft golden morning mist drift above emerald water gardens and lush tropical forest canopy. Ambient warm amber and deep ocean teal lighting, editorial architectural travel photography, high resolution." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCC43vZ2rkB4e9nfyGtni8VZm0lVLY6jAIRP7wNmyPkoST81Q3z5e5La21NY0D8QWppDU8Iv7kUWUm-g3JvI7R2iQDRa8j9gqfhUUswT287TtHc7K39IPfUQCdnWlZdD7tTwt490xa3kh7kH4V4sw1A3817fvKe5hiqyHV2qOFeB35dAXRQVY8qJQcY-MROQqwQsdT6aTZRXvkZydIYGIU-Z1BQAH2ESQ6ci-ngFMUxA3olh3dInOw')"></div>
+<!-- Scrim & Floating Badge Overlay -->
+<div class="absolute inset-0 bg-gradient-to-t from-primary/70 via-transparent to-transparent lg:hidden"></div>
+<div class="absolute top-space-md left-space-md flex flex-wrap gap-2 z-10">
+<span class="bg-surface/90 backdrop-blur-md px-space-sm py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-primary shadow-sm flex items-center gap-1.5">
+<span class="w-2 h-2 rounded-full bg-secondary"></span>
+              Field Dispatch Focus
+            </span>
+<span class="bg-tertiary-container text-on-tertiary px-space-sm py-1 rounded-full font-label-md text-label-md uppercase tracking-wider shadow-sm">
+              Dawn Access Protocol
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md text-on-primary lg:hidden z-10">
+<span class="font-label-md text-label-md uppercase tracking-widest text-primary-fixed">Cultural Insider • 7 Min Read</span>
+</div>
+</div>
+<!-- Editorial Story Panel (Col 8-12) -->
+<div class="lg:col-span-5 p-space-lg lg:p-space-xl flex flex-col justify-between bg-surface-container-low/40">
+<div class="flex flex-col gap-space-sm">
+<div class="hidden lg:flex items-center justify-between">
+<span class="font-label-md text-label-md uppercase tracking-[0.18em] text-secondary font-semibold">
+                Cultural Insider • 7 Min Read
+              </span>
+<span class="font-caption text-caption text-on-surface-variant flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary">search_off</span>
+                Issue 28 • Dry Season
+              </span>
+</div>
+<h2 class="font-headline-xl text-headline-xl text-primary mt-space-xs group-hover:text-primary-container transition-colors">
+              How to Experience Sigiriya at Dawn Without the Crowds: The Royal Water Gardens to the Summit
+            </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mt-space-xs leading-relaxed">
+              By securing private gate access permits at 06:15 AM, our guests ascend the western rock face in meditative morning cool, listening to forest hornbills rather than tourist chatter. Here is the exact morning pacing, water garden corridors, and fresco sanctuary sequence we recommend...
+            </p>
+<!-- Key Insight Tag Module -->
+<div class="mt-space-sm p-space-sm rounded-lg bg-surface-container flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-secondary text-[22px]">wb_twilight</span>
+<p class="font-caption text-caption text-on-surface">
+<strong>Curator's Note:</strong> The midday sun overheats the black granite stairs by 10:30 AM. Dawn timing preserves both serenity and physical stamina.
+              </p>
+</div>
+</div>
+<div class="pt-space-md mt-space-md flex flex-wrap items-center justify-between gap-space-md bg-surface-container-low/80 -mx-space-lg -mb-space-lg lg:-mx-space-xl lg:-mb-space-xl p-space-lg">
+<div class="flex items-center gap-space-sm">
+<div class="w-11 h-11 rounded-full bg-primary-container text-on-primary flex items-center justify-center font-headline-sm text-headline-sm">
+                DJ
+              </div>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg text-on-surface font-semibold">Dinesh Jayasuriya</span>
+<span class="font-caption text-caption text-on-surface-variant">Accredited Chauffeur-Lecturer &amp; Naturalist</span>
+</div>
+</div>
+<a class="inline-flex items-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary font-label-lg text-label-lg uppercase tracking-wider px-space-md py-space-sm rounded-xl transition-all duration-200 shadow-md group-hover:translate-x-1" href="#">
+<span>Read Field Dispatch</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+</section>
+<!-- Interactive Filter & Search Bar -->
+<section class="w-full bg-surface-container sticky top-20 z-30 shadow-sm py-space-md transition-all">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="flex flex-col xl:flex-row items-center justify-between gap-space-md">
+<!-- Scrollable Category Filter Chips -->
+<div class="flex items-center gap-2 overflow-x-auto w-full xl:w-auto pb-1 xl:pb-0 scrollbar-none" id="categoryChips">
+<button class="filter-btn active-pill shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-primary text-on-primary shadow-sm transition-all" data-category="all" type="button">
+            All Articles (24)
+          </button>
+<button class="filter-btn shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest text-on-surface-variant hover:text-primary hover:bg-surface-container-high transition-all" data-category="logistics" type="button">
+            Travel Tips &amp; Logistics
+          </button>
+<button class="filter-btn shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest text-on-surface-variant hover:text-primary hover:bg-surface-container-high transition-all" data-category="wildlife" type="button">
+            Wildlife &amp; Safaris
+          </button>
+<button class="filter-btn shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest text-on-surface-variant hover:text-primary hover:bg-surface-container-high transition-all" data-category="teacountry" type="button">
+            Tea Country &amp; Rail
+          </button>
+<button class="filter-btn shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest text-on-surface-variant hover:text-primary hover:bg-surface-container-high transition-all" data-category="gastronomy" type="button">
+            Gastronomy &amp; Spices
+          </button>
+<button class="filter-btn shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest text-on-surface-variant hover:text-primary hover:bg-surface-container-high transition-all" data-category="architecture" type="button">
+            Sacred Heritage &amp; Bawa
+          </button>
+<button class="filter-btn shrink-0 px-space-md py-2 rounded-full font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest text-on-surface-variant hover:text-primary hover:bg-surface-container-high transition-all" data-category="responsible" type="button">
+            Responsible Travel
+          </button>
+</div>
+<!-- Search Input -->
+<div class="relative w-full xl:w-80 shrink-0">
+<input class="w-full pl-10 pr-space-md py-2 rounded-xl bg-surface-container-lowest text-on-surface placeholder:text-on-surface-variant/70 font-body-md text-body-md shadow-sm focus:outline-none focus:ring-2 focus:ring-primary/40" id="articleSearchInput" placeholder="Search articles, wildlife, ruins..." type="search"/>
+<span class="material-symbols-outlined text-[20px] text-on-surface-variant absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none">
+            search
+          </span>
+</div>
+</div>
+</div>
+</section>
+<!-- 3-Column Editorial Grid Section -->
+<section class="w-full py-space-2xl bg-surface">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="flex items-center justify-between mb-space-lg">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-[0.2em] text-secondary">Curated Dispatches</span>
+<h2 class="font-headline-lg text-headline-lg text-primary mt-1">Field Essays &amp; Journey Logs</h2>
+</div>
+<div class="hidden sm:flex items-center gap-space-xs font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">
+<span>Sort By:</span>
+<span class="text-primary font-bold">Newest First</span>
+</div>
+</div>
+<!-- Articles Grid -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-gutter-lg" id="articlesGrid">
+<!-- Card 1: Sigiriya Vantage -->
+<article class="article-card flex flex-col bg-surface-container-lowest rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group" data-category="architecture culture">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Early morning scenic perspective of Pidurangala Rock looking toward Sigiriya Lion Rock across the emerald jungle canopy of Sri Lanka during golden hour sunrise. Warm mist in valleys, dramatic ancient geography, editorial light." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCjiIWyFxyjipOwiXejSyQ9C68bLcTVP77n629kzkaTewQrBeof9hrUf0s0vK8Di4OBoiOBdJQfpQ3UmuHvf2k9eswdMVUBhaX-LS5-Pv2Y66uYqu2EqcxEALQrxsDTprqLCeiKiXcMnrG8yCbRrN6Y4zKVRrkpMAR4Rfcoun4S3US4SqgfYg5o39FhfkL3P_3qxxnyQL_jLcmP10ZvfFBzfBBnGrQvxoveSiETk5P6XVlAsSfO2Ds"/>
+<div class="absolute top-3 left-3 flex gap-2">
+<span class="bg-surface/90 backdrop-blur-sm px-2.5 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-primary shadow-sm font-semibold">
+                Culture
+              </span>
+</div>
+<div class="absolute bottom-3 right-3 bg-inverse-surface/80 backdrop-blur-sm text-inverse-on-surface px-2 py-0.5 rounded font-caption text-caption flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 5 Min Read
+            </div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-medium">Cultural Triangle</span>
+<h3 class="font-headline-sm text-headline-sm text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                The Secret Vantage Points of Sigiriya at Sunrise
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+                Beyond the standard stairs: how scaling neighboring Pidurangala at twilight provides an unmatched panoramic vista of King Kashyapa's sky palace without midday tour buses.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md bg-surface-container-low/50 -mx-space-lg -mb-space-lg p-space-md px-space-lg flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[18px]">person</span>
+<span class="font-caption text-caption text-on-surface font-medium">By Dinesh Jayasuriya</span>
+</div>
+<a class="font-label-md text-label-md uppercase tracking-wider text-primary font-semibold flex items-center gap-1 group-hover:translate-x-1 transition-transform" href="#">
+                Read Article <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+<!-- Card 2: Scenic Blue Train -->
+<article class="article-card flex flex-col bg-surface-container-lowest rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group" data-category="logistics teacountry">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="The famous turquoise blue Sri Lankan hill country train crossing the historic Demodara Nine Arches Bridge surrounded by lush Ceylon tea plantations and deep misty mountain ravines, bright morning light." src="https://lh3.googleusercontent.com/aida-public/AB6AXuByLKVFbKx-vMhKzfkpRYJAQXC2C1A07YcSygLf0ZAVx_iVInvfafB20WexhSyKOcvEq5WfLO6TrGCC6jaHtv0SeQ3zbUC_DF1CvdN6O5xc3AocnxMsPmTdbp1FkwnCqlhJPf7imfxbu22ODhpd1v8I7ifSHH3JZFmQffj4dZT_9fkfAWmDYs7x4XlpibnDKlSSLfCQwXp-AGfFKVmC2kRx7Q2jCGVdKBx2ooVtGypm9jVHgNlxFds"/>
+<div class="absolute top-3 left-3 flex gap-2">
+<span class="bg-surface/90 backdrop-blur-sm px-2.5 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-primary shadow-sm font-semibold">
+                Logistics &amp; Rail
+              </span>
+</div>
+<div class="absolute bottom-3 right-3 bg-inverse-surface/80 backdrop-blur-sm text-inverse-on-surface px-2 py-0.5 rounded font-caption text-caption flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 6 Min Read
+            </div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-medium">Highland Rail</span>
+<h3 class="font-headline-sm text-headline-sm text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                How to Experience the Scenic Blue Train Without the Crowds
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+                Insider advice on securing first-class observation salon tickets 30 days ahead, choosing the Nuwara Eliya to Ella segment, and private luggage transfer logistics.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md bg-surface-container-low/50 -mx-space-lg -mb-space-lg p-space-md px-space-lg flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[18px]">person</span>
+<span class="font-caption text-caption text-on-surface font-medium">By Dinesh Jayasuriya</span>
+</div>
+<a class="font-label-md text-label-md uppercase tracking-wider text-primary font-semibold flex items-center gap-1 group-hover:translate-x-1 transition-transform" href="#">
+                Read Article <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+<!-- Card 3: Ceylon True Cinnamon & Gastronomy -->
+<article class="article-card flex flex-col bg-surface-container-lowest rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group" data-category="gastronomy">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Artisanal Ceylon spice preparation in a rustic Southern Sri Lanka clay pot kitchen. Fragrant pure quills of Cinnamomum zeylanicum, fresh curry leaves, cardamom pods, and roasted Jaffna curry powder bathed in warm afternoon sunbeams." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBRCA10aXW_1ddtiJJYbacMGOACrD4uT70KncC7LvBRjwrMkycEK4T__PaMIe8a9iikaVr2MZ_t_uEbwwVbjvBPH5WNH6UG_KAiV4NHEvFaEpL5n9fX30yb5WudbyRj084Ao__1KsnRDStLq8m7IvT_iV9wBC6NIANFUtiG21jMvYUuxb6WJgmUiCPIGSxelrPAUFM71I3Q_t18Tcu-wpHY8J1kXeA2eX3Rv9sY3ZntmciDA9plkaA"/>
+<div class="absolute top-3 left-3 flex gap-2">
+<span class="bg-surface/90 backdrop-blur-sm px-2.5 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-secondary shadow-sm font-semibold">
+                Gastronomy
+              </span>
+</div>
+<div class="absolute bottom-3 right-3 bg-inverse-surface/80 backdrop-blur-sm text-inverse-on-surface px-2 py-0.5 rounded font-caption text-caption flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 4 Min Read
+            </div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-medium">Culinary Heritage</span>
+<h3 class="font-headline-sm text-headline-sm text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                A Culinary Journey Through Ceylon True Cinnamon &amp; Street Kottu
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+                Distinguishing sweet organic Ceylon cinnamon quills from cheap industrial cassia, followed by the nocturnal rhythm of iron blades chopping roti in Colombo 03.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md bg-surface-container-low/50 -mx-space-lg -mb-space-lg p-space-md px-space-lg flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[18px]">person</span>
+<span class="font-caption text-caption text-on-surface font-medium">By Shantha Peiris (Guest Chef)</span>
+</div>
+<a class="font-label-md text-label-md uppercase tracking-wider text-primary font-semibold flex items-center gap-1 group-hover:translate-x-1 transition-transform" href="#">
+                Read Article <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+<!-- Card 4: Yala Leopards -->
+<article class="article-card flex flex-col bg-surface-container-lowest rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group" data-category="wildlife">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="An endemic Sri Lankan leopard resting majestically along the sprawling branch of an ancient Palu tree in the golden savannah scrublands of Yala National Park during early morning light, soft atmospheric perspective." src="https://lh3.googleusercontent.com/aida-public/AB6AXuD7qxsgzLCdQxMfPZk_Lj5V2gg5DocSC9FUKq7JeCbTRNcZ5CuBVMLXS_BXh6ov1yCG4V7YbY9RhwmNBgyyoWp3Rf_lgZHR3S-dJUT_bRlZB1z2Cu8wvL8863-_Hd645LSe224WwUOSkAo279phT2k-kkr03WM4aj_q6cEJMG7QZsnbWWn8iOFEQekWArqBDC8IuAq0ZNhwDTjIROn-ltCoVSinqIo1eb8hLC9nLCA7c1VV9wjLY4E"/>
+<div class="absolute top-3 left-3 flex gap-2">
+<span class="bg-surface/90 backdrop-blur-sm px-2.5 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-tertiary-container shadow-sm font-semibold">
+                Wildlife &amp; Safari
+              </span>
+</div>
+<div class="absolute bottom-3 right-3 bg-inverse-surface/80 backdrop-blur-sm text-inverse-on-surface px-2 py-0.5 rounded font-caption text-caption flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 8 Min Read
+            </div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-medium">Endemic Fauna</span>
+<h3 class="font-headline-sm text-headline-sm text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                Tracking the Elusive Leopards of Yala: Block 1 vs Lunugamvehera
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+                Why our private naturalists frequently bypass congested Block 1 gate traffic to track resident apex predators along Lunugamvehera's quieter elephant corridors.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md bg-surface-container-low/50 -mx-space-lg -mb-space-lg p-space-md px-space-lg flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[18px]">person</span>
+<span class="font-caption text-caption text-on-surface font-medium">By Dinesh Jayasuriya</span>
+</div>
+<a class="font-label-md text-label-md uppercase tracking-wider text-primary font-semibold flex items-center gap-1 group-hover:translate-x-1 transition-transform" href="#">
+                Read Article <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+<!-- Card 5: Geoffrey Bawa Legacy -->
+<article class="article-card flex flex-col bg-surface-container-lowest rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group" data-category="architecture">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="The serene tropical modernist courtyard and reflecting lily pond of Geoffrey Bawa's country estate Lunuganga in Bentota, framed by monolithic columns, frangipani blossoms, terracotta tiles, and rich monsoon greenery." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBvc4HpmbqScL4ao_7guLA3SHRcj7Rqk9OOguH26FXewgSZmmSMGQZx3F04N4xA8o4sfubEP6K9PVCdkEuJqZp3C10d73Pa-9gC2Ai6I1JB1dPBXjX7H11FKeba5LmbKwBsz341R5I1QtMRo-9aqzBqkdQqlOnZMFRuE8jhdQNn_lZLyjy__c6oeuVFnMBIF0i8iD1AALu6xrDMSBeNgMif3uBsq93dWSwoF3YneneuZfn53LP-Zm0"/>
+<div class="absolute top-3 left-3 flex gap-2">
+<span class="bg-surface/90 backdrop-blur-sm px-2.5 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-primary shadow-sm font-semibold">
+                Architecture
+              </span>
+</div>
+<div class="absolute bottom-3 right-3 bg-inverse-surface/80 backdrop-blur-sm text-inverse-on-surface px-2 py-0.5 rounded font-caption text-caption flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 7 Min Read
+            </div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-medium">Tropical Modernism</span>
+<h3 class="font-headline-sm text-headline-sm text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                Geoffrey Bawa's Architectural Legacy: Living in Harmony with Ceylon's Nature
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+                How Sri Lanka's master architect dissolved the barriers between interior living pavilions and surrounding rainforest landscapes from Lunuganga to Kandalama.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md bg-surface-container-low/50 -mx-space-lg -mb-space-lg p-space-md px-space-lg flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[18px]">person</span>
+<span class="font-caption text-caption text-on-surface font-medium">By Tara Wickramasinghe (Architect)</span>
+</div>
+<a class="font-label-md text-label-md uppercase tracking-wider text-primary font-semibold flex items-center gap-1 group-hover:translate-x-1 transition-transform" href="#">
+                Read Article <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+<!-- Card 6: Monsoons Decoded -->
+<article class="article-card flex flex-col bg-surface-container-lowest rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 group" data-category="logistics responsible">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" data-alt="Golden sunlight gleaming across tranquil turquoise waves breaking gently against coconut palm-fringed sands of Mirissa and Weligama Bay in Southern Sri Lanka, gentle ocean foam and tropical breeze." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA4-dGmswMaXqMylGv3kgLRlVTQw_8UK98vZzeB3bfxo26Ihtmm743UyVrxYH1wbLokhuwLJcbZL5TV8dTbWfP4Vd1wSe2POulFi42JRulct5V8dsxtW3hwuvgeZNuzI6WvfPO9iEu_uhY720yq3AgCV5d3Fw_2pV5BMTh-cxXPU_uUKVDph6a1mhS2eXXgBViQS4lNzczsh9GndOu0nRYDe1xD8ankepFnoGvAnK0THDvU48iDFWY"/>
+<div class="absolute top-3 left-3 flex gap-2">
+<span class="bg-surface/90 backdrop-blur-sm px-2.5 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-primary shadow-sm font-semibold">
+                Travel Logistics
+              </span>
+</div>
+<div class="absolute bottom-3 right-3 bg-inverse-surface/80 backdrop-blur-sm text-inverse-on-surface px-2 py-0.5 rounded font-caption text-caption flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">schedule</span> 5 Min Read
+            </div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-medium">Seasonal Geography</span>
+<h3 class="font-headline-sm text-headline-sm text-primary group-hover:text-secondary transition-colors line-clamp-2">
+                The Monsoons Decoded: Why There is Always Good Weather in Sri Lanka
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant line-clamp-2 mt-1">
+                Deconstructing the Yala and Maha wind cycles: how our island's central mountain spine ensures year-round sunshine simply by shifting between east and south coasts.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md bg-surface-container-low/50 -mx-space-lg -mb-space-lg p-space-md px-space-lg flex items-center justify-between">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[18px]">person</span>
+<span class="font-caption text-caption text-on-surface font-medium">By Dinesh Jayasuriya</span>
+</div>
+<a class="font-label-md text-label-md uppercase tracking-wider text-primary font-semibold flex items-center gap-1 group-hover:translate-x-1 transition-transform" href="#">
+                Read Article <span class="material-symbols-outlined text-[16px]">arrow_forward</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<!-- No Results Message (Hidden by default) -->
+<div class="hidden text-center py-space-2xl flex-col items-center justify-center" id="noResultsNotice">
+<span class="material-symbols-outlined text-outline text-[48px]">search_off</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mt-space-xs">No Dispatches Found</h3>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-md mt-1">
+          No field notes matched your search query. Try searching for "Sigiriya", "Leopard", "Bawa", or "Train".
+        </p>
+<button class="mt-space-md px-space-md py-space-sm bg-surface-container-high rounded-xl text-primary font-label-md text-label-md uppercase tracking-wider" id="resetFilterBtn" type="button">
+          Reset Filter
+        </button>
+</div>
+</div>
+</section>
+<!-- Mid-Page Seasonal Newsletter Dispatch Box (Deep Ocean Teal) -->
+<section class="w-full py-space-2xl bg-surface-container-low">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="bg-primary text-on-primary rounded-xl p-space-xl lg:p-space-2xl shadow-xl relative overflow-hidden">
+<!-- Subtle Decorative Background Watermark -->
+<div class="absolute -right-12 -bottom-12 opacity-5 pointer-events-none">
+<svg fill="currentColor" height="400" viewbox="0 0 200 200" width="400">
+<path d="M100 0 C45 0 0 45 0 100 C0 155 45 200 100 200 C155 200 200 155 200 100 C200 45 155 0 100 0 Z M100 20 C144 20 180 56 180 100 C180 144 144 180 100 180 C56 180 20 144 20 100 C20 56 56 20 100 20 Z M100 40 C67 40 40 67 40 100 C40 133 67 160 100 160 C133 160 160 133 160 100 C160 67 133 40 100 40 Z"></path>
+</svg>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-center relative z-10">
+<div class="lg:col-span-7 flex flex-col gap-space-xs">
+<div class="flex items-center gap-space-xs">
+<span class="w-2.5 h-2.5 rounded-full bg-secondary"></span>
+<span class="font-label-md text-label-md uppercase tracking-[0.2em] text-primary-fixed">The Serendiva Dispatch Club</span>
+</div>
+<h2 class="font-headline-xl text-headline-xl text-on-primary mt-1">
+              Receive Seasonal Dispatches in Your Inbox
+            </h2>
+<p class="font-body-lg text-body-lg text-on-primary-container max-w-xl mt-space-xs leading-relaxed">
+              Join 3,200+ mindful travelers who receive our quarterly private guide to Ceylon seasonal migrations, newly restored colonial tea bungalows, and bespoke route inspirations.
+            </p>
+<div class="flex items-center gap-space-md mt-space-sm text-caption text-primary-fixed-dim">
+<span class="flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary-fixed">verified</span>
+                Direct from our ground curators
+              </span>
+<span class="flex items-center gap-1">
+<span class="material-symbols-outlined text-[16px] text-tertiary-fixed">lock</span>
+                Zero commercial spam, ever
+              </span>
+</div>
+</div>
+<div class="lg:col-span-5">
+<form class="flex flex-col sm:flex-row gap-space-xs bg-surface-container-lowest/10 p-2 rounded-xl backdrop-blur-sm" id="dispatchSubscribeForm">
+<input class="flex-1 px-space-md py-3 rounded-lg bg-surface-container-lowest text-on-surface placeholder:text-on-surface-variant/70 font-body-md text-body-md focus:outline-none focus:ring-2 focus:ring-secondary" placeholder="Enter your private email..." required="" type="email"/>
+<button class="bg-secondary hover:bg-secondary-container text-on-secondary hover:text-on-secondary-container font-label-lg text-label-lg uppercase tracking-wider px-space-lg py-3 rounded-lg transition-all duration-200 shrink-0 font-semibold shadow-md" type="submit">
+                Subscribe
+              </button>
+</form>
+<p class="hidden font-caption text-caption text-tertiary-fixed mt-2" id="subscribeFeedback">
+              ✓ Thank you for subscribing. Our latest Autumn Ceylon Dispatch is on its way.
+            </p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Author Field Spotlight / Credibility Spread -->
+<section class="w-full py-space-2xl bg-surface">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="bg-surface-container rounded-xl p-space-lg lg:p-space-xl grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-center">
+<div class="lg:col-span-4 relative">
+<div class="h-80 rounded-xl overflow-hidden shadow-lg relative">
+<img class="w-full h-full object-cover" data-alt="Dinesh Jayasuriya, a distinguished Sri Lankan private chauffeur-lecturer in linen shirt with binoculars and field notebook standing beside a classic land cruiser in Sigiriya forest landscape at sunrise." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB5IMapj_cxfmEGXVTUyRXdSQhzJxBp4mwR-DiOkJb-psNwxFSMz8_DKq-r8Qv_F6SsAduP47-MpZxUSV4uZtNNXr2xVpIEfiXwG8O4cSYfF4ILU3cBU9qTD8CNBteaTzKQdy4k5-miYTdzv9sH5WE_UPywiWWdEZqoMlb6nuow3Q4nKye8iyiaq0zrquvaJt_SjQiuWWC84w674ITN6dVgaz75sKg2yRTMwU2ZUCDG28MnezyTwgs"/>
+<div class="absolute bottom-3 left-3 bg-surface/90 backdrop-blur-sm px-3 py-1 rounded-full font-label-md text-label-md uppercase tracking-wider text-primary shadow-sm">
+              SLTDA License #TL/1482
+            </div>
+</div>
+</div>
+<div class="lg:col-span-8 flex flex-col gap-space-sm">
+<span class="font-label-md text-label-md uppercase tracking-[0.2em] text-secondary">Voice from the Field</span>
+<h3 class="font-headline-lg text-headline-lg text-primary">
+            "A journey across Ceylon is not about ticking off landmarks, but understanding the whisper of the monsoon and the rhythm of the village tank."
+          </h3>
+<p class="font-body-lg text-body-lg text-on-surface-variant leading-relaxed">
+            Dinesh Jayasuriya has spent over eighteen years guiding foreign ambassadors, architectural historians, and conservationists along Sri Lanka's quietest dirt tracks. His field journals chronicle the subtle changes across national parks, temple customs, and forgotten colonial rest houses.
+          </p>
+<div class="flex flex-wrap items-center gap-space-lg pt-space-xs font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[20px]">military_tech</span>
+<span>18+ Years Field Experience</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[20px]">menu_book</span>
+<span>40+ Field Dispatches Published</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[20px]">nature_people</span>
+<span>Wildlife Conservation Member</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Travel Inspiration Strip & Final Private Journey CTA -->
+<section class="w-full py-space-2xl bg-surface-container-high/60 mb-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg text-center flex flex-col items-center">
+<span class="font-label-md text-label-md uppercase tracking-[0.25em] text-secondary font-semibold">
+        From Story to Itinerary
+      </span>
+<h2 class="font-display-lg text-display-lg text-primary mt-space-xs max-w-3xl">
+        Inspired by Our Dispatches? Let's Turn These Stories Into Your Private Itinerary.
+      </h2>
+<p class="font-body-xl text-body-xl text-on-surface-variant max-w-2xl mt-space-sm leading-relaxed">
+        Every route described in our journal can be seamlessly woven into a bespoke private chauffeur journey, matched to your travel pace, preferred sanctuaries, and dining curiosities.
+      </p>
+<div class="flex flex-col sm:flex-row items-center gap-space-md mt-space-lg">
+<a class="bg-secondary hover:bg-secondary-container text-on-secondary hover:text-on-secondary-container font-label-lg text-label-lg uppercase tracking-widest px-space-xl py-space-md rounded-xl shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 flex items-center gap-2" data-path="plan-my-trip" href="#">
+<span class="material-symbols-outlined text-[20px]">map</span>
+<span>Design My Bespoke Tour</span>
+</a>
+<a class="bg-surface-container-lowest hover:bg-surface-container text-primary font-label-lg text-label-lg uppercase tracking-widest px-space-xl py-space-md rounded-xl shadow-md transition-all duration-300 flex items-center gap-2" href="https://wa.me/94771234567" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-[20px] text-tertiary-container">chat</span>
+<span>WhatsApp with Dinesh</span>
+</a>
+</div>
+<!-- Trust Badges Under CTA -->
+<div class="flex flex-wrap items-center justify-center gap-space-lg mt-space-xl text-on-surface-variant font-caption text-caption">
+<span class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-primary">verified_user</span>
+          Dedicated Private Chauffeur &amp; Vehicle
+        </span>
+<span class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-primary">hotel</span>
+          Vetted Architectural &amp; Tea Estate Stays
+        </span>
+<span class="flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[18px] text-primary">support_agent</span>
+          24/7 Island Concierge Support
+        </span>
+</div>
+</div>
+</section>
+</div>
+<script>
+  (function initJournalFilter() {
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    const searchInput = document.getElementById('articleSearchInput');
+    const cards = document.querySelectorAll('.article-card');
+    const noResults = document.getElementById('noResultsNotice');
+    const resetBtn = document.getElementById('resetFilterBtn');
+    const subscribeForm = document.getElementById('dispatchSubscribeForm');
+    const subscribeFeedback = document.getElementById('subscribeFeedback');
+
+    let activeCategory = 'all';
+
+    function filterArticles() {
+      const query = (searchInput.value || '').trim().toLowerCase();
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const categories = (card.getAttribute('data-category') || '').toLowerCase();
+        const textContent = card.innerText.toLowerCase();
+
+        const matchesCategory = activeCategory === 'all' || categories.includes(activeCategory);
+        const matchesQuery = !query || textContent.includes(query);
+
+        if (matchesCategory && matchesQuery) {
+          card.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+
+      if (visibleCount === 0) {
+        noResults.classList.remove('hidden');
+        noResults.classList.add('flex');
+      } else {
+        noResults.classList.add('hidden');
+        noResults.classList.remove('flex');
+      }
+    }
+
+    filterButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach(b => {
+          b.classList.remove('bg-primary', 'text-on-primary', 'shadow-sm');
+          b.classList.add('bg-surface-container-lowest', 'text-on-surface-variant');
+        });
+        btn.classList.add('bg-primary', 'text-on-primary', 'shadow-sm');
+        btn.classList.remove('bg-surface-container-lowest', 'text-on-surface-variant');
+
+        activeCategory = btn.getAttribute('data-category');
+        filterArticles();
+      });
+    });
+
+    if (searchInput) {
+      searchInput.addEventListener('input', () => {
+        filterArticles();
+      });
+    }
+
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        activeCategory = 'all';
+        filterButtons.forEach((b, index) => {
+          if (index === 0) {
+            b.classList.add('bg-primary', 'text-on-primary', 'shadow-sm');
+            b.classList.remove('bg-surface-container-lowest', 'text-on-surface-variant');
+          } else {
+            b.classList.remove('bg-primary', 'text-on-primary', 'shadow-sm');
+            b.classList.add('bg-surface-container-lowest', 'text-on-surface-variant');
+          }
+        });
+        filterArticles();
+      });
+    }
+
+    if (subscribeForm) {
+      subscribeForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        subscribeForm.reset();
+        if (subscribeFeedback) {
+          subscribeFeedback.classList.remove('hidden');
+          setTimeout(() => {
+            subscribeFeedback.classList.add('hidden');
+          }, 6000);
+        }
+      });
+    }
+  })();
+</script></main><footer class="w-full bg-surface-container-low pt-space-3xl pb-space-2xl text-on-surface shadow-[0_-1px_12px_rgba(0,0,0,0.02)]"><div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg pb-space-2xl"><div class="lg:col-span-4 flex flex-col gap-space-md"><div class="flex items-center gap-space-md"><img alt="Serendiva - Ceylon Private Journeys logo" class="h-9 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VQ4AIrGfGYIQ4hXv_6vXCglc2B386ZdxbNqItM2n38Dyfl97tvY6h6bVbqfr9Rz3ZBQsFyRroh-M6BhNKkl2wjV8JI_cVgwsCSZn91P9FvCNslwtfTTAl2yH9-0Wf8JCrkvJM6POcIOgrG_7DohE2RxpWMCIVZzIfpYpSEOCY9iRQ9qCWGWrlfpB1MFwthNbgutwiHSEyIu_9jBhHNdKxlE9BcQ_jtAZfEFXq3g24xoomwBqmkkA-tfQ"/><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight leading-none">SERENDIVA</span><span class="font-label-md text-label-md uppercase tracking-[0.2em] text-on-surface-variant mt-1">Ceylon Private Journeys</span></div></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm mt-space-xs">Curating private bespoke expeditions, architectural sanctuary stays, and naturalist-led immersions across the heritage isle of Sri Lanka.</p><div class="mt-space-sm p-space-md rounded-xl bg-surface-container-high/60 max-w-sm flex items-start gap-space-sm"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">verified</span><div class="flex flex-col"><span class="font-label-md text-label-md text-on-surface font-semibold uppercase tracking-wider">SLTDA Accredited Agency</span><span class="font-caption text-caption text-on-surface-variant mt-0.5">Licensed National Tourist Chauffeur &amp; Tour Operator #TL/1482</span></div></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><h4 class="font-headline-sm text-headline-sm text-primary">Expeditions</h4><ul class="flex flex-col gap-space-sm font-body-md text-body-md text-on-surface-variant"><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Ceylon Tea Trails</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Colonial Heritage Estates</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Endemic Leopard Safaris</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Southern Coastal Pavilions</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Cultural Triangle By Air</a></li></ul></div><div class="lg:col-span-3 flex flex-col gap-space-md"><h4 class="font-headline-sm text-headline-sm text-primary">Private Concierge</h4><div class="flex flex-col gap-space-sm font-body-md text-body-md text-on-surface-variant"><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-primary">call</span><a class="hover:text-primary transition-colors" href="tel:+94771234567">+94 77 123 4567</a></div><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-primary">mail</span><a class="hover:text-primary transition-colors" href="mailto:concierge@serendiva-journeys.com">concierge@serendiva-journeys.com</a></div><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-tertiary-container">forum</span><a class="hover:text-primary transition-colors" href="https://wa.me/94771234567">Dedicated Chauffeur Desk</a></div><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-primary">location_on</span><span>Galle Fort &amp; Colombo 07, Sri Lanka</span></div></div></div><div class="lg:col-span-3 flex flex-col gap-space-md"><h4 class="font-headline-sm text-headline-sm text-primary">The Private Journal</h4><p class="font-body-md text-body-md text-on-surface-variant">Receive unhurried seasonal dispatches, architectural villa debuts, and endemic wildlife notes.</p><form class="flex flex-col gap-space-sm mt-space-xs"><div class="relative"><input class="w-full px-space-md py-space-sm rounded-xl bg-surface-container-lowest text-on-surface placeholder:text-on-surface-variant/60 font-body-md text-body-md focus:outline-none focus:ring-1 focus:ring-primary shadow-[0_4px_12px_-4px_rgba(43,43,43,0.04)]" placeholder="Enter your correspondence email" type="email"/></div><button class="w-full bg-primary hover:bg-primary-container text-on-primary font-label-lg text-label-lg uppercase tracking-wider py-space-sm rounded-xl transition-all duration-200 shadow-[0_16px_36px_-12px_rgba(43,43,43,0.08)]" type="button">Subscribe to Dispatches</button></form></div></div><div class="pt-space-xl mt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md font-caption text-caption text-on-surface-variant"><p>© 2025 Serendiva Ceylon Private Journeys (Pvt) Ltd. All rights reserved.</p><div class="flex items-center gap-space-lg"><a class="hover:text-primary transition-colors" data-path="legal" href="#">Terms of Bespoke Charter</a><a class="hover:text-primary transition-colors" data-path="legal" href="#">Guest Privacy Policy</a><a class="hover:text-primary transition-colors" data-path="legal" href="#">Sustainability Charter</a></div></div></div></footer></body></html>

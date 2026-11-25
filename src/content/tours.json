@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndj0008d0i7d4b9av1hp",
+      "slug": "southern-beaches-whale-trails",
+      "title": "Pristine Southern Beaches & Whale Trails",
+      "summary": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and secluded coves near Tangalle.",
+      "cardTag": "Coastal Luxury",
+      "durationDays": 6,
+      "durationNights": 5,
+      "route": [
+        "Galle Fort",
+        "Weligama",
+        "Mirissa",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Stilt Fishermen Encounter",
+        "Cinnamon Island Boat Safari",
+        "Sunset Oceanfront Dining"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001a0i7daohzzy3u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+        "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndjf008o0i7db1hnl0as",
+      "slug": "bespoke-ceylon-honeymoon",
+      "title": "Bespoke Ceylon Honeymoon & Seclusion",
+      "summary": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of Ella and a hidden cove near Tangalle.",
+      "cardTag": "Secluded Villas",
+      "durationDays": 10,
+      "durationNights": 9,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Candlelit Sigiriya Dinner",
+        "Couples Ayurvedic Rituals",
+        "Luxury Coastal Hideaways"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001b0i7dg3fo08h9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+        "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde100510i7da02jrzls",
+          "slug": "honeymoon",
+          "name": "Bespoke Honeymoons",
+          "shortName": "Bespoke Honeymoon"
+        },
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "couple"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndjw00930i7d88kh9t7v",
+      "slug": "highland-trekking-cloud-forest-peaks",
+      "title": "Highland Trekking & Cloud Forest Peaks",
+      "summary": "Designed for avid hikers seeking panoramic summits, hidden waterfalls, and crisp high-altitude wilderness — the Knuckles cloud forest, the pilgrim ascent of Adam’s Peak, World’s End at dawn and three nights of ridge trails around Ella.",
+      "cardTag": "Mountain Escort",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Knuckles Range",
+        "Adam's Peak",
+        "Horton Plains",
+        "Ella"
+      ],
+      "highlights": [
+        "Knuckles Range Trekking Permits",
+        "World's End Escorted Sunrise Walk",
+        "Waterfall Plunge Pools"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001d0i7dhfj0hyri",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI",
+        "alt": "Morning view from the ridge of Little Adam's Peak over the Ella Gap",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde000500i7d6h3e1ovd",
+          "slug": "trekking-adventure",
+          "name": "Highland Trekking & Peaks",
+          "shortName": "Trekking & Adventure"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndk9009g0i7dxtwfa133",
+      "slug": "sacred-ramayana-heritage-trail",
+      "title": "Sacred Ramayana Heritage Trail",
+      "summary": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and the caves and falls of Ravana Ella — with a private Vedic scholar.",
+      "cardTag": "Vedic Heritage",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Chilaw",
+        "Kandy",
+        "Nuwara Eliya",
+        "Ravana Ella",
+        "Rumassala"
+      ],
+      "highlights": [
+        "Munneswaram & Manavari Temples",
+        "Ashok Vatika Botanical Visit",
+        "Private Vedic Scholar Host"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001e0i7df7ew6mt6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+        "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde700540i7deus2t3mf",
+          "slug": "ramayana-trail",
+          "name": "Sacred Ramayana Heritage",
+          "shortName": "Ramayana Trail"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "couple",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    },
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndkx00a80i7doxfs6gow",
+      "slug": "ayurveda-healing-forest-silence",
+      "title": "Ayurveda, Healing & Forest Silence",
+      "summary": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathing, and private oceanfront meditation.",
+      "cardTag": "Holistic Rejuvenation",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Bentota",
+        "Sinharaja Rainforest",
+        "Ella Foothills",
+        "Weligama Bay"
+      ],
+      "highlights": [
+        "Resident Ayurvedic Doctor Consult",
+        "Daily Dawn Pranayama & Yoga",
+        "Farm-to-Table Organic Dining"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001g0i7dz0vkot17",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+        "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "pageSize": 10,
+    "total": 10,
+    "totalPages": 1
+  },
+  "facets": {
+    "categories": [
+      {
+        "id": "cmuv1nddq004w0i7dmayij8qt",
+        "slug": "cultural-heritage",
+        "name": "Cultural & Ancient Kingdoms",
+        "shortName": "Cultural & Heritage",
+        "count": 2
+      },
+      {
+        "id": "cmuv1ndds004x0i7dt1ak9m7n",
+        "slug": "wildlife-safari",
+        "name": "Wildlife & Safari Expeditions",
+        "shortName": "Wildlife & Safari",
+        "count": 2
+      },
+      {
+        "id": "cmuv1nddy004y0i7d73erk1uw",
+        "slug": "pristine-beaches",
+        "name": "Pristine Southern Beaches",
+        "shortName": "Pristine Beach",
+        "count": 3
+      },
+      {
+        "id": "cmuv1nddz004z0i7dh2v8rphf",
+        "slug": "hill-country",
+        "name": "Central Hill Country & Tea Trails",
+        "shortName": "Hill Country",
+        "count": 3
+      },
+      {
+        "id": "cmuv1nde000500i7d6h3e1ovd",
+        "slug": "trekking-adventure",
+        "name": "Highland Trekking & Peaks",
+        "shortName": "Trekking & Adventure",
+        "count": 1
+      },
+      {
+        "id": "cmuv1nde100510i7da02jrzls",
+        "slug": "honeymoon",
+        "name": "Bespoke Honeymoons",
+        "shortName": "Bespoke Honeymoon",
+        "count": 1
+      },
+      {
+        "id": "cmuv1nde300520i7dasiux54s",
+        "slug": "family",
+        "name": "Family Journeys & Wildlife",
+        "shortName": "Family Expeditions",
+        "count": 2
+      },
+      {
+        "id": "cmuv1nde500530i7duff1bfgw",
+        "slug": "ayurveda-wellness",
+        "name": "Ayurveda & Forest Wellness",
+        "shortName": "Ayurveda & Wellness",
+        "count": 2
+      },
+      {
+        "id": "cmuv1nde700540i7deus2t3mf",
+        "slug": "ramayana-trail",
+        "name": "Sacred Ramayana Heritage",
+        "shortName": "Ramayana Trail",
+        "count": 1
+      }
+    ],
+    "total": 10
+  }
+}

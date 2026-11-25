@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "{name}, Sri Lanka · Privater Reiseführer"
+  },
+  "hero": {
+    "elevation": "{region} • {elevation} m",
+    "galleryLabel": "Fotohöhepunkte aus {name}",
+    "openImage": "Foto „{title}“ im Bildbetrachter öffnen",
+    "viewGallery": "{count, plural, one {# Foto} other {Alle # Fotos}} ansehen"
+  },
+  "facts": {
+    "label": "Kurzinfos zu {name}"
+  },
+  "guide": {
+    "years": "{years} Jahre Erfahrung in Ceylon",
+    "quote": "„{text}“",
+    "perksLabel": "Vorteile Ihrer privaten Begleitung"
+  },
+  "experiences": {
+    "eyebrow": "Handverlesene Erlebnisse",
+    "title": "Besondere Momente in {name}",
+    "intro": "Jede Aktivität ist auf das beste Licht, angenehme Temperaturen und ruhige Stunden abgestimmt.",
+    "curated": "Kuratiert von Serendiva",
+    "inquire": "Nach „{title}“ fragen"
+  },
+  "cuisine": {
+    "eyebrow": "Regionale Küche Ceylons"
+  },
+  "stays": {
+    "eyebrow": "Ausgewählte Refugien",
+    "title": "Wo Serendiva-Gäste in {name} wohnen",
+    "intro": "Keine anonymen Großhotels — jedes empfohlene Haus bietet Charakter, Ruhe und herzliche Gastfreundschaft."
+  },
+  "fieldNotes": {
+    "title": "Notizen aus der Praxis: Besonderheiten in {name}",
+    "quote": "„{text}“"
+  },
+  "map": {
+    "eyebrow": "Regionale Lage",
+    "title": "{name} & Umgebungskarte",
+    "zone": "SLTDA-geprüfte Reiseregion",
+    "label": "Karte von {name} und nahen Sehenswürdigkeiten",
+    "legendLabel": "Sehenswürdigkeiten — zum Markieren auswählen",
+    "focus": "{name} auf der Karte zeigen",
+    "centre": "{name} (Zentrum)",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "attribution": "© OpenStreetMap-Mitwirkende",
+    "titleCompound": "Karte von {name} und Umgebung"
+  },
+  "faq": {
+    "eyebrow": "Vor Ihrer Reise",
+    "title": "{name}: Häufige Fragen an mich"
+  },
+  "inquiry": {
+    "eyebrow": "Abgestimmt auf Ihr Tempo",
+    "title": "{name} in meine Reise aufnehmen",
+    "intro": "Persönlich betreut von Ihrem National Chauffeur-Guide {guide}. Ohne starre Gruppenpläne.",
+    "formLabel": "{name} in meine Reise aufnehmen — Anfrageformular",
+    "labels": {
+      "name": "Ihr vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "whatsapp": "WhatsApp / Mobilnummer",
+      "month": "Reisemonat",
+      "stay": "Aufenthalt in {name}",
+      "interests": "Gewünschte Erlebnisse in {name}"
+    },
+    "placeholders": {
+      "name": "Vor- und Nachname",
+      "email": "name@domain.de",
+      "whatsapp": "+49 170 1234567"
+    },
+    "monthPlaceholder": "Monat wählen",
+    "flexible": "Flexibel / noch unsicher",
+    "stay": {
+      "one": "1 Nacht (kurz)",
+      "two": "2 Nächte (ideal)",
+      "three": "3+ Nächte (intensiv)"
+    },
+    "stayValue": "{stay} in {name}",
+    "submit": "Individuelle Anfrage senden",
+    "whatsapp": "Direkt mit Dinesh chatten",
+    "successTitle": "Vielen Dank — {name} ist für Ihren Entwurf vorgemerkt.",
+    "successBody": "Ich melde mich persönlich per WhatsApp oder E-Mail mit einem passenden Routenvorschlag — meist innerhalb von 12 Stunden.",
+    "sendAnother": "Weitere Anfrage senden",
+    "trustLabel": "Warum Reisende mit mir planen",
+    "trust": {
+      "chauffeur": "100 % privater Chauffeur & komfortabler Hybrid-SUV",
+      "tickets": "Genehmigungen, Pässe & Zugtickets zuverlässig organisiert",
+      "licensed": "SLTDA-lizenzierter Guide #{license}",
+      "licensedNoNumber": "SLTDA-lizenzierter National Guide",
+      "noObligation": "Kostenloser und unverbindlicher Routenentwurf"
+    },
+    "introNoGuide": "Persönlich betreut von Ihrem National Chauffeur-Guide — ganz ohne starre Gruppenzeiten.",
+    "messagePlaceholder": "Besondere Anlässe, Ernährungswünsche oder Mobilitätshinweise…"
+  },
+  "journeys": {
+    "eyebrow": "Kuratierte Routen",
+    "title": "Rundreisen mit Station in {name}",
+    "intro": "Diese Rundreisen verbinden {name} harmonisch mit historischen Stätten, dem Hochland und der Küste.",
+    "footer": "Privatchauffeur & Guide",
+    "explore": "Route entdecken",
+    "exploreLabel": "Route entdecken: {title}",
+    "emptyTitle": "Aktuell besucht keine veröffentlichte Tour {name}",
+    "emptyBody": "Ich plane jede Route individuell — teilen Sie mir Ihre Daten mit und ich integriere {name} gern für Sie.",
+    "emptyCta": "Reise rund um {name} planen"
+  },
+  "connections": {
+    "eyebrow": "Komfortable Etappen",
+    "title": "Verbindungen ab {name}",
+    "intro": "Im klimatisierten Privatfahrzeug wechseln Sie mühelos zwischen Hochland, Nationalparks und Küste.",
+    "distance": "ca. {km} km Luftlinie",
+    "direction": {
+      "N": "Nach Norden",
+      "NE": "Nach Nordosten",
+      "E": "Nach Osten",
+      "SE": "Nach Südosten",
+      "S": "Nach Süden",
+      "SW": "Nach Südwesten",
+      "W": "Nach Westen",
+      "NW": "Nach Nordwesten"
+    }
+  }
+}

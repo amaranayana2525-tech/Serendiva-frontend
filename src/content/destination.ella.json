@@ -1,0 +1,742 @@
+{
+  "id": "cmuv1ndfm005b0i7d086jerju",
+  "slug": "ella",
+  "name": "Ella",
+  "tagline": "Mist-Veiled Peaks, Ravana Legends & Highland Tea Estates",
+  "summary": "Perched on the southern rim of the Central Massif, Ella captivates with dramatic mountain vistas, historic stone viaducts, and crisp mountain air perfumed with freshly withered tea leaf notes.",
+  "metaLabel": "Central Hill Country · 1,041m",
+  "badge": "Trekker & Tea Sanctuary",
+  "bestTimeLabel": "Dec – Apr & Jul – Aug",
+  "curations": [
+    "Dawn trek to Little Adam’s Peak before mist lifts",
+    "Nine Arches Viaduct blue train private viewing pass",
+    "Single-estate artisanal tea tasting with master planter"
+  ],
+  "region": {
+    "slug": "hill-country",
+    "name": "Central Hill Country",
+    "icon": "landscape",
+    "description": "Ella Tea Terraces, Nuwara Eliya Peaks & Knuckles Cloud Ridge",
+    "places": "Ella, Nuwara Eliya, Hatton, Knuckles, Kandy",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001y0i7dx4pkv0hl",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAvVjkhWOlX6BFnPrcInCsLykFyo4_rvGiWBY5r_xbNj4cYtVRSmwjXK8QfjQ6S9y6ejSVxXXxl0TzPRpFrleDMtUu9PQgwotR_3PUzAhA2DDJ-OKt-SpOOMf2bRaJxZoYMibtQHYRg7OKscsvkG3SGW6fIlgt-nEEe-X_J65YCY3hH5l0kRU95OWIU19gaReAqJ0a2fBi41batz6CEiknrzxDQxJc3tWlryhbVekv2DC_9xH9cbdc",
+    "alt": "Aerial dawn panorama of the Ella Gap with ridges dropping to the southern plains",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.8667,
+  "longitude": 81.0466,
+  "elevation": 1041,
+  "headline": "Ella: Mist-Veiled Peaks, Ravana Legends & Highland Tea Heritage",
+  "description": "Where the dramatic Southern Ridge drops 1,000 meters into sunlit lowlands—a sanctuary of cool alpine breezes, terraced Ceylon tea estates, and timeless stone railway marvels curated beyond the tourist trail.\n\nI time every Ella experience around the light: lantern-lit dawn climbs before the mist lifts, the blue train watched from a planter’s veranda rather than a crowded embankment, and long afternoons in a cliffside villa while the valley turns gold.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Dec – Apr & Jul – Aug",
+      "note": "Crisp mountain clarity, mild breezes & vibrant sunrise horizons"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Serendiva Suggested Stay",
+      "value": "2 to 3 Unhurried Nights",
+      "note": "Allows dawns at ridge crests, artisanal tastings & private rail passage"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Elevation & Temperatures",
+      "value": "1,041 m • 18°C – 25°C",
+      "note": "Pleasant temperate sun with evening alpine drops to 16°C"
+    },
+    {
+      "icon": "train",
+      "label": "Private Access Route",
+      "value": "3.5 hrs Scenic Rail",
+      "note": "Or 4 hrs private luxury chauffeur carriage from Colombo / Galle Fort"
+    }
+  ],
+  "guideNote": {
+    "heading": "Why Visit Ella Exclusively with a Private Host",
+    "paragraphs": [
+      "Ella has gained worldwide acclaim for its dramatic gorge and misty stone viaducts, but standard tourist routes now run the risk of congested platform views and generic itineraries. For our private travelers, Serendiva opens doors that remain firmly closed to group operators.",
+      "We take you onto secluded private planter paths that bypass the congested crowds entirely. When we ascend Little Adam’s Peak, we set out at 05:40 AM with lantern light, arriving at the private eastern rock bench just as the mist parts over the Wellawaya plains. When we visit the Nine Arches Viaduct, our guests observe the passing blue locomotive from a preserved colonial tea veranda with hot silver needle tea in hand, followed by an intimate walk down the sleepers accompanied by a retired third-generation Ceylon railway inspector."
+    ],
+    "perks": [
+      {
+        "icon": "hotel_class",
+        "label": "Exclusive Planter Estate Permissions"
+      },
+      {
+        "icon": "alarm_on",
+        "label": "Off-Peak Dawn & Twilight Access"
+      },
+      {
+        "icon": "directions_subway",
+        "label": "Observation Carriage Handled Direct"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Dawn Awakening",
+      "meta": "Moderate • 1.5 Hours • 05:40 AM Departure",
+      "title": "Dawn Sunrise Ascent of Little Adam’s Peak & Ella Gap",
+      "text": "A gentle early climb winding through dew-kissed Camellia Sinensis tea bushes. You reach the panoramic eastern spine before the valley stirs, greeting the sunrise as the Ella Gorge opens southwards toward the distant Yala plains and Indian Ocean coast.",
+      "tagIcon": "spa",
+      "tagLabel": "Private Estate Ridge Trail",
+      "image": {
+        "id": "cmuv1ndcz00230i7dhkkq5yxs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD8i4BAxK-t_UDH6RTNQHSO6NSNbuqwZKPOq51TnQjbefiZzTNmoZ8q-wTsFXlcJw1HTywNpOhkkeglKIuzVlXjBv2wm_UrEO9bQklf8VxD7bE9jFaKXPBv8WoA-kRUiw84DPCl2sJRs5VJ7OqhLXIOufIvFtAmYwV4T_hyZdI3RaWrXFYcOoIgsvh3CdlTXxERekD3-arUaa7vP923D1Hhd-yKRuvgPGUejTeOgjth3t4_zuJ_Ct4",
+        "alt": "Sunrise over the Ella Gap from the summit of Little Adam's Peak",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Colonial Engineering",
+      "meta": "Leisurely • 2.5 Hours • Historic Archive Access",
+      "title": "The Nine Arches Viaduct & Historic Demodara Loop",
+      "text": "Avoid the muddy public pathways. We escort you through an exclusive private tea terrace with prime vantage points over the 1921 stone viaduct. Witness the blue train crossing without crowd obstructions, followed by boarding your private reserved first-class cabin to experience the unique spiral railway loop at Demodara.",
+      "tagIcon": "train",
+      "tagLabel": "1st Class Observation Seats Secured",
+      "image": {
+        "id": "cmuv1ndcz00240i7d77dl345g",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAF34y1ZHN2QqB6WLuH0jZpke8zuLv1YkDddlkiuipKQTMMLVqdGOan9F54eMMy4LeP-8dHDo-JaphdT3SCcpLtaScFxOW7vTZ4-VTQQFdzc9TCcMkDqBXZA06T0OpSO1AiWE3ENA0atHKim7gXhu_mmdTFzwZCSD6-rUgyjkzfRCa971BJWCnCqRuxtnx80DUpKpqkBHntaW5GgANlhmjUIQNIZOR12Vho2N1HJjrr2j5CHoreiNQ",
+        "alt": "Blue train rolling across the Nine Arches Bridge in Ella",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Artisanal Heritage",
+      "meta": "Exclusive Access • 2 Hours • Superintendent Masterclass",
+      "title": "Private Tea Planter’s Bungalow & Artisanal Tasting",
+      "text": "Step inside an operating orthodox colonial estate closed to the general public. Walk the field contours with the estate manager to understand microclimatic terroir, followed by a formal cupping session of rare Hand-Rolled Golden Tips and White Pekoe in the planter’s private drawing room.",
+      "tagIcon": "local_cafe",
+      "tagLabel": "Rare Single-Estate Micro-Batches",
+      "image": {
+        "id": "cmuv1ndcz00250i7dz05h04zs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDr8cfLu1ye3NW3rYCJI3TGIXOK6TGxR4SDOdHntS5rxOgED_bLLRIO-xameTBA2YMc11mCL1v7ZIILl3qLqdIjHZ4WzcN-KpoIdjV2T58rhiFaXi-v6ZxFgqwKupXuBZXabrWsMo0iUOBJt00z01p-hTkDtwHr2LHtQJViQfr6E5pUE4Ao9OFIUDrAiYaGyHj12olO-GPOgFCrldZ4goBwL7v7WNae5KjSfflnggTscXTyfkf4Ftw",
+        "alt": "Tea tasting bowls and silver tip teas inside a colonial tea factory",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "Mythology & Solitude",
+      "meta": null,
+      "title": "Hidden Ravana Cave & Cascade Sanctuary",
+      "text": "Explore the ancient limestone caverns connected to the Epic of Ramayana, then cool off in private natural rock pools deep in the forest away from highway viewpoints.",
+      "tagIcon": "directions_car",
+      "tagLabel": "Private Chauffeur transfer",
+      "image": {
+        "id": "cmuv1ndcz00260i7dltgfrae7",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAVfr8Fte8v6ANKtfNi-Qb4Oysj0DFDlIxohZgs9UvdtvMwD-O9T6WWVx-UhG5jzR49qGjXrlwnnPMh8wHDaXrl-42tE7vdQAkWBuR-e-TEQMxXIvjKVxqyzdl4knc_ni5C81ky-6DHtm_8o9Om6qmd7YKE9Zp6AvdOBybs9NIY4-l_w0v_k5mipi-0wx6VXOv9RFYHPdfq129o_5popc91OT3H28LjS1JCf-WQueHEc9cXldDRWQ8",
+        "alt": "Clear natural river pool over granite boulders in the Ella jungle",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "High Alpine Expedition",
+      "meta": null,
+      "title": "Horton Plains & World’s End Day Traverse",
+      "text": "A bespoke dawn extension into the cloud forests of Horton Plains National Park. Trek to the 870-meter World’s End precipice and Baker’s Falls with our naturalist guide.",
+      "tagIcon": "directions_car",
+      "tagLabel": "4x4 Private Chauffeur",
+      "image": {
+        "id": "cmuv1ndcz00270i7d0dy2b1yl",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAhbLHw9RFdDzy7l0ZM9NS61fTzV3HJiH0yQRzGMjxrm1dS6lNvhGTbSKus84NV_Tkv6HxGR64k2nCPik_GfEAguuMYwYzRaP6N5gdRZ8FOgl99uYXYj8UBgHDU_eo0WveTjfZLNW6krAfEBhqvfuJE59P6DLhavO-jSqQelxUstgSyyJKmvWtGj_yYiErY_eDIhTHBCfzr1at-pHop6LJZddHBa0meUTDQ8RF4xEQdBNRcmXjzRbg",
+        "alt": "Hikers at the World's End escarpment in Horton Plains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    }
+  ],
+  "cuisine": {
+    "heading": "Plantation Dining & Hill Country Culinary Nuances",
+    "intro": "Highland cuisine in Ella is distinct from the coastal lowlands—anchored by highland spices, organic vegetables harvested from volcanic mountain loam, and centuries of British colonial afternoon tea traditions.",
+    "items": [
+      {
+        "icon": "bakery_dining",
+        "title": "Cardamom Tea Scones",
+        "text": "Fresh warm plantation scones infused with crushed mountain cardamom pods, paired with fresh passion fruit curd and homemade strawberry preserves."
+      },
+      {
+        "icon": "soup_kitchen",
+        "title": "Claypot Village Curries",
+        "text": "Slow-simmered tender jackfruit (polos), tempered banana blossom, spicy wild chili pol sambol, and nutty heritage red rice cooked over woodfire embers."
+      },
+      {
+        "icon": "wine_bar",
+        "title": "Veranda Candlelight",
+        "text": "Four-course bespoke planter dinners served on open colonial verandas as the mountain mist rolls in, warmed by brass fire braziers and fine vintage wine."
+      }
+    ]
+  },
+  "stays": [
+    {
+      "icon": "star",
+      "category": "Heritage Category",
+      "title": "Restored Colonial Tea Planter Bungalows",
+      "text": "Centuries-old stone estate residences set deep within private working plantations. Featuring roaring open fireplaces, clawfoot copper soaker tubs, bespoke butler service, and manicured croquet lawns overlooking the mist-filled valley.",
+      "features": [
+        "Private Butler",
+        "Fireplace Suites",
+        "Working Estate"
+      ],
+      "image": {
+        "id": "cmuv1ndcz00280i7dtdv9jbf4",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBaXtkfPaaatM_Kqpw2NrCclr8ApFM9yaztvsXqXDBKs1Fe0TsYEzUZCXHRLSafnP5elOW4mQM-80j-JptDEkgqeBOsax-rw0emLOQAZYmCDYNjaNkyesXuhBSXpmre1OLbT4O5wUhsRW7kTiJSBDBKdy-6f_loXBvi4DR3MuqKfSIufLiOpnBg2ADDtZAWdkSao7wmTsrnxJNsw7g3dRYMGmUkYajbutE6sb_xB0wkLpDGSHC0PuE",
+        "alt": "Colonial planter bungalow with a white veranda and lawn above the mist",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "icon": "landscape",
+      "category": "Architectural Sanctuary",
+      "title": "Eco-Luxury Cliffside Mountain Hideaways",
+      "text": "Minimalist timber and glass pavilions cantilevered along the ridge line. Wake up to panoramic floor-to-ceiling vistas directly facing the 1,000-meter drop of Ella Gap, with private plunge pools heated by highland solar arrays.",
+      "features": [
+        "Ella Gap Panoramic View",
+        "Infinity Plunge Pool",
+        "Absolute Seclusion"
+      ],
+      "image": {
+        "id": "cmuv1ndcz00290i7df2mzuvuy",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCzEdLwyDJ5TRIAKkh2EbplNqEFFGj3_oa9ONKTZiDDmm6d-933959d8j2yD8TRWAv-ec36cKuY4L3ahLZpedyC98l3ptJxsx5Ns1c03WU8-Bto81mghjbNMn8crSHZ5L1SkIir2pFi28Ow7EG5QT0Akpo05PI9mGiDUBerIGv0UV7sxbohM3ZjCGODd_LCe_OmF__EiMthLsidAd2xWhq-GlToSYQuuQn51uVwWuUrPLzJ5IUU4E8",
+        "alt": "Glass villa suite cantilevered over the green Ella Gap canyon",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "icon": "nature_people",
+      "category": "Valley Retreat",
+      "title": "Secluded Boutique Villas in Demodara Valley",
+      "text": "Tucked away 15 minutes north of the central hub, these intimate private villas sit amidst organic cinnamon and clove gardens. An ideal retreat for writers, couples, and multi-generational families desiring complete immersion in rural birdsong.",
+      "features": [
+        "Spice Garden Setting",
+        "Private Resident Chef",
+        "Total Serenity"
+      ],
+      "image": {
+        "id": "cmuv1ndcz002a0i7d97z1er5a",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuABWNGsKSWR_X6RJ6hz5ArZ-jgRnEBw_0YtsQ5aYi5JQyOwlhnokLt-jua6hOWB6Q3eituEkdBACBRxT8UiKCX_lFkfm5sLA_CMZEbBSXI6FqCtoYRj7X8hzuU_eftX3vZfXRqxJBHVwlxowHBgekoDHeHvez2jIIKre6Nz7ItNt4cRmmo-EwhteYAJFiC2hHUOuHSF_o6gRhK83zHx2364nO1mGxCDsxTVYlJS_3tq17Bc1Ev2IO0",
+        "alt": "Boutique villa among spice gardens in the Demodara Valley",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    }
+  ],
+  "fieldNotes": [
+    {
+      "icon": "ac_unit",
+      "title": "Evening Alpine Chill",
+      "text": "Bring a fine cashmere layer or light woolen wrap for dusk. While daytime reaches a warm 25°C, valley winds drop evening temperatures swiftly to 16°C."
+    },
+    {
+      "icon": "confirmation_number",
+      "title": "1st Class Train Reality",
+      "text": "Government observation car tickets open precisely 30 days prior and vanish within minutes. As a Serendiva guest, I secure these physical allocations directly through station contacts."
+    },
+    {
+      "icon": "wb_twilight",
+      "title": "Golden Hour Timing",
+      "text": "The finest photographic light on Ella Rock strikes between 06:15 AM and 07:00 AM. After 09:30 AM, thermal heat clouds often begin hugging the eastern rock faces."
+    }
+  ],
+  "interests": [
+    "1st Class Train",
+    "Tea Plantations",
+    "Mountain Treks",
+    "Relaxation & Spas",
+    "Ramayana Lore"
+  ],
+  "mapPoints": [
+    {
+      "name": "Nine Arches Viaduct",
+      "lat": 6.8768,
+      "lng": 81.0608
+    },
+    {
+      "name": "Little Adam's Peak",
+      "lat": 6.8689,
+      "lng": 81.0628
+    },
+    {
+      "name": "Ella Rock Summit",
+      "lat": 6.8573,
+      "lng": 81.0381
+    },
+    {
+      "name": "Ravana Sanctuary",
+      "lat": 6.8406,
+      "lng": 81.0544
+    },
+    {
+      "name": "Demodara Spiral Loop",
+      "lat": 6.9003,
+      "lng": 81.064
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001z0i7dqdho99yx",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBBtAn0aPKgWGodHPXLuf7pKOl3VoFV_ectTYggyhbqK8J66cpWnQJgJNxtHOEMvz8NUWIz12xcjPIzTgEBY7oxTT5jjnsFS8QqmxlBDjA5L_UJ3JSdaMRAeeNDOmPZdY0c-jYkB1RCc23VNVbu_PhNGTVOmJ5WUhQOrHRXkjUFDWyZ6OLFUsDHEkFp0XkuQ8E8jKJwaHhtVJm756OSXafFapSif-P8e13hyl_Uu9eAoiq2Qty8Ucw",
+        "alt": "Ella Rock cliff emerging from jungle canopy and morning fog",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ella Rock",
+      "caption": "Cloud precipice"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00200i7d5b27f0ou",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCm0a_FP-F4rqv0eBqs2Rm-YMz3R-Qif7si0d9IwUTTIQ6mKk_qzY0BQ2_nK7-ZYz2tTB8YaYb12g8F6zU0_1XKIfTEAbaC1UNrwAEez6HZdZUdJQ1IZmrhFMa9I70gZPZ-SHdk4ZkY52aDJhUxpyI3K5iHkMAA1_kDdF_OeNyM7p_QapYxLyN3YUH0pCV8wr2sathRI5HT1izMzH40Sd4Yzz8wYLL6OM8lnSTUfsa74qPe3y9j7FQ",
+        "alt": "Nine Arches Bridge at Demodara framed by banana groves and ferns",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Nine Arches",
+      "caption": "Colonial viaduct"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00210i7demjyqyo4",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBjXKNvOPVXX-5pw7EYqrxRfLLsgG6QjrjjsDxRXSSiPbDw7b1q8nMUGKerJRw-DqWYHmIGRA1oVxXgELdpULSL_RP_w8Dcqeid_0tWsHu8UqJDwnMJ6OKZpgT9d981dAbbUM8a5Ot0kVuXbdy_51Zk3a1o1elzYfDdua8oWrteNhrHEy6urLFHd2WX6lowzITnP5S7gcoCvSlBgDqU-VwihvuGvS16JMQf1DdqLuywbpPVxcSqpA8",
+        "alt": "Tea plucker in a colourful saree picking two leaves and a bud in the mist",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Orthodox Tea",
+      "caption": "Private estate walk"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00220i7dy9tjbban",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBdWQIWZ7Bpf3MuGlYFmn7m_ke-oOllyl6kK5NALG55ZshI17IuIneYtiXqADm3yImbemRNV3AZTBRJs5wGjeRhTG1RKKJGPwp8f2T8_XgrlOAPW2ceG8ZMHPPha_mwVQ5daXqrM6_HT7aRjPW8afJIf2F4PB5eJrPcDUUY9EHZSvvsl_IvqcWJkYviAlW9XK4ZEbPz8wRueUTGggB3LdXfSSLnne68Ond3ieC1hHjU3UricZrGG6s",
+        "alt": "Tiered cascades of Ravana Falls among granite boulders near Ella",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ravana Falls",
+      "caption": "Hidden rock cascades"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001i0i7dct5vrkgt",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBKj1uqyrwgShRxlh953MPCMItd39tj_ZuLGR8lEq_WVTMkn6ct3H0FBKQldqqgqDSbHzaai9l0xfg4CIZtmzYOhG6kf4-T-PM4uoT11f_886fgywENHcK50aZNRU2QIG6PWngEPPpizXHwJ_zQW4ZhXm1ryqzNE2HFpuZlEGxot8zdViBI6Rz3rxRdPSByivDPxiKcEE45KIJRnhpDHmpe1Ef8fh8g4QVCQaCLQM3oMlCg537jYHc",
+        "alt": "Morning mist over Ella Rock tea plantations and highland pine slopes",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ella Rock Tea Slopes",
+      "caption": "Morning mist over the estates"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001s0i7dq6f4bgt4",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCqzSczD_KZym4dy-VPOy9T29Ua0ltqqcC4XvIuTGkUA5NM6UqZDViH96_C7hZ5j6EG9Y17JAlKpdtII0nWhOqpkiKPFsR3tj1DcblUs1O4sk_Kys9kZuM1-9b5kSP-bWv003cTwenqsHt0uzahIZm9EXHetoRGr1FR8BMbgxzF_aB2oIvnhK6wKbrZ4b_BZMROGql92iq0PgaTuRrqxgwbmhYXKtr-Bk5FxGe-qF4Lg5-xIdCTwE0",
+        "alt": "Ella Gap gorge and waterfalls seen through mountain mist",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Ella Gap",
+      "caption": "A 1,000-metre drop to the plains"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndjf008o0i7db1hnl0as",
+      "slug": "bespoke-ceylon-honeymoon",
+      "title": "Bespoke Ceylon Honeymoon & Seclusion",
+      "summary": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of Ella and a hidden cove near Tangalle.",
+      "cardTag": "Secluded Villas",
+      "durationDays": 10,
+      "durationNights": 9,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Candlelit Sigiriya Dinner",
+        "Couples Ayurvedic Rituals",
+        "Luxury Coastal Hideaways"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001b0i7dg3fo08h9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+        "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde100510i7da02jrzls",
+          "slug": "honeymoon",
+          "name": "Bespoke Honeymoons",
+          "shortName": "Bespoke Honeymoon"
+        },
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "couple"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndjw00930i7d88kh9t7v",
+      "slug": "highland-trekking-cloud-forest-peaks",
+      "title": "Highland Trekking & Cloud Forest Peaks",
+      "summary": "Designed for avid hikers seeking panoramic summits, hidden waterfalls, and crisp high-altitude wilderness — the Knuckles cloud forest, the pilgrim ascent of Adam’s Peak, World’s End at dawn and three nights of ridge trails around Ella.",
+      "cardTag": "Mountain Escort",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Knuckles Range",
+        "Adam's Peak",
+        "Horton Plains",
+        "Ella"
+      ],
+      "highlights": [
+        "Knuckles Range Trekking Permits",
+        "World's End Escorted Sunrise Walk",
+        "Waterfall Plunge Pools"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001d0i7dhfj0hyri",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI",
+        "alt": "Morning view from the ridge of Little Adam's Peak over the Ella Gap",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde000500i7d6h3e1ovd",
+          "slug": "trekking-adventure",
+          "name": "Highland Trekking & Peaks",
+          "shortName": "Trekking & Adventure"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndk9009g0i7dxtwfa133",
+      "slug": "sacred-ramayana-heritage-trail",
+      "title": "Sacred Ramayana Heritage Trail",
+      "summary": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and the caves and falls of Ravana Ella — with a private Vedic scholar.",
+      "cardTag": "Vedic Heritage",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Chilaw",
+        "Kandy",
+        "Nuwara Eliya",
+        "Ravana Ella",
+        "Rumassala"
+      ],
+      "highlights": [
+        "Munneswaram & Manavari Temples",
+        "Ashok Vatika Botanical Visit",
+        "Private Vedic Scholar Host"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001e0i7df7ew6mt6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+        "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde700540i7deus2t3mf",
+          "slug": "ramayana-trail",
+          "name": "Sacred Ramayana Heritage",
+          "shortName": "Ramayana Trail"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "couple",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    },
+    {
+      "id": "cmuv1ndkx00a80i7doxfs6gow",
+      "slug": "ayurveda-healing-forest-silence",
+      "title": "Ayurveda, Healing & Forest Silence",
+      "summary": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathing, and private oceanfront meditation.",
+      "cardTag": "Holistic Rejuvenation",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Bentota",
+        "Sinharaja Rainforest",
+        "Ella Foothills",
+        "Weligama Bay"
+      ],
+      "highlights": [
+        "Resident Ayurvedic Doctor Consult",
+        "Daily Dawn Pranayama & Yoga",
+        "Farm-to-Table Organic Dining"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001g0i7dz0vkot17",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+        "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": "cmuv1vcdz006xyh7dbkayo4v8",
+      "question": "How many nights should I spend in Ella?",
+      "answer": "I recommend two to three unhurried nights. That leaves one dawn for Little Adam’s Peak or Ella Rock, an afternoon at the Nine Arches Bridge and a planter’s tea tasting, and time to simply enjoy the valley view from your villa. One night works if you are passing through, but you will miss the best light."
+    },
+    {
+      "id": "cmuv1vcdz006yyh7ddgb252dp",
+      "question": "Can I see the blue train cross the Nine Arches Bridge without the crowds?",
+      "answer": "Yes. Instead of the busy public embankment, I take guests to a private tea terrace with a clear view of the viaduct and check the day’s train times with station contacts, so we arrive a few minutes before the crossing rather than waiting for an hour."
+    },
+    {
+      "id": "cmuv1vcdz006zyh7dks9vw4oe",
+      "question": "Is it possible to climb both Little Adam’s Peak and Ella Rock?",
+      "answer": "With two nights, yes. Little Adam’s Peak is a gentle 1.5-hour return walk, ideal for sunrise. Ella Rock is a moderate half-day trek of about 4–5 hours, best started at first light before the heat clouds gather. I adapt both to your fitness and the weather on the day."
+    }
+  ],
+  "seo": {
+    "title": "Ella, Sri Lanka · Private Guide to Tea Country & Peaks",
+    "description": "Discover Ella privately with licensed guide Dinesh Jayasuriya: dawn on Little Adam’s Peak, the Nine Arches Bridge without crowds, and planter-bungalow tea tastings.",
+    "image": {
+      "id": "cmuv1ndcz001y0i7dx4pkv0hl",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAvVjkhWOlX6BFnPrcInCsLykFyo4_rvGiWBY5r_xbNj4cYtVRSmwjXK8QfjQ6S9y6ejSVxXXxl0TzPRpFrleDMtUu9PQgwotR_3PUzAhA2DDJ-OKt-SpOOMf2bRaJxZoYMibtQHYRg7OKscsvkG3SGW6fIlgt-nEEe-X_J65YCY3hH5l0kRU95OWIU19gaReAqJ0a2fBi41batz6CEiknrzxDQxJc3tWlryhbVekv2DC_9xH9cbdc",
+      "alt": "Aerial dawn panorama of the Ella Gap with ridges dropping to the southern plains",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.926Z"
+}

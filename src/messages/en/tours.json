@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Private Sri Lanka Tours · Curated Itineraries",
+    "description": "Hand-crafted private Sri Lanka itineraries — cultural kingdoms, leopard safaris, tea country and southern beaches — tailored to your pace and personally guided by an accredited National Tourist Guide Lecturer."
+  },
+  "breadcrumb": "Curated Tours",
+  "hero": {
+    "eyebrow": "Authentic Ceylon Curations",
+    "title": "Tours Designed Around You",
+    "intro": "Hand-crafted private itineraries tailored to your pace, passions, and curiosities by an accredited National Guide Lecturer."
+  },
+  "stats": {
+    "label": "Why travel privately with me",
+    "private": {
+      "title": "100% Private Expeditions",
+      "text": "Sole carriage, private stops, completely unshared."
+    },
+    "guide": {
+      "title": "Chauffeur & Guide Included",
+      "text": "Accredited SLTDA National Lecturer & luxury van."
+    },
+    "pacing": {
+      "title": "Flexible Daily Pacing",
+      "text": "Linger at morning temples, rest through afternoon heat."
+    }
+  },
+  "filters": {
+    "label": "Filter tours",
+    "searchLabel": "Search tours",
+    "searchPlaceholder": "Search by destination, interest, or temple...",
+    "clearSearch": "Clear search",
+    "durationLabel": "Duration:",
+    "durationAll": "All Durations",
+    "durations": {
+      "1-3": "1–3 Days",
+      "4-7": "4–7 Days",
+      "8-11": "8–11 Days",
+      "12+": "12+ Days"
+    },
+    "categoriesLabel": "Tour categories",
+    "allTours": "All Tours",
+    "count": "Showing {count, plural, =0 {no curated private expeditions} one {# Curated Private Expedition} other {# Curated Private Expeditions}}"
+  },
+  "results": {
+    "title": "Curated private tours",
+    "emptyTitle": "No journey matches these filters — yet.",
+    "emptyBody": "Try another duration or category, or tell me what you have in mind and I will design the route around you.",
+    "reset": "Reset filters",
+    "custom": "Design my own route"
+  },
+  "custom": {
+    "eyebrow": "Private Route Atelier",
+    "title": "Can’t find your exact route? Every itinerary can be custom-crafted.",
+    "text": "Tell me your preferred pace, travel dates, and dream experiences. I will build an entirely personalized private itinerary for you within 24 hours—complete with villa suggestions and private driver allocation.",
+    "build": "Build My Custom Trip",
+    "whatsapp": "Chat on WhatsApp with Dinesh"
+  },
+  "faq": {
+    "eyebrow": "Clarifications & Assurances",
+    "title": "Frequently Asked Questions",
+    "intro": "Everything you need to know about my private chauffeur-guided Ceylon journeys."
+  },
+  "cta": {
+    "eyebrow": "Accredited Private Host & Chauffeur",
+    "title": "Your Ceylon Journey, Perfectly Handled.",
+    "text": "Reach out directly to me for personal guidance, boutique villa recommendations, and bespoke route planning across Sri Lanka.",
+    "plan": "Plan My Trip",
+    "whatsapp": "Message on WhatsApp"
+  }
+}

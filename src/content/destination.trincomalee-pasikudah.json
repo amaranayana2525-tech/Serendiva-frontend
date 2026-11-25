@@ -1,0 +1,221 @@
+{
+  "id": "cmuv1ndgp00660i7dm0pxcujm",
+  "slug": "trincomalee-pasikudah",
+  "name": "Trincomalee & Pasikudah",
+  "tagline": "Deep Natural Harbor, Koneswaram Cliff & Coral Reefs",
+  "summary": "Unspoiled east coastline blessed with crystal-still shallow bays, vibrant coral life at Pigeon Island, and thousands of years of Tamil naval history.",
+  "metaLabel": "East Coast · Marine Sanctuary",
+  "badge": null,
+  "bestTimeLabel": "May – Sep (Calm Waters)",
+  "curations": [
+    "Swami Rock temple cliff sunset with Hindu devotional chants",
+    "Pigeon Island private boat snorkeling with reef sharks",
+    "Secluded Marble Beach picnic with fresh seafood grill"
+  ],
+  "region": {
+    "slug": "east-coast",
+    "name": "Wild East & Marine Corridors",
+    "icon": "phishing",
+    "description": "Trincomalee Deep Harbor, Pigeon Island Reefs & Pasikudah",
+    "places": "Trincomalee, Pasikudah, Arugam Bay, Jaffna",
+    "bestMonths": [
+      "rain",
+      "good",
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "rain"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001p0i7doc5o02vu",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGrQudSQ-zxVoE3Eur4aGJAl3iTCFsd5MhZj4M5dYRkhlt66MStJGQ44sq71HSwlxzyt_W9aQKuwLPbOqltYT5ccs3WZvEdY0ox4m8jtUMNjzLabSUajs55nu8fqLGJqCy8RUZk1wCmjMZF95gVAgAwD41tYWTcs33jCcuip-Yl_uBK1DoRFapEsauyLmNBRehY3BcBB-VjXXnTkHprDYOn3WBrgbmc_1BjkjB3webGv9ZoPjHwjM",
+    "alt": "Koneswaram temple on a cliff above the sapphire sea at Trincomalee",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 8.5874,
+  "longitude": 81.2152,
+  "elevation": 10,
+  "headline": "Trincomalee & Pasikudah: Deep Harbour, Koneswaram Cliff & Coral Reefs",
+  "description": "When the south-west monsoon brings rain to the southern beaches, the east coast enjoys its best months: calm turquoise water, coral gardens off Pigeon Island and long, empty beaches from Nilaveli to Pasikudah.\n\nTrincomalee’s deep natural harbour has drawn sailors for millennia, and the Koneswaram temple on Swami Rock is one of the most sacred Hindu shrines on the island — especially at sunset, when the devotional chants begin.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "May – Sep",
+      "note": "Calm, clear water while the south-west monsoon rains on the other coast"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "3 Nights",
+      "note": "Snorkelling, temple sunsets and a true beach rest"
+    },
+    {
+      "icon": "waves",
+      "label": "Sea Temperature",
+      "value": "28°C – 30°C",
+      "note": "Shallow, sheltered bays that suit families"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "3 hrs from Sigiriya",
+      "note": "Easily paired with the Cultural Triangle"
+    }
+  ],
+  "guideNote": {
+    "heading": "The Coast That Shines When the South Rains",
+    "paragraphs": [
+      "For travellers coming between May and September I often swap the southern beaches for the east: the Cultural Triangle is only a few hours away, the sea is calm and the beaches are blissfully uncrowded."
+    ],
+    "perks": [
+      {
+        "icon": "scuba_diving",
+        "label": "Private Snorkel Boat"
+      },
+      {
+        "icon": "temple_hindu",
+        "label": "Temple Sunset Visit"
+      },
+      {
+        "icon": "beach_access",
+        "label": "Quiet Beach Villas"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Sacred Cliff",
+      "meta": "Easy • 1.5 Hours • Sunset",
+      "title": "Koneswaram Temple at Swami Rock",
+      "text": "The “temple of a thousand pillars” on a cliff above the sea — evening devotional chants, the lovers’ leap viewpoint and, from March to April, the chance of whales below.",
+      "tagIcon": "temple_hindu",
+      "tagLabel": "Devotional Chants at Dusk",
+      "image": {
+        "id": "cmuv1ndcz001x0i7d0oypexr2",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC8TPDJvnJpP1sdZWTgT8-5NmrZqTHUqZEtTGvy7vJz4sY-_yows-vb3b1sKTNuRRCy3V29LdLPJb65c_1d-IuxfEz-8mNwG-HMIddkUXy3EpS0ZUe2ER-Va0S_jHhbWZAx9SEK33AaT4AEgLW_wj52ll3K90G1hfccyy3AYnl7OkYIu7Oh-w__QOpdPHIqHJRBhMQ9fdVkPJDe3ORCkuMfMZ0JMcKgCa8rPw56BSUkxfig1u1z8TM",
+        "alt": "Koneswaram Temple on Swami Rock above Trincomalee bay",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Reef Life",
+      "meta": "Easy • Half Day • 07:00 Boat",
+      "title": "Pigeon Island Private Snorkelling",
+      "text": "A private boat to the marine national park before the day trippers, with blacktip reef sharks, turtles and parrotfish over the coral gardens.",
+      "tagIcon": "scuba_diving",
+      "tagLabel": "Reef-Safe Sunscreen Provided",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "scuba_diving",
+      "title": "Reef Etiquette",
+      "text": "Never stand on or touch the coral. I provide reef-safe sunscreen and well-fitting masks for every guest."
+    },
+    {
+      "icon": "checkroom",
+      "title": "Temple Dress",
+      "text": "At Hindu kovils men may be asked to remove shirts and everyone removes shoes. A sarong or wrap is useful."
+    },
+    {
+      "icon": "calendar_month",
+      "title": "Plan by Season",
+      "text": "October to January brings the north-east monsoon here — then I point guests to the south and west coasts instead."
+    }
+  ],
+  "interests": [
+    "Snorkelling",
+    "Koneswaram Temple",
+    "Beach Leisure",
+    "Whale Watching",
+    "Tamil Heritage"
+  ],
+  "mapPoints": [
+    {
+      "name": "Koneswaram Temple",
+      "lat": 8.58,
+      "lng": 81.2459
+    },
+    {
+      "name": "Pigeon Island National Park",
+      "lat": 8.7225,
+      "lng": 81.2058
+    },
+    {
+      "name": "Nilaveli Beach",
+      "lat": 8.696,
+      "lng": 81.189
+    },
+    {
+      "name": "Marble Beach",
+      "lat": 8.512,
+      "lng": 81.215
+    },
+    {
+      "name": "Pasikudah Bay",
+      "lat": 7.927,
+      "lng": 81.561
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001x0i7d0oypexr2",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC8TPDJvnJpP1sdZWTgT8-5NmrZqTHUqZEtTGvy7vJz4sY-_yows-vb3b1sKTNuRRCy3V29LdLPJb65c_1d-IuxfEz-8mNwG-HMIddkUXy3EpS0ZUe2ER-Va0S_jHhbWZAx9SEK33AaT4AEgLW_wj52ll3K90G1hfccyy3AYnl7OkYIu7Oh-w__QOpdPHIqHJRBhMQ9fdVkPJDe3ORCkuMfMZ0JMcKgCa8rPw56BSUkxfig1u1z8TM",
+        "alt": "Koneswaram Temple on Swami Rock above Trincomalee bay",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Swami Rock",
+      "caption": "Koneswaram above the bay"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001p0i7doc5o02vu",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGrQudSQ-zxVoE3Eur4aGJAl3iTCFsd5MhZj4M5dYRkhlt66MStJGQ44sq71HSwlxzyt_W9aQKuwLPbOqltYT5ccs3WZvEdY0ox4m8jtUMNjzLabSUajs55nu8fqLGJqCy8RUZk1wCmjMZF95gVAgAwD41tYWTcs33jCcuip-Yl_uBK1DoRFapEsauyLmNBRehY3BcBB-VjXXnTkHprDYOn3WBrgbmc_1BjkjB3webGv9ZoPjHwjM",
+        "alt": "Koneswaram temple on a cliff above the sapphire sea at Trincomalee",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Sapphire Shores",
+      "caption": "Pigeon Island reef offshore"
+    }
+  ],
+  "tours": [],
+  "faqs": [],
+  "seo": {
+    "title": "Trincomalee & Pasikudah: Deep Natural Harbor, Koneswaram Cliff & Coral Reefs",
+    "description": "Unspoiled east coastline blessed with crystal-still shallow bays, vibrant coral life at Pigeon Island, and thousands of years of Tamil naval history.",
+    "image": {
+      "id": "cmuv1ndcz001p0i7doc5o02vu",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDGrQudSQ-zxVoE3Eur4aGJAl3iTCFsd5MhZj4M5dYRkhlt66MStJGQ44sq71HSwlxzyt_W9aQKuwLPbOqltYT5ccs3WZvEdY0ox4m8jtUMNjzLabSUajs55nu8fqLGJqCy8RUZk1wCmjMZF95gVAgAwD41tYWTcs33jCcuip-Yl_uBK1DoRFapEsauyLmNBRehY3BcBB-VjXXnTkHprDYOn3WBrgbmc_1BjkjB3webGv9ZoPjHwjM",
+      "alt": "Koneswaram temple on a cliff above the sapphire sea at Trincomalee",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.938Z"
+}

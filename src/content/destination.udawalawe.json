@@ -1,0 +1,323 @@
+{
+  "id": "cmuv1ndgx006d0i7dfedhg6ii",
+  "slug": "udawalawe",
+  "name": "Udawalawe",
+  "tagline": "Asia’s Most Reliable Wild Elephant Encounters",
+  "summary": "Open savannah around a great reservoir where herds of wild Asian elephants graze in plain view — and where orphaned calves are rehabilitated for release back into the wild.",
+  "metaLabel": "Deep Wilderness & Safari",
+  "badge": "Elephant Sanctuary",
+  "bestTimeLabel": "Year-Round",
+  "curations": [
+    "Dawn jeep safari among grazing elephant herds",
+    "Feeding-time visit to the Elephant Transit Home",
+    "Junior naturalist kits for young explorers"
+  ],
+  "region": {
+    "slug": "wilderness-parks",
+    "name": "Deep Wilderness & Safaris",
+    "icon": "pets",
+    "description": "Yala Leopard Dens, Bundala Lagoons & Wilpattu Villus",
+    "places": "Yala, Wilpattu, Udawalawe, Minneriya",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz003e0i7donn3chlj",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFC02FMamftGYy5BbuNxSpJeY1ZKE6Crw02hI4cU8gnlInxhFHkQQI4JXiHCjGwiQds3LkD5NZmv0ULBgKELyNC9fzpiPoRx_GUoZ8aKwhubB895Zv58d6Pg9p1_F22VOMHozN832D8uILzz_k1bdWCeG4aFSuedUz9zTHbKtdJXInJD2i8PC2mHIk_uJ760dZb64eHwH38j15BraxDI5iiJKIBz9_O0aXax4MIznTSkiseWClnVc",
+    "alt": "Tusker walking through golden grass in Udawalawe National Park",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.4333,
+  "longitude": 80.8833,
+  "elevation": 120,
+  "headline": "Udawalawe: Open Grasslands, Elephant Herds & the Elephant Transit Home",
+  "description": "Udawalawe’s grasslands and scrub surround a large reservoir, and its resident elephant herds are seen on almost every drive. Water buffalo, crocodiles, eagles and the occasional leopard complete the picture.\n\nIt is my favourite first safari for families: short, gentle drives, elephants close by, and a visit to the Elephant Transit Home, where orphaned calves are fed and prepared for life back in the wild — with no riding and no touching.",
+  "quickFacts": [
+    {
+      "icon": "pets",
+      "label": "Sighting Reliability",
+      "value": "Year-Round",
+      "note": "Elephants are seen on almost every drive"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "1 Night",
+      "note": "A dusk drive and a dawn drive"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Elevation & Temperatures",
+      "value": "120 m • 24°C – 33°C",
+      "note": "Hot at midday — drives run early and late"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "2 hrs from Ella",
+      "note": "Or 2 hrs from Mirissa, on the way to Yala"
+    }
+  ],
+  "guideNote": {
+    "heading": "An Easy Win for Young Travellers",
+    "paragraphs": [
+      "Children remember Udawalawe for ever: a mother elephant dust-bathing beside the jeep, calves chasing each other through the grass. I give young guests binoculars and a field notebook so they can become the expedition’s official naturalists."
+    ],
+    "perks": [
+      {
+        "icon": "child_care",
+        "label": "Junior Naturalist Kits"
+      },
+      {
+        "icon": "eco",
+        "label": "Engine-Off Viewing"
+      },
+      {
+        "icon": "volunteer_activism",
+        "label": "Ethical Visits Only"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Dawn Drive",
+      "meta": "Easy • 3 Hours • Gate Opening",
+      "title": "Private Jeep Safari on the Open Grasslands",
+      "text": "Herds grazing in the soft morning light, the reservoir glinting behind them, and a naturalist who knows the matriarchs by sight.",
+      "tagIcon": "pets",
+      "tagLabel": "Engine-Off Viewing",
+      "image": {
+        "id": "cmuv1ndcz003e0i7donn3chlj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFC02FMamftGYy5BbuNxSpJeY1ZKE6Crw02hI4cU8gnlInxhFHkQQI4JXiHCjGwiQds3LkD5NZmv0ULBgKELyNC9fzpiPoRx_GUoZ8aKwhubB895Zv58d6Pg9p1_F22VOMHozN832D8uILzz_k1bdWCeG4aFSuedUz9zTHbKtdJXInJD2i8PC2mHIk_uJ760dZb64eHwH38j15BraxDI5iiJKIBz9_O0aXax4MIznTSkiseWClnVc",
+        "alt": "Tusker walking through golden grass in Udawalawe National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Conservation",
+      "meta": "Easy • 1 Hour • Feeding Times",
+      "title": "The Elephant Transit Home",
+      "text": "Watch orphaned calves arrive for their milk feeds from a viewing platform — a conservation programme that has returned many elephants to the wild.",
+      "tagIcon": "volunteer_activism",
+      "tagLabel": "Ethical, Hands-Off Visit",
+      "image": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "schedule",
+      "title": "Feeding Times",
+      "text": "The Transit Home feeds the calves at set times through the day. I plan the drive so that we arrive a few minutes early."
+    },
+    {
+      "icon": "cancel",
+      "title": "No Riding, Ever",
+      "text": "I never include elephant rides or bathing attractions. Seeing elephants wild and free is the far greater privilege."
+    },
+    {
+      "icon": "light_mode",
+      "title": "Dust & Sun",
+      "text": "Open jeeps are dusty in the dry months. Bring sunglasses, a hat and a light scarf; I carry wet towels and water."
+    }
+  ],
+  "interests": [
+    "Elephant Safari",
+    "Family Wildlife",
+    "Birding",
+    "Photography"
+  ],
+  "mapPoints": [
+    {
+      "name": "Udawalawe National Park",
+      "lat": 6.4333,
+      "lng": 80.8833
+    },
+    {
+      "name": "Elephant Transit Home",
+      "lat": 6.444,
+      "lng": 80.891
+    },
+    {
+      "name": "Udawalawe Reservoir",
+      "lat": 6.43,
+      "lng": 80.85
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcm000r0i7d1hxyqtey",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd1iMxSZAFYQQna5nQerhQi_LeQFx560TUuOzy-WY2T3cdfxzAPOOhJ_xsqv_05mReGC8VcUbE2gNBK0QhFWBbtYQPFLYi4kuSU-R-lDoLYNXVcQeD1U1k3yLTp979cL2xwTPY9FV2HF78LIm0d7boPQZ9DwPW8M0s-v6KkKkwmHnkQD1jW64X8mITQrnj2HyfzoR2kbn8KyPg0PBPSuOTd-nlamvkEgRqhmymRBu2Q21LDhnbtkk",
+        "alt": "Family watching elephant calves play in Udawalawe National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Calves at Play",
+      "caption": "A family safari moment"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Gentle Giants",
+      "caption": "An elephant mother and calf"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Udawalawe: Asia’s Most Reliable Wild Elephant Encounters",
+    "description": "Open savannah around a great reservoir where herds of wild Asian elephants graze in plain view — and where orphaned calves are rehabilitated for release back in",
+    "image": {
+      "id": "cmuv1ndcz003e0i7donn3chlj",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFC02FMamftGYy5BbuNxSpJeY1ZKE6Crw02hI4cU8gnlInxhFHkQQI4JXiHCjGwiQds3LkD5NZmv0ULBgKELyNC9fzpiPoRx_GUoZ8aKwhubB895Zv58d6Pg9p1_F22VOMHozN832D8uILzz_k1bdWCeG4aFSuedUz9zTHbKtdJXInJD2i8PC2mHIk_uJ760dZb64eHwH38j15BraxDI5iiJKIBz9_O0aXax4MIznTSkiseWClnVc",
+      "alt": "Tusker walking through golden grass in Udawalawe National Park",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.939Z"
+}

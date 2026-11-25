@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "confirm": {
+      "title": "Confirm your subscription",
+      "description": "Confirm your subscription to the Private Dispatch Journal — seasonal notes from your Sri Lanka guide."
+    },
+    "unsubscribe": {
+      "title": "Unsubscribe",
+      "description": "Unsubscribe from the Private Dispatch Journal."
+    }
+  },
+  "eyebrow": "Private Dispatch Journal",
+  "confirm": {
+    "loading": {
+      "title": "Confirming your subscription…",
+      "body": "One moment while I check your link."
+    },
+    "confirmed": {
+      "title": "Welcome to the Private Dispatch Journal",
+      "body": "Your subscription is confirmed. A few times a year I will send you seasonal notes on wildlife migrations, festival dates and new routes — never spam, and you can unsubscribe with one click."
+    },
+    "already": {
+      "title": "You're already subscribed",
+      "body": "This link has been used before and your subscription is active — there is nothing more to do."
+    },
+    "invalid": {
+      "title": "This link is invalid or has expired",
+      "body": "Confirmation links work only for your latest sign-up and stop working once you unsubscribe. Enter your email below and I will send you a fresh link."
+    }
+  },
+  "unsubscribe": {
+    "loading": {
+      "title": "Unsubscribing…",
+      "body": "One moment while I update your preferences."
+    },
+    "unsubscribed": {
+      "title": "You have been unsubscribed",
+      "body": "I have removed your address from the Private Dispatch Journal — you will not receive further newsletters. Changed your mind? You can subscribe again below at any time."
+    },
+    "invalid": {
+      "title": "This unsubscribe link is invalid",
+      "body": "The link may be incomplete — please open it again from the email, or copy the full address. If you keep receiving newsletters, write to me and I will remove you personally."
+    }
+  },
+  "errors": {
+    "network": {
+      "title": "I couldn't reach the server",
+      "body": "Please check your internet connection and try again."
+    },
+    "rateLimited": {
+      "title": "Too many attempts",
+      "body": "Please wait a minute and try again."
+    },
+    "server": {
+      "title": "Something went wrong on my side",
+      "body": "Please try again in a moment — or message me on WhatsApp and I will sort it out."
+    }
+  },
+  "actions": {
+    "home": "Back to home",
+    "plan": "Plan My Trip",
+    "tours": "Explore my journeys",
+    "retry": "Try again",
+    "resubscribe": "Subscribe again",
+    "emailMe": "Email me"
+  }
+}

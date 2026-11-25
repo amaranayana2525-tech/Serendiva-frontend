@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Sri Lanka Destinations & Regions",
+    "description": "Explore Sri Lanka’s regions on a stylised island map — the Cultural Triangle, tea country, southern and eastern coasts and wildlife parks — with the best months to visit each, privately guided by licensed guide Dinesh Jayasuriya."
+  },
+  "hero": {
+    "kicker": "Territories of Celebration & Discovery",
+    "title": "Diverse Terrains, Ancient Echoes & Untamed Horizons",
+    "intro": "Explore Sri Lanka’s 6 distinct biogeographic provinces—from sun-drenched Jaffna palmyra plains to mist-shrouded cloud forests of the Central Massif and golden southern shores. Every destination handpicked and privately guided by accredited National Guide Dinesh Jayasuriya.",
+    "hostTitle": "Accredited Private Host",
+    "hostBody": "SLTDA License #{license}. Private air-conditioned luxury transport, permits, and conservation fees pre-arranged.",
+    "hostBodyNoLicense": "Fully licensed by the SLTDA. Private air-conditioned luxury transport, permits, and conservation fees pre-arranged."
+  },
+  "map": {
+    "label": "Stylised map of Sri Lanka with destination hubs",
+    "hubsLabel": "Destination hubs",
+    "hubLink": "{name}, {region} — open the destination guide",
+    "legendTitle": "{count} Biogeographic Terraces",
+    "hoverHint": "Hover to preview hub",
+    "legendLabel": "Regions — select one to highlight its hubs and filter the destinations below",
+    "routingCta": "Inquire About Bespoke Regional Routing",
+    "routingNote": "Every journey is privately customized with luxury chauffeur.",
+    "regionHubs": "{count, plural, =0 {No hubs yet} one {# hub} other {# hubs}}",
+    "empty": "Destination hubs will appear here soon."
+  },
+  "curations": {
+    "eyebrow": "The Serendiva Anthology",
+    "title": "Handpicked Destination Curations",
+    "searchLabel": "Search destinations",
+    "searchPlaceholder": "Search Ella, leopards, Sigiriya, tea...",
+    "tabsLabel": "Filter destinations by region",
+    "all": "All Regions ({count})",
+    "tab": "{name} ({count})",
+    "results": "{count, plural, =0 {No destinations match} one {# destination shown} other {# destinations shown}}",
+    "emptyTitle": "No destination matches your search",
+    "emptyBody": "Try another word or region — or tell me what you dream of seeing and I will design it for you.",
+    "reset": "Show all destinations",
+    "emptyAllTitle": "Destinations are being prepared",
+    "emptyAllBody": "I am writing up my favourite corners of the island. In the meantime, tell me what you would love to see."
+  },
+  "season": {
+    "eyebrow": "Microclimates Decoded",
+    "title": "The Dual-Monsoon Seasonal Matrix",
+    "intro": "Sri Lanka is blessed by two alternating weather systems (Yala & Maha monsoons). While one coastline experiences nourishing rains, the opposite coast enjoys crystal skies and calm turquoise seas.",
+    "caption": "Best months to visit each region of Sri Lanka, from January to December"
+  },
+  "insight": {
+    "eyebrow": "A Personal Insight from {name}",
+    "quote": "“Because Sri Lanka benefits from two alternating weather systems, there is ALWAYS a sun-drenched coast and glorious dry terrain in any month of the year. You never need to compromise on climate.”",
+    "role": "{title} · Serendiva Ceylon Private Journeys",
+    "cta": "Plan for Your Month"
+  },
+  "quiz": {
+    "kicker": "Tailored Ceylon Route Recommendation",
+    "title": "Not Sure Which Region Fits Your Travel Month or Passions?",
+    "body": "Take my 60-Second Ceylon Trip Finder Quiz. Select your month, travel style, and companions to receive an instant bespoke itinerary recommendation curated for you.",
+    "cta": "Launch 1-Minute Trip Quiz",
+    "whatsapp": "Chat with Dinesh on WhatsApp"
+  },
+  "faq": {
+    "eyebrow": "Expedition Knowledge",
+    "title": "Frequently Asked Questions on Regional Expeditions",
+    "intro": "Insights on transfers, microclimates, wildlife permits, and crafting seamless bespoke circuits across the island."
+  }
+}

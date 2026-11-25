@@ -1,0 +1,480 @@
+{
+  "id": "cmuv1ndg1005m0i7dgl5z2ra1",
+  "slug": "galle-fort",
+  "name": "Galle Fort",
+  "tagline": "17th-Century Dutch Ramparts, Bastions & Spice Mansions",
+  "summary": "Living UNESCO fortress where colonial Dutch architecture merges with bespoke gemstone ateliers, private villas, and bastion sunset vistas.",
+  "metaLabel": "Southern Coast · UNESCO",
+  "badge": null,
+  "bestTimeLabel": "Nov – Apr",
+  "curations": [
+    "Flag Rock Bastion sunset walk with local historian",
+    "Exclusive Ceylon sapphire atelier private viewing",
+    "Private architectural tour of hidden Dutch courtyards"
+  ],
+  "region": {
+    "slug": "south-coast",
+    "name": "Southern Golden Coast",
+    "icon": "fort",
+    "description": "Galle Fort Ramparts, Stilt Fishermen, Mirissa Azure Coves",
+    "places": "Galle Fort, Mirissa, Weligama, Tangalle",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "rain",
+      "rain",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak",
+      "peak"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001k0i7dx8sbqr9f",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC4YPMbOAFCu4BV--c1M2M5mk1azqMNTdDd-c7xBBiaVb0DdSykAiintfPbpmAUbUylhzLLt99kjtyyYmKW_DM8MBwImpswxJ4Q4EJGppQobQKWhMe-BnM4gN0yEKTGxWppcW3tjIu9puK6wvHuuoluG0QTYMhbYM3_VlO3_uCrBVyG8CzjkeP0BgSiva74tNz9nicif_uXPAPpergmlcgbwEXrg_QkvTA-HviImHzZu5URCM-DhX4",
+    "alt": "Galle Fort ramparts and lighthouse above cobalt surf at sunset",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.0267,
+  "longitude": 80.217,
+  "elevation": 5,
+  "headline": "Galle Fort: Dutch Ramparts, Spice Mansions & Bastion Sunsets",
+  "description": "Built by the Portuguese and fortified by the Dutch East India Company, Galle Fort is still a living town: families fly kites from the coral-stone bastions, church bells ring over quiet lanes and merchant mansions have become small galleries and courtyard cafés.\n\nI walk the ramparts with you at golden hour, open doors to hidden Dutch courtyards and stay in restored villas inside the walls so that the fort is yours again once the day visitors leave.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Nov – Apr",
+      "note": "Calm seas, clear sunsets and gentle trade winds"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 Nights",
+      "note": "One sunset on Flag Rock, one slow morning in the lanes"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Elevation & Temperatures",
+      "value": "Sea level • 26°C – 31°C",
+      "note": "Balmy sea breezes; the lanes are coolest before 10:00"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "2 hrs from Colombo",
+      "note": "Via the Southern Expressway, about 4 hrs from Ella"
+    }
+  ],
+  "guideNote": {
+    "heading": "Galle Fort Beyond the Lighthouse Photo",
+    "paragraphs": [
+      "Most visitors see the lighthouse, buy a sarong and leave. I prefer to start at the Old Gate with its VOC crest, follow the rampart walk clockwise as the sun drops, and finish with a sundowner on Flag Rock while local boys dive from the bastion."
+    ],
+    "perks": [
+      {
+        "icon": "history_edu",
+        "label": "Local Historian Walks"
+      },
+      {
+        "icon": "diamond",
+        "label": "Private Sapphire Viewing"
+      },
+      {
+        "icon": "fort",
+        "label": "Hidden Dutch Courtyards"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Golden Hour",
+      "meta": "Leisurely • 1.5 Hours • 17:00 Start",
+      "title": "Flag Rock Bastion Sunset Walk",
+      "text": "A slow loop of the coral-stone ramparts with a local historian, from the Old Gate past the clock tower and lighthouse to Flag Rock for the last light over the Indian Ocean.",
+      "tagIcon": "history_edu",
+      "tagLabel": "Local Historian Escort",
+      "image": {
+        "id": "cmuv1ndcm000h0i7d5paow3yp",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDVP9072uQYjHBgeXM4NtbHa9F1_PJEDq3sVSaIjIJEQWbmYvHTTUIUwP4pPVDgFPG--7wqVEWRjaD-otFzh73SdBH1SAd_Am7ONvKQt-OQryjXyF2fGTsFiBtmc-zrgUkeAV5j-52aNH_PAi-uvP2_ISDbNETfS8WPLBBv1x81Ok5b7y5LIrN1xvRF9eH6qeogZlDB9OAfdv31HUDzfSEJMVZgGYbeSI9oRnXxQa5OFfKANc46znI",
+        "alt": "Dinesh walking a couple along the coral-stone ramparts of Galle Fort at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Living Heritage",
+      "meta": "Gentle • 2 Hours • Morning",
+      "title": "Hidden Dutch Courtyards & Merchant Mansions",
+      "text": "Behind the shuttered façades of Church Street and Leyn Baan Street lie cool verandas, carved doorways and family courtyards I have known for years — opened for you by their owners.",
+      "tagIcon": "fort",
+      "tagLabel": "Private Courtyard Access",
+      "image": {
+        "id": "cmuv1ndcz00350i7dcif4uptj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdFNx0nOH0W3hOppOfqCAYTo-iQWEyMDdOT1IzttaJvSNrzF6Yz2ZWqsfOwvRHqUEqkgBO3n7HoRMpquZjVYTLSdkl4jo22OjLguvP47sjkxK6qX7TPlFMm1BZdRqIncEisd4IemZhWtKv558j1j2aLZZ09sMCdTWJZjJKZG7RGljEeTrAN69IpyeuA6FZwIWKSmaJ2J6kY9FEVWCL0kDj7q2BRZoKecgh_3WBROG8BCjt3Plv4Ns",
+        "alt": "Lantern-lit colonnades and cobbled street in Galle Fort at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Craft",
+      "meta": "Private • 1 Hour • By Appointment",
+      "title": "Ceylon Sapphire Atelier Viewing",
+      "text": "A calm, no-pressure viewing with a family of gem cutters who explain how a rough Ratnapura stone becomes a cornflower-blue sapphire. Looking is the point — buying is never expected.",
+      "tagIcon": "diamond",
+      "tagLabel": "No-Pressure Viewing",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "directions_walk",
+      "title": "Walk the Ramparts Clockwise",
+      "text": "Starting at the Old Gate in the late afternoon keeps the sun behind you and brings you to Flag Rock exactly at sunset."
+    },
+    {
+      "icon": "church",
+      "title": "Sunday Mornings",
+      "text": "The Dutch Reformed Church holds services on Sunday mornings; we visit before or after so as not to disturb the congregation."
+    },
+    {
+      "icon": "privacy_tip",
+      "title": "Gem Shop Touts",
+      "text": "Friendly strangers offering a “museum visit” usually lead to a sales room. I only take guests to ateliers I trust — and only if you ask."
+    }
+  ],
+  "interests": [
+    "Rampart Sunset Walk",
+    "Colonial Architecture",
+    "Sapphire Ateliers",
+    "Boutique Villas",
+    "Cinnamon Island Cruise"
+  ],
+  "mapPoints": [
+    {
+      "name": "Galle Lighthouse",
+      "lat": 6.024,
+      "lng": 80.2194
+    },
+    {
+      "name": "Flag Rock Bastion",
+      "lat": 6.0236,
+      "lng": 80.2161
+    },
+    {
+      "name": "Dutch Reformed Church",
+      "lat": 6.0283,
+      "lng": 80.2172
+    },
+    {
+      "name": "Clock Tower",
+      "lat": 6.0298,
+      "lng": 80.2163
+    },
+    {
+      "name": "Old Gate",
+      "lat": 6.0301,
+      "lng": 80.2189
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001v0i7dvc67ur5j",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBplwZj055ZWLUpF930jeJzESl8tCPdXkSiVxp85yW774qsX9T2fRb5ZL364RmXYpP8anUgBEL-BUyvZonlZVdMMMXQ0OfSDRIW0RRvIFLBeRNW3RscYO7x0VRtUQdblP7Q4CYfpkql1neWgX7IaMg1ouaCwzGy7_dPp5u79p7VH9uzacFkW6IrnWhpGKPszA7o6vLlWfjiPB0pzuz6a5WUl2GdWclHqeFqoZvuTZOiyBWFYiNIXCE",
+        "alt": "Galle Fort lighthouse and ramparts against crashing waves at sunset",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Lighthouse",
+      "caption": "Ramparts against the evening swell"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00350i7dcif4uptj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdFNx0nOH0W3hOppOfqCAYTo-iQWEyMDdOT1IzttaJvSNrzF6Yz2ZWqsfOwvRHqUEqkgBO3n7HoRMpquZjVYTLSdkl4jo22OjLguvP47sjkxK6qX7TPlFMm1BZdRqIncEisd4IemZhWtKv558j1j2aLZZ09sMCdTWJZjJKZG7RGljEeTrAN69IpyeuA6FZwIWKSmaJ2J6kY9FEVWCL0kDj7q2BRZoKecgh_3WBROG8BCjt3Plv4Ns",
+        "alt": "Lantern-lit colonnades and cobbled street in Galle Fort at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ramparts in Indigo",
+      "caption": "Church Street at twilight"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00110i7dpyjb5c3w",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC8-1c4Ad8kGAQXUVx6ooeI61vs99rzL4Jgy1T5Pyaq5SdwC3B1akvR71NY-9PrqQ8k10ry3wG6eFndnLftSfngMg659mmeiYZGVj2GJe3NizQwbkDvNsTWcBj_a7zO44Ms54OUcXtQU9sqqS0yGTK2yJArKsmsgA0u5XAWaiqpZggD69d4SQD43STPDWKQLzYjSdnFxjsomiQUyr9ZJnIKGOJpxIDnlFYo_sVSvHLT6sslyIyEtbM",
+        "alt": "Galle Fort ramparts and white lighthouse against the ocean at sunset",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Coral-Stone Bastions",
+      "caption": "Built to guard the spice trade"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndj0008d0i7d4b9av1hp",
+      "slug": "southern-beaches-whale-trails",
+      "title": "Pristine Southern Beaches & Whale Trails",
+      "summary": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and secluded coves near Tangalle.",
+      "cardTag": "Coastal Luxury",
+      "durationDays": 6,
+      "durationNights": 5,
+      "route": [
+        "Galle Fort",
+        "Weligama",
+        "Mirissa",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Stilt Fishermen Encounter",
+        "Cinnamon Island Boat Safari",
+        "Sunset Oceanfront Dining"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001a0i7daohzzy3u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+        "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndk9009g0i7dxtwfa133",
+      "slug": "sacred-ramayana-heritage-trail",
+      "title": "Sacred Ramayana Heritage Trail",
+      "summary": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and the caves and falls of Ravana Ella — with a private Vedic scholar.",
+      "cardTag": "Vedic Heritage",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Chilaw",
+        "Kandy",
+        "Nuwara Eliya",
+        "Ravana Ella",
+        "Rumassala"
+      ],
+      "highlights": [
+        "Munneswaram & Manavari Temples",
+        "Ashok Vatika Botanical Visit",
+        "Private Vedic Scholar Host"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001e0i7df7ew6mt6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+        "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde700540i7deus2t3mf",
+          "slug": "ramayana-trail",
+          "name": "Sacred Ramayana Heritage",
+          "shortName": "Ramayana Trail"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "couple",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Galle Fort: 17th-Century Dutch Ramparts, Bastions & Spice Mansions",
+    "description": "Living UNESCO fortress where colonial Dutch architecture merges with bespoke gemstone ateliers, private villas, and bastion sunset vistas.",
+    "image": {
+      "id": "cmuv1ndcz001k0i7dx8sbqr9f",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC4YPMbOAFCu4BV--c1M2M5mk1azqMNTdDd-c7xBBiaVb0DdSykAiintfPbpmAUbUylhzLLt99kjtyyYmKW_DM8MBwImpswxJ4Q4EJGppQobQKWhMe-BnM4gN0yEKTGxWppcW3tjIu9puK6wvHuuoluG0QTYMhbYM3_VlO3_uCrBVyG8CzjkeP0BgSiva74tNz9nicif_uXPAPpergmlcgbwEXrg_QkvTA-HviImHzZu5URCM-DhX4",
+      "alt": "Galle Fort ramparts and lighthouse above cobalt surf at sunset",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.933Z"
+}

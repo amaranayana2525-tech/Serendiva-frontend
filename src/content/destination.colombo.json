@@ -1,0 +1,347 @@
+{
+  "id": "cmuv1ndh0006g0i7d7ifhbhx0",
+  "slug": "colombo",
+  "name": "Colombo",
+  "tagline": "Colonial Cinnamon Mansions, Geoffrey Bawa Architecture & Coastal Sunsets",
+  "summary": "Sri Lanka’s lively maritime capital, where Dutch-era warehouses, cinnamon-garden mansions and Geoffrey Bawa’s tropical modernism meet street-food theatre on the Galle Face promenade.",
+  "metaLabel": "Western Province · Capital",
+  "badge": null,
+  "bestTimeLabel": "Dec – Apr",
+  "curations": [
+    "Private viewing of Geoffrey Bawa’s Number 11 townhouse",
+    "Pettah market walk with a spice merchant",
+    "Kottu theatre and sunset kites on Galle Face Green"
+  ],
+  "region": {
+    "slug": "colombo-west",
+    "name": "Colombo & Maritime West",
+    "icon": "apartment",
+    "description": "Colonial Cinnamon Mansions, Geoffrey Bawa Architecture & Coastal Sunsets",
+    "places": "Colombo, Negombo, Bentota",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "rain",
+      "rain",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak",
+      "peak"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz00460i7dw7xpbbvh",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAltyvP6uFGwj8omI9oDy5ESISTHwRxuYUDNolC4p3S6O3tXHkI9-gCoTJAojXiC0CR3893tlPWpQ46vnWZo0gx72uTqaNcAzhYq-DuoA6XiR-_mJcw9xn8y7nC74iiT6kbfdU0APHuBmRjmKKz1MxecK0NFdaR17BVfLCCXN75pJPkiLnc8mCxlAShCM97nvYbao8MAYc5e4yOhw_379tEnx8BD2gQ2awsVoD141oTGndC--3tmY8",
+    "alt": "Oceanfront gala dinner with white linen tables at a Colombo heritage hotel",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.9271,
+  "longitude": 79.8612,
+  "elevation": 5,
+  "headline": "Colombo: Colonial Mansions, Bawa Modernism & Galle Face Sunsets",
+  "description": "Colombo is easy to skip and a pity to miss. In a single day you can walk the spice stalls of Pettah, visit a Buddhist temple filled with curiosities, step inside Geoffrey Bawa’s own townhouse and end with kites, kottu and a sunset on Galle Face Green.\n\nI usually plan one unhurried night here at the beginning or end of a journey — close to the airport, and a gentle introduction to the island.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Dec – Apr",
+      "note": "A year-round city stop; short showers May – Sep"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "1 Night",
+      "note": "Ideal for arrival or departure days"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Temperatures",
+      "value": "Sea level • 26°C – 31°C",
+      "note": "Humid — walks are best in the morning and evening"
+    },
+    {
+      "icon": "flight",
+      "label": "Airport Transfer",
+      "value": "45 mins to BIA",
+      "note": "Via the Katunayake Expressway"
+    }
+  ],
+  "guideNote": {
+    "heading": "A Capital Worth a Night",
+    "paragraphs": [
+      "After a long flight, a night in Colombo lets you rest before the road. And on the way home it is the perfect place for last-minute handloom textiles, tea and spices — with a farewell dinner by the sea."
+    ],
+    "perks": [
+      {
+        "icon": "architecture",
+        "label": "Bawa Architecture Access"
+      },
+      {
+        "icon": "restaurant",
+        "label": "Vetted Street Food"
+      },
+      {
+        "icon": "flight_takeoff",
+        "label": "Close to the Airport"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Architecture",
+      "meta": "Easy • 2 Hours • By Appointment",
+      "title": "Geoffrey Bawa’s Number 11",
+      "text": "The architect’s own house, assembled from four bungalows down a narrow lane: courtyards, borrowed views and his collection of art and antiques, kept as he left it.",
+      "tagIcon": "architecture",
+      "tagLabel": "Private Viewing",
+      "image": {
+        "id": "cmuv1ndcz003x0i7d2k0dmfuj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA6bcg08OYA3AiQa9WZRFCYXC3Xsbys6fmDwoVaFu_OOUpJDDbn9oiovlhiYGrQacs3WSPzoavMFnY1ti5rT-ejCnBC1WQqCcRg0-5zRun5pYCKRvDOTco9gOpfD-lm8740L4tLQLgPycApUXK25vzgjRC6fovBXNOsuIg0DR9QEtVa69oOHugjK_uldQi10CSVyjGSZ7a2FsMtYVt5hqFJZW1rODrZ5MCM3LUVVekrer-5N-8pJMQ",
+        "alt": "Minimalist villa courtyard with a reflecting pool and palm fronds",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Street Food",
+      "meta": "Easy • 2 Hours • After Dark",
+      "title": "Colombo After Dark: Kottu, Crab & Galle Face Kites",
+      "text": "The rhythmic clang of kottu blades, a famous crab curry and isso vadai by the sea — at stalls I trust, with the evening breeze and kites over the promenade.",
+      "tagIcon": "restaurant",
+      "tagLabel": "Hygiene-Vetted Stalls",
+      "image": {
+        "id": "cmuv1ndcz002p0i7dz237iubn",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBXgEHFEnQqHo67C7P2Rj0Im20Zlo52kKwddjjPqftF36GobU2-oEEQ9GCMJ79rwDCBHlslAKqm49cUxqA1ivJjN9gnYcQkdGKzWeoTpogY8ywfnUsO4FUegvBOczi3MML2pv3fL21QKOsKfYo0igCyQinKVqEH3zmrAxBfCS6pxh0y_aLdpRjK03wbqrblvN9SBHp12ow-lkBcSNxVV-HVF92JJqYZT_66bT5SAwiWNNaM62PFcnI",
+        "alt": "Clay pot of Sri Lankan crab curry with coconut sambol on banana leaf",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "commute",
+      "title": "Traffic Timing",
+      "text": "Weekday rush hours are slow. I schedule airport runs and city visits around them so you are never stuck in a jam."
+    },
+    {
+      "icon": "dark_mode",
+      "title": "Poya Days",
+      "text": "On each full-moon (Poya) day alcohol is not sold and some shops close — temples, though, are at their most beautiful."
+    },
+    {
+      "icon": "handshake",
+      "title": "Handloom & Tea",
+      "text": "For gifts I recommend fair-trade handloom studios and specialist tea merchants rather than airport shops."
+    }
+  ],
+  "interests": [
+    "Bawa Architecture",
+    "Street Food",
+    "Colonial Heritage",
+    "Handloom & Tea Shopping"
+  ],
+  "mapPoints": [
+    {
+      "name": "Galle Face Green",
+      "lat": 6.9246,
+      "lng": 79.8455
+    },
+    {
+      "name": "Gangaramaya Temple",
+      "lat": 6.9166,
+      "lng": 79.8564
+    },
+    {
+      "name": "Number 11 (Geoffrey Bawa House)",
+      "lat": 6.8968,
+      "lng": 79.8535
+    },
+    {
+      "name": "Pettah Market",
+      "lat": 6.9366,
+      "lng": 79.85
+    },
+    {
+      "name": "Parliament of Sri Lanka",
+      "lat": 6.8868,
+      "lng": 79.9187
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz003x0i7d2k0dmfuj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA6bcg08OYA3AiQa9WZRFCYXC3Xsbys6fmDwoVaFu_OOUpJDDbn9oiovlhiYGrQacs3WSPzoavMFnY1ti5rT-ejCnBC1WQqCcRg0-5zRun5pYCKRvDOTco9gOpfD-lm8740L4tLQLgPycApUXK25vzgjRC6fovBXNOsuIg0DR9QEtVa69oOHugjK_uldQi10CSVyjGSZ7a2FsMtYVt5hqFJZW1rODrZ5MCM3LUVVekrer-5N-8pJMQ",
+        "alt": "Minimalist villa courtyard with a reflecting pool and palm fronds",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Tropical Modernism",
+      "caption": "Courtyards in the Bawa tradition"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz003d0i7dgg6zad6d",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCoMk4Eo5dnVx9TkN0ZIP4-feQv3NpDwZEk05hXOuWRlMvyS2eUKkzH14b1CzBt8yyU7y4Y2xt6aOV88vNnNC4KJcyphH5aIpORuc3RMLxoTXxrOKO22MmncCZtk2igmDZ2RU9_PWD_34499rFKd8qo4NfspwDeoeRm9UpFp9B3Jzn7E-xpWeGF5wwYsdVYWSjXi24NzR9cHSG6HpT-PqXZwV3Kq5fG7x4QUYb-tQWQHFZxq3vrJ6k",
+        "alt": "Tropical modernist villa with an infinity pool nestled into jungle foliage",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Borrowed Landscapes",
+      "caption": "Architecture open to the garden"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz002p0i7dz237iubn",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBXgEHFEnQqHo67C7P2Rj0Im20Zlo52kKwddjjPqftF36GobU2-oEEQ9GCMJ79rwDCBHlslAKqm49cUxqA1ivJjN9gnYcQkdGKzWeoTpogY8ywfnUsO4FUegvBOczi3MML2pv3fL21QKOsKfYo0igCyQinKVqEH3zmrAxBfCS6pxh0y_aLdpRjK03wbqrblvN9SBHp12ow-lkBcSNxVV-HVF92JJqYZT_66bT5SAwiWNNaM62PFcnI",
+        "alt": "Clay pot of Sri Lankan crab curry with coconut sambol on banana leaf",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Colombo Crab",
+      "caption": "A capital of flavours"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Colombo: Colonial Cinnamon Mansions, Geoffrey Bawa Architecture & Coastal Sunsets",
+    "description": "Sri Lanka’s lively maritime capital, where Dutch-era warehouses, cinnamon-garden mansions and Geoffrey Bawa’s tropical modernism meet street-food theatre on the",
+    "image": {
+      "id": "cmuv1ndcz00460i7dw7xpbbvh",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAltyvP6uFGwj8omI9oDy5ESISTHwRxuYUDNolC4p3S6O3tXHkI9-gCoTJAojXiC0CR3893tlPWpQ46vnWZo0gx72uTqaNcAzhYq-DuoA6XiR-_mJcw9xn8y7nC74iiT6kbfdU0APHuBmRjmKKz1MxecK0NFdaR17BVfLCCXN75pJPkiLnc8mCxlAShCM97nvYbao8MAYc5e4yOhw_379tEnx8BD2gQ2awsVoD141oTGndC--3tmY8",
+      "alt": "Oceanfront gala dinner with white linen tables at a Colombo heritage hotel",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.940Z"
+}

@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "斯里兰卡企业高层静修与商务奖励旅游",
+    "description": "面向跨国董事会议、企业奖励旅游、外交代表团与名校考察团的斯里兰卡全案定制服务，由国家持证导游讲师亲自总控统筹。"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "current": "企业与团队定制"
+  },
+  "hero": {
+    "pill": "高管后勤统筹与精品静修",
+    "title": "斯里兰卡企业高管静修、外宾接待与奖励旅游",
+    "intro": "提供整栋茶园庄园包场、贵宾停机坪礼宾接机与全程密闭协调，兼具细致严谨与锡兰温度。",
+    "ctaProposal": "申请高管定制提案",
+    "ctaDeck": "索取企业介绍手册（PDF）",
+    "stats": {
+      "delegations": {
+        "value": "85+",
+        "label": "国际企业与团队接待案例"
+      },
+      "punctuality": {
+        "value": "100%",
+        "label": "现场准点交付记录"
+      },
+      "clients": {
+        "value": "Top Tier",
+        "label": "使领馆与跨国名企信赖"
+      }
+    },
+    "statsLabel": "企业服务履历",
+    "card": {
+      "status": "标准礼宾协议就绪",
+      "title": "Dunkeld 茶园庄园包场",
+      "body": "搭乘水上飞机直降 Castlereagh 湖区抵达茶山庄园，可按需实行严格保密通讯安排。"
+    }
+  },
+  "clients": {
+    "eyebrow": "值得信赖的落地协调",
+    "title": "保密客户与外交代表团",
+    "listLabel": "部分企业及机构客户"
+  },
+  "services": {
+    "eyebrow": "专业服务模块",
+    "title": "为高标准机构量身打造",
+    "intro": "无论是董事闭门会议、国际绩优员工奖励还是外交访问团，每一程皆以严密安全、冗余运力与五星后勤为基石。",
+    "items": {
+      "board": {
+        "badge": "董事会级隐私",
+        "title": "高管战略闭门会与庄园包栋",
+        "body": "完整包场名家建筑庄园，配置高速卫星网络、私厨定制晚宴及全员保密协议支持。",
+        "footer": "签署 NDA 保密团队"
+      },
+      "incentive": {
+        "badge": "精英奖励旅游",
+        "title": "高规格奖励探索之旅",
+        "body": "包机水上飞机降落内陆湖泊、高地百年包厢火车以及加勒古城海防城堡晚宴。",
+        "footer": "包机与传承体验"
+      },
+      "cohesion": {
+        "badge": "团队凝聚力",
+        "title": "领导力协作与自然探索",
+        "body": "专业领队带队穿越云雾山脊、热带雨林生态保育种植及南岸帆船挑战赛。",
+        "footer": "定制户外协作"
+      },
+      "diplomatic": {
+        "badge": "外宾礼宾规范",
+        "title": "外交与要客专程接待",
+        "body": "甄选豪华车队、机场 VIP 优先通道通关，及熟稔外事礼宾的双语随行协调人员。",
+        "footer": "VVIP 停机坪礼宾"
+      },
+      "academic": {
+        "badge": "学术深度考察",
+        "title": "国际名校与研究考察团",
+        "body": "协调文物古迹特许参观、邀请本土资深学者专场讲座并配置研究后勤保障。",
+        "footer": "特许科研参访"
+      },
+      "summit": {
+        "badge": "峰会与论坛",
+        "title": "国际峰会会前及会后拓展",
+        "body": "家属陪同专程文化路线、私人沙龙之夜及科伦坡至南部海岸的无缝专车接驳。",
+        "footer": "全程端到端统筹"
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "服务流程",
+    "title": "企业项目落地执行四步曲",
+    "intro": "严谨执行与地道待客交融，从首次需求沟通到送机道别始终由我亲自单一总控。",
+    "steps": {
+      "discovery": {
+        "title": "保密需求沟通",
+        "body": "梳理嘉宾职级、安保与隐私边界、饮食禁忌、音视频设施及健康照护重点。",
+        "phase": "阶段：首 48 小时"
+      },
+      "blueprint": {
+        "title": "多方案清晰报价",
+        "body": "呈交结构清晰的分项提案、包场条款以及备用交通应急预案。",
+        "phase": "阶段：方案迭代"
+      },
+      "inspection": {
+        "title": "踩点联调与对接",
+        "body": "陪同贵司会务主管实地考察场地、安排试菜与全部一线服务人员简报。",
+        "phase": "阶段：行前筹备"
+      },
+      "execution": {
+        "title": "现场零差错交付",
+        "body": "行李优先送房、定制迎宾手册、车辆实时定位与全天候现场指挥协同。",
+        "phase": "阶段：全程执行"
+      }
+    }
+  },
+  "governance": {
+    "eyebrow": "合规与风控",
+    "title": "跨国机构信赖我们的五大基石",
+    "intro": "企业接待容不得第二次重来——我们的体系严格对照跨国采购审计、安全规程与高额商业责任险要求。",
+    "insuredTitle": "完备保险与合规审计",
+    "insuredBody": "所有行程与车队均覆盖高额公众责任险，保障每位嘉宾全程无忧。",
+    "pillars": {
+      "fleet": {
+        "title": "直属车队与专职礼宾司机",
+        "body": "奔驰、丰田埃尔法 VIP 及高端大巴车队；司机全员经过防御性驾驶、急救及礼宾训练。"
+      },
+      "licensing": {
+        "title": "SLTDA 官方合法资质",
+        "body": "斯里兰卡旅游发展局注册入境运营商（执照 #{licence}），全程依法合规运作。"
+      },
+      "transparency": {
+        "title": "分项透明提案",
+        "body": "面向采购及财务团队提供明细清晰的无隐藏费用提案；本网站不涉及线上资金交易。"
+      },
+      "discretion": {
+        "title": "严格保密与隐私纪律",
+        "body": "接收嘉宾名单前即可签署保密协议，严禁工作人员拍摄或外传嘉宾影像。"
+      },
+      "contact": {
+        "title": "单一总控人：我本人 {name}",
+        "body": "无层层转包与客服中心，任何突发微调均由本人直接调动资源即时决策。"
+      }
+    },
+    "nameFallback": "Dinesh",
+    "licenceFallback": "按需提供"
+  },
+  "blueprints": {
+    "eyebrow": "标杆蓝本",
+    "title": "精选企业定制路线示例",
+    "intro": "每一模块均可在天数、酒店配置与会议设施上全面重塑。",
+    "idealFor": "适用团队：{group}",
+    "items": {
+      "hill": {
+        "group": "8–16 位高管",
+        "title": "高山茶园战略闭门静修",
+        "body": "包栋入住 Relais & Châteaux 百年茶山庄园，上午俯瞰云海开展高层讨论，午后茶艺品鉴。",
+        "points": {
+          "one": "配备高稳定性双冗余卫星会议网络",
+          "two": "可安排直升机直飞庄园草坪接驳",
+          "three": "驻店植物学家陪同漫步茶园古径"
+        },
+        "cta": "索取静修方案概要"
+      },
+      "coastal": {
+        "group": "15–35 位激励成员",
+        "title": "野奢猎游与南岸帆船奖励之旅",
+        "body": "结合雅拉野奢营地追踪花豹、私人双体帆船出海与加勒古城城堡主题晚宴。",
+        "points": {
+          "one": "专属改装猎游吉普与资深生态向导",
+          "two": "南部海岸 VIP 私人双体帆船体验",
+          "three": "加勒古城私密现场爵士欢迎晚宴"
+        },
+        "cta": "索取奖励旅游方案"
+      },
+      "cultural": {
+        "group": "20–50 位代表团成员",
+        "title": "人文礼宾环岛巡礼",
+        "body": "适合外事代表、学术院系及行业领袖：包含狮子岩错峰早场入园与康提特别文化礼遇。",
+        "points": {
+          "one": "破晓前静谧优先入园登临狮子岩",
+          "two": "佛牙寺特别内殿观礼安排",
+          "three": "复古海滨殖民风情招待酒会"
+        },
+        "cta": "索取代表团专案书"
+      }
+    }
+  },
+  "testimonial": {
+    "badge": "已核实企业客户反馈",
+    "quote": "“Serendiva 近乎完美地统筹了我们 34 人的国际高管静修会——从机场 VIP 快速通道到包厢观光火车，Dinesh 在锡兰腹地展现了瑞士水准的执行精准度。”",
+    "author": "Dr. Henrik von Bergmann",
+    "role": "董事总经理 · 欧洲科技领导力论坛（法兰克福与苏黎世）"
+  },
+  "rfp": {
+    "eyebrow": "提交项目简报",
+    "title": "企业定制需求（RFP）提交",
+    "intro": "提交贵团队的初步出行设想，我将在 12 个工作小时内发回清晰的初步方案、车辆编配与精选住宿建议。",
+    "desk": {
+      "title": "企业专属直通席",
+      "subtitle": "{name} · 本人亲理",
+      "subtitleFallback": "本人亲理",
+      "whatsapp": "高管项目专线 WhatsApp：{number}",
+      "note": "紧迫抵达协调与包机地面调度支持全天候联系。"
+    },
+    "form": {
+      "label": "Corporate proposal request",
+      "company": "公司 / 机构名称",
+      "companyPlaceholder": "例如：远景国际集团 / 驻华机构",
+      "contactPerson": "联系人及职务",
+      "contactPersonPlaceholder": "例如：林女士，全球活动总监",
+      "email": "企业邮箱",
+      "emailPlaceholder": "name@company.com",
+      "phone": "直拨电话 / 手机号码",
+      "phonePlaceholder": "+86 138 0013 8000",
+      "groupSize": "预计人数规模",
+      "groupSizes": {
+        "board": "6–12 位董事会 / 高管核心层",
+        "group": "15–30 位企业精品团",
+        "delegation": "30–60 位奖励旅游 / 代表团",
+        "summit": "60+ 位大型峰会 / 年会"
+      },
+      "dates": "预计出行月份及年份",
+      "datesPlaceholder": "例如：{year} 年 11 月（6 天）",
+      "eventType": "核心活动类型",
+      "eventTypes": {
+        "retreat": "高管董事会静修",
+        "incentive": "高规格奖励旅游",
+        "diplomatic": "外交 / 贵宾代表团",
+        "conference": "国际峰会会前/会后行程",
+        "academic": "高校 / 学术机构考察"
+      },
+      "logistics": "专项后勤与安全保障需求",
+      "logisticsItems": {
+        "seaplane": "水上飞机包机",
+        "train": "专列 / 火车包厢",
+        "fastTrack": "科伦坡机场 VIP 礼宾通道",
+        "av": "定制会议音视频 / 舞台搭设"
+      },
+      "message": "简要行程设想或范围说明",
+      "messagePlaceholder": "可补充私密晚宴偏好、保密安保需求、心仪区域或无障碍特殊关照...",
+      "upload": "上传需求文档（RFP）",
+      "uploadDrop": "PDF/DOCX 最大 5 MB · 或拖拽文件至此",
+      "uploadDropActive": "松开以添加 PDF/DOCX 文件",
+      "submit": "申请企业定制提案",
+      "submitting": "正在提交提案需求…",
+      "fileSelected": "已选文件"
+    },
+    "success": {
+      "title": "感谢您，贵司的需求简报已送达。",
+      "body": "我将在 12 小时内发回初步档期核对与详细方案草案。",
+      "referenceLabel": "您的企业项目编号",
+      "again": "提交另一份项目需求"
+    }
+  },
+  "faq": {
+    "eyebrow": "合规与流程细节",
+    "title": "企业定制常见问题"
+  },
+  "finalCta": {
+    "title": "准备为您的核心团队打造难忘锡兰行程？",
+    "body": "欢迎直接与我沟通保密场地包场与航班包机衔接事宜。",
+    "rfp": "填写企业需求",
+    "whatsapp": "WhatsApp 礼宾联络"
+  }
+}

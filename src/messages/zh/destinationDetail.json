@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "{name}，斯里兰卡 · 私人向导指南"
+  },
+  "hero": {
+    "elevation": "{region} • 海拔 {elevation} 米",
+    "galleryLabel": "{name} 摄影精选",
+    "openImage": "在图片浏览器中查看「{title}」",
+    "viewGallery": "查看{count, plural, one { # 张照片} other {全部 # 张照片}}"
+  },
+  "facts": {
+    "label": "{name} 速览信息"
+  },
+  "guide": {
+    "years": "{years} 年锡兰山海带队经验",
+    "quote": "“{text}”",
+    "perksLabel": "私人向导为您带来的体验"
+  },
+  "experiences": {
+    "eyebrow": "手工打磨体验",
+    "title": "{name} 招牌私人体验",
+    "intro": "每项体验都围绕自然光线、舒适气温与清静时段精心安排。",
+    "curated": "Serendiva 严选",
+    "inquire": "咨询「{title}」"
+  },
+  "cuisine": {
+    "eyebrow": "锡兰地方风味饮食"
+  },
+  "stays": {
+    "eyebrow": "甄选下榻居所",
+    "title": "Serendiva 客人在 {name} 的精选住宿",
+    "intro": "谢绝千篇一律的大众酒店，每处推荐居所都兼具建筑美感、清幽隐私与地道待客之道。"
+  },
+  "fieldNotes": {
+    "title": "向导手记：{name} 细节洞察",
+    "quote": "“{text}”"
+  },
+  "map": {
+    "eyebrow": "区域地理",
+    "title": "{name} 及周边地图",
+    "zone": "SLTDA 认证探索区",
+    "label": "{name} 与周边地标地图",
+    "legendLabel": "附近地标 — 点击在地图中显示",
+    "focus": "在地图上定位 {name}",
+    "centre": "{name}（中心位置）",
+    "zoomIn": "放大",
+    "zoomOut": "缩小",
+    "attribution": "© OpenStreetMap 贡献者",
+    "titleCompound": "{name} 及周边风物地图"
+  },
+  "faq": {
+    "eyebrow": "行前参考",
+    "title": "{name}：客人常问的问题"
+  },
+  "inquiry": {
+    "eyebrow": "贴合您的节奏",
+    "title": "将 {name} 纳入我的旅程",
+    "intro": "由国家持证司机兼向导 {guide} 亲自接待，拒绝拼团与刻板时间表。",
+    "formLabel": "将 {name} 纳入行程 — 咨询表单",
+    "labels": {
+      "name": "您的姓名",
+      "email": "电子邮箱",
+      "whatsapp": "WhatsApp / 联系电话",
+      "month": "计划出行月份",
+      "stay": "在 {name} 停留",
+      "interests": "希望在 {name} 体验"
+    },
+    "placeholders": {
+      "name": "姓名",
+      "email": "name@domain.com",
+      "whatsapp": "+86 138 0013 8000"
+    },
+    "monthPlaceholder": "选择月份",
+    "flexible": "时间灵活 / 暂不确定",
+    "stay": {
+      "one": "1 晚（精华停留）",
+      "two": "2 晚（从容合适）",
+      "three": "3 晚及以上（深度慢游）"
+    },
+    "stayValue": "{name} 停留 {stay}",
+    "submit": "发送定制咨询",
+    "whatsapp": "直接与 Dinesh 沟通",
+    "successTitle": "感谢您 — {name} 已加入您的专属方案清单。",
+    "successBody": "我会在 12 小时内通过 WhatsApp 或邮件联系您，为您构思专属路线。",
+    "sendAnother": "再发送一份咨询",
+    "trustLabel": "为何选择与我规划",
+    "trust": {
+      "chauffeur": "100% 专属司机与舒适混动豪华越野车",
+      "tickets": "门票许可、观景火车座位及公园手续预先安排",
+      "licensed": "SLTDA 持证向导 #{license}",
+      "licensedNoNumber": "SLTDA 官方持证国家向导",
+      "noObligation": "零义务免费制定私人路线草案"
+    },
+    "introNoGuide": "由国家持证司机兼向导亲自统筹，无任何固定大团限制。",
+    "messagePlaceholder": "如有纪念日、饮食要求或老人儿童特殊需求，欢迎补充…"
+  },
+  "journeys": {
+    "eyebrow": "经典锡兰线路",
+    "title": "途经 {name} 的精选路线",
+    "intro": "这些路线将 {name} 与文化古都、高山茶园或南方海岸巧妙衔接。",
+    "footer": "私人专车与向导全程陪同",
+    "explore": "探索此路线",
+    "exploreLabel": "探索路线：{title}",
+    "emptyTitle": "目前暂无已公布的固定路线经过 {name}",
+    "emptyBody": "我的每一段行程都支持从零设计 — 告诉我您的出行日期，我为您专门串联 {name}。",
+    "emptyCta": "围绕 {name} 定制旅程"
+  },
+  "connections": {
+    "eyebrow": "轻松转场衔接",
+    "title": "从 {name} 前往其他目的地",
+    "intro": "私家空调专车让您从高山茶雾轻松切换至丛林营地或蔚蓝海湾。",
+    "distance": "直线约 {km} 公里",
+    "direction": {
+      "N": "往北",
+      "NE": "往东北",
+      "E": "往东",
+      "SE": "往东南",
+      "S": "往南",
+      "SW": "往西南",
+      "W": "往西",
+      "NW": "往西北"
+    }
+  }
+}

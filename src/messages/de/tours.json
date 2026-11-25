@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Private Sri-Lanka-Rundreisen · Kuratierte Routen",
+    "description": "Handverlesene private Rundreisen durch Sri Lanka — Kulturstädte, Leoparden-Safaris, Teehochland und Traumstrände, geführt von Ihrem lizenzierten National Guide."
+  },
+  "breadcrumb": "Rundreisen",
+  "hero": {
+    "eyebrow": "Authentische Ceylon-Routen",
+    "title": "Reisen ganz nach Ihren Wünschen",
+    "intro": "Maßgeschneiderte Privatreisen durch Sri Lanka, exakt abgestimmt auf Ihr Tempo und Ihre Interessen."
+  },
+  "stats": {
+    "label": "Warum privat mit mir reisen",
+    "private": {
+      "title": "100 % Privatreisen",
+      "text": "Eigenes Fahrzeug, flexible Pausen, keine fremden Gäste."
+    },
+    "guide": {
+      "title": "Guide & Fahrzeug inklusive",
+      "text": "SLTDA-lizenzierter National Guide & Komfortfahrzeug."
+    },
+    "pacing": {
+      "title": "Flexibles Tagestempo",
+      "text": "Morgens länger am Tempel verweilen, mittags in Ruhe pausieren."
+    }
+  },
+  "filters": {
+    "label": "Reisen filtern",
+    "searchLabel": "Reisen suchen",
+    "searchPlaceholder": "Nach Ort, Interesse oder Tempel suchen...",
+    "clearSearch": "Suche löschen",
+    "durationLabel": "Dauer:",
+    "durationAll": "Alle Längen",
+    "durations": {
+      "1-3": "1–3 Tage",
+      "4-7": "4–7 Tage",
+      "8-11": "8–11 Tage",
+      "12+": "12+ Tage"
+    },
+    "categoriesLabel": "Reisekategorien",
+    "allTours": "Alle Reisen",
+    "count": "{count, plural, =0 {Keine passende Privatreise gefunden} one {# kuratierte Privatreise} other {# kuratierte Privatreisen}}"
+  },
+  "results": {
+    "title": "Kuratierte Privatreisen",
+    "emptyTitle": "Keine Reise passt zu diesen Filtern.",
+    "emptyBody": "Wählen Sie eine andere Dauer oder Kategorie — oder schreiben Sie mir Ihre Wünsche für eine maßgeschneiderte Route.",
+    "reset": "Filter zurücksetzen",
+    "custom": "Eigene Route entwerfen"
+  },
+  "custom": {
+    "eyebrow": "Individueller Routenbau",
+    "title": "Nicht die passende Route dabei? Jede Reise wird individuell angepasst.",
+    "text": "Teilen Sie mir Ihr Wunschtempo, Ihre Reisedaten und Traumziele mit. Innerhalb von 24 Stunden entwerfe ich Ihre persönliche Route inklusive Hotelvorschlägen.",
+    "build": "Meine Wunschreise planen",
+    "whatsapp": "Mit Dinesh per WhatsApp chatten"
+  },
+  "faq": {
+    "eyebrow": "Hinweise & Sicherheit",
+    "title": "Häufig gestellte Fragen",
+    "intro": "Alles Wichtige über meine privat geführten Chauffeur-Reisen durch Sri Lanka."
+  },
+  "cta": {
+    "eyebrow": "Akkreditierter Gastgeber & Guide",
+    "title": "Ihre Ceylon-Reise in besten Händen.",
+    "text": "Sprechen Sie direkt mit mir für persönliche Empfehlungen, Boutique-Villen und individuelle Planung.",
+    "plan": "Reise planen",
+    "whatsapp": "Per WhatsApp schreiben"
+  }
+}

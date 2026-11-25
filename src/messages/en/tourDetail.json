@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "titleFallback": "{title} · Private Sri Lanka Tour"
+  },
+  "breadcrumb": {
+    "tours": "Tours"
+  },
+  "header": {
+    "kicker": "Signature Expedition",
+    "badgesLabel": "Tour highlights",
+    "duration": "Expedition Duration"
+  },
+  "gallery": {
+    "label": "Photo gallery",
+    "viewAll": "View All {count, plural, one {# Expedition Photo} other {# Expedition Photos}}",
+    "open": "Open photo {number} of {total}: {title}"
+  },
+  "blueprint": {
+    "title": "Route Blueprint",
+    "label": "Route in order"
+  },
+  "subnav": {
+    "label": "Sections of this tour",
+    "overview": "Overview",
+    "itinerary": "Day-by-Day Itinerary",
+    "inclusions": "Inclusions",
+    "route": "Route & Terrain",
+    "faq": "Essential FAQ",
+    "reviews": "Guest Reviews"
+  },
+  "overview": {
+    "kicker": "The Expedition Philosophy",
+    "curatedBy": "Curated by {name}",
+    "guideMeta": "{title} · {years} Years Ceylon Heritage Specialist",
+    "featuresLabel": "Key features",
+    "quote": "“{text}”"
+  },
+  "itinerary": {
+    "eyebrow": "Chronological Blueprint",
+    "title": "Day-by-Day Expedition Itinerary",
+    "expandAll": "Expand All {count} Days",
+    "collapseAll": "Collapse All Days",
+    "day": "Day {number}",
+    "highlight": "Highlight Day",
+    "meals": "Meals: {meals}",
+    "detailLabel": "{label}:"
+  },
+  "inclusions": {
+    "eyebrow": "Complete Transparency",
+    "title": "Expedition Provisions & Inclusions",
+    "included": "Seamlessly Included",
+    "notIncluded": "Not Included"
+  },
+  "route": {
+    "eyebrow": "Geographic Traverse",
+    "title": "Route Profile & Elevation Dynamics",
+    "totalCircuit": "Total Circuit",
+    "mapLabel": "Route map of {tour}",
+    "mapHint": "Interactive map — the numbered pins follow the itinerary in order.",
+    "stopsTitle": "Route stops in order",
+    "stopDay": "Day {day}",
+    "stopNumber": "Stop {number}",
+    "loading": "Loading the route map…",
+    "showStops": "Show all {count} stops",
+    "hideStops": "Hide the stop list"
+  },
+  "faq": {
+    "eyebrow": "Bespoke Guidance",
+    "title": "Frequently Asked Questions"
+  },
+  "reviews": {
+    "eyebrow": "Verified Testimonials",
+    "title": "Guest Reflections on This Itinerary",
+    "count": "({count, plural, one {# verified private traveler} other {# verified private travelers}})",
+    "average": "Average rating {rating} out of 5"
+  },
+  "related": {
+    "eyebrow": "Alternative Curations",
+    "title": "You May Also Consider",
+    "exploreAll": "Explore All Blueprints",
+    "exploreAllCount": "Explore All {count} Blueprints"
+  },
+  "inquiry": {
+    "selectedJourney": "Selected journey",
+    "monthPlaceholder": "Select a month",
+    "flexible": "I am flexible",
+    "flexibleWindow": "Flexible dates",
+    "guests": {
+      "couple": "2 Adults",
+      "solo": "1 Solo Traveler",
+      "family": "3 – 4 Family",
+      "group": "5+ Private Group"
+    },
+    "successTitle": "Thank you — your inquiry about {tour} has reached me.",
+    "availabilityTitle": "My Availability"
+  }
+}

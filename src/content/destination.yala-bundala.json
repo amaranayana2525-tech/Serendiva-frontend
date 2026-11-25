@@ -1,0 +1,376 @@
+{
+  "id": "cmuv1ndg6005q0i7dwehzp9yf",
+  "slug": "yala-bundala",
+  "name": "Yala & Bundala",
+  "tagline": "Untamed Scrublands, Leopard Dens & Lagoon Aviaries",
+  "summary": "Home to the highest leopard density on earth, wild Asian elephant herds, and Bundala’s UNESCO biosphere where thousands of migratory flamingos gather.",
+  "metaLabel": "Deep Wilderness & Safari",
+  "badge": "Leopard Sanctuary",
+  "bestTimeLabel": "Feb – Jun (Peak Sightings)",
+  "curations": [
+    "Dedicated modified custom 4x4 with senior wildlife tracker",
+    "Quiet remote Block 5 and Lunugamvehera elephant corridor access",
+    "Bundala salt pan migratory bird expedition with telephoto optics"
+  ],
+  "region": {
+    "slug": "wilderness-parks",
+    "name": "Deep Wilderness & Safaris",
+    "icon": "pets",
+    "description": "Yala Leopard Dens, Bundala Lagoons & Wilpattu Villus",
+    "places": "Yala, Wilpattu, Udawalawe, Minneriya",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001l0i7dnetksl4t",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBH2ia2OTI1v_Fz_eGU1iRgBJlQsHnp31-YgV6ZvrV6e-BJdnDbgASVEd0tZhnBWvpYs-lPiG2t44kwPhbbqD62twFwp1Dq7WRB_-cctYVq7a_Q6zhkwZHpCc4jtX3BNSSb_WKAbCg4Njwqben5OSOgL6SAVU1gye8DnMsFn0J5TU4hcku-XR8h-z1ZhL0Uctho3jYWFENkCCZz4cTi_dOedzuUOaUUiBcvpoj4r16ev6WFPkSSIKw",
+    "alt": "Leopard resting on a granite outcrop in Yala at golden hour",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.3725,
+  "longitude": 81.5169,
+  "elevation": 30,
+  "headline": "Yala & Bundala: Leopard Dens, Untamed Scrublands & Lagoon Aviaries",
+  "description": "Yala’s rocky outcrops, palu trees and coastal dunes shelter one of the densest leopard populations anywhere, alongside sloth bears, elephants, crocodiles and more than two hundred bird species. Next door, Bundala’s salt pans and lagoons are a winter home for flamingos and migratory waders.\n\nI work with a senior tracker who reads alarm calls and pug marks rather than radio chatter, and we favour the quieter blocks and corridors so that a sighting means stillness — engine off — not a traffic jam.",
+  "quickFacts": [
+    {
+      "icon": "pets",
+      "label": "Best Sighting Window",
+      "value": "Feb – Jun",
+      "note": "Low water levels draw leopards and elephants to the waterholes"
+    },
+    {
+      "icon": "event_busy",
+      "label": "Annual Rest Period",
+      "value": "September – mid-October",
+      "note": "Block 1 usually closes for a few weeks; Block 5 and Bundala stay open"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 Nights",
+      "note": "A dusk drive, a full dawn drive and an unhurried camp afternoon"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "2.5 hrs from Ella",
+      "note": "Or about 3 hrs from Galle Fort along the coast"
+    }
+  ],
+  "guideNote": {
+    "heading": "Why My Safaris Start Where the Jeeps Don’t",
+    "paragraphs": [
+      "Block 1 at 06:00 can feel like a car park. We often enter through quieter gates, follow the tracker’s instinct along the elephant corridors and wait — engine off, voices low — at a waterhole he trusts. The reward is a leopard that walks past on its own terms."
+    ],
+    "perks": [
+      {
+        "icon": "visibility",
+        "label": "Senior Wildlife Tracker"
+      },
+      {
+        "icon": "eco",
+        "label": "Engine-Off Sightings"
+      },
+      {
+        "icon": "forest",
+        "label": "Quiet Block Access"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Dawn Drive",
+      "meta": "Gentle • 5 Hours • Gate Opening",
+      "title": "Private Leopard Tracking with a Senior Tracker",
+      "text": "A modified open 4x4 for your party only, packed breakfast under a tamarind tree and the patience to wait where the tracks are freshest.",
+      "tagIcon": "pets",
+      "tagLabel": "Modified Private 4x4",
+      "image": {
+        "id": "cmuv1ndcz001u0i7duew5pnu6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAww4sGA9MKmGtauTBa4XwMXlp5fzKwaHcMmMOleurHH2zEYaO9MibCXTueo4qJ_X5MF7VECDlIKsf4UVzBnCgLrv8U47KQdqlousf3Jyet1vHMxDufd7CAh5KKR9umKeSAovFpIoJxfnfxdotoMZH3yUtI5TqhV7Xu1W-vUEcFoVGbXotGDDHuIqTt2TI-wqpOmEnFr44OqHDbY0-fu6TeEw78SYejGqkZ5KU3GoQzKmeFXqwhyT4",
+        "alt": "Male leopard walking a red dirt trail in Yala National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Quiet Corridors",
+      "meta": "Gentle • Full Day • Packed Lunch",
+      "title": "Block 5 & the Lunugamvehera Elephant Corridor",
+      "text": "Fewer vehicles, wilder country: riverine forest, rock pools and the corridor elephants use to move between parks.",
+      "tagIcon": "forest",
+      "tagLabel": "Low-Traffic Blocks",
+      "image": {
+        "id": "cmuv1ndcz003b0i7dkdfz7puj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNw-lpu54RfsNA6UwwVb4RReH6giSTicPCHnW8qzDnwv6viPJq53ccPj9Lw-5BaAQ9-UOnTea3eyLfMZuAVwr3qWKp2RAP_HgJDtqRYJC2Wm6xzEuhWlp74o8ZNBeatIhFXr1MvIYeraihW-CnRBJlppgpDoUJCUkhrPmGIysbtyjuHvboWFEGXyKfLL1aGNTiX4fT88kUH434oIxI-D15HgKa-WmjGpQyEL9qJ_4HeBqX5vrsSO0",
+        "alt": "Safari vehicle crossing a dry riverbed in Yala as a naturalist scans for tracks",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Birdlife",
+      "meta": "Easy • 3 Hours • Early Morning",
+      "title": "Bundala Salt Pans & Migratory Flamingos",
+      "text": "Between November and March the lagoons fill with greater flamingos, painted storks and visiting waders. Binoculars and a telephoto lens are in the vehicle.",
+      "tagIcon": "emoji_nature",
+      "tagLabel": "Telephoto Optics Provided",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "eco",
+      "title": "Engine-Off Protocol",
+      "text": "At every sighting we switch off and keep our distance. If a jam forms, we leave — the animal’s comfort comes first."
+    },
+    {
+      "icon": "checkroom",
+      "title": "Neutral Colours",
+      "text": "Khaki, olive and sand tones are best. Bright white and red stand out against the scrub and unsettle wildlife."
+    },
+    {
+      "icon": "hourglass_top",
+      "title": "Patience Pays",
+      "text": "Leopards are most active in the first two hours of light. The longest waits have given my guests their finest sightings."
+    }
+  ],
+  "interests": [
+    "Leopard Safari",
+    "Elephant Corridors",
+    "Birding & Flamingos",
+    "Luxury Tented Camp",
+    "Wildlife Photography"
+  ],
+  "mapPoints": [
+    {
+      "name": "Yala National Park (Block 1)",
+      "lat": 6.3725,
+      "lng": 81.5169
+    },
+    {
+      "name": "Palatupana Gate",
+      "lat": 6.2747,
+      "lng": 81.411
+    },
+    {
+      "name": "Bundala National Park",
+      "lat": 6.2,
+      "lng": 81.2167
+    },
+    {
+      "name": "Lunugamvehera National Park",
+      "lat": 6.35,
+      "lng": 81.18
+    },
+    {
+      "name": "Kirinda",
+      "lat": 6.2167,
+      "lng": 81.3333
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001u0i7duew5pnu6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAww4sGA9MKmGtauTBa4XwMXlp5fzKwaHcMmMOleurHH2zEYaO9MibCXTueo4qJ_X5MF7VECDlIKsf4UVzBnCgLrv8U47KQdqlousf3Jyet1vHMxDufd7CAh5KKR9umKeSAovFpIoJxfnfxdotoMZH3yUtI5TqhV7Xu1W-vUEcFoVGbXotGDDHuIqTt2TI-wqpOmEnFr44OqHDbY0-fu6TeEw78SYejGqkZ5KU3GoQzKmeFXqwhyT4",
+        "alt": "Male leopard walking a red dirt trail in Yala National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "On the Red Trail",
+      "caption": "A male leopard on patrol"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz002z0i7dkrh8v18o",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAR1IkkzzgOznp0BkmEhHRCBb5gDbxHOhTkFSMrbk4GR-4RSXwr69t2sJWzzNWwEOR1mMOuHlV42tvPqrQcFCankGQDojKaIlNtj09lTT7s0lS_OnJ_muTFBPKUd0lLEiaSCwVpb6eFzIsRLt4OwzdFHKhG6q7zCJ3EEWLh98s75LWCAVcL_o3kHKJgf7EsthB3kqbKKzylNUhv4_YR4peKarXaqjswBMQGwg-3S83Q-QgGxZf1dD0",
+        "alt": "Male Sri Lankan leopard lounging on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Sovereign of Kumbuk",
+      "caption": "Block 1 at golden hour"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00480i7dwyht8juh",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAcxMlOKpqWlIFygvBVR7A2KbWmGqqvLS_xIx96GA7MD7xZoB0gLhTjM8b6DkFapaI7iDPk4FFcfV_fBSFnrUI9SaJsI_apuJdDoHgAZpsk7ZoQEP4GOXRlykmbQLzW22OTOz9XV3ocVSsJqEXzNVzBWgwIWvVpkF13Jz1CkUWNY0ecX1QpQoEPFM8xgFS-DkRDFgXq-f0yKg-MrTev-UDXlneGp-8EgqblvyL1p72gbg7G7TRPAgI",
+        "alt": "Luxury safari tent with a plunge pool overlooking a waterhole in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Tented Camp",
+      "caption": "Luxury canvas beside a waterhole"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Yala & Bundala: Untamed Scrublands, Leopard Dens & Lagoon Aviaries",
+    "description": "Home to the highest leopard density on earth, wild Asian elephant herds, and Bundala’s UNESCO biosphere where thousands of migratory flamingos gather.",
+    "image": {
+      "id": "cmuv1ndcz001l0i7dnetksl4t",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBH2ia2OTI1v_Fz_eGU1iRgBJlQsHnp31-YgV6ZvrV6e-BJdnDbgASVEd0tZhnBWvpYs-lPiG2t44kwPhbbqD62twFwp1Dq7WRB_-cctYVq7a_Q6zhkwZHpCc4jtX3BNSSb_WKAbCg4Njwqben5OSOgL6SAVU1gye8DnMsFn0J5TU4hcku-XR8h-z1ZhL0Uctho3jYWFENkCCZz4cTi_dOedzuUOaUUiBcvpoj4r16ev6WFPkSSIKw",
+      "alt": "Leopard resting on a granite outcrop in Yala at golden hour",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.934Z"
+}

@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "title": "Serendiva Admin",
+    "titleTemplate": "%s · Serendiva Admin",
+    "description": "Private administration area of serendiva.lk"
+  },
+  "brand": {
+    "name": "Serendiva",
+    "admin": "Admin"
+  },
+  "nav": {
+    "label": "Admin sections",
+    "dashboard": "Dashboard",
+    "inquiries": "Inquiries",
+    "proposals": "Corporate Proposals",
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "reviews": "Reviews",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "faqs": "FAQs",
+    "pageContent": "Page Content",
+    "availability": "Availability",
+    "newsletter": "Newsletter",
+    "media": "Media",
+    "settings": "Settings",
+    "groups": {
+      "overview": "Overview",
+      "leads": "Leads",
+      "content": "Content",
+      "audience": "Audience & system"
+    },
+    "badgeNew": "{count, plural, one {# new item} other {# new items}}",
+    "badgePending": "{count, plural, one {# waiting for review} other {# waiting for review}}"
+  },
+  "shell": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menu": "Admin menu",
+    "viewSite": "View website",
+    "newTab": "(opens in a new tab)",
+    "skipToContent": "Skip to content",
+    "userMenu": "Account menu",
+    "signedInAs": "Signed in as",
+    "loadingUser": "Loading…",
+    "profile": "My profile",
+    "changePassword": "Change password",
+    "signOut": "Sign out",
+    "signingOut": "Signing out…",
+    "signOutFailed": "Sign-out failed. Check your connection and try again."
+  },
+  "login": {
+    "metaTitle": "Sign in",
+    "brand": "Serendiva",
+    "brandSub": "Admin",
+    "tagline": "Every journey starts with a reply.",
+    "taglineBody": "Inquiries, proposals, tours and stories — all in one quiet place.",
+    "title": "Sign in",
+    "subtitle": "Use your admin email address and password.",
+    "checking": "Checking your session…",
+    "email": "Email address",
+    "password": "Password",
+    "submit": "Sign in",
+    "submitting": "Signing in…",
+    "help": "Forgot your password? Ask the site administrator to reset it on the server.",
+    "errors": {
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "passwordRequired": "Please enter your password.",
+      "invalid": "Email or password is incorrect.",
+      "locked": "Too many failed attempts. Please wait a while and try again.",
+      "rateLimited": "Too many sign-in attempts. Please wait a moment and try again.",
+      "network": "Can't reach the server. Check your connection and try again.",
+      "validation": "Please check the highlighted fields.",
+      "server": "Something went wrong on the server. Please try again in a moment."
+    }
+  },
+  "password": {
+    "title": "Change password",
+    "description": "Other devices will be signed out after the change.",
+    "current": "Current password",
+    "new": "New password",
+    "confirm": "Repeat new password",
+    "rules": "At least 12 characters, including a letter and a number.",
+    "submit": "Change password",
+    "cancel": "Cancel",
+    "success": "Password changed. Other devices have been signed out.",
+    "fixErrors": "Please check the highlighted fields.",
+    "errors": {
+      "currentRequired": "Please enter your current password.",
+      "tooShort": "Use at least 12 characters.",
+      "weak": "Include at least one letter and one number.",
+      "same": "The new password must be different from the current one.",
+      "mismatch": "The passwords don't match."
+    }
+  },
+  "profile": {
+    "title": "My profile",
+    "description": "Manage the account used to sign in to this admin area.",
+    "save": "Save profile",
+    "saved": "Profile saved",
+    "fixErrors": "Please check the highlighted fields.",
+    "errors": {
+      "nameRequired": "Enter your name.",
+      "emailRequired": "Enter your email address.",
+      "emailInvalid": "Enter a valid email address."
+    },
+    "account": {
+      "title": "Account details",
+      "description": "Your name appears in the admin menu. Your email is used to sign in.",
+      "name": "Name",
+      "email": "Email address"
+    },
+    "security": {
+      "title": "Password & security",
+      "description": "Changing the password signs out other devices.",
+      "action": "Change password"
+    },
+    "siteProfile": {
+      "title": "Website guide profile",
+      "description": "The public guide name, licences and photos used on the home and about pages are managed separately.",
+      "action": "Edit website guide profile"
+    }
+  },
+  "errors": {
+    "network": "Can't reach the server. Check your connection and try again.",
+    "validation": "Please fix the highlighted fields.",
+    "notFound": "This item no longer exists.",
+    "forbidden": "You don't have permission to do this.",
+    "server": "Something went wrong on the server. Please try again.",
+    "generic": "Something went wrong. Please try again."
+  },
+  "status": {
+    "lead": {
+      "new": "New",
+      "replied": "Replied",
+      "proposal_sent": "Proposal sent",
+      "confirmed": "Confirmed",
+      "lost": "Lost",
+      "cancelled": "Cancelled"
+    },
+    "content": {
+      "draft": "Draft",
+      "published": "Published"
+    },
+    "review": {
+      "pending": "Pending",
+      "approved": "Approved",
+      "rejected": "Rejected"
+    },
+    "email": {
+      "pending": "Sending",
+      "sent": "Delivered",
+      "partial": "Partly sent",
+      "failed": "Failed"
+    },
+    "subscriber": {
+      "confirmed": "Confirmed",
+      "pending": "Unconfirmed",
+      "unsubscribed": "Unsubscribed"
+    }
+  },
+  "kit": {
+    "pageHeader": {
+      "breadcrumbs": "Breadcrumb"
+    },
+    "panels": {
+      "emptyTitle": "Nothing here yet",
+      "emptyBody": "When there is something to show, it will appear here.",
+      "errorTitle": "This couldn't be loaded",
+      "errorBody": "Something went wrong while loading. Please try again.",
+      "retry": "Try again",
+      "loading": "Loading…"
+    },
+    "toast": {
+      "region": "Notifications",
+      "dismiss": "Dismiss notification"
+    },
+    "dialog": {
+      "close": "Close"
+    },
+    "confirm": {
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "confirm": "Confirm"
+    },
+    "unsaved": {
+      "title": "Discard unsaved changes?",
+      "body": "You have changes that haven't been saved. If you leave now, they will be lost.",
+      "discard": "Discard changes",
+      "stay": "Keep editing"
+    },
+    "form": {
+      "required": "(required)",
+      "charCount": "{count} of {max} characters",
+      "decrease": "Decrease",
+      "increase": "Increase"
+    },
+    "password": {
+      "show": "Show password",
+      "hide": "Hide password"
+    },
+    "slug": {
+      "label": "URL slug",
+      "autoHint": "Generated from the title. Click “Edit” to change it.",
+      "manualHint": "Lowercase letters, numbers and dashes. Changing it changes the page address.",
+      "invalid": "Use lowercase letters, numbers and dashes only (e.g. cultural-odyssey).",
+      "edit": "Edit",
+      "regenerate": "From title"
+    },
+    "tags": {
+      "hint": "Press Enter or comma to add. Backspace removes the last one.",
+      "listLabel": "Added items",
+      "remove": "Remove “{tag}”",
+      "full": "Maximum reached",
+      "placeholder": "Type and press Enter"
+    },
+    "locales": {
+      "label": "Content language",
+      "en": {
+        "short": "EN",
+        "name": "English"
+      },
+      "zh": {
+        "short": "中文",
+        "name": "Chinese"
+      },
+      "de": {
+        "short": "DE",
+        "name": "German"
+      },
+      "hasContent": "has content",
+      "empty": "not translated",
+      "hasErrors": "has errors",
+      "required": "Required",
+      "placeholderFromEnglish": "English: {text}"
+    },
+    "sortable": {
+      "handle": "Reorder {item} (position {position} of {count}). Drag, or use the arrow keys.",
+      "handleHint": "Drag to reorder, or focus and use ↑ ↓",
+      "moved": "Moved {item} to position {position} of {count}.",
+      "grabbed": "Picked up {item}.",
+      "moveUp": "Move {item} up",
+      "moveDown": "Move {item} down",
+      "moveUpShort": "Move up",
+      "moveDownShort": "Move down"
+    },
+    "repeater": {
+      "add": "Add item",
+      "empty": "No items yet.",
+      "expandAll": "Expand all",
+      "collapseAll": "Collapse all",
+      "duplicate": "Duplicate {item}",
+      "remove": "Remove {item}",
+      "maxReached": "Maximum of {max} reached."
+    },
+    "pagination": {
+      "label": "Pagination",
+      "none": "No results",
+      "summary": "Showing {from}–{to} of {total}",
+      "previous": "Previous page",
+      "previousShort": "Previous",
+      "next": "Next page",
+      "nextShort": "Next",
+      "page": "Page {page}",
+      "pageOf": "{page} / {totalPages}"
+    },
+    "filters": {
+      "label": "Filters",
+      "reset": "Reset filters",
+      "searchPlaceholder": "Search…",
+      "all": "All",
+      "from": "From",
+      "to": "To",
+      "more": "Filters",
+      "moreActive": "Filters ({count})"
+    },
+    "table": {
+      "selectAll": "Select all rows on this page",
+      "selectRow": "Select {row}",
+      "open": "Open"
+    },
+    "media": {
+      "title": "Choose an image",
+      "titleMultiple": "Choose images",
+      "description": "Pick a file from the media library or upload a new one.",
+      "descriptionMultiple": "Select several files (in the order they should appear) or upload new ones.",
+      "search": "Search the media library",
+      "searchPlaceholder": "Search by file name or alt text",
+      "upload": "Upload",
+      "uploading": "Uploading {count, plural, one {# file} other {# files}}… {percent}%",
+      "uploaded": "{count, plural, one {# file uploaded} other {# files uploaded}}",
+      "uploadErrors": "{count, plural, one {# file was rejected} other {# files were rejected}}",
+      "uploadFailed": "Upload failed",
+      "tooBig": "Files larger than 10 MB were skipped",
+      "maxSelected": "You can select up to {max}.",
+      "selectedCount": "{count, plural, =0 {Nothing selected} one {# selected} other {# selected}}",
+      "cancel": "Cancel",
+      "confirm": "Use this image",
+      "confirmMultiple": "{count, plural, =0 {Add} one {Add # image} other {Add # images}}",
+      "noResults": "No files match your search.",
+      "empty": "The media library is empty. Upload the first file.",
+      "gridLabel": "Media files",
+      "noImage": "No image",
+      "altLabel": "Alt text:",
+      "altMissing": "missing — add it in the media library",
+      "choose": "Choose image",
+      "replace": "Replace",
+      "remove": "Remove",
+      "addImages": "Add images",
+      "galleryEmpty": "No images yet — click to add from the media library.",
+      "imageN": "Image {n}",
+      "captionTitle": "Caption title",
+      "captionText": "Caption",
+      "removeImage": "Remove image {n}"
+    },
+    "iconPicker": {
+      "none": "No icon",
+      "change": "Choose",
+      "clear": "Clear icon",
+      "title": "Choose an icon",
+      "search": "Search icons",
+      "searchPlaceholder": "Search {count} icons (e.g. hiking, beach, tea)",
+      "results": "{count, plural, =0 {No icons found} one {# icon} other {# icons}}"
+    },
+    "markdown": {
+      "toolbar": "Formatting",
+      "modesLabel": "View",
+      "modes": {
+        "write": "Write",
+        "split": "Split",
+        "preview": "Preview"
+      },
+      "tools": {
+        "heading": "Heading",
+        "subheading": "Subheading",
+        "bold": "Bold (Ctrl+B)",
+        "italic": "Italic (Ctrl+I)",
+        "link": "Link (Ctrl+K)",
+        "bullets": "Bulleted list",
+        "numbers": "Numbered list",
+        "quote": "Quote",
+        "image": "Image from the media library"
+      },
+      "placeholders": {
+        "bold": "bold text",
+        "italic": "italic text",
+        "link": "link text"
+      },
+      "hint": "Markdown: ## heading, **bold**, _italic_, [link](https://…), - list, > quote.",
+      "placeholder": "Write here…",
+      "previewLabel": "Preview",
+      "previewEmpty": "Nothing to preview yet."
+    },
+    "charts": {
+      "summary": "{title}: {count} values, highest {max}. The full data is in the table below.",
+      "other": "Other",
+      "noData": "No data yet."
+    },
+    "csv": {
+      "export": "Export CSV",
+      "done": "CSV downloaded",
+      "failed": "Export failed"
+    },
+    "copy": {
+      "copy": "Copy",
+      "copied": "Copied to clipboard",
+      "failed": "Couldn't copy — select the text and copy it manually."
+    },
+    "reply": {
+      "whatsapp": "Reply on WhatsApp",
+      "email": "Reply by email",
+      "newTab": "(opens WhatsApp in a new tab)",
+      "noWhatsapp": "No WhatsApp number was given",
+      "whatsappInquiry": "Ayubowan {name}! Thank you for your inquiry {reference} with Serendiva. ",
+      "whatsappProposal": "Ayubowan {name}! Thank you for your corporate proposal request {reference} with Serendiva. ",
+      "emailSubjectInquiry": "Your Serendiva inquiry {reference}",
+      "emailSubjectProposal": "Your Serendiva corporate proposal {reference}",
+      "emailBodyInquiry": "Ayubowan {name},\n\nThank you for your inquiry ({reference}).\n\n",
+      "emailBodyProposal": "Ayubowan {name},\n\nThank you for your corporate proposal request ({reference}).\n\n"
+    }
+  },
+  "placeholder": {
+    "title": "This section is being built",
+    "body": "It will appear right here in the next update — nothing is lost in the meantime.",
+    "back": "Back to the dashboard",
+    "sections": {
+      "tours": "Edit tours, itineraries, galleries and translations, and publish or unpublish them.",
+      "destinations": "Manage destinations, regions and categories with their guides, maps and photos.",
+      "reviews": "Approve, reject and feature guest reviews, or import reviews from TripAdvisor and Google.",
+      "blog": "Write field dispatches with the markdown editor, with covers, categories and SEO.",
+      "gallery": "Upload and arrange the photo and video gallery by category.",
+      "faqs": "Edit the frequently asked questions for the site, booking, corporate, tours and destinations.",
+      "availability": "Mark busy and available dates on the availability calendar.",
+      "newsletter": "See newsletter subscribers, export them as CSV and remove addresses.",
+      "media": "Browse, upload and describe every image and document used on the site.",
+      "settings": "Contact details, social links, guide profile, counters, hero slides and SEO defaults."
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This admin page doesn't exist (or has moved).",
+    "back": "Go to the dashboard"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Your inquiries and site activity at a glance.",
+    "greeting": "Ayubowan, {name} — here's what is happening.",
+    "openInquiries": "Open inquiries",
+    "kpis": "Key figures",
+    "inquiries": "Inquiries",
+    "month": "Month",
+    "stats": {
+      "newInquiries": "New inquiries",
+      "newInquiriesHint": "{total, plural, one {of # in total} other {of # in total}}",
+      "thisWeek": "This week",
+      "thisWeekHint": "Inquiries since Monday",
+      "thisMonth": "This month",
+      "thisMonthHint": "Inquiries since the 1st",
+      "conversion": "Reply rate",
+      "conversionHint": "Inquiries replied to or confirmed",
+      "newProposals": "New proposals",
+      "newProposalsHint": "{total, plural, one {of # corporate request} other {of # corporate requests}}",
+      "pendingReviews": "Pending reviews",
+      "pendingReviewsHint": "Waiting for approval",
+      "newsletter": "Newsletter",
+      "newsletterHint": "{pending, plural, =0 {confirmed subscribers} one {confirmed · # unconfirmed} other {confirmed · # unconfirmed}}",
+      "total": "All inquiries",
+      "totalHint": "{confirmed} confirmed · {replied} in progress"
+    },
+    "byMonth": "Inquiries by month",
+    "byMonthHint": "Last 12 months",
+    "byCountry": "By country",
+    "byTour": "By tour",
+    "bySource": "By source page",
+    "sourceHome": "Home page",
+    "unknown": "Not given",
+    "latest": "Latest inquiries",
+    "viewAll": "View all",
+    "noTour": "General inquiry",
+    "noInquiriesTitle": "No inquiries yet",
+    "noInquiriesBody": "New inquiries from the website will show up here.",
+    "noData": "No data yet."
+  },
+  "leads": {
+    "inquiryTitle": "Inquiry",
+    "proposalTitle": "Proposal",
+    "closed": "Closed",
+    "close": "Close",
+    "newTab": "(opens in a new tab)",
+    "statusTabs": "Filter by status",
+    "tabs": {
+      "all": "All",
+      "new": "New",
+      "replied": "Replied",
+      "proposal_sent": "Proposal sent",
+      "confirmed": "Confirmed",
+      "lost": "Lost",
+      "cancelled": "Cancelled"
+    },
+    "statusLabel": {
+      "new": "New",
+      "replied": "Replied",
+      "proposal_sent": "Proposal sent",
+      "confirmed": "Confirmed",
+      "lost": "Lost",
+      "cancelled": "Cancelled"
+    },
+    "statusGroup": "Change status",
+    "statusChanged": "Status changed to {status}",
+    "markRepliedPrompt": "Replied to this lead?",
+    "markReplied": "Mark as replied",
+    "overdue": "Reply overdue",
+    "followUpBadge": "Follow-up: {date}",
+    "bookedBadge": "Booked: {range}",
+    "dueReplyFilter": "Showing leads still marked “New” past your response target.",
+    "dueFollowUpFilter": "Showing leads with a follow-up reminder due today or earlier.",
+    "filters": {
+      "search": "Search",
+      "received": "Received",
+      "tour": "Tour",
+      "allTours": "All tours",
+      "country": "Country",
+      "countryPlaceholder": "Any country",
+      "due": "Attention",
+      "dueAll": "All leads",
+      "dueReply": "Reply overdue",
+      "dueFollowUp": "Follow-up due",
+      "sort": "Order",
+      "sortNewest": "Newest first",
+      "sortOldest": "Oldest first"
+    },
+    "columns": {
+      "guest": "Guest",
+      "reference": "Reference",
+      "tour": "Tour",
+      "travel": "Travel dates",
+      "guests": "Guests",
+      "country": "Country",
+      "received": "Received",
+      "status": "Status",
+      "email": "Emails",
+      "guestsCountry": "Guests · Country"
+    },
+    "noTour": "General inquiry",
+    "hasNotes": "Has internal notes",
+    "openRow": "Open {name} ({reference})",
+    "noMatchesTitle": "Nothing matches these filters",
+    "noMatchesBody": "Try a different search, status or date range.",
+    "clearFilters": "Clear filters",
+    "receivedAt": "Received {date}",
+    "copyReference": "Copy reference",
+    "copyEmail": "Copy email address",
+    "copyPhone": "Copy phone number",
+    "fromDate": "From {date}",
+    "adults": "{count, plural, one {# adult} other {# adults}}",
+    "children": "{count, plural, one {# child} other {# children}}",
+    "yes": "Yes",
+    "no": "No",
+    "noMessage": "No message was written.",
+    "languages": {
+      "en": "English",
+      "zh": "Chinese",
+      "de": "German"
+    },
+    "partyTypes": {
+      "couple": "Couple",
+      "family": "Family",
+      "group": "Group of friends",
+      "solo": "Solo traveller",
+      "corporate": "Corporate"
+    },
+    "sections": {
+      "status": "Status",
+      "followUp": "Follow-up reminder",
+      "booking": "Confirmed dates & calendar",
+      "contactLog": "Log a contact",
+      "trip": "Trip",
+      "guests": "Guests",
+      "contact": "Contact",
+      "message": "Message",
+      "notes": "Internal notes",
+      "history": "Activity history",
+      "emails": "Email delivery",
+      "record": "Record"
+    },
+    "fields": {
+      "tour": "Tour",
+      "destination": "Destination",
+      "travelDates": "Travel dates",
+      "flexible": "Flexible dates",
+      "duration": "Trip length",
+      "pace": "Pace",
+      "stayStyle": "Stay style",
+      "interests": "Interests",
+      "partyType": "Travelling as",
+      "guests": "Guests",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "country": "Country",
+      "sourcePage": "Sent from page",
+      "language": "Language",
+      "created": "Received",
+      "updated": "Last updated",
+      "repliedAt": "First replied",
+      "confirmedAt": "Confirmed",
+      "lastContactAt": "Last contact"
+    },
+    "lostReason": {
+      "label": "Reason (optional)",
+      "placeholder": "e.g. Chose another destination, dates clashed, price…",
+      "save": "Save reason",
+      "saved": "Reason saved"
+    },
+    "followUp": {
+      "date": "Next follow-up date",
+      "hint": "Cleared automatically if the lead is marked Lost or Cancelled.",
+      "save": "Set reminder",
+      "clear": "Clear",
+      "saved": "Follow-up reminder set",
+      "cleared": "Follow-up reminder cleared"
+    },
+    "booking": {
+      "start": "Confirmed arrival",
+      "end": "Confirmed departure",
+      "blockCalendar": "Block these dates on the public availability calendar",
+      "blockCalendarHint": "Shows as Busy on the website while this inquiry is Confirmed.",
+      "confirmHint": "Mark this inquiry as Confirmed to block these dates on your calendar automatically.",
+      "blockedRange": "Calendar blocked for {range}",
+      "save": "Save dates",
+      "clear": "Clear dates",
+      "saved": "Booked dates saved",
+      "cleared": "Booked dates cleared",
+      "datesError": "Enter both arrival and departure dates, with departure on or after arrival."
+    },
+    "logContact": {
+      "channel": "Channel",
+      "note": "Summary (optional)",
+      "notePlaceholder": "e.g. Sent revised 10-day itinerary and quote",
+      "submit": "Log contact",
+      "saved": "Contact logged",
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "email": "Email",
+        "phone": "Phone call",
+        "meeting": "Video / meeting",
+        "other": "Other"
+      }
+    },
+    "history": {
+      "empty": "No activity logged yet.",
+      "statusChanged": "Status: {from} → {to}",
+      "statusChangedReason": "Status: {from} → {to} ({reason})",
+      "noteSaved": "Internal notes updated",
+      "contactLogged": "Contacted via {details}",
+      "followUpSet": "Follow-up scheduled for {date}",
+      "followUpCleared": "Follow-up reminder cleared",
+      "bookingUpdated": "Booking: {details}",
+      "byActor": "by {actor}"
+    },
+    "notesPlaceholder": "Private notes — only visible in the admin (call notes, preferences, quotes…).",
+    "notesHint": "Only visible to you. Ctrl+Enter saves.",
+    "notesUnsaved": "Unsaved changes",
+    "notesSave": "Save notes",
+    "notesDiscard": "Discard",
+    "notesSaved": "Notes saved",
+    "emails": {
+      "guide": "Notification to you",
+      "visitor": "Confirmation to the guest",
+      "attempts": "Attempts",
+      "lastError": "Last error",
+      "notSent": "Not sent yet",
+      "resend": "Retry undelivered emails",
+      "resent": "Emails delivered",
+      "resentPartial": "Retry finished — not every email could be delivered",
+      "allDelivered": "Both emails were delivered.",
+      "explain": {
+        "pending": "The emails are being sent.",
+        "sent": "You and the guest both received the emails.",
+        "partial": "Only one of the two emails was delivered.",
+        "failed": "No email could be delivered yet."
+      }
+    },
+    "dangerTitle": "Delete this lead",
+    "dangerBody": "Removes it permanently, including the internal notes.",
+    "delete": "Delete",
+    "deleteTitle": "Delete {reference}?",
+    "deleteBody": "{name} will be removed permanently. This cannot be undone.",
+    "deleted": "Deleted",
+    "notFoundTitle": "Not found",
+    "notFoundBody": "This lead doesn't exist any more — it may have been deleted.",
+    "emailProblem": "Email not delivered",
+    "guideEmailFilter": "Showing inquiries whose notification email never reached you."
+  },
+  "inquiries": {
+    "title": "Inquiries",
+    "description": "Travel inquiries from the website. Reply on WhatsApp or by email, then set the status.",
+    "searchPlaceholder": "Name, email, reference or message",
+    "tableCaption": "Travel inquiries",
+    "emptyTitle": "No inquiries yet",
+    "emptyBody": "When someone sends the inquiry form on the website, it appears here and you get an email.",
+    "create": {
+      "openButton": "Log inquiry",
+      "title": "Log manual inquiry or booking",
+      "subtitle": "Record a direct WhatsApp, phone or referral request so it gets an SRD reference, reminders and calendar sync.",
+      "submit": "Save inquiry",
+      "cancel": "Cancel",
+      "created": "Saved as {reference}",
+      "sections": {
+        "guest": "Guest & channel",
+        "trip": "Trip & guests",
+        "status": "Status & calendar",
+        "notes": "Notes"
+      },
+      "fields": {
+        "name": "Guest name",
+        "namePlaceholder": "e.g. Emma Watson",
+        "channel": "How they contacted you",
+        "whatsapp": "WhatsApp / phone",
+        "whatsappPlaceholder": "+44 7700 900123",
+        "email": "Email address",
+        "emailPlaceholder": "guest@example.com",
+        "country": "Country",
+        "countryPlaceholder": "e.g. United Kingdom",
+        "partyType": "Travelling as",
+        "partyPlaceholder": "Not specified",
+        "adults": "Adults",
+        "children": "Children",
+        "tour": "Tour blueprint",
+        "destination": "Destination",
+        "anyDestination": "Not specified",
+        "travelStart": "Travel arrival",
+        "travelEnd": "Travel departure",
+        "travelWindow": "Travel window / timing",
+        "travelWindowPlaceholder": "e.g. January 2027 (flexible)",
+        "status": "Initial status",
+        "followUpAt": "Follow-up reminder",
+        "bookedStart": "Confirmed arrival",
+        "bookedEnd": "Confirmed departure",
+        "bookedHint": "Leave blank to reuse the travel arrival & departure dates above.",
+        "blockCalendar": "Block these dates on the public availability calendar",
+        "blockCalendarHint": "Shows as Busy on the website while this booking is Confirmed.",
+        "message": "What the guest asked for",
+        "messagePlaceholder": "Highlights, hotels, special occasions…",
+        "internalNotes": "Private internal notes",
+        "internalNotesPlaceholder": "Quote sent, driver/vehicle notes…"
+      },
+      "channels": {
+        "whatsapp": "WhatsApp",
+        "phone": "Phone call",
+        "email": "Direct email",
+        "referral": "Referral / agent",
+        "other": "Other"
+      },
+      "errors": {
+        "nameTooShort": "Enter the guest’s name (at least 2 characters).",
+        "contactRequired": "Enter at least an email address or WhatsApp number.",
+        "emailInvalid": "Enter a valid email address.",
+        "datesOrder": "Departure date must be on or after arrival date.",
+        "bookedDates": "Enter both confirmed arrival and departure dates, with departure on or after arrival."
+      }
+    }
+  },
+  "proposals": {
+    "title": "Corporate Proposals",
+    "description": "Proposal requests from companies (incentives, retreats, events).",
+    "searchPlaceholder": "Company, contact, email or reference",
+    "tableCaption": "Corporate proposal requests",
+    "emptyTitle": "No proposal requests yet",
+    "emptyBody": "Requests sent from the corporate page appear here.",
+    "guideEmailFilter": "Showing corporate proposals whose notification email never reached you.",
+    "hasAttachment": "Has an attached brief",
+    "noAttachment": "No file was attached.",
+    "download": "Download",
+    "downloadFailed": "Download failed",
+    "columns": {
+      "company": "Company",
+      "groupSize": "Group size",
+      "dates": "Dates",
+      "eventType": "Event type"
+    },
+    "sections": {
+      "company": "Company",
+      "event": "Event",
+      "brief": "Brief",
+      "attachment": "Attachment"
+    },
+    "fields": {
+      "company": "Company",
+      "contactPerson": "Contact person",
+      "phone": "Phone",
+      "groupSize": "Group size",
+      "dates": "Dates",
+      "eventType": "Event type",
+      "logistics": "Logistics"
+    }
+  },
+  "emailAlert": {
+    "title": "{count, plural, one {# lead never reached your inbox} other {# leads never reached your inbox}}",
+    "body": "The notification email to you failed (check the email settings, e.g. the Gmail App Password). These visitors are waiting for your reply — open them and answer on WhatsApp or by email.",
+    "inquiries": "{count, plural, one {# inquiry} other {# inquiries}}",
+    "proposals": "{count, plural, one {# corporate proposal} other {# corporate proposals}}"
+  }
+}

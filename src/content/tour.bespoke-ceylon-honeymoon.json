@@ -1,0 +1,705 @@
+{
+  "id": "cmuv1ndjf008o0i7db1hnl0as",
+  "slug": "bespoke-ceylon-honeymoon",
+  "title": "Bespoke Ceylon Honeymoon & Seclusion",
+  "summary": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of Ella and a hidden cove near Tangalle.",
+  "cardTag": "Secluded Villas",
+  "durationDays": 10,
+  "durationNights": 9,
+  "route": [
+    "Negombo",
+    "Cultural Triangle",
+    "Kandy",
+    "Ella",
+    "Tangalle"
+  ],
+  "highlights": [
+    "Private Candlelit Sigiriya Dinner",
+    "Couples Ayurvedic Rituals",
+    "Luxury Coastal Hideaways"
+  ],
+  "isFeatured": false,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz001b0i7dg3fo08h9",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+    "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nde100510i7da02jrzls",
+      "slug": "honeymoon",
+      "name": "Bespoke Honeymoons",
+      "shortName": "Bespoke Honeymoon"
+    },
+    {
+      "id": "cmuv1nde500530i7duff1bfgw",
+      "slug": "ayurveda-wellness",
+      "name": "Ayurveda & Forest Wellness",
+      "shortName": "Ayurveda & Wellness"
+    }
+  ],
+  "travellerTypes": [
+    "couple"
+  ],
+  "seasons": [
+    "nov-apr"
+  ],
+  "description": "A honeymoon should feel like it was made for two people only — and this one is. I choose villas for their privacy rather than their star rating, keep the driving light and leave every afternoon open.\n\nExpect a candlelit dinner within sight of Sigiriya, a couples’ Ayurveda ritual, a reserved observation carriage through the tea country, three nights in a cliffside hideaway in Ella and a lantern-lit seafood dinner on a deserted cove.",
+  "badges": [
+    "Romantic Sanctuary",
+    "Secluded Villas",
+    "Private Chauffeur-Guide"
+  ],
+  "overview": {
+    "kicker": "Romantic Sanctuary",
+    "heading": "Ten Days, Two Travellers, No Crowds",
+    "quote": "The most romantic moments here are rarely planned to the minute: a sudden shower over the tea, a king coconut at a mountain bend, the first stars over the Indian Ocean. I simply make sure you are in the right place for them."
+  },
+  "keyFeatures": [
+    {
+      "icon": "favorite",
+      "title": "Couples’ Moments",
+      "text": "A candlelit Sigiriya dinner and a lantern-lit beach supper."
+    },
+    {
+      "icon": "spa",
+      "title": "Ayurveda for Two",
+      "text": "Side-by-side treatments with a resident physician’s guidance."
+    },
+    {
+      "icon": "pool",
+      "title": "Private Pools",
+      "text": "Villas with plunge or infinity pools wherever possible."
+    },
+    {
+      "icon": "train",
+      "title": "Observation Carriage",
+      "text": "The scenic train from Kandy to Ella in reserved seats."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "train",
+      "text": "Guaranteed First-Class Observation carriage tickets for the scenic tea country train"
+    },
+    {
+      "icon": "spa",
+      "text": "One couples’ Ayurvedic ritual and a private candlelit dinner near Sigiriya"
+    },
+    {
+      "icon": "hotel",
+      "text": "9 nights in secluded boutique villas and hideaways with daily breakfasts and curated dinners"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "760 Kilometers · Lagoon, Rock, Mist & Ocean",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001c0i7dh5c3sfns",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB4JnNBAc_e74rCP2sGEqGyalEYefvvyfSv28bpJd8kV4eku54pZRww953ajnxiY9iWa3ftaEeS9KJGoYFKc4pDflJMiX7sABR6mQwPCYGT-0VdeAF7Lm44pbSgRfvgmM46xDQU3KPjuxxTg1yYZieLKlGWrACws-Gop5EVSykzqAXV36HanSSJOYhkMTP-Fv8LLlMlQzj9yZwzIEQLrEOsQGMMS6qstAVD-vokBhAsCJSKjeUiIBg",
+        "alt": "Oceanfront villa infinity pool beneath coconut palms at sunset",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Oceanfront Villa",
+      "caption": "Infinity pool beneath the palms"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz004b0i7d1gtus0jl",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC8QVtpWnXtTgGVzvrPYxExnIsO-b_chHDlleZ-2utDGQvAbm0GprpehrUrbQd_wwg8nqY_-gqBcdzNux275hAy5C49aEWFklVtwqjV1-J4JFua0DeNngdQw0OHPfT1NwzqEslHfPsr7ADLLWruM4bK68tTojkg6G6CikfZp7aQEg2ZZZ8MGwiiRJYAJpoFzkRz1RIlttJwXZed6MWf2YUxREfUXI3HvoUPfe3FqKauQ0esetsv-Ik",
+        "alt": "Candlelit private plunge pool overlooking misty hills in Ella",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Candlelit Plunge Pool",
+      "caption": "Evening in the Ella hills"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz002e0i7dcolojmeh",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAIr6VfmCltPPmggmf3SJozPCbXC6Aob1jYf8UF_AGbi8diRNsYtuVxudjXj4eIkqgdbs4fLjC-0TWZ4WMx1j4EufHb-p80gs7Yodmom2J-48uG83scuhSFi-zfpvhFBRLBEseg8jWxlgNb73u7ShOcBr-qBIQEmbZQQffr5Xt7H6ewdLINMh3gOtfv8jxsli50znk_jGalU9MUBehndJbJVv28iYq42cvWX0S9QSrDfElKY90t_s8",
+        "alt": "Couple taking high tea on a cliffside pavilion above tea estates and waterfalls",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "High Tea for Two",
+      "caption": "A cliffside pavilion above the estates"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcm000q0i7d8dgnmdls",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDxedyuMF3HEU8TeVrrSFHDa2qPsGVF3TiqOyMpZz3otpNIuiwmf_dbYNcQwwje6alWqgQ7tVuBNVkxPzmbojdwgewzViVvtVZH8NWEW021Tf_Wh5uftwSQxm7EyiQ5cGHDqoXE_iFT1uSc0NFgtUAEzzgV6b18_fpyxD8_yP04sc6atvXPq4sNZ3g_l7cUkFhiU21vmEILhkk8P4FtlAqZ807MP08qAzeNpDHMuifUinq5cC2lDtY",
+        "alt": "Open-air villa pool above the Indian Ocean at sunset with glowing lanterns",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Lantern Light",
+      "caption": "An open-air pool above the ocean"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & a Lagoon Sunset in Negombo",
+      "description": "A private welcome at the airport and a short transfer to a lagoon-side villa. At sunset, a traditional oruwa boat glides you across the still water with a glass of something cold.",
+      "overnightArea": "Negombo",
+      "meals": "Welcome Dinner",
+      "drivingTime": "Drive: ~25 mins",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Sunset oruwa boat on the lagoon"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Negombo",
+          "lat": 7.2083,
+          "lng": 79.8358
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "To the Cultural Triangle & an Ayurveda Ritual for Two",
+      "description": "We drive inland to a secluded villa near Sigiriya. In the afternoon, a resident Ayurvedic physician prepares a side-by-side ritual of warm herbal oils and a flower bath.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Wellness",
+          "value": "Couples’ Ayurvedic ritual"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Negombo",
+          "lat": 7.2083,
+          "lng": 79.8358
+        },
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sigiriya at Dawn & a Candlelit Dinner Beneath the Rock",
+      "description": "An early, cool climb of the Lion Rock before the crowds (or a sunrise from Pidurangala), a lazy afternoon by the pool and, at night, a private candlelit dinner within sight of the floodlit citadel.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Private Dinner",
+      "drivingTime": "Leisurely Day",
+      "details": [
+        {
+          "label": "Romantic Highlight",
+          "value": "Private candlelit Sigiriya dinner"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        },
+        {
+          "name": "Pidurangala Rock",
+          "lat": 7.9665,
+          "lng": 80.7598
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Kandy & the Evening Puja",
+      "description": "Through the spice gardens of Matale to Kandy. In the evening we join the drum ceremony at the Temple of the Tooth, then dine above the lake.",
+      "overnightArea": "Kandy",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Attire Prep",
+          "value": "White wraps provided"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Matale Spice Gardens",
+          "lat": 7.4675,
+          "lng": 80.6234
+        },
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "The Observation Carriage to Ella",
+      "description": "The full scenic railway from Kandy to Ella in reserved seats — tea estates, waterfalls and cloud forest for most of the day — while your luggage travels ahead to a cliffside villa.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Picnic Lunch, Dinner",
+      "drivingTime": "Train: ~6.5 hrs",
+      "details": [
+        {
+          "label": "Luggage Care",
+          "value": "Transported separately by car"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Royal Botanic Gardens, Peradeniya",
+          "lat": 7.269,
+          "lng": 80.5965
+        },
+        {
+          "name": "Nanu Oya Station",
+          "lat": 6.9425,
+          "lng": 80.74
+        },
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "Little Adam’s Peak at Sunrise & a Spa Afternoon",
+      "description": "A gentle lantern-lit climb for sunrise over the Ella Gap, breakfast on your terrace, and an afternoon of spa treatments and doing absolutely nothing.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Highland Leisure",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Sunrise from the eastern rock bench"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Little Adam's Peak",
+          "lat": 6.8689,
+          "lng": 81.0628
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "Tea Tasting & the Nine Arches Bridge",
+      "description": "A private tasting in a planter’s bungalow, then the Nine Arches Bridge from a quiet tea terrace as the blue train passes. Dinner by candlelight in your villa.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Short Drives",
+      "details": [
+        {
+          "label": "Culinary",
+          "value": "Private in-villa candlelit dinner"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Nine Arches Bridge",
+          "lat": 6.8768,
+          "lng": 81.0608
+        },
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "title": "Down to the Sea at Tangalle",
+      "description": "We descend past Ravana Falls to the south coast and a secluded villa above a quiet cove near Tangalle. The afternoon is for the pool and the sea.",
+      "overnightArea": "Tangalle",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Overnight Residence",
+          "value": "Clifftop villa with private pool"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ravana Falls",
+          "lat": 6.8406,
+          "lng": 81.0544
+        },
+        {
+          "name": "Tangalle",
+          "lat": 6.024,
+          "lng": 80.794
+        }
+      ]
+    },
+    {
+      "dayNumber": 9,
+      "title": "A Lantern-Lit Seafood Dinner on a Deserted Cove",
+      "description": "A free day by the ocean. At dusk I set up a lantern-lit seafood dinner on a hidden cove, just for the two of you; in season, we can quietly watch turtles nesting afterwards.",
+      "overnightArea": "Tangalle",
+      "meals": "Breakfast, Private Beach Dinner",
+      "drivingTime": "Leisure Day",
+      "details": [
+        {
+          "label": "Romantic Highlight",
+          "value": "Private lantern-lit beach dinner"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Tangalle",
+          "lat": 6.024,
+          "lng": 80.794
+        }
+      ]
+    },
+    {
+      "dayNumber": 10,
+      "title": "Farewell from the South Coast",
+      "description": "A last swim and breakfast before the expressway takes us back to the airport.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~3.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Farewell",
+          "value": "Ceylon tea and spice gift box"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Tangalle",
+          "lat": 6.024,
+          "lng": 80.794
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "sigiriya-dambulla",
+      "name": "Sigiriya & Dambulla"
+    },
+    {
+      "slug": "kandy-knuckles",
+      "name": "Kandy & Knuckles"
+    },
+    {
+      "slug": "ella",
+      "name": "Ella"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcbw005vyh7dc4tvjz8x",
+      "guestName": "Marcus & Elena Lindqvist",
+      "initials": "ML",
+      "country": "SE",
+      "location": "Stockholm",
+      "partyLabel": "2 Travelers",
+      "travellerType": "couple",
+      "tourType": "Honeymoon",
+      "tripLabel": "12-Day Bespoke Coast & Tea",
+      "tour": {
+        "slug": "bespoke-ceylon-honeymoon",
+        "title": "Bespoke Ceylon Honeymoon & Seclusion"
+      },
+      "rating": 5,
+      "title": "Intimacy, poetic beauty, and absolute privacy at every turn",
+      "text": "We wished for an itinerary that bypassed the commercial circuit in favor of secluded boutique villas and quiet coastal moments. Dinesh coordinated our journey with extraordinary discretion. Whether booking the entire observation carriage section on the hill country railway or setting up a lantern-lit seafood dinner on a deserted Tangalle cove, Serendiva created magic.",
+      "photo": {
+        "id": "cmuv1ndcz003o0i7daqfrvx1f",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB3zDGc39gOJ1jEHtrtMsWNdvggna4AvYoNIS4ONIf9_iTfUdKuyz4SLr_F4_XjHR7gQpdT0xH6BoAjlF8bJbhZiuFz_PjGG9Icqp0waX7MuYTPmU31K_6som7IG6_KGBQK-IdOyvVU8ZRtybuvNumSscfXib7JCH9Qfe3AYNEI8UOuhZ-NXSi7O1b--rOd5gZ3ZawFXunCcjqV3V0f4ymcSE852fqevUfZMwuYqPm2s4bvvLWsUas",
+        "alt": "Marcus and Elena Lindqvist by a colonial arched doorway above ocean palms",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "tripPhotos": [
+        {
+          "id": "cmuv1ndcz003p0i7d2c4kxq6n",
+          "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB_WlbUXh0X8SIKIsV53NGtwb3_a8CLLmZunP0eBIVLscD1vcWJQiX0eU4t-t4p-a_dRBLVu5Iarp7ygD65tqtqXWb97SYTC0FcERRbYxqCh78st2m_H2isfADNTpe_wcg-kswmjcSVmFjt-vd3VLF7Jn19_oVlmcBIxC0bpB4KkX4-vUY1eI7hQT1zzSVGLEdNH0198Ak_5Vl27cfKlEco1sVjoABaGJ8c1abQ-v8KG63b-urelF0",
+          "alt": "Blue train crossing the Nine Arch Bridge through the tea canopy in Ella",
+          "width": null,
+          "height": null,
+          "blurDataUrl": null,
+          "variants": {}
+        }
+      ],
+      "source": "tripadvisor",
+      "travelDate": "2024-01-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2024-01-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 1
+  },
+  "related": [
+    {
+      "id": "cmuv1ndkx00a80i7doxfs6gow",
+      "slug": "ayurveda-healing-forest-silence",
+      "title": "Ayurveda, Healing & Forest Silence",
+      "summary": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathing, and private oceanfront meditation.",
+      "cardTag": "Holistic Rejuvenation",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Bentota",
+        "Sinharaja Rainforest",
+        "Ella Foothills",
+        "Weligama Bay"
+      ],
+      "highlights": [
+        "Resident Ayurvedic Doctor Consult",
+        "Daily Dawn Pranayama & Yoga",
+        "Farm-to-Table Organic Dining"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001g0i7dz0vkot17",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+        "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Bespoke Ceylon Honeymoon & Seclusion · 9 Nights / 10 Days",
+    "description": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of E",
+    "image": {
+      "id": "cmuv1ndcz001b0i7dg3fo08h9",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+      "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.162Z"
+}

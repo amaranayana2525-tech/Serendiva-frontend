@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "title": "Guest Reviews — Verified Reflections",
+    "description": "Unedited reviews from couples, families, solo explorers and corporate groups I have guided personally across Sri Lanka. Rated {average} out of 5 from {count, plural, one {# review} other {# reviews}}.",
+    "descriptionFallback": "Unedited reviews from couples, families, solo explorers and corporate groups I have guided personally across Sri Lanka."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Traveler Reflections & Reviews",
+    "share": "Share Your Experience"
+  },
+  "hero": {
+    "eyebrow": "Authentic Guest Diaries",
+    "title": "Echoes of Ceylon: <em>Verified Reflections</em> from My Travelers",
+    "intro": "Read unedited dispatches from international couples, multi-generational families, solo explorers, and corporate delegations I have personally guided across Sri Lanka."
+  },
+  "score": {
+    "label": "Overall guest rating",
+    "recordFlawless": "Flawless Record across {count, plural, one {# Verified Review} other {# Verified Reviews}}",
+    "record": "Rated {average} across {count, plural, one {# Verified Review} other {# Verified Reviews}}",
+    "body": "Consistently rated exceptional on TripAdvisor, Google Reviews, and confidential post-journey dispatches.",
+    "badges": {
+      "tripadvisor": "TripAdvisor 2024 Choice",
+      "google": "Google 5.0 Verified",
+      "sltda": "SLTDA National Guide"
+    },
+    "emptyTitle": "New reviews arriving",
+    "emptyBody": "Guest reflections will appear here as soon as they are published."
+  },
+  "filters": {
+    "label": "Filter reviews",
+    "travellerLabel": "Traveler type",
+    "all": "All Reviews",
+    "types": {
+      "couple": "Couples & Honeymoon",
+      "family": "Families with Children",
+      "group": "Small Groups",
+      "solo": "Solo Explorers",
+      "corporate": "Corporate Retreats"
+    },
+    "route": "Filter Route:",
+    "routeGroup": "Filter by route",
+    "origin": "Guest Origin:",
+    "origins": {
+      "all": "Global (All Nations)",
+      "uk": "United Kingdom & Ireland",
+      "us": "United States & Canada",
+      "au": "Australia & New Zealand",
+      "de": "Germany & Switzerland",
+      "sg": "Singapore & Hong Kong",
+      "se": "Scandinavia"
+    },
+    "results": "{count, plural, =0 {No reviews match these filters} one {# review matches} other {# reviews match}}",
+    "reset": "Reset filters"
+  },
+  "spotlight": {
+    "eyebrow": "Seasonal Guest Spotlight",
+    "travelled": "Traveled {date}",
+    "route": "Route: {route}",
+    "photos": "Photographs from {name}’s Journey:",
+    "source": {
+      "direct": "Verified Direct Dispatch",
+      "tripadvisor": "TripAdvisor Verified",
+      "google": "Google Verified"
+    }
+  },
+  "grid": {
+    "eyebrow": "Unfiltered Travel Chronicles",
+    "title": "Voices of Bespoke Ceylon",
+    "intro": "Every review represents a dedicated private expedition with custom vehicle logistics, handpicked heritage villas, and my personal support throughout.",
+    "showing": "Showing {shown} of {total, plural, one {# verified guest testimonial} other {# verified guest testimonials}}",
+    "loadMore": "Load Next {count} Reflections",
+    "browseAll": "Browse All {count} Diaries",
+    "allShown": "You are reading every published reflection.",
+    "emptyTitle": "No reflections match these filters",
+    "emptyBody": "Try another route or origin — or ask me to connect you with a past guest who travelled like you.",
+    "noneTitle": "Reflections coming soon",
+    "noneBody": "Guest reviews are being verified and will be published here shortly."
+  },
+  "videos": {
+    "eyebrow": "Cinematic Memories",
+    "title": "In Their Own Words",
+    "intro": "Hear firsthand from guests moments after completing their expeditions across the hills, sanctuaries, and coasts of Sri Lanka.",
+    "label": "Guest Interview",
+    "play": "Play video: {title}"
+  },
+  "share": {
+    "eyebrow": "Returning Travelers",
+    "title": "Travelled With Me Recently? I Would Be Honored to Read Your Reflections.",
+    "body": "Your honest dispatch supports ethical Sri Lankan tourism and independent local guiding, and empowers future travelers to design their private voyage with total peace of mind.",
+    "tripadvisor": "Leave a Review on TripAdvisor",
+    "direct": "Share Your Experience"
+  },
+  "faq": {
+    "eyebrow": "Integrity & Standards",
+    "title": "Frequently Asked Questions on Guest Trust",
+    "intro": "Complete clarity regarding my verification methods, guide ethics, and direct traveler references.",
+    "items": {
+      "verified": {
+        "q": "Are these guest reviews genuinely unedited and verified?",
+        "a": "Every review featured on Serendiva originates from real travelers I have personally guided. I cross-verify entries submitted through TripAdvisor, Google Business, and post-trip direct guest notes. I never edit guest impressions, delete critical observations, or incentivize praise through compensation."
+      },
+      "rating": {
+        "q": "How do you maintain such consistent five-star feedback?",
+        "a": "It stems from absolute personal accountability. I never sub-contract my journeys to anonymous third-party taxi apps or volume agencies. I personally oversee vehicle maintenance, itinerary pacing, dietary checks, and private route clearance for every group, and I limit how many journeys I host at once to guarantee artisanal hospitality."
+      },
+      "references": {
+        "q": "Can I speak directly with a past traveler from my home country before planning my trip?",
+        "a": "Yes. Many of my former guests—spanning the UK, US, Australia, Switzerland, and Scandinavia—have graciously agreed to act as direct references for curious prospective travelers. Just ask, and I will connect you privately via email with a guest who traveled on an itinerary similar to yours."
+      },
+      "weather": {
+        "q": "What happens if unexpected weather or road conditions affect our itinerary?",
+        "a": "As a licensed National Tourist Guide Lecturer with intimate island knowledge, I adjust routes fluidly without disrupting your comfort. If hill country monsoons affect scenic train operations or tea walks, I pivot toward alternative protected valleys, bespoke tea factory tastings, or cultural sanctuaries with zero logistical stress on your part."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Your Journey Begins With a Conversation",
+    "title": "Experience Sri Lanka Through the Eyes of a Trusted Friend",
+    "body": "Let me curate your bespoke passage across the tear-drop island with unhurried grace, private heritage access, and meticulous attention to your personal cadence.",
+    "plan": "Plan My Custom Trip",
+    "whatsapp": "Chat with Dinesh on WhatsApp",
+    "checks": {
+      "tailored": "100% Tailored Itineraries",
+      "whatsapp": "Direct WhatsApp Concierge",
+      "obligation": "No Obligation Trip Mapping"
+    }
+  },
+  "form": {
+    "meta": {
+      "title": "Share Your Experience",
+      "description": "Travelled with me in Sri Lanka? Share your reflections — every review is read personally and published after a short moderation."
+    },
+    "hero": {
+      "eyebrow": "Guest Reflections",
+      "title": "Share Your <em>Ceylon</em> Reflections",
+      "intro": "Your words help future travelers find the right journey — and they mean the world to me. Every reflection is read personally before it is published."
+    },
+    "aside": {
+      "title": "How your review is published",
+      "steps": {
+        "write": "Write in your own words — praise, suggestions and critical notes are all welcome.",
+        "moderate": "I read every submission personally and publish it after a short moderation, usually within a few days.",
+        "publish": "Only your name, city, country, travel month and review appear on the site."
+      },
+      "privacyTitle": "Your email stays private",
+      "privacyBody": "Your email address is never published or shared. I only use it if I need to confirm a detail of your review.",
+      "back": "Back to all reviews"
+    },
+    "title": "Your review",
+    "sections": {
+      "about": "About you",
+      "trip": "Your journey",
+      "review": "Your reflection"
+    },
+    "labels": {
+      "name": "Your name",
+      "email": "Email address",
+      "country": "Country of residence",
+      "city": "City / region",
+      "travellerType": "You travelled as",
+      "tour": "Which journey did you take?",
+      "rating": "Your rating",
+      "title": "Give your review a title",
+      "text": "Your experience",
+      "travelDate": "When did you travel?"
+    },
+    "hints": {
+      "email": "Never published — only used if I need to confirm a detail.",
+      "tour": "Optional — leave empty for a bespoke or custom journey.",
+      "text": "At least 20 characters. Paragraphs are kept.",
+      "travelDate": "Month and year (YYYY-MM).",
+      "name": "As you would like it to appear, e.g. “Claire & Julian M.”"
+    },
+    "placeholders": {
+      "name": "e.g. Claire & Julian Montgomery",
+      "email": "name@domain.com",
+      "country": "Please choose your country",
+      "city": "e.g. Oxford",
+      "travellerType": "Please choose",
+      "tour": "A bespoke / custom journey",
+      "title": "e.g. The trip of a lifetime",
+      "text": "What made your journey special? Which moments stayed with you?"
+    },
+    "rating": {
+      "legend": "Your rating",
+      "star": "{count, plural, one {# star} other {# stars}}",
+      "labels": {
+        "1": "Disappointing",
+        "2": "Below expectations",
+        "3": "Good",
+        "4": "Wonderful",
+        "5": "Unforgettable"
+      },
+      "hint": "Use the arrow keys to choose a rating."
+    },
+    "consent": "By submitting, you agree that I may publish your name, city, country, travel month and review on Serendiva after moderation. Your email address is never published.",
+    "submit": "Submit My Review",
+    "sending": "Sending…",
+    "success": {
+      "title": "Thank you — your review has reached me",
+      "body": "It is now awaiting moderation. I read every reflection personally and will publish it shortly.",
+      "back": "Back to all reviews",
+      "another": "Write another review"
+    }
+  },
+  "jsonLd": {
+    "name": "Serendiva — Private Sri Lanka Journeys"
+  }
+}

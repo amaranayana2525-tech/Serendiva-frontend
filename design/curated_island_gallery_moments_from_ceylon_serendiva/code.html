@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><title>Serendiva - Ceylon Private Journeys</title><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;family=Playfair+Display:ital,wght@0,500;0,600;1,400;1,500&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "surface-container-high": "#ede8dd", "on-primary-fixed": "#001f28", "on-secondary": "#ffffff", "on-error": "#ffffff", "inverse-surface": "#333029", "primary-fixed-dim": "#9acee1", "on-secondary-fixed": "#370e00", "tertiary-fixed": "#c5eeb4", "on-secondary-container": "#752803", "surface-container-lowest": "#ffffff", "surface-container-highest": "#e8e2d7", "outline-variant": "#c0c8cb", "tertiary": "#16370f", "surface": "#fff9ee", "on-primary-container": "#87bbce", "outline": "#70787c", "on-tertiary": "#ffffff", "tertiary-fixed-dim": "#aad19a", "on-error-container": "#93000a", "surface-bright": "#fff9ee", "on-tertiary-fixed": "#022100", "on-tertiary-fixed-variant": "#2d4f24", "inverse-on-surface": "#f6f0e5", "secondary": "#9c441e", "tertiary-container": "#2c4e23", "background": "#fff9ee", "on-primary": "#ffffff", "secondary-fixed": "#ffdbce", "surface-tint": "#306576", "error-container": "#ffdad6", "surface-container": "#f3ede2", "primary-fixed": "#b6ebfe", "secondary-fixed-dim": "#ffb59a", "surface-variant": "#e8e2d7", "secondary-container": "#ff9064", "on-surface-variant": "#40484b", "surface-dim": "dfd9cf", "inverse-primary": "#9acee1", "on-background": "#1d1c15", "on-surface": "#1d1c15", "surface-container-low": "#f9f3e8", "primary": "#003441", "on-secondary-fixed-variant": "#7d2d08", "error": "#ba1a1a", "on-tertiary-container": "#98bf89", "primary-container": "#0f4c5c", "on-primary-fixed-variant": "#114d5d" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "space-xl": "2.5rem", "margin-md": "3rem", "gutter-lg": "2.5rem", "margin": "1.5rem", "space-sm": "0.5rem", "space-3xl": "6rem", "space-xs": "0.25rem", "space-lg": "1.5rem", "space-md": "1rem", "gutter": "1.5rem", "space-2xl": "4rem", "margin-lg": "5rem" }, "fontFamily": { "headline-xl-mobile": [ "Playfair Display" ], "label-lg": [ "Inter" ], "label-md": [ "Inter" ], "caption": [ "Inter" ], "body-xl": [ "Inter" ], "headline-lg": [ "Playfair Display" ], "body-lg": [ "Inter" ], "headline-sm": [ "Playfair Display" ], "body-md": [ "Inter" ], "headline-lg-mobile": [ "Playfair Display" ], "display-lg": [ "Playfair Display" ], "display-lg-mobile": [ "Playfair Display" ], "headline-xl": [ "Playfair Display" ], "headline-md": [ "Playfair Display" ] }, "fontSize": { "headline-xl-mobile": [ "30px", { "lineHeight": "38px", "letterSpacing": "0", "fontWeight": "600" } ], "label-lg": [ "13px", { "lineHeight": "18px", "letterSpacing": "0.08em", "fontWeight": "600" } ], "label-md": [ "11px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" } ], "caption": [ "12px", { "lineHeight": "16px", "fontWeight": "400" } ], "body-xl": [ "18px", { "lineHeight": "30px", "letterSpacing": "-0.005em", "fontWeight": "300" } ], "headline-lg": [ "32px", { "lineHeight": "40px", "fontWeight": "500" } ], "body-lg": [ "16px", { "lineHeight": "26px", "fontWeight": "400" } ], "headline-sm": [ "20px", { "lineHeight": "28px", "fontWeight": "600" } ], "body-md": [ "14px", { "lineHeight": "22px", "fontWeight": "400" } ], "headline-lg-mobile": [ "24px", { "lineHeight": "32px", "fontWeight": "500" } ], "display-lg": [ "56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "600" } ], "display-lg-mobile": [ "38px", { "lineHeight": "46px", "letterSpacing": "-0.01em", "fontWeight": "600" } ], "headline-xl": [ "40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "600" } ], "headline-md": [ "24px", { "lineHeight": "32px", "fontWeight": "500" } ] } } } };</script></head><body class="bg-surface font-body-md text-on-surface antialiased selection:bg-secondary-fixed selection:text-on-secondary-fixed"><header class="fixed top-0 left-0 right-0 z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-20 max-w-[1440px] mx-auto px-margin lg:px-margin-lg flex items-center justify-between gap-space-md"><div class="flex items-center gap-space-md shrink-0"><img alt="Elegant boutique emblem logo for Serendiva Sri Lanka Tours featuring a stylized Ceylon tea leaf, sunburst, and ocean wave with refined serif typography Serendiva - Ceylon Private Journeys. Brand logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VQ4AIrGfGYIQ4hXv_6vXCglc2B386ZdxbNqItM2n38Dyfl97tvY6h6bVbqfr9Rz3ZBQsFyRroh-M6BhNKkl2wjV8JI_cVgwsCSZn91P9FvCNslwtfTTAl2yH9-0Wf8JCrkvJM6POcIOgrG_7DohE2RxpWMCIVZzIfpYpSEOCY9iRQ9qCWGWrlfpB1MFwthNbgutwiHSEyIu_9jBhHNdKxlE9BcQ_jtAZfEFXq3g24xoomwBqmkkA-tfQ"/><div class="hidden sm:flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight leading-none">SERENDIVA</span><span class="font-label-md text-label-md uppercase tracking-[0.2em] text-on-surface-variant mt-1">Ceylon Private Journeys</span></div></div><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-primary font-bold"><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="home" href="#">Home</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="tours" href="#">Tours</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="destinations" href="#">Destinations</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="corporate" href="#">Corporate</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="about" href="#">About</a><a aria-current="page" class="uppercase tracking-wider transition-colors duration-200 text-primary font-bold" data-path="gallery" href="#">Gallery</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="reviews" href="#">Reviews</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="travel-guide" href="#">Travel Guide</a><a class="font-label-lg text-label-lg uppercase tracking-wider text-on-surface-variant hover:text-primary transition-colors duration-200" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center font-label-md text-label-md tracking-wider text-on-surface-variant uppercase"><button class="text-primary font-semibold hover:text-primary-container px-1 py-0.5 transition-colors">EN</button><span class="opacity-40 px-0.5">|</span><button class="hover:text-primary px-1 py-0.5 transition-colors">中文</button><span class="opacity-40 px-0.5">|</span><button class="hover:text-primary px-1 py-0.5 transition-colors">DE</button></div><a class="hidden sm:inline-flex items-center justify-center bg-secondary hover:bg-[#a64a22] text-on-secondary font-label-lg text-label-lg uppercase tracking-widest px-space-lg py-space-sm rounded-xl shadow-[0_16px_36px_-12px_rgba(43,43,43,0.08)] transition-all duration-300 transform active:scale-95" data-path="plan-my-trip" href="#">Plan My Trip</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><aside class="fixed right-0 top-1/2 -translate-y-1/2 z-40 hidden md:block"><a class="flex items-center gap-space-xs bg-primary text-on-primary font-label-md text-label-md uppercase tracking-[0.15em] px-space-md py-space-sm rounded-l-xl shadow-[0_16px_36px_-12px_rgba(43,43,43,0.15)] hover:bg-primary-container transition-all -rotate-90 origin-bottom-right translate-x-2 -translate-y-8" data-path="inquire" href="#"><span class="material-symbols-outlined text-[16px]">edit_calendar</span>Inquire</a></aside><div class="fixed bottom-space-lg right-space-lg z-50 flex items-center justify-center"><a aria-label="WhatsApp Private Concierge" class="w-14 h-14 rounded-full bg-tertiary-container hover:bg-tertiary text-on-tertiary flex items-center justify-center shadow-[0_16px_36px_-12px_rgba(43,43,43,0.25)] transition-all duration-300 hover:scale-105 active:scale-95" href="https://wa.me/94771234567" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-[28px]">chat</span></a></div><main class="w-full pt-20 bg-surface min-h-[calc(100vh-20rem)]"><div class="flex flex-col w-full">
+<!-- Top Archival Navigation & Breadcrumbs Bar -->
+<section class="w-full bg-surface-container-low/70 py-space-sm">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg flex items-center justify-between">
+<nav aria-label="Breadcrumb" class="flex items-center gap-space-xs font-label-md text-label-md uppercase tracking-[0.16em] text-on-surface-variant">
+<a class="hover:text-primary transition-colors duration-200" href="#">Home</a>
+<span class="text-outline-variant">/</span>
+<span class="text-primary font-semibold">Curated Gallery</span>
+</nav>
+<div class="hidden md:flex items-center gap-space-sm font-label-md text-label-md text-on-surface-variant uppercase tracking-widest">
+<span class="inline-block w-2 h-2 rounded-full bg-tertiary-container animate-pulse"></span>
+<span>Archive Volume IV • Autumn Solstice Collection</span>
+</div>
+</div>
+</section>
+<!-- Gallery Hero Introduction -->
+<section class="w-full relative overflow-hidden bg-gradient-to-b from-surface-container-low via-surface to-surface pt-space-2xl pb-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-end">
+<div class="lg:col-span-8 flex flex-col gap-space-sm">
+<div class="inline-flex items-center gap-space-xs font-label-lg text-label-lg uppercase tracking-[0.25em] text-secondary">
+<span class="w-8 h-[1px] bg-secondary/50"></span>
+            Cinematic Ceylon Archives
+          </div>
+<h1 class="font-display-lg text-display-lg text-primary tracking-tight font-medium mt-1">
+            Moments from the Island
+          </h1>
+<p class="font-body-xl text-body-xl text-on-surface-variant max-w-2xl mt-space-xs font-light">
+            Glimpses of dawn mist over the central highlands, sacred ritual chants, solitary leopard tracks in Yala, and the unhurried smiles of our traveling companions.
+          </p>
+</div>
+<div class="lg:col-span-4 flex flex-col sm:flex-row lg:flex-col justify-end items-start lg:items-end gap-space-sm pb-1">
+<div class="bg-surface-container p-space-md rounded-xl shadow-sm flex items-center gap-space-md">
+<div class="w-12 h-12 rounded-lg bg-primary-container text-on-primary flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-[24px]">camera_roll</span>
+</div>
+<div>
+<p class="font-headline-sm text-headline-sm text-primary leading-none">54 Plates</p>
+<p class="font-caption text-caption text-on-surface-variant mt-1">Shot across 9 provinces by resident naturalists</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Curated Category Filters -->
+<div class="mt-space-xl pt-space-md overflow-x-auto no-scrollbar">
+<div class="flex items-center gap-space-xs pb-space-xs min-w-max" id="gallery-filters" role="tablist">
+<button class="filter-btn active px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-primary text-on-primary shadow-sm hover:scale-[1.02]" data-filter="all">
+            All Archives (54)
+          </button>
+<button class="filter-btn px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-surface-container text-on-surface-variant hover:text-primary hover:bg-surface-container-high" data-filter="heritage">
+            Sacred Heritage &amp; Citadels (12)
+          </button>
+<button class="filter-btn px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-surface-container text-on-surface-variant hover:text-primary hover:bg-surface-container-high" data-filter="wildlife">
+            Wildlife &amp; Sanctuaries (14)
+          </button>
+<button class="filter-btn px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-surface-container text-on-surface-variant hover:text-primary hover:bg-surface-container-high" data-filter="tea">
+            Misty Tea Highlands (10)
+          </button>
+<button class="filter-btn px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-surface-container text-on-surface-variant hover:text-primary hover:bg-surface-container-high" data-filter="ocean">
+            Pristine Coasts &amp; Oceans (8)
+          </button>
+<button class="filter-btn px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-surface-container text-on-surface-variant hover:text-primary hover:bg-surface-container-high" data-filter="gastronomy">
+            Gastronomy &amp; Village (6)
+          </button>
+<button class="filter-btn px-space-md py-space-xs rounded-full font-label-md text-label-md uppercase tracking-wider transition-all duration-300 bg-surface-container text-on-surface-variant hover:text-primary hover:bg-surface-container-high" data-filter="people">
+            Traveler Portraits (4)
+          </button>
+</div>
+</div>
+</div>
+</section>
+<!-- Editorial Asymmetric Masonry Showcase -->
+<section class="w-full bg-surface pb-space-3xl">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg" id="gallery-grid">
+<!-- Plate 01: Sigiriya Dawn (Featured Double Span) -->
+<article class="gallery-item lg:col-span-8 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="heritage">
+<div class="relative w-full h-[420px] md:h-[500px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Breathtaking aerial dawn photograph of the massive Sigiriya rock fortress rising above ancient mist-shrouded jungle canopy in Sri Lanka. Golden sun rays slice through morning haze illuminating ancient orange ochre stone terraces, serene warm amber lighting, cinematic composition with warm sand and deep ocean teal atmosphere." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBkKGw-iUoSxInsRFTAEPIcfAb9h6T0fDeuFYguws6ryWKMZ4POB2zEtIv0M-o20wJZ9huubPRsovRjZncUeZZIQ46YbW3_dtBhuRLgzsHMPW4qNd5ydDaHtNDKjUpi9sxSDigv2hiL0ydlOfjyr7ndGGbCsrPRhOkSys3g4irsyI9UrMqzbstRSsqTQzM57KHhw5Mp4Z6oBK7Wkc6r8VO91NTuRLYxm0w9VIhpB1Llil3RD10U0Pc"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-black/20 pointer-events-none"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="inline-flex items-center gap-1 bg-surface-container-lowest/90 backdrop-blur-md px-space-sm py-1 rounded-full font-label-md text-label-md text-primary font-semibold tracking-wider uppercase shadow-sm">
+<span class="material-symbols-outlined text-[14px] text-secondary">wb_twilight</span>
+                05:48 AM Sunrise
+              </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-[0.2em]">Plate No. 01 • Cultural Triangle</span>
+<h3 class="font-headline-lg text-headline-lg text-on-primary mt-0.5">The Sky Citadel Awakes</h3>
+<p class="font-body-md text-body-md text-on-primary/90 mt-1 max-w-xl">First ambient golden rays cutting through the dense forest canopy before private footpaths open to visitors.</p>
+</div>
+</div>
+<div class="p-space-md flex flex-wrap items-center justify-between gap-space-sm bg-surface-container-lowest text-on-surface-variant font-caption text-caption">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Sigiriya Lion Citadel, Matale District</span>
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px]">photo_camera</span>Shot by Dinesh Senanayake (Hasselblad X2D)</span>
+</div>
+</article>
+<!-- Plate 02: Blue Express Nine Arches (Vertical Editorial) -->
+<article class="gallery-item lg:col-span-4 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="tea">
+<div class="relative w-full h-[420px] md:h-[500px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Iconic vintage colonial blue train crossing the curved stone Nine Arches Bridge in Ella Sri Lanka surrounded by lush emerald green tea terraced valley and dramatic highland morning clouds and misty mountain peaks, deep forest greenery and rich teal tones." src="https://lh3.googleusercontent.com/aida-public/AB6AXuABpQ0XlWQG_1ivYnlBMoHvEc7c7FO1SFiSOHoEvbbayi5eY_D7SEDScSpPXrORMuADbd87LPUqLHMcKw_6bYr504phLoOBEhxCBeXgrDincsV_4PttGyJwYLgy89pVJHb2EDDHFUuehIVsWAG4_S-bu-6NJcG0YjL0CEbT7Otvc615FdDrT5OcZ86hWRmQ_TzyQqFqUED6jgw191xSn70auVMjyn52XChq7u7tFmVzULemhvq6QhY"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/85 via-primary/20 to-transparent pointer-events-none"></div>
+<div class="absolute top-space-md right-space-md">
+<span class="bg-tertiary/80 backdrop-blur-md text-tertiary-fixed px-space-sm py-1 rounded-full font-label-md text-label-md uppercase tracking-wider">
+                Highland Line
+              </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-[0.2em]">Plate No. 02 • Uva Province</span>
+<h3 class="font-headline-md text-headline-md text-on-primary mt-1">Passing Through Clouds</h3>
+<p class="font-body-md text-body-md text-on-primary/80 mt-1">The 10:15 vintage passenger train rounding the Demodara viaduct.</p>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Demodara, Ella (3,400 ft)</span>
+<span>Private Balcony Vantage</span>
+</div>
+</article>
+<!-- Plate 03: Yala Solitary Leopard (Stacked Grid) -->
+<article class="gallery-item lg:col-span-4 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="wildlife">
+<div class="relative w-full h-[360px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="A magnificent wild Sri Lankan male leopard Panthera pardus kotiya lounging gracefully across a sun-warmed massive granite boulder in Yala National Park, late afternoon warm golden hour light casting soft shadows on spotted coat, dry scrub forest background." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAR1IkkzzgOznp0BkmEhHRCBb5gDbxHOhTkFSMrbk4GR-4RSXwr69t2sJWzzNWwEOR1mMOuHlV42tvPqrQcFCankGQDojKaIlNtj09lTT7s0lS_OnJ_muTFBPKUd0lLEiaSCwVpb6eFzIsRLt4OwzdFHKhG6q7zCJ3EEWLh98s75LWCAVcL_o3kHKJgf7EsthB3kqbKKzylNUhv4_YR4peKarXaqjswBMQGwg-3S83Q-QgGxZf1dD0"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate No. 03 • Deep Sanctuaries</span>
+<h3 class="font-headline-md text-headline-md text-on-primary mt-1">The Sovereign of Kumbuk</h3>
+<p class="font-body-md text-body-md text-on-primary/80 mt-0.5">Tracking Block 1 with our lead tracker Kanishka.</p>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Yala National Park, Block 1</span>
+<span class="text-tertiary font-medium">Endemic Subspecies</span>
+</div>
+</article>
+<!-- Plate 04: Weligama Stilt Fishermen (Horizon Mood) -->
+<article class="gallery-item lg:col-span-4 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="ocean">
+<div class="relative w-full h-[360px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Traditional Sri Lankan stilt fishermen perched patiently on wooden poles driven into the ocean floor, sharp silhouettes against a vivid Indian Ocean dusk of fiery cinnabar orange, dusty violet and teal surf, gentle foaming tidal ripples." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBHBzg5BgB2t9Zy9XdniNbypOdNQSZTvBRBoiIMg19IU5FB1qW1CHgjALmulDgaYVmNGj60o_29UfVjJpmG4bNIIWjdJ_wiy5CXhN_fbbrRpqHZ15mOVXlgoKW8ErxFo84gg1nXR-Ljbr8kJjkoKXC14BMu4viWAFUgX2aCjxWDgzqcq8EvefHVoWVZD-L5SbFA5vS3OpAvDMTX0Vhhr5FrwI7lyT_HD6OoEtt9xzW3INwCk21Ly0I"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/85 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate No. 04 • Southern Coast</span>
+<h3 class="font-headline-md text-headline-md text-on-primary mt-1">Riti Panna Twilight</h3>
+<p class="font-body-md text-body-md text-on-primary/80 mt-0.5">Generational ocean equilibrium under shifting trade winds.</p>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Weligama Bay, Southern Coast</span>
+<span>Artisanal Heritage</span>
+</div>
+</article>
+<!-- Plate 05: Tea Harvesters Morning Dew -->
+<article class="gallery-item lg:col-span-4 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="tea">
+<div class="relative w-full h-[360px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Intimate editorial medium shot of Tamil tea pluckers gently harvesting two leaves and a bud in highland Ceylon tea bushes, morning dew drops glistening on emerald leaves, soft diffused high altitude mountain light, wearing bright headscarves and woven baskets." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCRRLCQlDQFgHDZQmlObRb1Db8alwntulVwLqG2rTGRpdlFqiP8y8tih-WLgI22_JyimBWQ0ywcSt39mJRkOHGE2PEfe8IpJV44qboxyRAwsqtY2VBY0Cpq-dThP-7U8b5ooggJr_lwuW7mtu_Tk67VQwpig3tlKnaUjT3a1N0er65o85-Yd1r2NZAO4Nzpf_yO3mN89e7JAV70xn-oMpFY8x7chDytmekcjf8u7OhPjc93WwwYazY"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate No. 05 • Central Highlands</span>
+<h3 class="font-headline-md text-headline-md text-on-primary mt-1">Two Leaves and a Bud</h3>
+<p class="font-body-md text-body-md text-on-primary/80 mt-0.5">Gentle harvest rhythms inside the Pedro Estate slopes.</p>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Nuwara Eliya (6,200 ft)</span>
+<span>Single-Estate Harvest</span>
+</div>
+</article>
+<!-- Plate 06: Sacred Evening Oil Lamps Kandy (Asymmetric Focus) -->
+<article class="gallery-item lg:col-span-6 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="heritage">
+<div class="relative w-full h-[380px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Atmospheric night photograph inside the Temple of the Sacred Tooth Relic Sri Dalada Maligawa in Kandy, hundreds of clay coconut oil lamps glowing warmly in stone corridors, fragrant white frangipani blossoms, deep meditative shadows, worshippers clad in pure white robes." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAHp_KZGQtMK7Ujkclvo4uaHJCr2habxbeJsr9RQZFOooMD1wGfqnaTobKJDAafU_l3mx8ozta06qgSeO-u1cclZG9jeWHEPQI58_N675p5UWJfiJ4lWLjWYNgbakLlQRFCIe5e516WhW5Pf4KO-HXdcBej11MjHeqUlATxpomJapvBbRI18_MaJY5Trd8UCbzcqzvLfXqR_8UxvgFAukE7gB9-aG1CdRRp4DRxB-Xe7eEhXBsqeS0"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/30 to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate No. 06 • Sacred Heritage</span>
+<h3 class="font-headline-md text-headline-md text-on-primary mt-1">Evening Thevava Rituals</h3>
+<p class="font-body-md text-body-md text-on-primary/80 mt-0.5">Drums echo through ancient timber pillared ambulatories during private twilight admittance.</p>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Sri Dalada Maligawa, Kandy</span>
+<span>UNESCO Sacred Reserve</span>
+</div>
+</article>
+<!-- Plate 07: Private Spice Grove Table (Gastronomy Feature) -->
+<article class="gallery-item lg:col-span-6 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="gastronomy">
+<div class="relative w-full h-[380px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Curated outdoor dining setting in an organic ancient spice grove in Matale Sri Lanka, rustic teakwood table draped with fresh banana leaves laden with heirloom red rice, fragrant coconut sambol, clay curry pots, dappled sunlight filtering through nutmeg trees." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCjlbVnkeY0-TrNzdZVai0GnmIw2GlkefL5GxuinIiGXk3P7dKiig7p_FY4pZZV40_Zq5j-KtR7nkQIfUcKv1XU-JCLlY-ViqHXF50p043aj_oXpcVN8NTZpcxv21WEOJLtBFmeF-1cQVwu1kmtIlC_IABrraj-0_36xmO0jZwYvZUP12pvn-sMWLz3JHg3CaENzZGG8E45c-RjP4u3v8VCfOYAB-E5CX2vqmF9QI5qCtoE6nvXPbk"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate No. 07 • Slow Food Epiphany</span>
+<h3 class="font-headline-md text-headline-md text-on-primary mt-1">Spices of the Forest Floor</h3>
+<p class="font-body-md text-body-md text-on-primary/80 mt-0.5">A four-course village tasting cooked entirely over open cinnamon-wood fire.</p>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Organic Spice Estate, Matale</span>
+<span>Heirloom Culinary Table</span>
+</div>
+</article>
+<!-- Plate 08: Blue Whale Fluke Mirissa -->
+<article class="gallery-item lg:col-span-3 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="ocean">
+<div class="relative w-full h-[340px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="A gigantic blue whale fluke tail fin breaking the surface of deep ultramarine sapphire Indian ocean waters off Mirissa, shimmering water droplets freezing in crisp sea breeze, gentle ocean horizon beneath calm pale blue sky." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCY4c_j_2yw_xaEVueVh4levl80tU3Tgepm1OlcSjc4AVrcubd8d2yz5FZFoUuhGQFl3dJTHAqEWTVjQK3TNBvtvdB64DBViinq9c8VluShbxMzgLNA_1Z1d_nFtN7lqE0TID56JMAJflceysikQAyr3xyvd64G7IKG0OY8kxTSOdyuQ90oFwD-hgmeEBDZOd9LGuuBXKo5R6c3EAhX1UnMVY4sst5UDZ0AeKLB8UDVHXsE6DpZbp0"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/85 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate 08 • Pelagic</span>
+<h4 class="font-headline-sm text-headline-sm text-on-primary mt-1">Titan of the Trench</h4>
+</div>
+</div>
+<div class="p-space-sm px-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption">
+            Mirissa Deep Continental Shelf
+          </div>
+</article>
+<!-- Plate 09: Galle Fort Colonnades at Twilight -->
+<article class="gallery-item lg:col-span-3 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="heritage">
+<div class="relative w-full h-[340px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Elegant colonial Dutch ramparts and whitewashed stone colonnades in Galle Fort at twilight, glowing vintage brass street lanterns, cobbled wet street reflecting indigo dusk sky, solitary traveler walking under banyan canopy." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCdFNx0nOH0W3hOppOfqCAYTo-iQWEyMDdOT1IzttaJvSNrzF6Yz2ZWqsfOwvRHqUEqkgBO3n7HoRMpquZjVYTLSdkl4jo22OjLguvP47sjkxK6qX7TPlFMm1BZdRqIncEisd4IemZhWtKv558j1j2aLZZ09sMCdTWJZjJKZG7RGljEeTrAN69IpyeuA6FZwIWKSmaJ2J6kY9FEVWCL0kDj7q2BRZoKecgh_3WBROG8BCjt3Plv4Ns"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/85 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate 09 • Architecture</span>
+<h4 class="font-headline-sm text-headline-sm text-on-primary mt-1">Ramparts in Indigo</h4>
+</div>
+</div>
+<div class="p-space-sm px-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption">
+            Church Street, Galle Fort
+          </div>
+</article>
+<!-- Plate 10: Family Laughing with Guide Dinesh (People / Moments) -->
+<article class="gallery-item lg:col-span-3 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="people">
+<div class="relative w-full h-[340px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Candid authentic documentary portrait of a European traveler family laughing warmly with their Sri Lankan private chauffeur-guide Dinesh under palm fronds in Polonnaruwa, sharing freshly opened bright orange king coconuts, sunny warm tropical afternoon ambiance." src="https://lh3.googleusercontent.com/aida-public/AB6AXuD0tIvfZ_h1ObJkkBxqgtD5bwXD3Tu5_kDDaLgbwvUWQlN_LrU68pBr1CP7eRVQhyQe5WurS5gjenDwORvU02HazM6aWGKEDbe9N6EYs1UXvY8SOFpi-BqDEC4kT07QKk2FsRpYtRMc46326K_zu6QQulGihCqlrqkQOVboneiU4NLKohrCxCh_LzqqSe9aHi-k3jE4lJ5_gXLp6ZF4b5JABs1SPywPAMT6m0c6Gis4Z43nA9xbgaA"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/85 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate 10 • Fellowships</span>
+<h4 class="font-headline-sm text-headline-sm text-on-primary mt-1">Thambili &amp; Tales</h4>
+</div>
+</div>
+<div class="p-space-sm px-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption">
+            Ancient City of Polonnaruwa
+          </div>
+</article>
+<!-- Plate 11: World's End Cloud Forest Precipice -->
+<article class="gallery-item lg:col-span-3 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="wildlife">
+<div class="relative w-full h-[340px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Dramatic cloud forest escarpment drop at Worlds End in Horton Plains National Park Sri Lanka, swirling thick white mist revealing distant tea valleys 4000 feet below, rhododendron shrubs and mossy ancient dwarf trees." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBrmePzi1CyapL5RyjRDcih8PH3GkH8Tr6v6tY32JZyCk9yClW3JesBVI1ScDuEm8LbOtufijh7yvmny-4yEDSTP1RkirnHUTbBIyT8TNzfn60Ro65X6yemalVZrOXiHKbTOY3Kdzs3ft7B7KLOdfY7LaCnGtOnb_KbwRGrTr1eDjLnOImN490al2XRrshYtyZhgweMzmwZBzK2cMXAH1l_i4qMJQHoEq-j8Z3NRe7IhiWjWeV7qew"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/85 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-space-md left-space-md right-space-md text-on-primary">
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-wider">Plate 11 • Highland Edge</span>
+<h4 class="font-headline-sm text-headline-sm text-on-primary mt-1">The Great Abyss</h4>
+</div>
+</div>
+<div class="p-space-sm px-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption">
+            Horton Plains High Plateau
+          </div>
+</article>
+<!-- Plate 12: Kandalama Reservoir Sunset Water Lilies (Full Bleed Accent) -->
+<article class="gallery-item lg:col-span-12 group relative flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500" data-category="heritage">
+<div class="relative w-full h-[340px] md:h-[420px] overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" data-alt="Serene panoramic sunset over ancient Kandalama reservoir in Dambulla Sri Lanka, mirror-calm water reflecting purple and dusty terracotta sky, floating pink water lilies in foreground, distant silhouetted Sigiriya rock horizon, tropical birds in flight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB04Btwbu7mmNRjkyDN5trGo9vZsDWkqP6wzVH202f7C8fet_rxOE5Vy1FHYwaI4W_uOBCDL2vqo2Q3oFELW-yC2DSMaSNeWXXseTqjT3creQQosQ_hJLl2lxgPFWTfpiCzwS3s_G2hNK_o3tEJ1aKexqmEMQLH71pRxckyojBT11EWKpOk7MSreVeWFWXIsYLipJYbGD4dWNO9T2JLrOM5hI0DL1Nk4G6fI7onG9XzBo4iujfI4V0"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/30 to-transparent pointer-events-none"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface-container-lowest/90 backdrop-blur-md px-space-sm py-1 rounded-full font-label-md text-label-md text-primary font-semibold tracking-wider uppercase">
+                Ancient Irrigation Engineering
+              </span>
+</div>
+<div class="absolute bottom-space-lg left-space-md md:left-space-xl right-space-md md:right-space-xl flex flex-col md:flex-row md:items-end justify-between gap-space-md text-on-primary">
+<div>
+<span class="font-label-md text-label-md text-secondary-fixed uppercase tracking-[0.2em]">Plate No. 12 • The Dry Zone Tanks</span>
+<h3 class="font-headline-lg text-headline-lg text-on-primary mt-1">Water Lilies of King Aggabodhi</h3>
+<p class="font-body-lg text-body-lg text-on-primary/85 max-w-xl mt-1">A quiet pontoon crossing as evening storks and white-bellied sea eagles settle into the forest rim.</p>
+</div>
+<div class="bg-primary-container/80 backdrop-blur-md p-space-md rounded-xl text-on-primary max-w-xs shrink-0">
+<span class="font-label-md text-label-md text-on-primary-container uppercase tracking-wider block">Private Access</span>
+<span class="font-body-md text-body-md mt-1 block">Included on our 14-day Island Odyssey charter</span>
+</div>
+</div>
+</div>
+<div class="p-space-md bg-surface-container-lowest text-on-surface-variant font-caption text-caption flex items-center justify-between">
+<span class="flex items-center gap-1"><span class="material-symbols-outlined text-[16px] text-primary">pin_drop</span>Kandalama Wewa, Dambulla</span>
+<span>Naturalist Expedition Note</span>
+</div>
+</article>
+</div>
+<!-- Curated Quote Overlay -->
+<div class="mt-space-2xl bg-surface-container-low p-space-xl rounded-xl relative overflow-hidden">
+<div class="absolute -right-8 -bottom-10 opacity-5 pointer-events-none select-none">
+<span class="font-display-lg text-[220px] font-serif leading-none text-primary">“</span>
+</div>
+<div class="relative z-10 max-w-3xl">
+<span class="font-label-md text-label-md text-secondary uppercase tracking-[0.2em] font-semibold block mb-2">Guest Chronicle</span>
+<p class="font-headline-md text-headline-md text-primary italic leading-relaxed">
+            “No lens can truly prepare you for the fragrance of the wet cinnamon bark after a monsoon shower or the serene hush when a mother elephant crosses your jungle path. Dinesh didn’t just show us Sri Lanka—he invited us inside its soul.”
+          </p>
+<div class="flex items-center gap-space-md mt-space-md">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center font-headline-sm text-headline-sm">
+              S
+            </div>
+<div>
+<p class="font-headline-sm text-headline-sm text-primary">The Montgomery Family</p>
+<p class="font-caption text-caption text-on-surface-variant">Private Charter Guests • Surrey, United Kingdom</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Featured Expedition Films Section ("Cinematic Chronicles") -->
+<section class="w-full bg-surface-container-high py-space-3xl relative">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="flex flex-col md:flex-row md:items-end justify-between gap-space-md pb-space-xl">
+<div>
+<span class="inline-flex items-center gap-2 font-label-lg text-label-lg text-secondary uppercase tracking-[0.2em]">
+<span class="material-symbols-outlined text-[18px]">videocam</span>
+            Cinematic Chronicles
+          </span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-medium mt-1">
+            Moving Portraits of Ceylon
+          </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-xl mt-1">
+            Experience the cadence of private exploration through soundscapes recorded on 35mm film across the island’s microclimates.
+          </p>
+</div>
+<div class="shrink-0">
+<span class="inline-flex items-center gap-2 text-primary font-label-md text-label-md uppercase tracking-wider bg-surface-container-lowest px-space-md py-space-xs rounded-full shadow-sm">
+<span class="w-2 h-2 rounded-full bg-secondary"></span>
+            4K Master Soundtracks
+          </span>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter-lg">
+<!-- Film Card 1 -->
+<div class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500">
+<div class="relative w-full h-64 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" data-alt="Atmospheric video still showing a lone hiker reaching the upper lion paws staircase of Sigiriya Citadel under soft peach sunrise sky, solitary silence, distant misty jungle plains." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBsFM205D1VkxgoCSmv-FFKzptdJAVju7Vxx6dbvMBJajiSZh01VesymgavDKksGxikCr-kcjUGgG2OY79IiYgdZl1oiJffNbXQa69xAQWMuCs7RpF39LBR-nkWlrjVE5VL3E1bhGp2xNsFKrqG0N6VLNVV9YtjByrPgeD-kLbLY2btlOxkzf40YBPJAeFqD4jmRqitYh16MdMNcMrW9PrsgRhrtJds2i5ZEYTrytKRkqB-UlaJuc4"/>
+<div class="absolute inset-0 bg-primary/30 group-hover:bg-primary/10 transition-colors duration-300"></div>
+<!-- Play Button Trigger -->
+<button aria-label="Play Film" class="absolute inset-0 m-auto w-14 h-14 rounded-full bg-primary/90 text-on-primary flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:bg-secondary transition-all duration-300">
+<span class="material-symbols-outlined text-[28px] ml-0.5">play_arrow</span>
+</button>
+<div class="absolute bottom-space-sm right-space-sm bg-black/75 text-white px-2 py-0.5 rounded text-caption font-label-md tracking-wider">
+              3:15 MIN
+            </div>
+<div class="absolute top-space-sm left-space-sm bg-surface/90 text-primary px-space-xs py-0.5 rounded font-label-md text-label-md uppercase">
+              Chapter I
+            </div>
+</div>
+<div class="p-space-md flex flex-col flex-1 justify-between">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-wider">Dawn Elevation</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mt-1 group-hover:text-secondary transition-colors">
+                Dawn Over Sigiriya: Climbing the Sky Citadel Before the Crowds
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">
+                An early 5:00 AM ascent revealing fifth-century frescoes and mirrored plaster walls bathed in morning light.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md border-none flex items-center justify-between font-caption text-caption text-on-surface-variant bg-surface-container-low p-space-sm rounded-lg">
+<span>Recorded with Sound Designer Aruna</span>
+<span class="material-symbols-outlined text-[16px] text-primary">headphones</span>
+</div>
+</div>
+</div>
+<!-- Film Card 2 -->
+<div class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500">
+<div class="relative w-full h-64 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" data-alt="Video preview still of vintage red and blue train snaking through dense high mountain eucalyptus forest and mist in Nuwara Eliya and Ella Sri Lanka, open carriage doors, dramatic gorge view." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA_gWLfFBAkzd7HVMSW_yujMp3yqx6rcdc3zaVSriZhGSip592zFTYG4iy-E9rPDPrp2EAmqEaDjkuLO4Nbs1pDhykvGaDBQea-xRlWhdkHyEXCooQKbz1G7XQ995YoUNTjz9UdYsA4pY-kuoaD7coYv4Y3q_6Og3RjcxPqyeJaDdgZuWJgjHr66bkWgHU7DMt8k--e5s7A2JpWj6gADdeB50dDSIAnm8XG0E4z8Sp1zizf_vAm0FA"/>
+<div class="absolute inset-0 bg-primary/30 group-hover:bg-primary/10 transition-colors duration-300"></div>
+<!-- Play Button Trigger -->
+<button aria-label="Play Film" class="absolute inset-0 m-auto w-14 h-14 rounded-full bg-primary/90 text-on-primary flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:bg-secondary transition-all duration-300">
+<span class="material-symbols-outlined text-[28px] ml-0.5">play_arrow</span>
+</button>
+<div class="absolute bottom-space-sm right-space-sm bg-black/75 text-white px-2 py-0.5 rounded text-caption font-label-md tracking-wider">
+              4:40 MIN
+            </div>
+<div class="absolute top-space-sm left-space-sm bg-surface/90 text-primary px-space-xs py-0.5 rounded font-label-md text-label-md uppercase">
+              Chapter II
+            </div>
+</div>
+<div class="p-space-md flex flex-col flex-1 justify-between">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-wider">The Colonial Line</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mt-1 group-hover:text-secondary transition-colors">
+                The Highland Railway: From Kandy to the Tea Clouds of Ella
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">
+                Rattling through high viaducts, water cascades, and fragrant mountain air aboard private reserved observation carriages.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md border-none flex items-center justify-between font-caption text-caption text-on-surface-variant bg-surface-container-low p-space-sm rounded-lg">
+<span>Narrated by Historian C. Mendis</span>
+<span class="material-symbols-outlined text-[16px] text-primary">headphones</span>
+</div>
+</div>
+</div>
+<!-- Film Card 3 -->
+<div class="group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500">
+<div class="relative w-full h-64 overflow-hidden bg-surface-container">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" data-alt="Cinematic still of an open custom safari vehicle traversing a dry riverbed in Yala National Park, a senior naturalist holding binoculars observing spotted deer alerts and fresh tracks in river sand." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCNw-lpu54RfsNA6UwwVb4RReH6giSTicPCHnW8qzDnwv6viPJq53ccPj9Lw-5BaAQ9-UOnTea3eyLfMZuAVwr3qWKp2RAP_HgJDtqRYJC2Wm6xzEuhWlp74o8ZNBeatIhFXr1MvIYeraihW-CnRBJlppgpDoUJCUkhrPmGIysbtyjuHvboWFEGXyKfLL1aGNTiX4fT88kUH434oIxI-D15HgKa-WmjGpQyEL9qJ_4HeBqX5vrsSO0"/>
+<div class="absolute inset-0 bg-primary/30 group-hover:bg-primary/10 transition-colors duration-300"></div>
+<!-- Play Button Trigger -->
+<button aria-label="Play Film" class="absolute inset-0 m-auto w-14 h-14 rounded-full bg-primary/90 text-on-primary flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:bg-secondary transition-all duration-300">
+<span class="material-symbols-outlined text-[28px] ml-0.5">play_arrow</span>
+</button>
+<div class="absolute bottom-space-sm right-space-sm bg-black/75 text-white px-2 py-0.5 rounded text-caption font-label-md tracking-wider">
+              5:10 MIN
+            </div>
+<div class="absolute top-space-sm left-space-sm bg-surface/90 text-primary px-space-xs py-0.5 rounded font-label-md text-label-md uppercase">
+              Chapter III
+            </div>
+</div>
+<div class="p-space-md flex flex-col flex-1 justify-between">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-wider">Apex Wilderness</span>
+<h3 class="font-headline-sm text-headline-sm text-primary mt-1 group-hover:text-secondary transition-colors">
+                Untamed Yala: Tracking the Apex Predator with Senior Naturalists
+              </h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">
+                Patience, jungle acoustic signals, and tracking Sri Lanka’s solitary leopards deep within protected dry forest zones.
+              </p>
+</div>
+<div class="pt-space-md mt-space-md border-none flex items-center justify-between font-caption text-caption text-on-surface-variant bg-surface-container-low p-space-sm rounded-lg">
+<span>Lead Naturalist Field Dispatch</span>
+<span class="material-symbols-outlined text-[16px] text-primary">headphones</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Instagram Community Aesthetic Stream -->
+<section class="w-full bg-surface py-space-2xl">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="flex flex-col sm:flex-row items-start sm:items-end justify-between gap-space-sm mb-space-lg">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-[0.2em] font-semibold">Live Field Notes</span>
+<h2 class="font-headline-lg text-headline-lg text-primary font-medium mt-1">
+            Follow the Journey @serendiva.ceylon
+          </h2>
+</div>
+<a class="inline-flex items-center gap-space-xs font-label-lg text-label-lg text-primary hover:text-secondary uppercase tracking-wider transition-colors" href="https://instagram.com" rel="noopener noreferrer" target="_blank">
+<span>Explore Journal Feed</span>
+<span class="material-symbols-outlined text-[18px]">arrow_outward</span>
+</a>
+</div>
+<!-- 6-Photo Curated Square Mosaic -->
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-space-sm">
+<a class="group relative aspect-square overflow-hidden rounded-lg bg-surface-container" href="#">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Intimate top-down shot of clay cups filled with hot spiced Ceylon milk tea on an old brass tray with cinnamon quills and cardamoms, rustic plantation ambiance." src="https://lh3.googleusercontent.com/aida-public/AB6AXuABGDQabsVAXxYbhGvjKp19A5CEwfRySNejRSTfa1uMck2jCng0NxLkazzyLZoEMVmjyFS5zpKe7a0rhU1lFQRmaBLrWXJIJKaNre4M5ULvt-0ZA6K4OGqrG2Y_yYqnCHOMUsqaGysYtD6SrP5cYPqjDvjICFXOf6tHQfkA9AaMMYdzY01KUoqZxy3SWtoL7BA2KXoEj2FaY7zizr1IhWn_dDaP1JDoRUTWrg_pYpPggZdmBhBKVag"/>
+<div class="absolute inset-0 bg-primary/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined text-[24px]">favorite</span>
+</div>
+</a>
+<a class="group relative aspect-square overflow-hidden rounded-lg bg-surface-container" href="#">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Dramatic architectural angle of Geoffrey Bawa inspired tropical modernist concrete villa nestled into lush jungle foliage with reflecting infinity pool." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCoMk4Eo5dnVx9TkN0ZIP4-feQv3NpDwZEk05hXOuWRlMvyS2eUKkzH14b1CzBt8yyU7y4Y2xt6aOV88vNnNC4KJcyphH5aIpORuc3RMLxoTXxrOKO22MmncCZtk2igmDZ2RU9_PWD_34499rFKd8qo4NfspwDeoeRm9UpFp9B3Jzn7E-xpWeGF5wwYsdVYWSjXi24NzR9cHSG6HpT-PqXZwV3Kq5fG7x4QUYb-tQWQHFZxq3vrJ6k"/>
+<div class="absolute inset-0 bg-primary/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined text-[24px]">favorite</span>
+</div>
+</a>
+<a class="group relative aspect-square overflow-hidden rounded-lg bg-surface-container" href="#">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="A wild majestic Asian elephant with grand tusks walking through tall golden savannah grass at Udawalawe National Park during afternoon golden hour." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDFC02FMamftGYy5BbuNxSpJeY1ZKE6Crw02hI4cU8gnlInxhFHkQQI4JXiHCjGwiQds3LkD5NZmv0ULBgKELyNC9fzpiPoRx_GUoZ8aKwhubB895Zv58d6Pg9p1_F22VOMHozN832D8uILzz_k1bdWCeG4aFSuedUz9zTHbKtdJXInJD2i8PC2mHIk_uJ760dZb64eHwH38j15BraxDI5iiJKIBz9_O0aXax4MIznTSkiseWClnVc"/>
+<div class="absolute inset-0 bg-primary/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined text-[24px]">favorite</span>
+</div>
+</a>
+<a class="group relative aspect-square overflow-hidden rounded-lg bg-surface-container" href="#">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Traditional hand-painted wooden masks of Sri Lanka hanging in an artisan workshop in Ambalangoda, rich red and teal pigments and exquisite craftsmanship." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB8vXIFp26BnnRdRiQBOXeXLTSyi0tS0kDfd88CHP_tWEnF6VAGEA8L9YI608kAkeN0GS-Tb7OB8FPa3p8NT4G3c1TaCu7nVFsVpvSYtCIXQ3sc2ONOsbQ_nYGtqgdijdiJovVN206vjh4nxxDOuxvoTNJhxWtUY1FX6U2CRXzW8egt5BGZb7SBTuZyCBaLWJUDDplJxLw8ktny-iLOKmLJa-w57KHuQ6RV1cOKD32PfbwcBAMCmb4"/>
+<div class="absolute inset-0 bg-primary/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined text-[24px]">favorite</span>
+</div>
+</a>
+<a class="group relative aspect-square overflow-hidden rounded-lg bg-surface-container" href="#">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Serene secluded white sand beach in Tangalle lined with leaning coconut palms and gentle turquoise Indian ocean waves breaking against dark rock outcrops." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBc75DyMjy61rsm0ENOvlMt9DOFlhGs32klgi_CIlnF6y2BFc1cVWDbqJ4OWl3XTWWMkXHzTHh-qczg8v3UxpfKFQCgIxFoQnv9YuDJJtMAyAx9qH51yJ8n2RbeoxpC91EJ_vHOVzzvi80iKVeqloTi9eLKnm46REcCf2RbMUtBdg2r6Rzi9GB6ue-MJ2eqaZgLTR2N0bPQIeJmofTKTgXpAGnzSe3qaqcn5jP3i5Xz-wP9hQCfn28"/>
+<div class="absolute inset-0 bg-primary/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined text-[24px]">favorite</span>
+</div>
+</a>
+<a class="group relative aspect-square overflow-hidden rounded-lg bg-surface-container" href="#">
+<img class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" data-alt="Hand of a private chauffeur holding an antique brass key fob against a polished classic Mercedes dashboard parked outside a colonial tea bungalow." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCA-khfoJ3ZZa8qnKoF36u1tvRehdm1gby_jVXTI52BXMvn5Sn5IVrc6xgrkZh4k6Mp7namqhn0pGeYS4wXaI_-xxtgPlGPbwfRbMaDh3fHF2U2iDopjCaagh34Veusi36hxwuAd0qBDCd1vlny0vG0zc-8KqEedi_X77RbQreQHncFsB76qHyZhR8F4l-dsX5E6gOWyIeHwwg7b93vcu54vvg3XaZCZ2t6v3hx061D3GXGtlMYaQE"/>
+<div class="absolute inset-0 bg-primary/40 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center text-on-primary">
+<span class="material-symbols-outlined text-[24px]">favorite</span>
+</div>
+</a>
+</div>
+</div>
+</section>
+<!-- Final Visual Bespoke Call to Action -->
+<section class="w-full bg-surface-container-high py-space-3xl relative overflow-hidden">
+<div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg">
+<div class="relative bg-surface-container-lowest rounded-xl p-space-xl md:p-space-2xl shadow-xl overflow-hidden">
+<!-- Subtle Background Motif -->
+<div class="absolute right-0 top-0 bottom-0 w-1/3 opacity-10 pointer-events-none hidden lg:block">
+<svg class="w-full h-full" fill="none" viewbox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<path class="text-primary" d="M100 0C44.77 0 0 44.77 0 100C0 155.23 44.77 200 100 200C155.23 200 200 155.23 200 100C200 44.77 155.23 0 100 0ZM100 180C55.82 180 20 144.18 20 100C20 55.82 55.82 20 100 20C144.18 20 180 55.82 180 100C180 144.18 144.18 180 100 180Z" fill="currentColor"></path>
+</svg>
+</div>
+<div class="relative z-10 max-w-2xl">
+<div class="inline-flex items-center gap-space-xs font-label-md text-label-md text-secondary uppercase tracking-[0.2em] mb-2 font-semibold">
+<span class="material-symbols-outlined text-[16px]">map</span>
+            From Imagery to Reality
+          </div>
+<h2 class="font-headline-xl text-headline-xl text-primary font-medium tracking-tight">
+            Want to Experience These Moments Firsthand?
+          </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mt-space-sm font-light">
+            Every photograph was taken on a private journey curated for our guests. Let Dinesh and our concierge team tailor your personalized passage across Sri Lanka.
+          </p>
+<div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-space-md mt-space-xl">
+<!-- Cinnamon Primary CTA -->
+<a class="inline-flex items-center justify-center gap-space-xs bg-secondary hover:bg-on-secondary-container text-on-secondary font-label-lg text-label-lg uppercase tracking-widest px-space-xl py-space-md rounded-xl shadow-md transition-all duration-300 transform active:scale-95 text-center" data-path="plan-my-trip" href="#">
+<span>Plan My Custom Trip</span>
+<span class="material-symbols-outlined text-[18px]">east</span>
+</a>
+<!-- Emerald WhatsApp Concierge CTA -->
+<a class="inline-flex items-center justify-center gap-space-xs bg-tertiary-container hover:bg-tertiary text-on-tertiary font-label-lg text-label-lg uppercase tracking-widest px-space-lg py-space-md rounded-xl transition-all duration-300 shadow-sm text-center" href="https://wa.me/94771234567" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-[20px]">chat</span>
+<span>Chat with Dinesh on WhatsApp</span>
+</a>
+</div>
+<div class="flex flex-wrap items-center gap-space-lg mt-space-lg pt-space-md border-none text-on-surface-variant font-caption text-caption">
+<span class="flex items-center gap-1">
+<span class="material-symbols-outlined text-secondary text-[16px]">verified</span>
+              100% Tailored Private Chauffeur Itineraries
+            </span>
+<span class="flex items-center gap-1">
+<span class="material-symbols-outlined text-secondary text-[16px]">schedule</span>
+              Bespoke Proposals Within 24 Hours
+            </span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Interactive Filtering Script -->
+<script>
+    (function initGalleryFilter() {
+      const filterButtons = document.querySelectorAll('.filter-btn');
+      const galleryItems = document.querySelectorAll('.gallery-item');
+
+      filterButtons.forEach(button => {
+        button.addEventListener('click', () => {
+          // Update active styles
+          filterButtons.forEach(btn => {
+            btn.classList.remove('bg-primary', 'text-on-primary', 'shadow-sm');
+            btn.classList.add('bg-surface-container', 'text-on-surface-variant');
+          });
+          button.classList.add('bg-primary', 'text-on-primary', 'shadow-sm');
+          button.classList.remove('bg-surface-container', 'text-on-surface-variant');
+
+          const filterValue = button.getAttribute('data-filter');
+
+          galleryItems.forEach(item => {
+            const category = item.getAttribute('data-category');
+            if (filterValue === 'all' || category === filterValue) {
+              item.style.display = 'flex';
+              item.style.opacity = '0';
+              setTimeout(() => {
+                item.style.transition = 'opacity 0.4s ease';
+                item.style.opacity = '1';
+              }, 50);
+            } else {
+              item.style.display = 'none';
+            }
+          });
+        });
+      });
+    })();
+  </script>
+</div></main><footer class="w-full bg-surface-container-low pt-space-3xl pb-space-2xl text-on-surface shadow-[0_-1px_12px_rgba(0,0,0,0.02)]"><div class="max-w-[1440px] mx-auto px-margin lg:px-margin-lg"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg pb-space-2xl"><div class="lg:col-span-4 flex flex-col gap-space-md"><div class="flex items-center gap-space-md"><img alt="Serendiva - Ceylon Private Journeys logo" class="h-9 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VQ4AIrGfGYIQ4hXv_6vXCglc2B386ZdxbNqItM2n38Dyfl97tvY6h6bVbqfr9Rz3ZBQsFyRroh-M6BhNKkl2wjV8JI_cVgwsCSZn91P9FvCNslwtfTTAl2yH9-0Wf8JCrkvJM6POcIOgrG_7DohE2RxpWMCIVZzIfpYpSEOCY9iRQ9qCWGWrlfpB1MFwthNbgutwiHSEyIu_9jBhHNdKxlE9BcQ_jtAZfEFXq3g24xoomwBqmkkA-tfQ"/><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight leading-none">SERENDIVA</span><span class="font-label-md text-label-md uppercase tracking-[0.2em] text-on-surface-variant mt-1">Ceylon Private Journeys</span></div></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm mt-space-xs">Curating private bespoke expeditions, architectural sanctuary stays, and naturalist-led immersions across the heritage isle of Sri Lanka.</p><div class="mt-space-sm p-space-md rounded-xl bg-surface-container-high/60 max-w-sm flex items-start gap-space-sm"><span class="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">verified</span><div class="flex flex-col"><span class="font-label-md text-label-md text-on-surface font-semibold uppercase tracking-wider">SLTDA Accredited Agency</span><span class="font-caption text-caption text-on-surface-variant mt-0.5">Licensed National Tourist Chauffeur &amp; Tour Operator #TL/1482</span></div></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><h4 class="font-headline-sm text-headline-sm text-primary">Expeditions</h4><ul class="flex flex-col gap-space-sm font-body-md text-body-md text-on-surface-variant"><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Ceylon Tea Trails</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Colonial Heritage Estates</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Endemic Leopard Safaris</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Southern Coastal Pavilions</a></li><li><a class="hover:text-primary transition-colors" data-path="tours" href="#">Cultural Triangle By Air</a></li></ul></div><div class="lg:col-span-3 flex flex-col gap-space-md"><h4 class="font-headline-sm text-headline-sm text-primary">Private Concierge</h4><div class="flex flex-col gap-space-sm font-body-md text-body-md text-on-surface-variant"><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-primary">call</span><a class="hover:text-primary transition-colors" href="tel:+94771234567">+94 77 123 4567</a></div><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-primary">mail</span><a class="hover:text-primary transition-colors" href="mailto:concierge@serendiva-journeys.com">concierge@serendiva-journeys.com</a></div><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-tertiary-container">forum</span><a class="hover:text-primary transition-colors" href="https://wa.me/94771234567">Dedicated Chauffeur Desk</a></div><div class="flex items-center gap-space-sm"><span class="material-symbols-outlined text-[18px] text-primary">location_on</span><span>Galle Fort &amp; Colombo 07, Sri Lanka</span></div></div></div><div class="lg:col-span-3 flex flex-col gap-space-md"><h4 class="font-headline-sm text-headline-sm text-primary">The Private Journal</h4><p class="font-body-md text-body-md text-on-surface-variant">Receive unhurried seasonal dispatches, architectural villa debuts, and endemic wildlife notes.</p><form class="flex flex-col gap-space-sm mt-space-xs"><div class="relative"><input class="w-full px-space-md py-space-sm rounded-xl bg-surface-container-lowest text-on-surface placeholder:text-on-surface-variant/60 font-body-md text-body-md focus:outline-none focus:ring-1 focus:ring-primary shadow-[0_4px_12px_-4px_rgba(43,43,43,0.04)]" placeholder="Enter your correspondence email" type="email"/></div><button class="w-full bg-primary hover:bg-primary-container text-on-primary font-label-lg text-label-lg uppercase tracking-wider py-space-sm rounded-xl transition-all duration-200 shadow-[0_16px_36px_-12px_rgba(43,43,43,0.08)]" type="button">Subscribe to Dispatches</button></form></div></div><div class="pt-space-xl mt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md font-caption text-caption text-on-surface-variant"><p>© 2025 Serendiva Ceylon Private Journeys (Pvt) Ltd. All rights reserved.</p><div class="flex items-center gap-space-lg"><a class="hover:text-primary transition-colors" data-path="legal" href="#">Terms of Bespoke Charter</a><a class="hover:text-primary transition-colors" data-path="legal" href="#">Guest Privacy Policy</a><a class="hover:text-primary transition-colors" data-path="legal" href="#">Sustainability Charter</a></div></div></div></footer></body></html>

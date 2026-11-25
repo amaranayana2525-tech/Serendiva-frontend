@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "Responsible Travel in Sri Lanka: How I Travel Lightly",
+    "description": "How I guide low-impact private journeys in Sri Lanka: ethical safaris, zero single-use plastics, direct community partnerships, sacred-site respect and a mindful traveller checklist."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Responsible Travel"
+  },
+  "status": "Low-Impact, Community-First Journeys",
+  "hero": {
+    "badge": "Mindful Expeditions • Regenerative Tourism",
+    "title": "Travel Smart, Tread Lightly Across Ceylon",
+    "intro": "I believe private travel should honour the island that hosts us. Every journey I guide protects fragile ecosystems, enriches local communities and respects living sacred heritage.",
+    "stats": {
+      "plastic": {
+        "value": "100%",
+        "label": "Single-Use Plastic Free"
+      },
+      "commission": {
+        "value": "0",
+        "label": "Commission Shopping Stops"
+      },
+      "saplings": {
+        "value": "5:1",
+        "label": "Endemic Saplings per Journey"
+      }
+    }
+  },
+  "pillars": {
+    "eyebrow": "My Unwavering Ethos",
+    "title": "The Four Pillars of Conscious Custodianship",
+    "intro": "A simple policy of restraint, respect and fair sharing — so that every mile we travel together leaves Sri Lanka richer than we found it.",
+    "items": {
+      "wildlife": {
+        "label": "Pillar I",
+        "title": "Wildlife Distance & Ethical Safaris",
+        "body": "I follow the Department of Wildlife Conservation code to the letter: no chasing leopards or elephants and no crowding sightings. Safaris use small, quiet jeeps with good vantage points and binoculars on board.",
+        "check": "No Horns • Quiet Engines"
+      },
+      "plastic": {
+        "label": "Pillar II",
+        "title": "Zero Single-Use Plastics On Board",
+        "body": "Every guest receives a stainless-steel flask, refilled daily with filtered water — and chilled king coconuts bought straight from village farmers. You will not find a single plastic bottle in my vehicle.",
+        "check": "King Coconuts • Refillable Flasks"
+      },
+      "community": {
+        "label": "Pillar III",
+        "title": "Direct Community Enrichment",
+        "body": "I never take guests to commission-paying souvenir emporiums or shopping traps. Village cooks, artisans, boatmen and local naturalists are engaged directly, so the full value of every experience stays with resident families.",
+        "check": "Fair Remuneration Model"
+      },
+      "culture": {
+        "label": "Pillar IV",
+        "title": "Sacred Cultural Preservation",
+        "body": "Honouring ancient customs at Buddhist, Hindu and indigenous Vedda sanctuaries. I brief every guest on modest dress, quiet reverence and respectful photography before we arrive.",
+        "check": "Reverence Before Tourism"
+      }
+    }
+  },
+  "checklist": {
+    "eyebrow": "Conscious Traveler Field Guide",
+    "title": "How You Can Help: Traveler’s Mindful Checklist",
+    "intro": "The mindful habits my guests practise. Tick them off as you prepare for your journey — your list is saved on this device.",
+    "progress": "{done} of {total} habits ready",
+    "reset": "Clear Checklist",
+    "road": {
+      "title": "On the Road & Byways",
+      "subtitle": "Vehicle etiquette and rural encounters",
+      "items": {
+        "tote": {
+          "title": "Pack a reusable cloth tote",
+          "body": "Keep roadside market produce and temple offerings free of polythene bags."
+        },
+        "plastics": {
+          "title": "Refuse single-use plastics firmly",
+          "body": "Politely decline disposable straws, sachets and cutlery — I carry a stainless-steel cutlery kit in the vehicle."
+        },
+        "claypot": {
+          "title": "Request traditional claypot cooking",
+          "body": "Encourage village home cooks who simmer curries over open wood fires in ancestral earthenware."
+        },
+        "greetings": {
+          "title": "Learn a few Sinhala & Tamil greetings",
+          "body": "Simple words like <em>Ayubowan</em>, <em>Vanakkam</em> and <em>Isthuthi</em> build instant warmth and bridge cultures with dignity."
+        }
+      }
+    },
+    "nature": {
+      "title": "In Nature & Sacred Sanctuaries",
+      "subtitle": "Wild habitats, forest buffer zones and shrines",
+      "items": {
+        "perimeter": {
+          "title": "Keep a respectful distance from wildlife",
+          "body": "Never ask a driver to crowd wild elephant herds, sloth bears or nesting birds for a phone snapshot."
+        },
+        "linen": {
+          "title": "Wear white or shoulder-covering linen",
+          "body": "Honour temple etiquette: knees and shoulders covered, hats removed and shoes left at the gate of sacred courtyards."
+        },
+        "craftsmen": {
+          "title": "Support authentic brass & lace artisans",
+          "body": "Buy directly from village craftspeople rather than mass-produced, imported souvenir knock-offs."
+        },
+        "coral": {
+          "title": "Never buy coral or unlicensed antiques",
+          "body": "Help stop reef poaching and the illegal trade in historical artefacts protected by international antiquities law."
+        }
+      }
+    }
+  },
+  "partnerships": {
+    "eyebrow": "Living Stewardship",
+    "title": "Real Community Partnerships in Action",
+    "intro": "Beyond carbon offsets: grassroots initiatives sustained directly by the journeys I guide.",
+    "blogLink": "Read my responsible-travel field notes",
+    "items": {
+      "weavers": {
+        "badge": "Artisan Guild",
+        "title": "The Handloom Weavers of Dumbara Valley",
+        "body": "Supporting multi-generational women weavers near Kandy. When guests choose a piece in the workshop, the full value goes straight to the household looms — with no dealer markups in between.",
+        "metaOne": "Direct from the Loom",
+        "metaTwo": "Central Highlands"
+      },
+      "marine": {
+        "badge": "Ocean Custodianship",
+        "title": "Responsible Whale Watching off Mirissa",
+        "body": "I work only with local skippers who respect the whale-watching distance guidelines, never crowd a pod and never chase mothers with calves — so the encounter stays calm for the whales and for you.",
+        "metaOne": "Distance Guidelines Respected",
+        "metaTwo": "Southern Shelf"
+      },
+      "knuckles": {
+        "badge": "Canopy Restoration",
+        "title": "Reforestation of the Knuckles Buffer Zone",
+        "body": "Planting five endemic saplings for every private journey completed, together with village schools, to help restore forest corridors for the endangered purple-faced langur.",
+        "metaOne": "5 Trees / Journey",
+        "metaTwo": "Knuckles World Heritage"
+      }
+    }
+  },
+  "credentials": {
+    "eyebrow": "Codes I Travel By",
+    "title": "Credentials of Responsible Travel",
+    "body": "I hold myself to the standards of my SLTDA guide licence, the Department of Wildlife Conservation code and Leave No Trace principles on every journey.",
+    "items": {
+      "sltda": {
+        "title": "SLTDA Licensed",
+        "subtitle": "National Tourist Guide Lecturer"
+      },
+      "leaveNoTrace": {
+        "title": "Leave No Trace",
+        "subtitle": "Principles on every walk"
+      },
+      "fair": {
+        "title": "Fair Guiding",
+        "subtitle": "Local partners engaged directly"
+      }
+    }
+  },
+  "creed": {
+    "eyebrow": "My Personal Creed",
+    "quote": "“Ceylon is not a commodity to be consumed, but an ancient sanctuary to be cherished. When you journey with me, we travel as respectful guests of this blessed island.”",
+    "bio": "Licensed by the Sri Lanka Tourism Development Authority, I have spent {years} years leading private wildlife, architectural and heritage journeys across the island."
+  },
+  "cta": {
+    "eyebrow": "A Gentler Way to Wander",
+    "title": "Ready for an Ethical, Unhurried Ceylon Journey?",
+    "body": "Let me craft your private journey with zero single-use plastics, fair support for local artisans and quiet natural encounters that preserve our delicate paradise.",
+    "plan": "Plan My Custom Trip",
+    "whatsapp": "Chat with Dinesh on WhatsApp",
+    "checkOne": "Complimentary Private Itinerary Consultation",
+    "checkTwo": "No Commission Shopping Stops"
+  }
+}

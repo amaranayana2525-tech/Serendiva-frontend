@@ -1,0 +1,173 @@
+[
+  {
+    "id": "cmuv1nddq004w0i7dmayij8qt",
+    "slug": "cultural-heritage",
+    "name": "Cultural & Ancient Kingdoms",
+    "shortName": "Cultural & Heritage",
+    "kicker": "Heritage & Monasteries",
+    "description": "Sigiriya, Polonnaruwa, Dambulla cave sanctuaries, and sacred Anuradhapura stupas.",
+    "icon": "temple_buddhist",
+    "image": {
+      "id": "cmuv1ndcm000l0i7drjc7miaj",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBa5BB9-G4pyfcEBCRlir0zvMZznh0l329LXwAeTIbZJyXYw1G36EyMCQbhRmw2rcD1trHGrPE7CnMmmguY0PsxahC-XSRmjYLOxSYDO4_uOvxu4VtjcJ_GiQgrQu7FF9xsdwAr3CBe4ryoeXvhIkoyU6i3FAk7sfx5Kg40eN4Pyigr3ARLrirTYrdBcQPsoXqO9IRK1vItFaAJ3ARv8XAbbNP6QOOHnVYCv2ZRKgepeX6Q5n6pIPo",
+      "alt": "Stone Buddha statues and ruins of Polonnaruwa in golden afternoon light",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 2
+  },
+  {
+    "id": "cmuv1ndds004x0i7dt1ak9m7n",
+    "slug": "wildlife-safari",
+    "name": "Wildlife & Safari Expeditions",
+    "shortName": "Wildlife & Safari",
+    "kicker": "Apex Wildlife",
+    "description": "Yala leopards, Minneriya grand elephant gatherings, and Wilpattu sloth bears.",
+    "icon": "pets",
+    "image": {
+      "id": "cmuv1ndcm000m0i7d939alk7r",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCmzG4Z9XDEDTMwMbdlQxgZQxKzkOe1Btaenx74cYSgpOvkCYjzcvNXVmPo1sVWw751ChwNsZpy9OIg8v6ZmJcAobEo4vYiFoCTRnVtkLWfxGCr4_8nUASsz3IQgdTIOQK_R-3UwkMIiMwaV9oIaatzoVMFH_39ShlvVfy8ZfUhTEFJgNeffTusXwoD7-5H1wcyHH5TKAiz8jZzQMFCnVlSG5cNvyh6WxxFeh9fbrtglRAnLf9x4V8",
+      "alt": "Leopard draped across a granite boulder in Yala National Park",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 2
+  },
+  {
+    "id": "cmuv1nddy004y0i7d73erk1uw",
+    "slug": "pristine-beaches",
+    "name": "Pristine Southern Beaches",
+    "shortName": "Pristine Beach",
+    "kicker": "Coastal Sanctuaries",
+    "description": "Mirissa, Tangalle private coves, Galle Fort ramparts, and Pasikuda sands.",
+    "icon": "beach_access",
+    "image": {
+      "id": "cmuv1ndcm000n0i7d4nfphznq",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAt166MGjV1ZyomsXavTpV9KL-qxQzyFp2SooBacug-vaeBPzrQxvsRffRso_TxvNX0m8m0jQBMJUMVNLU9t4jDQTG9rkTOGMSzqxrC2Yaa7iGfLRcVwltqqsfACg_y_RiAbxx4E0GAYk720LjVaD4kbOAApl3JDDxRjzvdTNx8AYtF4buP3W6KxPqk6u3uRuiH4foSG7eHnFQA9hwhJ88D-R5koiU_-7vRRuViW9a1MfWKPeeLXrI",
+      "alt": "Turquoise waves on the golden sands of Tangalle at sunset",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 3
+  },
+  {
+    "id": "cmuv1nddz004z0i7dh2v8rphf",
+    "slug": "hill-country",
+    "name": "Central Hill Country & Tea Trails",
+    "shortName": "Hill Country",
+    "kicker": "Highland Mist",
+    "description": "Ella gorges, Nuwara Eliya colonial estates, and Hatton private planter bungalows.",
+    "icon": "landscape",
+    "image": {
+      "id": "cmuv1ndcm000o0i7dq7sx92bx",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBQSusrQtOnV3PQeoZvBxtMMQ03q9PNiq1loRVV4MRW0YjwnTcGtSLswn_yipnr6JjmO44pB9ogQgClqCBmpPhV0ctkzia7WXVv8ywne5A0KoCEvXGv6Mq47qdNZb356qq1VDYVvlxqcexmJb0-hFmKwqalhq5wfyWghVOi7sCiWqQSiWV6yNnHdB2NPAJVzjLvFuehEYQJScF8pjvAuL4owTdszSmJjjjrEiNpX5Nh48E6uJzFx98",
+      "alt": "Mist over terraced tea fields in Nuwara Eliya with a tea plucker in a saree",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 3
+  },
+  {
+    "id": "cmuv1nde000500i7d6h3e1ovd",
+    "slug": "trekking-adventure",
+    "name": "Highland Trekking & Peaks",
+    "shortName": "Trekking & Adventure",
+    "kicker": "Active Wilderness",
+    "description": "Knuckles Mountain Range cloud forests, Adam's Peak sacred pilgrim ascent, and waterfalls.",
+    "icon": "hiking",
+    "image": {
+      "id": "cmuv1ndcm000p0i7d4b2tf1dj",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKe0LDmAHKxYMoGGCA1IDq6NPx6mfZuEHoCit5ij_EriAbMszQBTuyQ-bEv1X5K5egBhd52r6Q-ojVmcEFLLUvNPm6hWljtQI7lZ5sNED4QMVW3DWuAjmBTEsPkGV44JrpyZQ4j-HNvzr2tw5s1ft_coT8TD8Hr4HqLapVA-OOSLl7UeGSdblsIHDInIRAkIvSJceGd48Q0JbdCfJ0c18L2vekDiwP9kEvdwRIcK-TB3I4tdKlgRc",
+      "alt": "Cloud forest summit and hiking trail in the Knuckles Range",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 1
+  },
+  {
+    "id": "cmuv1nde100510i7da02jrzls",
+    "slug": "honeymoon",
+    "name": "Bespoke Honeymoons",
+    "shortName": "Bespoke Honeymoon",
+    "kicker": "Intimate Retreats",
+    "description": "Secluded private cliffside pavilions, candlelit tea garden dinners, and couples wellness.",
+    "icon": "favorite",
+    "image": {
+      "id": "cmuv1ndcm000q0i7d8dgnmdls",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDxedyuMF3HEU8TeVrrSFHDa2qPsGVF3TiqOyMpZz3otpNIuiwmf_dbYNcQwwje6alWqgQ7tVuBNVkxPzmbojdwgewzViVvtVZH8NWEW021Tf_Wh5uftwSQxm7EyiQ5cGHDqoXE_iFT1uSc0NFgtUAEzzgV6b18_fpyxD8_yP04sc6atvXPq4sNZ3g_l7cUkFhiU21vmEILhkk8P4FtlAqZ807MP08qAzeNpDHMuifUinq5cC2lDtY",
+      "alt": "Open-air villa pool above the Indian Ocean at sunset with glowing lanterns",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 1
+  },
+  {
+    "id": "cmuv1nde300520i7dasiux54s",
+    "slug": "family",
+    "name": "Family Journeys & Wildlife",
+    "shortName": "Family Expeditions",
+    "kicker": "Multi-Generational",
+    "description": "Spacious climate-controlled travel, gentle walks, interactive village pottery, and beach leisure.",
+    "icon": "family_restroom",
+    "image": {
+      "id": "cmuv1ndcm000r0i7d1hxyqtey",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd1iMxSZAFYQQna5nQerhQi_LeQFx560TUuOzy-WY2T3cdfxzAPOOhJ_xsqv_05mReGC8VcUbE2gNBK0QhFWBbtYQPFLYi4kuSU-R-lDoLYNXVcQeD1U1k3yLTp979cL2xwTPY9FV2HF78LIm0d7boPQZ9DwPW8M0s-v6KkKkwmHnkQD1jW64X8mITQrnj2HyfzoR2kbn8KyPg0PBPSuOTd-nlamvkEgRqhmymRBu2Q21LDhnbtkk",
+      "alt": "Family watching elephant calves play in Udawalawe National Park",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 2
+  },
+  {
+    "id": "cmuv1nde500530i7duff1bfgw",
+    "slug": "ayurveda-wellness",
+    "name": "Ayurveda & Forest Wellness",
+    "shortName": "Ayurveda & Wellness",
+    "kicker": "Holistic Rejuvenation",
+    "description": "Pancha Karma treatments, certified Ayurvedic physicians, herbal gardens, and forest meditation.",
+    "icon": "spa",
+    "image": {
+      "id": "cmuv1ndcm000s0i7dadcjmfih",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBqmGz9kAc47hHo2DaQbvnP3bDVtq0ttdPYSNLkqtsQtakvlPXaZFrRK7ThaJhDU0gaBq-HyXICp9ofJTlQS_tfO1yl0o7HkCSUTsuNrbLzcgPpBT9Ess_GMJ9Wcodxnk__vY-5lEudx24gxxnD_EMmlPdSlBAxdKyxP4V7xfmGFTBQ7bnYd5Ammvsgzg0cahdnUaPo3raRNrZggan58nB88eBNAfxQ6ooFc0jVVOZbywqzQI1meS8",
+      "alt": "Ayurvedic wellness pavilion among lotus ponds with a warm oil brass urn",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 2
+  },
+  {
+    "id": "cmuv1nde700540i7deus2t3mf",
+    "slug": "ramayana-trail",
+    "name": "Sacred Ramayana Heritage",
+    "shortName": "Ramayana Trail",
+    "kicker": "Spiritual Mythology",
+    "description": "Munneswaram, Ravana Ella waterfalls, Seetha Amman kovil, and Ashok Vatika botanical gardens.",
+    "icon": "auto_stories",
+    "image": {
+      "id": "cmuv1ndcm000t0i7djp6arixk",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAqWepzvitwFPBjD-l8PhX0fXhU1ZIQ0DT0XhT40AQyNpvj55HodxCcrGchK_HKvUdHkuaukxfV-CEVqxhi-bIBFSMW0ORGOvv0Q6AJYzI8PAUm7yRAjAPX0z6QjAUFJ_5q0WuWbZPpEHwbAhfsZmp_j2on7Z7D9OEKja1NayyIDfP3EYOXKHJ4gl3PgZWCAlU_7qsOuE4q28DZQNW0gXa8sEdoOeOVcvS2D7GhrKfdJ6if23SiGw",
+      "alt": "Seetha Amman temple among mountain streams in the Nuwara Eliya highlands",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "tourCount": 1
+  }
+]

@@ -1,0 +1,522 @@
+{
+  "id": "cmuv1ndgl00620i7d0vx3k1sa",
+  "slug": "nuwara-eliya",
+  "name": "Nuwara Eliya",
+  "tagline": "Little England, Alpine Turf & High-Grown Ceylon Pekoe",
+  "summary": "The highest highland settlement in Ceylon, celebrated for temperate alpine gardens, fireside dining, and world-renowned orthodox high-grown tea factories.",
+  "metaLabel": "Hill Country · 1,868m",
+  "badge": null,
+  "bestTimeLabel": "Feb – May",
+  "curations": [
+    "19th-century Hill Club private silver tea service",
+    "Single-estate Pedro Tea Factory private drying-room tour",
+    "Hakgala sub-tropical cliff gardens curated morning stroll"
+  ],
+  "region": {
+    "slug": "hill-country",
+    "name": "Central Hill Country",
+    "icon": "landscape",
+    "description": "Ella Tea Terraces, Nuwara Eliya Peaks & Knuckles Cloud Ridge",
+    "places": "Ella, Nuwara Eliya, Hatton, Knuckles, Kandy",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001o0i7dewn5ua31",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMcwXKKMFxM7fzoQl1SOte3p_J23apFXjo44SIAfaOmGiTOtSSRxaa0PZRUZxicqPpOyQ5YAyijWdkwX7bZrfWxGPOZe8u12B0KOXhhQuxz25UAVg81pd4UUKPn2GBNqsCO6bPZZ_dE2cVyT8mvuPxaD6GRCa5VJcsUAppOgZnmCQ3vWavqB2pJC5lQnF0ttJ5gVtJhVuwme6muEwwKyF0ID9jMzZRY63Ikz9caoBtbsPk2HX8RKo",
+    "alt": "Red-brick colonial estate and rose gardens in Nuwara Eliya",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.9497,
+  "longitude": 80.7891,
+  "elevation": 1868,
+  "headline": "Nuwara Eliya: Little England, Alpine Gardens & High-Grown Ceylon Tea",
+  "description": "Founded as a cool-climate retreat by British planters, Nuwara Eliya still has its red-brick post office, Tudor-style cottages, racecourse and rose gardens — all set among some of the highest tea estates in the world.\n\nI arrive by the scenic train, stay in heritage bungalows with log fires and open the doors of working factories, where the master tea-maker explains why high-grown leaf tastes so bright and delicate.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Feb – May",
+      "note": "Clear mornings; April is the festive highland season"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 Nights",
+      "note": "A factory visit, Hakgala and Horton Plains"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Elevation & Temperatures",
+      "value": "1,868 m • 11°C – 21°C",
+      "note": "Bring a warm layer for fireside evenings"
+    },
+    {
+      "icon": "train",
+      "label": "Private Access Route",
+      "value": "3.5 hrs Scenic Rail",
+      "note": "Kandy (Peradeniya) to Nanu Oya in an observation carriage"
+    }
+  ],
+  "guideNote": {
+    "heading": "Tea Country at Walking Pace",
+    "paragraphs": [
+      "Nuwara Eliya rewards slowness: a morning in the fields with the pluckers, a factory tour while the withering lofts still smell of fresh leaf, and afternoon tea on a lawn as the mist comes in. I keep the driving short and the days unhurried."
+    ],
+    "perks": [
+      {
+        "icon": "local_cafe",
+        "label": "Master Tea-Maker Cupping"
+      },
+      {
+        "icon": "cottage",
+        "label": "Heritage Bungalow Stays"
+      },
+      {
+        "icon": "train",
+        "label": "Observation Carriage Tickets"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • High-Grown Tea",
+      "meta": "Gentle • 2 Hours • Morning",
+      "title": "Pedro Estate Private Drying-Room Tour",
+      "text": "From the plucking slopes to the withering lofts and rolling tables, followed by a cupping of Silver Tips, Orange Pekoe and Broken Orange Pekoe with the factory officer.",
+      "tagIcon": "local_cafe",
+      "tagLabel": "Master Tea-Maker Cupping",
+      "image": {
+        "id": "cmuv1ndcz00310i7dh2myjt1u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRRLCQlDQFgHDZQmlObRb1Db8alwntulVwLqG2rTGRpdlFqiP8y8tih-WLgI22_JyimBWQ0ywcSt39mJRkOHGE2PEfe8IpJV44qboxyRAwsqtY2VBY0Cpq-dThP-7U8b5ooggJr_lwuW7mtu_Tk67VQwpig3tlKnaUjT3a1N0er65o85-Yd1r2NZAO4Nzpf_yO3mN89e7JAV70xn-oMpFY8x7chDytmekcjf8u7OhPjc93WwwYazY",
+        "alt": "Tea pluckers harvesting two leaves and a bud in the Nuwara Eliya highlands",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Colonial Rituals",
+      "meta": "Leisurely • 1.5 Hours • Afternoon",
+      "title": "Silver Tea Service at the Hill Club",
+      "text": "Scones, cucumber sandwiches and a pot of estate tea in the panelled rooms of the 1876 Hill Club, with stories of the planters who built the town.",
+      "tagIcon": "emoji_food_beverage",
+      "tagLabel": "Heritage Club Access",
+      "image": {
+        "id": "cmuv1ndcz00180i7d1gs1p45y",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuALe1Y_BPpJcYZxX7fMMEBShIoPjJDbFZMKFgb8Eu-SGJIvIvPGcuOyf_hlB48NPzglVeaYZOsGgdbnbEcUbJ_xFqbOFw9KOXWmeTngwi3eqFdiM33vp9rT5pHAS0tbUXRu4W4xJdFdtgLMxpHDucKo-78GzgrLFqclJf-ValLlHn8TcLEPlXccmRoNMi5VRMPwakqXTu7IAfaeSs9otH7PbNyFWuuMa1wq1fZ7IkuLe70y8ZwvPRA",
+        "alt": "Tea planter bungalow veranda overlooking tea valleys and waterfalls",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Highland Gardens",
+      "meta": "Gentle • 2 Hours • Morning",
+      "title": "Hakgala Gardens Curated Morning Stroll",
+      "text": "Roses, ferns and montane forest on the slopes of Hakgala rock — the legendary Ashok Vatika of the Ramayana — with the valley of Uva falling away below.",
+      "tagIcon": "local_florist",
+      "tagLabel": "Botanist Narration",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "ac_unit",
+      "title": "Warm Layers",
+      "text": "Nights can drop below 10°C from December to February. A fleece or wool wrap is essential."
+    },
+    {
+      "icon": "no_photography",
+      "title": "Factory Photography",
+      "text": "Some estates do not allow photos inside the factory. I always ask first, and the pluckers are photographed only with permission."
+    },
+    {
+      "icon": "celebration",
+      "title": "April Season",
+      "text": "Around the Sinhala and Tamil New Year the town fills with festivities, horse races and flower shows — lively, but book early."
+    }
+  ],
+  "interests": [
+    "Tea Factory Visits",
+    "Colonial High Tea",
+    "Horton Plains",
+    "Gregory Lake",
+    "Scenic Train"
+  ],
+  "mapPoints": [
+    {
+      "name": "Gregory Lake",
+      "lat": 6.9567,
+      "lng": 80.7783
+    },
+    {
+      "name": "Pedro Tea Estate",
+      "lat": 6.9636,
+      "lng": 80.8064
+    },
+    {
+      "name": "Hakgala Botanical Garden",
+      "lat": 6.9269,
+      "lng": 80.8197
+    },
+    {
+      "name": "The Hill Club",
+      "lat": 6.9706,
+      "lng": 80.7708
+    },
+    {
+      "name": "Nanu Oya Station",
+      "lat": 6.9425,
+      "lng": 80.74
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001t0i7dwalwv5sy",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBjzRjf0pGhJDvUYqONkzRx2JBhyhsJ46nz3TAriwf1gmPC-7bXRIpARwXOsef1o3VUWDI0DZ5MF9BKSURrMtRcMIFCqZK_3PNApZv_dCvs4MKJLIe6jZF3Xpq_fsRSBMJGjw-FrO0iAkbqhYd4pfX3EwJ7MFfRYSjHl05FYF_Pd6C0vjFiI4Rij8Ombhj5BoRO7jNfVu_tdgUm4gAZSXoEE0d6OMmgRU0Yl8j1sLZI7fTIwkORFsw",
+        "alt": "Red-brick colonial post office and rose gardens in misty Nuwara Eliya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Little England",
+      "caption": "The red-brick post office"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00310i7dh2myjt1u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCRRLCQlDQFgHDZQmlObRb1Db8alwntulVwLqG2rTGRpdlFqiP8y8tih-WLgI22_JyimBWQ0ywcSt39mJRkOHGE2PEfe8IpJV44qboxyRAwsqtY2VBY0Cpq-dThP-7U8b5ooggJr_lwuW7mtu_Tk67VQwpig3tlKnaUjT3a1N0er65o85-Yd1r2NZAO4Nzpf_yO3mN89e7JAV70xn-oMpFY8x7chDytmekcjf8u7OhPjc93WwwYazY",
+        "alt": "Tea pluckers harvesting two leaves and a bud in the Nuwara Eliya highlands",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Two Leaves and a Bud",
+      "caption": "Harvest on the Pedro slopes"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00190i7dyevbm02k",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAbj1re42fnIDDiXntm4aua27V1A2dDw7amKXUlThpoPdlls4lTSM9lDJ5gil3KS1uVOobHhs3P8wxmp2YYF9RTFt3_QBEEXtPjuPW_phLLHX-V4XQF5Ko6LAScz-zzKPb88K8yGryzL_ADlYplbmjdy-HmDPfEaeOZB-MSNVJgukm5-oUcxXzP1uHjEE3TMBLVWdwJ8c3NFlJXQdS4FQAKGYwilsmt0_ABoSVhwgFVRfYUchHd058",
+        "alt": "Misty tea valley with a stone planter bungalow and garden roses",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Planter’s Bungalow",
+      "caption": "Roses and mist in the valley"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndjw00930i7d88kh9t7v",
+      "slug": "highland-trekking-cloud-forest-peaks",
+      "title": "Highland Trekking & Cloud Forest Peaks",
+      "summary": "Designed for avid hikers seeking panoramic summits, hidden waterfalls, and crisp high-altitude wilderness — the Knuckles cloud forest, the pilgrim ascent of Adam’s Peak, World’s End at dawn and three nights of ridge trails around Ella.",
+      "cardTag": "Mountain Escort",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Knuckles Range",
+        "Adam's Peak",
+        "Horton Plains",
+        "Ella"
+      ],
+      "highlights": [
+        "Knuckles Range Trekking Permits",
+        "World's End Escorted Sunrise Walk",
+        "Waterfall Plunge Pools"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001d0i7dhfj0hyri",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI",
+        "alt": "Morning view from the ridge of Little Adam's Peak over the Ella Gap",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde000500i7d6h3e1ovd",
+          "slug": "trekking-adventure",
+          "name": "Highland Trekking & Peaks",
+          "shortName": "Trekking & Adventure"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndk9009g0i7dxtwfa133",
+      "slug": "sacred-ramayana-heritage-trail",
+      "title": "Sacred Ramayana Heritage Trail",
+      "summary": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and the caves and falls of Ravana Ella — with a private Vedic scholar.",
+      "cardTag": "Vedic Heritage",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Chilaw",
+        "Kandy",
+        "Nuwara Eliya",
+        "Ravana Ella",
+        "Rumassala"
+      ],
+      "highlights": [
+        "Munneswaram & Manavari Temples",
+        "Ashok Vatika Botanical Visit",
+        "Private Vedic Scholar Host"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001e0i7df7ew6mt6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+        "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde700540i7deus2t3mf",
+          "slug": "ramayana-trail",
+          "name": "Sacred Ramayana Heritage",
+          "shortName": "Ramayana Trail"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "couple",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Nuwara Eliya: Little England, Alpine Turf & High-Grown Ceylon Pekoe",
+    "description": "The highest highland settlement in Ceylon, celebrated for temperate alpine gardens, fireside dining, and world-renowned orthodox high-grown tea factories.",
+    "image": {
+      "id": "cmuv1ndcz001o0i7dewn5ua31",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMcwXKKMFxM7fzoQl1SOte3p_J23apFXjo44SIAfaOmGiTOtSSRxaa0PZRUZxicqPpOyQ5YAyijWdkwX7bZrfWxGPOZe8u12B0KOXhhQuxz25UAVg81pd4UUKPn2GBNqsCO6bPZZ_dE2cVyT8mvuPxaD6GRCa5VJcsUAppOgZnmCQ3vWavqB2pJC5lQnF0ttJ5gVtJhVuwme6muEwwKyF0ID9jMzZRY63Ikz9caoBtbsPk2HX8RKo",
+      "alt": "Red-brick colonial estate and rose gardens in Nuwara Eliya",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.938Z"
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "Reiseziele & Regionen in Sri Lanka",
+    "description": "Entdecken Sie Sri Lankas Regionen auf einer stilisierten Insel-Karte — Kulturdreieck, Teehochland, Süd- und Ostküste sowie Nationalparks — mit bester Reisezeit, persönlich geführt von Dinesh Jayasuriya."
+  },
+  "hero": {
+    "kicker": "Vielfältige Landschaften & Kultur",
+    "title": "Abwechslungsreiche Landschaften, antike Spuren & weite Horizonte",
+    "intro": "Entdecken Sie sechs einzigartige Regionen Sri Lankas — von den Palmenebenen Jaffnas über nebelverhangene Bergwälder bis zu goldenen Südküsten. Persönlich geführt von Ihrem lizenzierten National Guide Dinesh Jayasuriya.",
+    "hostTitle": "Akkreditierter Privat-Gastgeber",
+    "hostBody": "SLTDA-Lizenz #{license}. Klimatisiertes Komfortfahrzeug, Genehmigungen und Eintrittsformalitäten vorab geregelt.",
+    "hostBodyNoLicense": "Staatlich lizenziert durch SLTDA. Klimatisiertes Komfortfahrzeug und Genehmigungen vorab geregelt."
+  },
+  "map": {
+    "label": "Stilisierte Karte von Sri Lanka mit Zielregionen",
+    "hubsLabel": "Zielregionen",
+    "hubLink": "{name}, {region} — Zielguide öffnen",
+    "legendTitle": "{count} Biogeografische Regionen",
+    "hoverHint": "Für Vorschau berühren",
+    "legendLabel": "Regionen — auswählen, um die Orte unten zu filtern",
+    "routingCta": "Individuelle Regionen-Route anfragen",
+    "routingNote": "Jede Rundreise wird privat mit Chauffeur individuell gestaltet.",
+    "regionHubs": "{count, plural, =0 {Noch keine Orte} one {# Ort} other {# Orte}}",
+    "empty": "Zielregionen erscheinen hier in Kürze."
+  },
+  "curations": {
+    "eyebrow": "Die Serendiva-Auswahl",
+    "title": "Handverlesene Reiseziele",
+    "searchLabel": "Reiseziele suchen",
+    "searchPlaceholder": "Nach Ella, Leoparden, Sigiriya, Tee suchen...",
+    "tabsLabel": "Reiseziele nach Region filtern",
+    "all": "Alle Regionen ({count})",
+    "tab": "{name} ({count})",
+    "results": "{count, plural, =0 {Keine Ziele gefunden} one {# Reiseziel angezeigt} other {# Reiseziele angezeigt}}",
+    "emptyTitle": "Kein Reiseziel passt zu Ihrer Suche",
+    "emptyBody": "Probieren Sie einen anderen Begriff oder schreiben Sie mir, was Sie erleben möchten.",
+    "reset": "Alle Ziele zeigen",
+    "emptyAllTitle": "Reiseziele werden vorbereitet",
+    "emptyAllBody": "Ich stelle gerade meine liebsten Orte auf der Insel zusammen. Schreiben Sie mir gern direkt."
+  },
+  "season": {
+    "eyebrow": "Mikroklima verständlich erklärt",
+    "title": "Die Saisonmatrix für Sri Lanka",
+    "intro": "Sri Lanka profitiert von zwei wechselnden Monsunsystemen. Während an einer Küste Regen fällt, genießt die gegenüberliegende Küste blauen Himmel und ruhiges Meer.",
+    "caption": "Beste Reisemonate je Region von Januar bis Dezember"
+  },
+  "insight": {
+    "eyebrow": "Persönlicher Tipp von {name}",
+    "quote": "„Durch zwei wechselnde Monsunsysteme gibt es auf Sri Lanka zu jeder Jahreszeit sonnige Küsten und ideale Regionen — Sie müssen beim Klima keine Kompromisse eingehen.“",
+    "role": "{title} · Serendiva Ceylon Private Journeys",
+    "cta": "Für Ihren Monat planen"
+  },
+  "quiz": {
+    "kicker": "Persönliche Routenempfehlung",
+    "title": "Unsicher, welche Region zu Ihrem Reisemonat passt?",
+    "body": "Machen Sie meinen 60-Sekunden-Reise-Finder. Wählen Sie Monat, Reisestil und Gruppe für eine sofortige Empfehlung.",
+    "cta": "1-Minuten-Quiz starten",
+    "whatsapp": "Mit Dinesh per WhatsApp chatten"
+  },
+  "faq": {
+    "eyebrow": "Wissen für Ihre Planung",
+    "title": "Häufige Fragen zu Regionen & Reisen",
+    "intro": "Antworten zu Fahrzeiten, Mikroklima, Nationalpark-Tickets und nahtlosen Rundreisen."
+  }
+}

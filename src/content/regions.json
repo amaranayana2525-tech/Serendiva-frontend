@@ -1,0 +1,194 @@
+[
+  {
+    "id": "cmuv1nded00550i7dmnvehycm",
+    "slug": "cultural-triangle",
+    "name": "Cultural Triangle",
+    "description": "Sacred Monasteries, Sigiriya Sky Citadel & Gilded Dambulla Caves",
+    "places": "Sigiriya, Dambulla, Anuradhapura, Polonnaruwa",
+    "icon": "temple_buddhist",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "good",
+      "good",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak"
+    ],
+    "image": {
+      "id": "cmuv1ndcz001q0i7dzx0rmu7x",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCrGlJxm4Fzm3KH68whkUe3X2xZOJ07vTzRN2gQFQ7lAE2p-QROvZ69yJMfWQ6IO0umDbpAW-9BQTOJgCBCfsarwK4rUs8l3YCDuMBZTj0IoKSJwbZpnxZcExWeuRCfRT6XuXJ9sz9VPdmIwXaHf6g7n1tMHt70i8qnxM9viW5vMtm0tWZ7KTu5LLAnvK2sWfhnyMKgo_nzKN0onBMc4deisLWrjHWnCcQrNh7Vv0FjkIPnyxEtSQw",
+      "alt": "Aerial view of Sigiriya with its moat and water gardens at sunrise",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cmuv1ndek00560i7d0rl7xaob",
+    "slug": "hill-country",
+    "name": "Central Hill Country",
+    "description": "Ella Tea Terraces, Nuwara Eliya Peaks & Knuckles Cloud Ridge",
+    "places": "Ella, Nuwara Eliya, Hatton, Knuckles, Kandy",
+    "icon": "landscape",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ],
+    "image": {
+      "id": "cmuv1ndcz001s0i7dq6f4bgt4",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCqzSczD_KZym4dy-VPOy9T29Ua0ltqqcC4XvIuTGkUA5NM6UqZDViH96_C7hZ5j6EG9Y17JAlKpdtII0nWhOqpkiKPFsR3tj1DcblUs1O4sk_Kys9kZuM1-9b5kSP-bWv003cTwenqsHt0uzahIZm9EXHetoRGr1FR8BMbgxzF_aB2oIvnhK6wKbrZ4b_BZMROGql92iq0PgaTuRrqxgwbmhYXKtr-Bk5FxGe-qF4Lg5-xIdCTwE0",
+      "alt": "Ella Gap gorge and waterfalls seen through mountain mist",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "destinationCount": 3
+  },
+  {
+    "id": "cmuv1ndem00570i7drg5w0hoz",
+    "slug": "south-coast",
+    "name": "Southern Golden Coast",
+    "description": "Galle Fort Ramparts, Stilt Fishermen, Mirissa Azure Coves",
+    "places": "Galle Fort, Mirissa, Weligama, Tangalle",
+    "icon": "fort",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "rain",
+      "rain",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak",
+      "peak"
+    ],
+    "image": {
+      "id": "cmuv1ndcz001v0i7dvc67ur5j",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBplwZj055ZWLUpF930jeJzESl8tCPdXkSiVxp85yW774qsX9T2fRb5ZL364RmXYpP8anUgBEL-BUyvZonlZVdMMMXQ0OfSDRIW0RRvIFLBeRNW3RscYO7x0VRtUQdblP7Q4CYfpkql1neWgX7IaMg1ouaCwzGy7_dPp5u79p7VH9uzacFkW6IrnWhpGKPszA7o6vLlWfjiPB0pzuz6a5WUl2GdWclHqeFqoZvuTZOiyBWFYiNIXCE",
+      "alt": "Galle Fort lighthouse and ramparts against crashing waves at sunset",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cmuv1ndeu00580i7d2nb5fo6e",
+    "slug": "east-coast",
+    "name": "Wild East & Marine Corridors",
+    "description": "Trincomalee Deep Harbor, Pigeon Island Reefs & Pasikudah",
+    "places": "Trincomalee, Pasikudah, Arugam Bay, Jaffna",
+    "icon": "phishing",
+    "bestMonths": [
+      "rain",
+      "good",
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "rain"
+    ],
+    "image": {
+      "id": "cmuv1ndcz001x0i7d0oypexr2",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC8TPDJvnJpP1sdZWTgT8-5NmrZqTHUqZEtTGvy7vJz4sY-_yows-vb3b1sKTNuRRCy3V29LdLPJb65c_1d-IuxfEz-8mNwG-HMIddkUXy3EpS0ZUe2ER-Va0S_jHhbWZAx9SEK33AaT4AEgLW_wj52ll3K90G1hfccyy3AYnl7OkYIu7Oh-w__QOpdPHIqHJRBhMQ9fdVkPJDe3ORCkuMfMZ0JMcKgCa8rPw56BSUkxfig1u1z8TM",
+      "alt": "Koneswaram Temple on Swami Rock above Trincomalee bay",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "destinationCount": 1
+  },
+  {
+    "id": "cmuv1ndey00590i7dorr5mecw",
+    "slug": "wilderness-parks",
+    "name": "Deep Wilderness & Safaris",
+    "description": "Yala Leopard Dens, Bundala Lagoons & Wilpattu Villus",
+    "places": "Yala, Wilpattu, Udawalawe, Minneriya",
+    "icon": "pets",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ],
+    "image": {
+      "id": "cmuv1ndcz001u0i7duew5pnu6",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAww4sGA9MKmGtauTBa4XwMXlp5fzKwaHcMmMOleurHH2zEYaO9MibCXTueo4qJ_X5MF7VECDlIKsf4UVzBnCgLrv8U47KQdqlousf3Jyet1vHMxDufd7CAh5KKR9umKeSAovFpIoJxfnfxdotoMZH3yUtI5TqhV7Xu1W-vUEcFoVGbXotGDDHuIqTt2TI-wqpOmEnFr44OqHDbY0-fu6TeEw78SYejGqkZ5KU3GoQzKmeFXqwhyT4",
+      "alt": "Male leopard walking a red dirt trail in Yala National Park",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "destinationCount": 2
+  },
+  {
+    "id": "cmuv1ndf1005a0i7dc9x13rkv",
+    "slug": "colombo-west",
+    "name": "Colombo & Maritime West",
+    "description": "Colonial Cinnamon Mansions, Geoffrey Bawa Architecture & Coastal Sunsets",
+    "places": "Colombo, Negombo, Bentota",
+    "icon": "apartment",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "rain",
+      "rain",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak",
+      "peak"
+    ],
+    "image": {
+      "id": "cmuv1ndcz002v0i7dumqahz7k",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBvc4HpmbqScL4ao_7guLA3SHRcj7Rqk9OOguH26FXewgSZmmSMGQZx3F04N4xA8o4sfubEP6K9PVCdkEuJqZp3C10d73Pa-9gC2Ai6I1JB1dPBXjX7H11FKeba5LmbKwBsz341R5I1QtMRo-9aqzBqkdQqlOnZMFRuE8jhdQNn_lZLyjy__c6oeuVFnMBIF0i8iD1AALu6xrDMSBeNgMif3uBsq93dWSwoF3YneneuZfn53LP-Zm0",
+      "alt": "Courtyard and lily pond at Geoffrey Bawa's Lunuganga estate in Bentota",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    },
+    "destinationCount": 2
+  }
+]

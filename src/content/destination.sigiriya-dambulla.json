@@ -1,0 +1,477 @@
+{
+  "id": "cmuv1ndfx005i0i7dq6l0bez5",
+  "slug": "sigiriya-dambulla",
+  "name": "Sigiriya & Dambulla",
+  "tagline": "5th-Century Sky Citadels & Gilded Cave Sanctuaries",
+  "summary": "Ascend King Kashyapa’s monolith citadel and explore five sacred cliffside chambers filled with 150+ gilded Buddha statues.",
+  "metaLabel": "Cultural Triangle · UNESCO",
+  "badge": null,
+  "bestTimeLabel": "Nov – Apr",
+  "curations": [
+    "Dawn VIP gate ascent prior to general opening",
+    "Private royal water garden champagne picnic",
+    "Dambulla cave fresco analysis with heritage lecturer"
+  ],
+  "region": {
+    "slug": "cultural-triangle",
+    "name": "Cultural Triangle",
+    "icon": "temple_buddhist",
+    "description": "Sacred Monasteries, Sigiriya Sky Citadel & Gilded Dambulla Caves",
+    "places": "Sigiriya, Dambulla, Anuradhapura, Polonnaruwa",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "good",
+      "good",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001j0i7dst6tq55f",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAp0haxlZb4ni4quDt3S5_UX5gb8w46Ec2NGq-c2IHYs-LS27FB6g-WHsSUCQVNiut2KPpsgjowGcvyq8Y12TKAv476bHramKj9PSyH_BRWygf_mVt7l1tEetWhD21oAFetp6xQVe5CtsvLWwJlnqcyUMSnMuCHkCCsKM-9eTXvy-8e_O2IQVaEoglp9tL9LLCXCl0HLKtpQaJSLC4h7uuclARzOgciu18zJ4y8g--TilyHJG197bU",
+    "alt": "Sigiriya Lion Rock above misty jungle canopy at dawn",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 7.957,
+  "longitude": 80.7603,
+  "elevation": 190,
+  "headline": "Sigiriya & Dambulla: Sky Citadels, Water Gardens & Gilded Cave Sanctuaries",
+  "description": "At the heart of the Cultural Triangle, a 200-metre granite monolith rises out of the dry-zone forest, crowned by the ruins of King Kashyapa’s fifth-century sky palace. Below it lie symmetrical water gardens, mirror walls and the celebrated cloud-maiden frescoes.\n\nTwenty kilometres away, the Dambulla cave temples hold more than two thousand years of devotion in five painted chambers. I pair both with quiet evenings at Kandalama reservoir and village kitchens where lunch is still cooked in clay over wood embers.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Nov – Apr",
+      "note": "Dry, bright mornings once the late-year showers ease"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 to 3 Nights",
+      "note": "A dawn climb, the Dambulla caves and a Polonnaruwa day"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Elevation & Temperatures",
+      "value": "190 m • 24°C – 33°C",
+      "note": "Warm dry-zone air — the 1,200 steps are kindest before 08:00"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "4 hrs from Colombo",
+      "note": "Or 2.5 hrs from Kandy via the Matale spice gardens"
+    }
+  ],
+  "guideNote": {
+    "heading": "Why I Climb Sigiriya Before the Gates Fill",
+    "paragraphs": [
+      "By 10:30 the black granite stairs radiate heat and the mirror wall gallery moves at the pace of the coach groups. I arrange the first permitted entry so that you climb in cool shade, pause at the frescoes in silence and reach the summit while mist still drifts over the forest canopy."
+    ],
+    "perks": [
+      {
+        "icon": "alarm_on",
+        "label": "Early Gate Permits"
+      },
+      {
+        "icon": "temple_buddhist",
+        "label": "Cave Temple Interpretation"
+      },
+      {
+        "icon": "water_drop",
+        "label": "Chilled King Coconuts at the Base"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Dawn Ascent",
+      "meta": "Moderate • 3 Hours • First Gate Entry",
+      "title": "Private Dawn Ascent of the Lion Rock",
+      "text": "We walk through the water gardens as the light turns gold, pause at the cloud-maiden frescoes before the crowds arrive and stand on the summit palace with the whole Cultural Triangle at our feet.",
+      "tagIcon": "alarm_on",
+      "tagLabel": "Early Gate Permits",
+      "image": {
+        "id": "cmuv1ndcz000x0i7ds65wz7ss",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAk-sd7v_92yX6HjPmcLUHpw_NBpDMJf-ulUGWL3CUoXjdwIWXPeJSkxzVgd3KbDoEJ4qEpQr-xQXe3OZS95Jxz6QvA-f4iup1rVyGo8JXVE8dkiG1kLSwq6tdMh1lnFuHTKuYgbHLgVY900kUTxP5jj3cz6nj5EmInca4M_FHjJjGvz6HyZM-BgXc5p9A0Nm421O8heztAFmZNmcc1kGaPDlrm9i8LAX_5DPZKF8JeR4Au_wq66sE",
+        "alt": "Sigiriya rock fortress rising through golden morning mist",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Sacred Art",
+      "meta": "Gentle • 2 Hours • Afternoon Light",
+      "title": "Dambulla Golden Rock Cave Temples",
+      "text": "Five cavern sanctuaries, more than 150 statues and ceiling murals painted over two millennia. I interpret the iconography cave by cave, with floral offerings prepared for you at the entrance.",
+      "tagIcon": "temple_buddhist",
+      "tagLabel": "Heritage Lecturer Interpretation",
+      "image": null
+    },
+    {
+      "kicker": "03 • Ancient Engineering",
+      "meta": "Leisurely • 1.5 Hours • Golden Hour",
+      "title": "Water Lilies of Kandalama & the Royal Tanks",
+      "text": "A quiet pontoon crossing on an ancient reservoir as storks and sea eagles settle into the forest rim — and the story of the hydraulic engineering that fed these kingdoms.",
+      "tagIcon": "sailing",
+      "tagLabel": "Private Pontoon Crossing",
+      "image": {
+        "id": "cmuv1ndcz00380i7d0vmdnvku",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB04Btwbu7mmNRjkyDN5trGo9vZsDWkqP6wzVH202f7C8fet_rxOE5Vy1FHYwaI4W_uOBCDL2vqo2Q3oFELW-yC2DSMaSNeWXXseTqjT3creQQosQ_hJLl2lxgPFWTfpiCzwS3s_G2hNK_o3tEJ1aKexqmEMQLH71pRxckyojBT11EWKpOk7MSreVeWFWXIsYLipJYbGD4dWNO9T2JLrOM5hI0DL1Nk4G6fI7onG9XzBo4iujfI4V0",
+        "alt": "Sunset over Kandalama reservoir with water lilies and Sigiriya on the horizon",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "wb_twilight",
+      "title": "Beat the Heat",
+      "text": "Start the climb at gate opening. By mid-morning the granite stairs are hot and the queues on the spiral staircase lengthen quickly."
+    },
+    {
+      "icon": "checkroom",
+      "title": "Cave Temple Etiquette",
+      "text": "Shoulders and knees covered, shoes and hats off at the threshold. I keep light wraps in the vehicle for every guest."
+    },
+    {
+      "icon": "warning",
+      "title": "Quiet on the Western Face",
+      "text": "Wild hornets nest near the Lion Paws terrace. Keep voices low there — I watch the signals and choose our timing accordingly."
+    }
+  ],
+  "interests": [
+    "Sigiriya Dawn Climb",
+    "Dambulla Cave Temples",
+    "Pidurangala Sunrise",
+    "Village Cooking",
+    "Hot-Air Balloon"
+  ],
+  "mapPoints": [
+    {
+      "name": "Sigiriya Lion Rock",
+      "lat": 7.957,
+      "lng": 80.7603
+    },
+    {
+      "name": "Royal Water Gardens",
+      "lat": 7.9563,
+      "lng": 80.7552
+    },
+    {
+      "name": "Pidurangala Rock",
+      "lat": 7.9665,
+      "lng": 80.7598
+    },
+    {
+      "name": "Dambulla Cave Temple",
+      "lat": 7.8567,
+      "lng": 80.6492
+    },
+    {
+      "name": "Kandalama Reservoir",
+      "lat": 7.8733,
+      "lng": 80.7036
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001q0i7dzx0rmu7x",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCrGlJxm4Fzm3KH68whkUe3X2xZOJ07vTzRN2gQFQ7lAE2p-QROvZ69yJMfWQ6IO0umDbpAW-9BQTOJgCBCfsarwK4rUs8l3YCDuMBZTj0IoKSJwbZpnxZcExWeuRCfRT6XuXJ9sz9VPdmIwXaHf6g7n1tMHt70i8qnxM9viW5vMtm0tWZ7KTu5LLAnvK2sWfhnyMKgo_nzKN0onBMc4deisLWrjHWnCcQrNh7Vv0FjkIPnyxEtSQw",
+        "alt": "Aerial view of Sigiriya with its moat and water gardens at sunrise",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Royal Moat",
+      "caption": "Water gardens seen from above"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz002r0i7dviwvrhml",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCjiIWyFxyjipOwiXejSyQ9C68bLcTVP77n629kzkaTewQrBeof9hrUf0s0vK8Di4OBoiOBdJQfpQ3UmuHvf2k9eswdMVUBhaX-LS5-Pv2Y66uYqu2EqcxEALQrxsDTprqLCeiKiXcMnrG8yCbRrN6Y4zKVRrkpMAR4Rfcoun4S3US4SqgfYg5o39FhfkL3P_3qxxnyQL_jLcmP10ZvfFBzfBBnGrQvxoveSiETk5P6XVlAsSfO2Ds",
+        "alt": "View from Pidurangala Rock toward Sigiriya over the jungle canopy at sunrise",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "From Pidurangala",
+      "caption": "The Lion Rock at first light"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00380i7d0vmdnvku",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuB04Btwbu7mmNRjkyDN5trGo9vZsDWkqP6wzVH202f7C8fet_rxOE5Vy1FHYwaI4W_uOBCDL2vqo2Q3oFELW-yC2DSMaSNeWXXseTqjT3creQQosQ_hJLl2lxgPFWTfpiCzwS3s_G2hNK_o3tEJ1aKexqmEMQLH71pRxckyojBT11EWKpOk7MSreVeWFWXIsYLipJYbGD4dWNO9T2JLrOM5hI0DL1Nk4G6fI7onG9XzBo4iujfI4V0",
+        "alt": "Sunset over Kandalama reservoir with water lilies and Sigiriya on the horizon",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Kandalama Wewa",
+      "caption": "Ancient irrigation at sunset"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndjf008o0i7db1hnl0as",
+      "slug": "bespoke-ceylon-honeymoon",
+      "title": "Bespoke Ceylon Honeymoon & Seclusion",
+      "summary": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of Ella and a hidden cove near Tangalle.",
+      "cardTag": "Secluded Villas",
+      "durationDays": 10,
+      "durationNights": 9,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Candlelit Sigiriya Dinner",
+        "Couples Ayurvedic Rituals",
+        "Luxury Coastal Hideaways"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001b0i7dg3fo08h9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+        "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde100510i7da02jrzls",
+          "slug": "honeymoon",
+          "name": "Bespoke Honeymoons",
+          "shortName": "Bespoke Honeymoon"
+        },
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "couple"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Sigiriya & Dambulla: 5th-Century Sky Citadels & Gilded Cave Sanctuaries",
+    "description": "Ascend King Kashyapa’s monolith citadel and explore five sacred cliffside chambers filled with 150+ gilded Buddha statues.",
+    "image": {
+      "id": "cmuv1ndcz001j0i7dst6tq55f",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAp0haxlZb4ni4quDt3S5_UX5gb8w46Ec2NGq-c2IHYs-LS27FB6g-WHsSUCQVNiut2KPpsgjowGcvyq8Y12TKAv476bHramKj9PSyH_BRWygf_mVt7l1tEetWhD21oAFetp6xQVe5CtsvLWwJlnqcyUMSnMuCHkCCsKM-9eTXvy-8e_O2IQVaEoglp9tL9LLCXCl0HLKtpQaJSLC4h7uuclARzOgciu18zJ4y8g--TilyHJG197bU",
+      "alt": "Sigiriya Lion Rock above misty jungle canopy at dawn",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.932Z"
+}

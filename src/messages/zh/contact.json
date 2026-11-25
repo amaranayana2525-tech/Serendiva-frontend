@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "title": "定制行程 · 斯里兰卡私人旅行咨询",
+    "description": "告诉我您的理想斯里兰卡旅程——人数、时间、节奏与兴趣——我将在 24 小时内为您发送专属行程蓝图，零费用、无义务。"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "current": "定制行程"
+  },
+  "hero": {
+    "pill": "100% 私人定制旅程 · 免费无义务规划",
+    "title": "告诉我您的梦想锡兰旅程",
+    "intro": "每一段行程都由我 {name} 亲自量身策划。在下方分享您的设想，我将在 24 小时内为您奉上专属路线建议。",
+    "introFallbackName": "Dinesh Jayasuriya"
+  },
+  "wizard": {
+    "formLabel": "定制旅行咨询",
+    "stepsLabel": "咨询步骤",
+    "stepLabel": "第 {number} 步",
+    "stepCompleted": "已完成",
+    "progressLabel": "填写进度",
+    "progressValue": "第 {current} 步，共 {total} 步",
+    "announceStep": "第 {current} 步（共 {total} 步）：{title}",
+    "about": "关于：{title}",
+    "aboutRemove": "从此咨询中移除「{title}」",
+    "draftRestored": "已为您恢复上次填写的草稿内容。",
+    "draftClear": "重新开始",
+    "steps": {
+      "party": "同行人员",
+      "dates": "日期与节奏",
+      "passions": "兴趣与住宿",
+      "details": "联系方式"
+    },
+    "back": "上一步",
+    "party": {
+      "eyebrow": "同行成员",
+      "title": "本次旅程有哪些成员同行？",
+      "intro": "选择最贴近您出行人员的组合，便于我安排舒适车辆与房型配置。",
+      "options": {
+        "solo": {
+          "title": "独自探索",
+          "body": "节奏全由自己掌控，专属私人摄影向导同行。"
+        },
+        "couple": {
+          "title": "情侣 / 蜜月双人行",
+          "body": "纪念日、蜜月之旅，甄选私密精品隐逸居所。"
+        },
+        "family": {
+          "title": "亲子家庭出行",
+          "body": "宽敞家庭别墅、轻松猎游与安全舒适海湾。"
+        },
+        "group": {
+          "title": "亲友结伴小团",
+          "body": "私家庄园聚会、专车同行与地道美食聚餐。"
+        },
+        "corporate": {
+          "title": "企业 / 高管团队",
+          "body": "严格隐私保障、豪华商务车辆与专业礼宾协调。"
+        }
+      },
+      "guestsTitle": "精确出行人数",
+      "guestsBody": "用于安排最合适座位的专车与酒店房型。",
+      "adults": "成人",
+      "children": "儿童",
+      "childAges": "儿童年龄",
+      "childAgesPlaceholder": "例如：4 岁和 9 岁",
+      "childAgesHint": "方便准备安全座椅、动物园年龄规范与家庭房型。",
+      "corporateNote": "正在筹划公司团建、奖励旅游或需要正式提案（RFP）？",
+      "corporateLink": "前往企业定制专页",
+      "next": "下一步：日期与节奏"
+    },
+    "dates": {
+      "eyebrow": "时间与氛围",
+      "title": "您希望何时造访斯里兰卡？",
+      "intro": "斯里兰卡南北东海岸受两股交替季风影响，我会为您匹配阳光最充足的沿海与高地组合。",
+      "windowLabel": "预计出行月份",
+      "windowPlaceholder": "请选择预计出行时间",
+      "arrival": "抵达日期",
+      "departure": "离开日期",
+      "busyWarning": "这些日期中有几天我已有陪同安排，不过仍欢迎提交咨询——我会为您推荐最临近的空档或可靠资深同事。",
+      "calendarToggleShow": "查看我的档期并选日期",
+      "calendarToggleHide": "收起档期日历",
+      "calendarSelectionEmpty": "点击选定抵达日期，再点击离开日期——系统会自动填入上方。",
+      "calendarSelectionStart": "已选抵达日 {start} — 请点击选择离开日期。",
+      "calendarSelectionRange": "已选日期：{start} 至 {end}",
+      "flexibilityLabel": "日期灵活程度",
+      "windows": {
+        "immediate": "近期出发（未来 30–60 天内）",
+        "season": "{range}（{note}）",
+        "notes": {
+          "dec": "经典干季晴天",
+          "mar": "茶山苍翠与猎游好时节",
+          "jun": "东海岸阳光与大象集结",
+          "sep": "人文节庆与静谧季"
+        },
+        "later": "{month} 起 — 远期定制规划",
+        "flexible": "时间非常灵活 — 请推荐最佳季节"
+      },
+      "flexibility": {
+        "completely": "完全灵活（希望避开雨季、寻找好天气）",
+        "days": "可前后微调 +/- 3 至 5 天",
+        "fixed": "日期已固定（机票已预留）"
+      },
+      "exactDurationBadge": "行程时长：{days} 天 / {nights} 晚（根据您所选日期自动计算）",
+      "exactDurationValue": "{days} 天（{nights} 晚）",
+      "durationLabel": "期望停留天数",
+      "durations": {
+        "short": {
+          "title": "3–5 天",
+          "body": "精华短途 · 加勒与科伦坡"
+        },
+        "essential": {
+          "title": "6–8 天",
+          "body": "经典锡兰 · 茶山与文化三角"
+        },
+        "indepth": {
+          "title": "9–12 天",
+          "body": "深度全景 · 强烈推荐"
+        },
+        "grand": {
+          "title": "13 天及以上",
+          "body": "环岛大纵深 · 沉浸慢游"
+        },
+        "flexible": {
+          "title": "暂未决定",
+          "body": "请根据愿望清单建议合适天数"
+        }
+      },
+      "paceLabel": "理想每日节奏",
+      "paces": {
+        "relaxed": {
+          "title": "悠闲慢旅",
+          "body": "每家精品酒店至少连住 2–3 晚，睡到自然醒，午后在泳池或茶园静坐。"
+        },
+        "balanced": {
+          "title": "张弛有度",
+          "body": "上午游览古迹或自然公园，乘车舒适，傍晚预留自由探索时光。"
+        },
+        "active": {
+          "title": "充实深度探索",
+          "body": "清晨徒步、观鸟、多次丛林猎游与密集人文深度探访。"
+        },
+        "undecided": {
+          "title": "暂未确定偏好",
+          "body": "交由我根据您的同行人员推荐最适合的节奏。"
+        }
+      },
+      "next": "下一步：兴趣与住宿"
+    },
+    "passions": {
+      "eyebrow": "心愿体验",
+      "title": "斯里兰卡最吸引您的是什么？",
+      "intro": "可多选所有感兴趣的主题，我会专门为您错峰安排私密体验时段。",
+      "interestsLabel": "兴趣体验",
+      "interests": {
+        "citadels": "千年古城与石窟遗迹",
+        "safaris": "花豹与野生亚洲象猎游",
+        "tea_estates": "中部云雾高山茶园",
+        "trains": "高山茶园景观火车",
+        "coast_whales": "南岸金沙海滩与观鲸",
+        "ayurveda": "阿育吠陀草药水疗",
+        "culinary": "地道锡兰料理与烹饪体验",
+        "hiking": "瀑布寻幽与山脊徒步",
+        "photography": "自然观鸟与人文摄影"
+      },
+      "tourLabel": "想基于某条既有路线微调？（可选）",
+      "tourPlaceholder": "从零完全定制（不限固定路线）",
+      "tourOption": "{title}（{days} 天）",
+      "destinationsLabel": "特别想去的目的地（可选）",
+      "destinationsField": "心仪目的地",
+      "destinationsShow": "选择目的地（已选 {count} 处）",
+      "destinationsShowNone": "浏览并勾选目的地",
+      "destinationsHide": "收起目的地列表",
+      "destinationsEmpty": "目的地均为可选项 — 如有明确想去的城镇或公园，欢迎在此勾选。",
+      "stayLabel": "偏爱的住宿风格",
+      "stays": {
+        "bungalows": {
+          "title": "百年茶园管家庄园",
+          "body": "殖民时期种植园主别墅、修剪精致的花园、壁炉与贴心私人管家。"
+        },
+        "safari_pavilions": {
+          "title": "野奢生态丛林帐篷",
+          "body": "贴近自然动物廊道的开放式奢华建筑营地。"
+        },
+        "ocean_resorts": {
+          "title": "五星海滨设计精品酒店",
+          "body": "Geoffrey Bawa 美学悬崖套房、无边海景泳池与私人海湾。"
+        },
+        "blend": {
+          "title": "多样精品美学混搭",
+          "body": "从高山茶屋自然过渡到南部设计别墅的多元体验。"
+        },
+        "undecided": {
+          "title": "暂不限定",
+          "body": "请结合路线精选沿途最具特色的住处。"
+        }
+      },
+      "budgetLabel": "住宿档位与预算参考（可选）",
+      "budgets": {
+        "comfortable": {
+          "title": "舒适精品",
+          "body": "精选 3–4★ 精品酒店与特色居所（双人约 $180–$280 / 天）。"
+        },
+        "boutique": {
+          "title": "典雅精品",
+          "body": "百年茶园庄园与私密设计酒店（双人约 $280–$480 / 天）。"
+        },
+        "luxury": {
+          "title": "奢华避世",
+          "body": "Relais & Châteaux 庄园及旗舰度假村（约 $480–$850 / 天）。"
+        },
+        "ultra": {
+          "title": "顶级包栋与水上飞机",
+          "body": "顶级套房、私人整栋庄园与包机直达（$850+ / 天）。"
+        },
+        "undecided": {
+          "title": "弹性预算 / 欢迎推荐",
+          "body": "根据路线中各站点最出彩的酒店灵活匹配。"
+        }
+      },
+      "next": "最后一步：联系方式"
+    },
+    "details": {
+      "eyebrow": "保密一对一咨询",
+      "title": "请留下您的联系方式以便接收方案",
+      "intro": "您的联系信息仅用于为您撰写私人路线方案，绝不外泄或分享给第三方。",
+      "name": "您的姓名",
+      "namePlaceholder": "例如：林先生 / 张女士",
+      "email": "电子邮箱",
+      "emailPlaceholder": "name@domain.com",
+      "whatsapp": "WhatsApp / 手机号码",
+      "whatsappCode": "国家区号",
+      "whatsappPlaceholder": "138 0013 8000",
+      "whatsappOtherHint": "请填写含国家区号的完整号码，例如 +86 138 0013 8000。",
+      "whatsappOptionalHint": "可选 — 通过 WhatsApp 我通常回复最快。",
+      "whatsappRequiredHint": "由于您首选此沟通方式，请填写号码以便联系。",
+      "preferredContactLabel": "您希望我优先通过哪种方式回复？",
+      "contactMethods": {
+        "any": "WhatsApp 或电子邮件均可",
+        "whatsapp": "WhatsApp 文字信息",
+        "email": "详细电子邮件",
+        "call": "电话或 WhatsApp 语音通话"
+      },
+      "codes": {
+        "gb": "+44 英国",
+        "us": "+1 美国/加拿大",
+        "au": "+61 澳大利亚",
+        "nz": "+64 新西兰",
+        "de": "+49 德国",
+        "at": "+43 奥地利",
+        "ch": "+41 瑞士",
+        "fr": "+33 法国",
+        "be": "+32 比利时",
+        "nl": "+31 荷兰",
+        "it": "+39 意大利",
+        "es": "+34 西班牙",
+        "se": "+46 瑞典",
+        "no": "+47 挪威",
+        "dk": "+45 丹麦",
+        "pl": "+48 波兰",
+        "ru": "+7 俄罗斯",
+        "cn": "+86 中国大陆",
+        "hk": "+852 中国香港",
+        "jp": "+81 日本",
+        "kr": "+82 韩国",
+        "sg": "+65 新加坡",
+        "my": "+60 马来西亚",
+        "in": "+91 印度",
+        "ae": "+971 阿联酋",
+        "sa": "+966 沙特",
+        "qa": "+974 卡塔尔",
+        "za": "+27 南非",
+        "lk": "+94 斯里兰卡",
+        "other": "其他区号"
+      },
+      "country": "常住国家或地区",
+      "countryPlaceholder": "例如：中国 / 新加坡",
+      "message": "纪念日、特别心愿与饮食说明",
+      "messagePlaceholder": "欢迎补充结婚纪念、家庭忌口或素食要求、Bawa 建筑兴趣、或特别想停留的国家公园...",
+      "guaranteeTitle": "零预付 · 零义务 · 100% 一对一沟通",
+      "guaranteeBody": "本网站不进行在线收款或强制预订。我亲自为您草拟方案并反复调整细节，直到完全合您心意。",
+      "summaryTitle": "核对您的行程摘要",
+      "summaryEdit": "修改",
+      "summaryParty": "出行组合与人数",
+      "summaryTiming": "时间与节奏",
+      "summaryStyle": "路线、风格与兴趣",
+      "summaryNone": "未特别指定",
+      "privacyBefore": "提交咨询即表示您同意我们严格按照",
+      "privacyLink": "隐私政策",
+      "privacyAfter": "仅将上述信息用于规划您的旅程。",
+      "back": "返回兴趣设置",
+      "submit": "申请我的私人定制行程蓝图",
+      "submitting": "正在发送咨询…",
+      "whatsappPreview": "我将尝试通过 {number} 在 WhatsApp 联系您，请确认国家区号无误。"
+    },
+    "success": {
+      "title": "Ayubowan！您的私人定制咨询已收到。",
+      "body": "我正在仔细阅读您的行程偏好。24 小时内，您将收到我发出的专属邮件方案及 WhatsApp 问候。",
+      "bodyEmailOnly": "我正在仔细阅读您的行程偏好，并将在 24 小时内将详细方案发送至您的邮箱。",
+      "sentTo": "确认邮件已发送至 {email}",
+      "referenceLabel": "您的咨询编号",
+      "referenceHint": "日后联系时请提供此编号，我能立即调出您的行程笔记。",
+      "copyReference": "复制编号",
+      "copiedReference": "已复制！",
+      "whatsappLead": "想更快沟通？欢迎直接通过 WhatsApp 联系我：",
+      "whatsappMessage": "您好 {name}，我刚刚提交了斯里兰卡定制咨询（编号 {reference}），想进一步沟通。",
+      "whatsappMessageNoName": "您好，我刚刚提交了斯里兰卡定制咨询（编号 {reference}），想进一步沟通。",
+      "again": "提交新的咨询"
+    }
+  },
+  "trust": {
+    "licensed": {
+      "title": "官方持证执业",
+      "body": "国家导游讲师执照 #{licence}",
+      "bodyFallback": "SLTDA 官方持证国家向导"
+    },
+    "revisions": {
+      "title": "方案反复微调",
+      "body": "每一站都可根据想法精细打磨"
+    },
+    "direct": {
+      "title": "无中间商差价",
+      "body": "向导本人直接策划并亲自接待"
+    }
+  },
+  "concierge": {
+    "label": "您的专属私人向导",
+    "online": "在线",
+    "away": "休息中",
+    "awayLabel": "当前为非工作时段 — 明早第一时间回复您",
+    "onlineLabel": "工作时段内，欢迎联系",
+    "licence": "执照 #{licence}",
+    "quote": "“欢迎来到 Serendiva。作为您的私人行程设计者与向导，您旅程的每一天都由我亲自把控，绝非外包标准团。”",
+    "whatsapp": "WhatsApp 沟通（{number}）",
+    "whatsappShort": "WhatsApp 对话",
+    "bullets": {
+      "direct": "与向导本人直接对接，绝无中介转包",
+      "revisions": "不限次数调整路线至满意为止",
+      "vehicle": "全程豪华私家空调专车服务"
+    },
+    "hours": "工作时间：{hours}",
+    "base": "常驻基地：{area}",
+    "photoQuote": "“斯里兰卡不仅是一场旅行，更是一生珍藏的记忆。”",
+    "availabilityTitle": "我的近期档期",
+    "availabilityPickHint": "在日历点击日期即可自动填入第二步。",
+    "availabilityPickEnd": "已选抵达：{start} — 请继续点选离开日。",
+    "availabilityRange": "{start} → {end}",
+    "unavailable": "暂时无法加载实时联系方式 — 仍可正常发送表单或邮箱联系。"
+  },
+  "process": {
+    "eyebrow": "定制流程",
+    "title": "私人定制如何展开",
+    "intro": "从您发来第一句构想到机场挥手告别，每个环节我都亲自统筹到位。",
+    "steps": {
+      "share": {
+        "title": "告知愿望与日期",
+        "body": "花不到 3 分钟填写此表单或发消息告诉我大致月份、人数与期望节奏。",
+        "footer": "只需 3 分钟"
+      },
+      "curate": {
+        "title": "24 小时专属蓝图",
+        "body": "收到包含精选酒店、路线里程与动物季建议的初版私人行程草案。",
+        "footer": "24 小时内送达"
+      },
+      "refine": {
+        "title": "细化与微调",
+        "body": "与我沟通调整酒店档位、猎游次数或海滨停留天数，直到了然于心。",
+        "footer": "不限次数调整"
+      },
+      "welcome": {
+        "title": "科伦坡机场礼宾相迎",
+        "body": "带备冰镇毛巾、金椰清饮与豪华专车在 VIP 出口迎接，开启安心旅程。",
+        "footer": "24 小时全程照料"
+      }
+    }
+  },
+  "coverage": {
+    "eyebrow": "全岛无忧统筹",
+    "title": "从最北端贾夫纳到南方加勒古城海防",
+    "body": "我在斯里兰卡九省均建立起可靠协作网络——无论是水上飞机包机、雅拉一号区门票许可还是唐加勒私密别墅，都能从容协调。",
+    "features": {
+      "fleet": {
+        "title": "私家尊享车队",
+        "body": "豪华 SUV 与高顶商务座驾"
+      },
+      "charters": {
+        "title": "境内轻型航线",
+        "body": "Cinnamon Air 水上飞机衔接"
+      },
+      "insurance": {
+        "title": "全额旅游险保障",
+        "body": "覆盖全程的乘车与旅行保障"
+      },
+      "fastTrack": {
+        "title": "VIP 机场礼宾通道",
+        "body": "抵达科伦坡优先通关护送"
+      }
+    },
+    "mapEyebrow": "行车网络",
+    "mapTitle": "斯里兰卡全岛主要向导区域",
+    "mapLabel": "标明我常驻点及重点服务区域的斯里兰卡地图",
+    "baseMarker": "常驻基地 · {area}",
+    "baseFallback": "科伦坡",
+    "explore": "探索 {name}",
+    "hubsLabel": "地图主要目的地",
+    "mapError": "地图暂时无法加载。"
+  },
+  "faq": {
+    "eyebrow": "常见疑问",
+    "title": "私人定制常见问题"
+  }
+}

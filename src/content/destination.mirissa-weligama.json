@@ -1,0 +1,465 @@
+{
+  "id": "cmuv1ndge005y0i7d9s49emzx",
+  "slug": "mirissa-weligama",
+  "name": "Mirissa & Weligama",
+  "tagline": "Azure Bays, Blue Whale Marine Highway & Coconut Cliffs",
+  "summary": "Sun-drenched coastal retreat renowned for deep-sea blue whale passages, tranquil surf breaks, and secluded private beachfront estates.",
+  "metaLabel": "Southern Coast · Whale Highway",
+  "badge": null,
+  "bestTimeLabel": "Nov – Apr",
+  "curations": [
+    "Private catamaran charter with marine conservationist",
+    "Sunset stilt fishermen portrait session at Ahangama",
+    "Koggala Lake cinnamon plantation private launch cruise"
+  ],
+  "region": {
+    "slug": "south-coast",
+    "name": "Southern Golden Coast",
+    "icon": "fort",
+    "description": "Galle Fort Ramparts, Stilt Fishermen, Mirissa Azure Coves",
+    "places": "Galle Fort, Mirissa, Weligama, Tangalle",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "rain",
+      "rain",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak",
+      "peak"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001n0i7dayi7av0v",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCzBhTqFIKponYe9J_OfRBu4uueuN0feXDj258LH4kqoMg1YV7hIyOs1mK_yrikO7iH3m-s8RaIAXNKyDn4cS9-chri5I-s5p2T-uwKV6rpsbX1G-eWV21RVN7rXOL-7f5A_nChjqX1wv5UOaXRZsJzE5FpCJyJy3YknDFxJdZ_29_VUD3VlgOLWVjIqNHv9SMrpfkGzvW8anh5suBXt2Lv2JWhsJB-YOPHSQhf7f2eyIyk8vhMe40",
+    "alt": "Palm headland above a turquoise bay at Weligama and Mirissa",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 5.9483,
+  "longitude": 80.4716,
+  "elevation": 5,
+  "headline": "Mirissa & Weligama: Azure Bays, Stilt Fishermen & the Blue Whale Highway",
+  "description": "Off Mirissa the continental shelf drops away close to shore, bringing blue whales, sperm whales and spinner dolphins within reach of a morning boat trip. Along the bays, stilt fishermen still perch above the surf and Weligama’s gentle waves make it the island’s classic place to learn to surf.\n\nI book small, licensed vessels that respect distance rules and pair the ocean days with quiet beach villas, coconut-cliff sunsets and slow seafood dinners.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Nov – Apr",
+      "note": "Glassy seas and the main blue whale season"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 to 3 Nights",
+      "note": "One dawn at sea, one slow beach day"
+    },
+    {
+      "icon": "waves",
+      "label": "Sea Temperature",
+      "value": "27°C – 29°C",
+      "note": "Warm water all year in the sheltered coves"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "2.5 hrs from Colombo",
+      "note": "About 45 mins from Galle Fort"
+    }
+  ],
+  "guideNote": {
+    "heading": "Whales, Ethically",
+    "paragraphs": [
+      "Whale watching here can be wonderful or chaotic. I charter small vessels with a marine conservationist on board, leave early before the big boats, and never chase — we let the whales set the distance."
+    ],
+    "perks": [
+      {
+        "icon": "sailing",
+        "label": "Private Catamaran"
+      },
+      {
+        "icon": "eco",
+        "label": "Responsible Distance Rules"
+      },
+      {
+        "icon": "photo_camera",
+        "label": "Fair-Fee Stilt Fishermen Visit"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Open Ocean",
+      "meta": "Easy • 4 Hours • 06:30 Departure",
+      "title": "Private Catamaran Charter with a Marine Conservationist",
+      "text": "Coffee on deck as the sun rises, a briefing on the blue whales of the shelf edge and, often, spinner dolphins riding the bow on the way home.",
+      "tagIcon": "sailing",
+      "tagLabel": "Responsible Distance Protocol",
+      "image": {
+        "id": "cmuv1ndcz001w0i7dtqc58ubx",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBd6jYuvhg8nm1k5SVsNMMqF0ZKEst851nwkmMPeFBTxqd0kKhIqqoe7hyr3CrF3sL7VBiQAomKMOte--fb2n3FC5bsRm0pPv4aYxnojfRsbMAy9XnxszuOjA16heXqC58fLw-4PGqFTISh3W9dWerN-qMx8V9jZHYkPNSgaKs5ToouunfwZGi_gILl8dVsbruQ4bl8GvXXBQnEtQYWw5RCShEo4F957sjBDm7i_H_gfXE_0UD4tIA",
+        "alt": "Blue whale raising its tail off the coast of Mirissa",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Coastal Heritage",
+      "meta": "Easy • 1 Hour • Sunset",
+      "title": "Stilt Fishermen Portrait Session at Ahangama",
+      "text": "An unhurried sunset with a fishing family who still use the poles, paid fairly for their time — not the staged photo stops by the main road.",
+      "tagIcon": "photo_camera",
+      "tagLabel": "Fair Fee Paid to Fishermen",
+      "image": {
+        "id": "cmuv1ndcz002j0i7djg77mxf6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA_haocPjAwekfFi1s3xjOKabVyy7CQJXCifR4LziXLJLUG3krOgILeFnPQDt0LKdHFpN5YDBt-9qIFSDWtorqaGmOd6rziwitO9PskqGypHcDZDTsInaoSI92YYLGfY6e_vL2QcM6p5DUjQPKZFrUjeBYZ-gUTvLSDs0PzufAEhedvxX6wrF_mbvOqhlZ_XOKp-IR4d7TxC4_gmPYXHOr60NhHoXliYWW3czpgrxPULgjUuiH8DUo",
+        "alt": "Stilt fishermen against pink sunset waves in Weligama",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Lagoon Calm",
+      "meta": "Leisurely • 2 Hours • Late Afternoon",
+      "title": "Koggala Lake Cinnamon Island Cruise",
+      "text": "A private launch across the lake to a small island where a family peels cinnamon by hand, then mangrove channels and kingfishers at dusk.",
+      "tagIcon": "kayaking",
+      "tagLabel": "Private Launch",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "medical_services",
+      "title": "Before the Boat",
+      "text": "The swell can be lively beyond the reef. Take sea-sickness tablets the night before and eat a light breakfast."
+    },
+    {
+      "icon": "surfing",
+      "title": "Learn to Surf",
+      "text": "Weligama’s sandy-bottomed bay is the gentlest place on the coast for a first lesson. I book patient, certified instructors."
+    },
+    {
+      "icon": "warning",
+      "title": "Respect the Currents",
+      "text": "Some beaches have strong rips, especially from May to October. Swim where locals swim and where I point out the safe coves."
+    }
+  ],
+  "interests": [
+    "Blue Whale Watching",
+    "Stilt Fishermen",
+    "Surf Lessons",
+    "Beach Villas",
+    "Snorkelling"
+  ],
+  "mapPoints": [
+    {
+      "name": "Mirissa Beach",
+      "lat": 5.9483,
+      "lng": 80.4716
+    },
+    {
+      "name": "Coconut Tree Hill",
+      "lat": 5.9437,
+      "lng": 80.4627
+    },
+    {
+      "name": "Weligama Bay",
+      "lat": 5.9739,
+      "lng": 80.4294
+    },
+    {
+      "name": "Ahangama Stilt Fishermen",
+      "lat": 5.973,
+      "lng": 80.37
+    },
+    {
+      "name": "Koggala Lake",
+      "lat": 5.999,
+      "lng": 80.333
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001w0i7dtqc58ubx",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBd6jYuvhg8nm1k5SVsNMMqF0ZKEst851nwkmMPeFBTxqd0kKhIqqoe7hyr3CrF3sL7VBiQAomKMOte--fb2n3FC5bsRm0pPv4aYxnojfRsbMAy9XnxszuOjA16heXqC58fLw-4PGqFTISh3W9dWerN-qMx8V9jZHYkPNSgaKs5ToouunfwZGi_gILl8dVsbruQ4bl8GvXXBQnEtQYWw5RCShEo4F957sjBDm7i_H_gfXE_0UD4tIA",
+        "alt": "Blue whale raising its tail off the coast of Mirissa",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Blue Whale Highway",
+      "caption": "A fluke off Mirissa"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz002j0i7djg77mxf6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA_haocPjAwekfFi1s3xjOKabVyy7CQJXCifR4LziXLJLUG3krOgILeFnPQDt0LKdHFpN5YDBt-9qIFSDWtorqaGmOd6rziwitO9PskqGypHcDZDTsInaoSI92YYLGfY6e_vL2QcM6p5DUjQPKZFrUjeBYZ-gUTvLSDs0PzufAEhedvxX6wrF_mbvOqhlZ_XOKp-IR4d7TxC4_gmPYXHOr60NhHoXliYWW3czpgrxPULgjUuiH8DUo",
+        "alt": "Stilt fishermen against pink sunset waves in Weligama",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Stilt Fishermen",
+      "caption": "Weligama at sunset"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00340i7dkblhxux9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCY4c_j_2yw_xaEVueVh4levl80tU3Tgepm1OlcSjc4AVrcubd8d2yz5FZFoUuhGQFl3dJTHAqEWTVjQK3TNBvtvdB64DBViinq9c8VluShbxMzgLNA_1Z1d_nFtN7lqE0TID56JMAJflceysikQAyr3xyvd64G7IKG0OY8kxTSOdyuQ90oFwD-hgmeEBDZOd9LGuuBXKo5R6c3EAhX1UnMVY4sst5UDZ0AeKLB8UDVHXsE6DpZbp0",
+        "alt": "Blue whale fluke breaking the surface off Mirissa",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Titan of the Trench",
+      "caption": "The continental shelf edge"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndj0008d0i7d4b9av1hp",
+      "slug": "southern-beaches-whale-trails",
+      "title": "Pristine Southern Beaches & Whale Trails",
+      "summary": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and secluded coves near Tangalle.",
+      "cardTag": "Coastal Luxury",
+      "durationDays": 6,
+      "durationNights": 5,
+      "route": [
+        "Galle Fort",
+        "Weligama",
+        "Mirissa",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Stilt Fishermen Encounter",
+        "Cinnamon Island Boat Safari",
+        "Sunset Oceanfront Dining"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001a0i7daohzzy3u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+        "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndkx00a80i7doxfs6gow",
+      "slug": "ayurveda-healing-forest-silence",
+      "title": "Ayurveda, Healing & Forest Silence",
+      "summary": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathing, and private oceanfront meditation.",
+      "cardTag": "Holistic Rejuvenation",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Bentota",
+        "Sinharaja Rainforest",
+        "Ella Foothills",
+        "Weligama Bay"
+      ],
+      "highlights": [
+        "Resident Ayurvedic Doctor Consult",
+        "Daily Dawn Pranayama & Yoga",
+        "Farm-to-Table Organic Dining"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001g0i7dz0vkot17",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+        "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Mirissa & Weligama: Azure Bays, Blue Whale Marine Highway & Coconut Cliffs",
+    "description": "Sun-drenched coastal retreat renowned for deep-sea blue whale passages, tranquil surf breaks, and secluded private beachfront estates.",
+    "image": {
+      "id": "cmuv1ndcz001n0i7dayi7av0v",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCzBhTqFIKponYe9J_OfRBu4uueuN0feXDj258LH4kqoMg1YV7hIyOs1mK_yrikO7iH3m-s8RaIAXNKyDn4cS9-chri5I-s5p2T-uwKV6rpsbX1G-eWV21RVN7rXOL-7f5A_nChjqX1wv5UOaXRZsJzE5FpCJyJy3YknDFxJdZ_29_VUD3VlgOLWVjIqNHv9SMrpfkGzvW8anh5suBXt2Lv2JWhsJB-YOPHSQhf7f2eyIyk8vhMe40",
+      "alt": "Palm headland above a turquoise bay at Weligama and Mirissa",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.937Z"
+}

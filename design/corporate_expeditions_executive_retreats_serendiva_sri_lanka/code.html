@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "surface-container": "#f3ede2", "on-tertiary-container": "#98bf89", "outline": "#70787c", "tertiary-container": "#2c4e23", "surface-container-high": "#ede8dd", "on-secondary": "#ffffff", "on-primary": "#ffffff", "on-primary-fixed": "#001f28", "tertiary": "#16370f", "on-tertiary-fixed-variant": "#2d4f24", "on-background": "#1d1c15", "tertiary-fixed-dim": "#aad19a", "on-surface-variant": "#40484b", "inverse-on-surface": "#f6f0e5", "on-primary-container": "#87bbce", "on-secondary-fixed": "#370e00", "on-error": "#ffffff", "inverse-surface": "#333029", "surface-variant": "#e8e2d7", "secondary": "#9c441e", "primary-fixed-dim": "#9acee1", "surface": "#fff9ee", "surface-container-highest": "#e8e2d7", "surface-dim": "#dfd9cf", "on-surface": "#1d1c15", "background": "#fff9ee", "primary-container": "#0f4c5c", "on-tertiary-fixed": "#022100", "error-container": "#ffdad6", "secondary-fixed": "#ffdbce", "primary-fixed": "#b6ebfe", "inverse-primary": "#9acee1", "on-tertiary": "#ffffff", "surface-container-low": "#f9f3e8", "error": "#ba1a1a", "surface-container-lowest": "#ffffff", "on-error-container": "#93000a", "on-secondary-fixed-variant": "#7d2d08", "surface-bright": "#fff9ee", "secondary-fixed-dim": "#ffb59a", "on-primary-fixed-variant": "#114d5d", "secondary-container": "#ff9064", "on-secondary-container": "#752803", "primary": "#003441", "surface-tint": "#306576", "tertiary-fixed": "#c5eeb4", "outline-variant": "#c0c8cb" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "margin-md": "3rem", "gutter-lg": "2.5rem", "space-3xl": "6rem", "space-lg": "1.5rem", "margin": "1.5rem", "gutter": "1.5rem", "space-xl": "2.5rem", "margin-lg": "5rem", "space-2xl": "4rem", "space-md": "1rem", "space-sm": "0.5rem", "space-xs": "0.25rem" }, "fontFamily": { "label-md": ["Inter"], "headline-sm": ["Playfair Display"], "label-lg": ["Inter"], "headline-xl": ["Playfair Display"], "headline-md": ["Playfair Display"], "display-lg-mobile": ["Playfair Display"], "body-md": ["Inter"], "body-lg": ["Inter"], "display-lg": ["Playfair Display"], "caption": ["Inter"], "body-xl": ["Inter"], "headline-xl-mobile": ["Playfair Display"], "headline-lg-mobile": ["Playfair Display"], "headline-lg": ["Playfair Display"] }, "fontSize": { "label-md": ["11px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" }], "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }], "label-lg": ["13px", { "lineHeight": "18px", "letterSpacing": "0.08em", "fontWeight": "600" }], "headline-xl": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "display-lg-mobile": ["38px", { "lineHeight": "46px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "body-md": ["14px", { "lineHeight": "22px", "fontWeight": "400" }], "body-lg": ["16px", { "lineHeight": "26px", "fontWeight": "400" }], "display-lg": ["56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "600" }], "caption": ["12px", { "lineHeight": "16px", "fontWeight": "400" }], "body-xl": ["18px", { "lineHeight": "30px", "letterSpacing": "-0.005em", "fontWeight": "300" }], "headline-xl-mobile": ["30px", { "lineHeight": "38px", "letterSpacing": "0", "fontWeight": "600" }], "headline-lg-mobile": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "headline-lg": ["32px", { "lineHeight": "40px", "fontWeight": "500" }] } } } };</script></head><body class="bg-surface font-body-lg text-on-surface antialiased relative min-h-screen"><header class="fixed top-0 left-0 right-0 w-full z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)] transition-all duration-300"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg h-20 flex items-center justify-between gap-gutter"><div class="flex items-center gap-space-md shrink-0"><img alt="Serendiva Brand Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1Wj2dHOYyIJcHZi0c__yPro4GGQEKUZsMGgyl0mj3o6U5R9r3zCJDLj9Z9e_qMEWRAMkOYpyGOAvEzmqnagmXsZkHz4BiTr5Xk7CNSYV8I9NO6cnWHcQYCuwlQe50IvJ1oJkoNswbOu_Zeq7fkYuOFBuNQ4n7R6UYVgYK9fRZ97xNWKgjIN42nbp8ZYOeq4tI1TmLYIWC4dZrVmGMiUXq2h2Y1mqHVXNspdFkSYTp-k58cg3bs1rqNmWQ"/><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span><span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-widest hidden sm:inline-block">Ceylon Private Journeys</span></div></div><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-primary font-semibold"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="home" href="#">Home</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Tours</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Destinations</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">About</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Gallery</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center bg-surface-container rounded-full p-space-xs"><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md bg-surface text-primary shadow-[0_1px_4px_rgba(0,0,0,0.06)] font-semibold" type="button">EN</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">中文</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">DE</button></div><a class="inline-flex items-center justify-center bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-lg py-space-sm rounded-lg font-label-lg text-label-lg transition-all shadow-[0_4px_16px_rgba(156,68,30,0.2)] hover:shadow-none" data-path="plan-my-trip" href="#">Plan My Trip</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><div class="fixed right-0 top-1/2 -translate-y-1/2 z-40 hidden md:block"><a class="bg-primary text-on-primary px-space-md py-space-sm rounded-l-lg font-label-lg text-label-lg tracking-widest uppercase flex items-center gap-space-xs shadow-[0_8px_24px_rgba(0,52,65,0.25)] hover:bg-primary-container transition-all [writing-mode:vertical-rl] rotate-180" data-path="bespoke-inquiry" href="#"><span class="material-symbols-outlined text-sm rotate-90">edit_calendar</span><span>Inquire</span></a></div><div class="fixed bottom-space-lg right-space-lg z-40 flex items-center"><a aria-label="Direct WhatsApp Expedition Concierge" class="w-14 h-14 rounded-full bg-tertiary-container hover:bg-tertiary text-on-tertiary flex items-center justify-center shadow-[0_8px_24px_rgba(44,78,35,0.35)] transition-all transform hover:scale-105" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-2xl">chat</span></a></div><main class="w-full pt-20 bg-surface min-h-[calc(100vh-80px)]"><div class="flex flex-col w-full">
+<!-- HERO SECTION WITH EDITORIAL ASYMMETRY & DUAL BLEED -->
+<section class="relative w-full overflow-hidden bg-primary-container text-on-primary py-space-3xl -mt-20 pt-36">
+<div class="absolute inset-0 opacity-15 pointer-events-none mix-blend-screen" style="background-image: radial-gradient(#9acee1 1px, transparent 1px); background-size: 24px 24px;"></div>
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg relative z-10">
+<!-- Breadcrumb -->
+<nav aria-label="Breadcrumb" class="flex items-center gap-space-xs text-on-primary-container font-caption text-caption uppercase tracking-wider mb-space-md">
+<a class="hover:text-on-primary transition-colors" href="#">Home</a>
+<span class="material-symbols-outlined text-xs">chevron_right</span>
+<span class="text-primary-fixed">Corporate &amp; Group Expeditions</span>
+</nav>
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-center">
+<div class="lg:col-span-7 flex flex-col gap-space-md">
+<div class="inline-flex items-center gap-space-xs bg-primary/40 backdrop-blur-md px-space-md py-space-xs rounded-full w-fit">
+<span class="material-symbols-outlined text-tertiary-fixed text-sm">verified_user</span>
+<span class="font-label-md text-label-md text-primary-fixed uppercase tracking-widest">Executive Logistics &amp; Curated Retreats</span>
+</div>
+<h1 class="font-headline-xl text-headline-xl md:text-display-lg text-surface tracking-tight font-headline-xl">
+            Corporate Retreats, Diplomatic Delegations &amp; Executive Incentives in Sri Lanka
+          </h1>
+<p class="font-body-xl text-body-xl text-on-primary-container max-w-2xl leading-relaxed">
+            Bespoke ground handling, private tea estate buyouts, seamless airport tarmac transfers, and immersive corporate itineraries orchestrated with discretion and military precision.
+          </p>
+<!-- Dual CTAs -->
+<div class="flex flex-wrap items-center gap-space-md pt-space-sm">
+<a class="inline-flex items-center justify-center gap-space-sm bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-xl py-space-md rounded-xl font-label-lg text-label-lg shadow-xl transition-all transform hover:-translate-y-0.5" href="#rfp-section">
+<span>Request an Executive Proposal</span>
+<span class="material-symbols-outlined text-sm">arrow_forward</span>
+</a>
+<a class="inline-flex items-center justify-center gap-space-sm bg-surface-container-lowest/10 hover:bg-surface-container-lowest/20 text-on-primary px-space-xl py-space-md rounded-xl font-label-lg text-label-lg backdrop-blur-md transition-all" href="#download-deck">
+<span class="material-symbols-outlined text-sm">download</span>
+<span>Download 2024/25 Corporate Deck (PDF)</span>
+</a>
+</div>
+<!-- Trust Bar Embedded in Hero -->
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-space-md pt-space-xl mt-space-lg bg-primary/30 p-space-lg rounded-2xl backdrop-blur-sm">
+<div class="flex flex-col">
+<span class="font-headline-lg text-headline-lg text-secondary-fixed font-bold">85+</span>
+<span class="font-caption text-caption text-on-primary-container uppercase tracking-wider">Global Corporate Delegations</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-lg text-headline-lg text-secondary-fixed font-bold">100%</span>
+<span class="font-caption text-caption text-on-primary-container uppercase tracking-wider">On-Ground Punctuality Record</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-lg text-headline-lg text-secondary-fixed font-bold">Top Tier</span>
+<span class="font-caption text-caption text-on-primary-container uppercase tracking-wider">Embassies &amp; Fortune 500 Clients</span>
+</div>
+</div>
+</div>
+<!-- Hero Graphic Spread -->
+<div class="lg:col-span-5 relative">
+<div class="relative w-full h-[520px] rounded-2xl overflow-hidden shadow-2xl">
+<img class="w-full h-full object-cover" data-alt="High-ranking corporate leaders and executives seated around a polished teak boardroom table inside a glass pavilion of a colonial Sri Lankan tea estate bungalow in Nuwara Eliya, rolling mist outside, ambient soft morning lighting, high-end architectural photography, ocean teal and warm cream tones." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCSP5oMl0APAR8G5KBHoit0mZdnNI1IzalnjpvApepe81jPWz_ZnGS_oA_gTIEhu293WjlFDetdHO47zSa3nDrAK9QW-2s6Z0vGt7IluYC_lsHCP1hfQyo3VlEAxcHoO0yZdrGKtcWybt2OFwn5bgEkfNAfv-FaW9Vb_bAgyg5tcmkjonvCkNyN80QML1feRWOzZplzIwe8i1_DVMdplafbv3vgZYd0s3jc7o7YbpItwhMtPiPx34c"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary via-transparent to-transparent opacity-80"></div>
+<!-- Float Editorial Card -->
+<div class="absolute bottom-space-lg left-space-lg right-space-lg bg-surface/95 backdrop-blur-md p-space-md rounded-xl shadow-xl text-on-surface">
+<div class="flex items-center gap-space-sm mb-space-xs">
+<span class="w-2.5 h-2.5 rounded-full bg-tertiary"></span>
+<span class="font-label-md text-label-md uppercase tracking-wider text-tertiary">Protocol Operations Live</span>
+</div>
+<p class="font-headline-sm text-headline-sm text-primary mb-1">Dunkeld Bungalow Buyout</p>
+<p class="font-caption text-caption text-on-surface-variant">Private runway transfer via seaplane directly to Castlereagh reservoir. Complete communications blackout upon request.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- TRUST LOGOS BANNER -->
+<section class="w-full bg-surface-container py-space-xl">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="flex flex-col md:flex-row items-center justify-between gap-space-lg">
+<div class="shrink-0 text-center md:text-left">
+<span class="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant block">Trusted Ground Protocol</span>
+<span class="font-headline-sm text-headline-sm text-primary">Confidential Clients &amp; Diplomatic Envoys</span>
+</div>
+<div class="flex flex-wrap items-center justify-center gap-space-xl opacity-60">
+<div class="flex items-center gap-space-xs font-label-lg text-label-lg font-bold uppercase tracking-widest text-on-surface">
+<span class="material-symbols-outlined text-xl">account_balance</span> Diplomatic Mission Colombo
+          </div>
+<div class="flex items-center gap-space-xs font-label-lg text-label-lg font-bold uppercase tracking-widest text-on-surface">
+<span class="material-symbols-outlined text-xl">candlestick_chart</span> Zürich Wealth Management
+          </div>
+<div class="flex items-center gap-space-xs font-label-lg text-label-lg font-bold uppercase tracking-widest text-on-surface">
+<span class="material-symbols-outlined text-xl">terminal</span> Nordic Tech Consortium
+          </div>
+<div class="flex items-center gap-space-xs font-label-lg text-label-lg font-bold uppercase tracking-widest text-on-surface">
+<span class="material-symbols-outlined text-xl">forest</span> Global Conservation Trust
+          </div>
+</div>
+</div>
+</div>
+</section>
+<!-- CORPORATE SERVICES (GRID OF 6 BESPOKE PILLARS) -->
+<section class="w-full py-space-3xl bg-surface">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-2xl gap-space-md">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold block mb-space-xs">Specialized Portfolios</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">Bespoke Solutions for Discerning Organizations</h2>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-md">
+          Whether hosting G-level executives, international incentive qualifiers, or diplomatic missions, every route is vetted with discreet security, redundancy transport, and five-star logistics.
+        </p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-gutter-lg">
+<!-- Service 1 -->
+<div class="group bg-surface-container-low rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Architectural Geoffrey Bawa villa illuminated at dusk in Bentota Sri Lanka with serene reflecting pools, minimal modern lines, warm architectural lights, and an empty long dinner table set for an executive dinner." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCsyVBfvtcq2gh7Wiu7hA-tAGb4BvhpFPoiCa8LVBQbR7g_PHWXkvXUoIxDsB4sg0rTxIvi_75DjGOfyIrJfJ3P7mNT0QUbhGJc4DL-UeXLbs6_nP8EbZik5Vzl2kej0QIWnDK2IfcCrlpNi3Y2axgZ8V8xAtL4h7s7dSDpgu_wTgV9bvCRBBpY__coETAxJueYSlfxiSLEpBJBYO2MM6bR9OMGBuHQBho9KpbsqDfS1YADAHemxkE"/>
+<span class="absolute top-space-md left-space-md bg-surface/90 text-primary font-label-md text-label-md px-space-md py-space-xs rounded-full uppercase tracking-wider backdrop-blur-sm">Boardroom Privacy</span>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-sm">Executive Board Retreats &amp; Villa Buyouts</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Exclusive privatization of Geoffrey Bawa architectural estates. High-bandwidth encrypted satellite connectivity, candlelit private chef dining, and strict non-disclosure compliance for all staff.</p>
+</div>
+<div class="flex items-center gap-space-xs text-secondary font-label-md text-label-md uppercase tracking-wider">
+<span>NDA-Compliant Crews</span>
+<span class="material-symbols-outlined text-sm">lock</span>
+</div>
+</div>
+</div>
+<!-- Service 2 -->
+<div class="group bg-surface-container-low rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Luxury vintage observation train carriage passing through lush green mountain tea plantations in Sri Lanka, interior furnished with leather armchairs, brass fixtures, and champagne glasses on mahogany tables, misty backdrop." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDFZe5kZXwPvreGftYkIkZmh0XNwyuMHP8OTndeM02S3OKANH_ud5EcblZtoLXo0q7nfiNkHnZRLKSVcGBHMPo2IY6XiiBHBe62WzaHfqBcGookDhFLtvMioCqK3ArQYULz3w8HP5rk7H8nkNWnYwtAX_Ggr0S9wGKWFgTJGYbg8SaXZxbL0huAgIeQg_amqQSZMVlJoE09Y4Iq_ZcnrPe-NEEAhqHlKwePA2S4_6tSMN3I1TFIF_o"/>
+<span class="absolute top-space-md left-space-md bg-surface/90 text-primary font-label-md text-label-md px-space-md py-space-xs rounded-full uppercase tracking-wider backdrop-blur-sm">Elite Incentive</span>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-sm">High-Impact Incentive Journeys</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Chartered twin-engine seaplanes landing on glassy inland lakes, reserved luxury heritage rail carriages through the highlands, and black-tie gala dinners on the ancient ramparts of Galle Fort.</p>
+</div>
+<div class="flex items-center gap-space-xs text-secondary font-label-md text-label-md uppercase tracking-wider">
+<span>Aviation &amp; Heritage Charter</span>
+<span class="material-symbols-outlined text-sm">flight_takeoff</span>
+</div>
+</div>
+</div>
+<!-- Service 3 -->
+<div class="group bg-surface-container-low rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Executive team engaged in high-end sailing regatta on modern catamarans in turquoise coastal waters off Sri Lanka, bright sunny day with dramatic ocean spray and lush palm fringe on distant shore." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCC6AXohSmtdrXOt9cnZAdI8huZfK_-X6vonOAKLGv8IKlYVHFbH8U7tppNj_mjZegnc4VG6IpFXir0ep6UOnJySvSBIP9VQCj_pASJmxcnq6MFs4tNU0RyJIxstnCkHIQ5Sq1RmwC6hTOa2hZmVAA-rp4GGNIKuh-d5TvSauiqWiJyuXUou1ITSBVjt5VTIv1AFbyVRoEPuRWlr3ABtxsW9mqm2JXINx7qO8vYE6PP0sCuDPRn_jQ"/>
+<span class="absolute top-space-md left-space-md bg-surface/90 text-primary font-label-md text-label-md px-space-md py-space-xs rounded-full uppercase tracking-wider backdrop-blur-sm">Leadership Cohesion</span>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-sm">Team Cohesion &amp; Nature Expeditions</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Guided navigation through cloud forests of the Knuckles Range, certified endemic rainforest conservation planting, and tactical sailing regattas along the Bentota estuary.</p>
+</div>
+<div class="flex items-center gap-space-xs text-secondary font-label-md text-label-md uppercase tracking-wider">
+<span>Curated Physical Challenges</span>
+<span class="material-symbols-outlined text-sm">explore</span>
+</div>
+</div>
+</div>
+<!-- Service 4 -->
+<div class="group bg-surface-container-low rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Chauffeured black executive fleet lined up on private airport tarmac next to a private jet at Colombo Bandaranaike International Airport, polished luxury Mercedes vans with uniformed professional Sri Lankan chauffeurs standing at attention." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCSIAQuLDot_SQuuWdzHQ-z_vUVutZZQfKGRwCnrWrYPhv2IcABRVmVNZHgyE_yPkazBQ9TnYXv60n5_V9n6pqfJhY0TMZnXdSZWXLV-sA05qNsGLD2Kb5aMDY-qbULFXWr3Q8StOVIidQDB4PlaEI-C4bLATlaKkvdbdqLlSlvJyaX7EL5w1UZ2lbKk_M113yR05SiGymQu3aIZNtMqeO-vhfmk1ZSCLG5iZhZngb3VtVbXQRpHts"/>
+<span class="absolute top-space-md left-space-md bg-surface/90 text-primary font-label-md text-label-md px-space-md py-space-xs rounded-full uppercase tracking-wider backdrop-blur-sm">Diplomatic Protocol</span>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-sm">Diplomatic &amp; VIP Dignitary Handling</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Armored luxury vehicle deployment, direct tarmac apron vehicle clearance, silk route fast-track immigration at BIA, and specialized bilingual liaisons trained in state protocol.</p>
+</div>
+<div class="flex items-center gap-space-xs text-secondary font-label-md text-label-md uppercase tracking-wider">
+<span>VVIP Tarmac Clearance</span>
+<span class="material-symbols-outlined text-sm">security</span>
+</div>
+</div>
+</div>
+<!-- Service 5 -->
+<div class="group bg-surface-container-low rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Academic delegation and university scholars in discussion with an archaeologist in front of ancient carved stone ruins at Polonnaruwa Sri Lanka under shade of sacred banyan trees, editorial documentary lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCOBGIHoXx4gS-LubP3tn88jzLC0rhKKRJ89U9eS82SV8j9upcwiEZwoeOtgTzz5z9Ui6t2CMHhVLO8AyYtH2hp57TRijAOMAleGfy-ofViFDEyUQjMJvwCeR4fXlQfZDCsC2MfuR8VL8GXscfkuXzbFpnLkll9YpAPzA3HcG3w0RUjXJUarQ8qph4OgGOrPZPjHlDxgimHg5wYTWSkK82SsOU1OzP3UowvFA4xRRwJK6EmHlA7y3I"/>
+<span class="absolute top-space-md left-space-md bg-surface/90 text-primary font-label-md text-label-md px-space-md py-space-xs rounded-full uppercase tracking-wider backdrop-blur-sm">Academic Curations</span>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-sm">International University &amp; Academic Treks</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Special Department of Archaeology site clearances, exclusive private guest lectures with leading historians, and tailored research infrastructure for global alumni and MBA groups.</p>
+</div>
+<div class="flex items-center gap-space-xs text-secondary font-label-md text-label-md uppercase tracking-wider">
+<span>Specialized Permits</span>
+<span class="material-symbols-outlined text-sm">school</span>
+</div>
+</div>
+</div>
+<!-- Service 6 -->
+<div class="group bg-surface-container-low rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 flex flex-col">
+<div class="relative h-60 w-full overflow-hidden">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="High-end corporate gala dinner setup on oceanfront lawn overlooking Indian ocean at Colombo heritage hotel, warm fairy lights, white linen banquet tables, professional lighting, sunset ocean backdrop." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAltyvP6uFGwj8omI9oDy5ESISTHwRxuYUDNolC4p3S6O3tXHkI9-gCoTJAojXiC0CR3893tlPWpQ46vnWZo0gx72uTqaNcAzhYq-DuoA6XiR-_mJcw9xn8y7nC74iiT6kbfdU0APHuBmRjmKKz1MxecK0NFdaR17BVfLCCXN75pJPkiLnc8mCxlAShCM97nvYbao8MAYc5e4yOhw_379tEnx8BD2gQ2awsVoD141oTGndC--3tmY8"/>
+<span class="absolute top-space-md left-space-md bg-surface/90 text-primary font-label-md text-label-md px-space-md py-space-xs rounded-full uppercase tracking-wider backdrop-blur-sm">Conferences &amp; Galas</span>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-sm">Conference &amp; Summit Pre/Post Tours</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Bespoke companion &amp; spouse curation journeys, private museum salon evenings, and seamless transfer corridors between Colombo international convention centers and southern coastal villas.</p>
+</div>
+<div class="flex items-center gap-space-xs text-secondary font-label-md text-label-md uppercase tracking-wider">
+<span>End-to-End Coordination</span>
+<span class="material-symbols-outlined text-sm">event_seat</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- HOW WE ORCHESTRATE (TIMELINE & PROCESS) -->
+<section class="w-full py-space-3xl bg-surface-container-low">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="max-w-2xl mb-space-2xl">
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold block mb-space-xs">Methodology</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">How We Orchestrate Corporate Expeditions</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-sm">
+          Military precision meets warm Ceylon hospitality. Every phase is managed by a single designated Logistics Director.
+        </p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-gutter">
+<!-- Step 1 -->
+<div class="bg-surface p-space-xl rounded-2xl shadow-sm relative flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-lg text-headline-lg text-primary font-bold">01</span>
+<div class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-xl">cognition</span>
+</div>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-space-xs">Confidential Discovery</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Thorough profiling of group seniority, security classification, dietary regimens, audiovisual parameters, and wellness expectations.</p>
+</div>
+<span class="mt-space-lg text-caption font-caption text-secondary uppercase tracking-wider block">Phase: Initial 48 Hours</span>
+</div>
+<!-- Step 2 -->
+<div class="bg-surface p-space-xl rounded-2xl shadow-sm relative flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-lg text-headline-lg text-primary font-bold">02</span>
+<div class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-xl">architecture</span>
+</div>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-space-xs">Customized Blueprint</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Multi-tier itinerary architectures with itemized financial transparency, estate exclusivity terms, and alternate transport routing contingency plans.</p>
+</div>
+<span class="mt-space-lg text-caption font-caption text-secondary uppercase tracking-wider block">Phase: Proposal Iteration</span>
+</div>
+<!-- Step 3 -->
+<div class="bg-surface p-space-xl rounded-2xl shadow-sm relative flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-lg text-headline-lg text-primary font-bold">03</span>
+<div class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-xl">assignment_turned_in</span>
+</div>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-space-xs">Site Inspection &amp; Liaison</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Pre-trip recce walk-throughs for your planners, private test tastings, and allocation of a dedicated bilingual Senior Tour Director.</p>
+</div>
+<span class="mt-space-lg text-caption font-caption text-secondary uppercase tracking-wider block">Phase: Pre-Deployment</span>
+</div>
+<!-- Step 4 -->
+<div class="bg-surface p-space-xl rounded-2xl shadow-sm relative flex flex-col justify-between">
+<div>
+<div class="flex items-center justify-between mb-space-md">
+<span class="font-headline-lg text-headline-lg text-primary font-bold">04</span>
+<div class="w-10 h-10 rounded-full bg-surface-container flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-xl">flag</span>
+</div>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary mb-space-xs">Flawless Ground Execution</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Luggage pre-dispatch directly to rooms, bespoke executive welcome portfolios, live tracking, and 24/7 central operations command monitoring.</p>
+</div>
+<span class="mt-space-lg text-caption font-caption text-secondary uppercase tracking-wider block">Phase: Active Journey</span>
+</div>
+</div>
+</div>
+</section>
+<!-- WHY MULTINATIONALS CHOOSE SERENDIVA (5 PILLARS) -->
+<section class="w-full py-space-3xl bg-surface">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-center">
+<div class="lg:col-span-5 flex flex-col gap-space-md">
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold">Corporate Governance</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">Why Global Organizations Entrust Us With Their People</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant">
+            In corporate travel, there are no second takes. Our infrastructure is built to exceed strict international compliance, health and safety standards, and insurance audits required by multinational enterprises.
+          </p>
+<div class="p-space-lg rounded-2xl bg-surface-container flex items-center gap-space-md mt-space-sm">
+<span class="material-symbols-outlined text-primary text-3xl">verified</span>
+<div>
+<p class="font-headline-sm text-headline-sm text-primary">Fully Insured &amp; Audited</p>
+<p class="font-caption text-caption text-on-surface-variant">Underwritten by international liability underwriters with $2,000,000 USD public policy protection per movement.</p>
+</div>
+</div>
+</div>
+<div class="lg:col-span-7 flex flex-col gap-space-md">
+<!-- Pillar 1 -->
+<div class="p-space-lg bg-surface-container-low rounded-xl flex items-start gap-space-md transition-all hover:bg-surface-container">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-xl">directions_car</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-primary mb-1">Dedicated Fleet &amp; Chauffeur Corps</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">Company-owned luxury Mercedes-Benz, Toyota Alphard VIP, and executive coach fleet. All chauffeurs hold defensive driving certification, first-aid training, and extensive protocol experience.</p>
+</div>
+</div>
+<!-- Pillar 2 -->
+<div class="p-space-lg bg-surface-container-low rounded-xl flex items-start gap-space-md transition-all hover:bg-surface-container">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-xl">policy</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-primary mb-1">Direct SLTDA Licensing &amp; Compliance</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">Registered A-Grade Inbound Operator under Sri Lanka Tourism Development Authority (Lic #TS/2024/091), guaranteeing full legal accountability, statutory tax compliance, and official state facilitation.</p>
+</div>
+</div>
+<!-- Pillar 3 -->
+<div class="p-space-lg bg-surface-container-low rounded-xl flex items-start gap-space-md transition-all hover:bg-surface-container">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-xl">receipt_long</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-primary mb-1">Complete Financial Transparency</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">Detailed, unbundled pricing structures with zero hidden fees. Invoicing delivered in USD, EUR, GBP, or CHF with itemized GST / VAT breakdown tailored for corporate audit reconciliation.</p>
+</div>
+</div>
+<!-- Pillar 4 -->
+<div class="p-space-lg bg-surface-container-low rounded-xl flex items-start gap-space-md transition-all hover:bg-surface-container">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-xl">visibility_off</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-primary mb-1">Total Discretion &amp; Privacy Protocols</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">Non-disclosure agreements executed prior to passenger manifest receipt. Strict prohibition of social media photography by staff, ensuring complete confidentiality for high-profile attendees.</p>
+</div>
+</div>
+<!-- Pillar 5 -->
+<div class="p-space-lg bg-surface-container-low rounded-xl flex items-start gap-space-md transition-all hover:bg-surface-container">
+<div class="w-10 h-10 rounded-full bg-primary text-on-primary flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-xl">person_pin</span>
+</div>
+<div>
+<h4 class="font-headline-sm text-headline-sm text-primary mb-1">Single Point of Contact: Dinesh &amp; Logistics Desk</h4>
+<p class="font-body-md text-body-md text-on-surface-variant">No call centers. You work directly with a Senior Logistics Principal with executive authority to redirect assets, adjust timings, and manage real-time contingencies instantly.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- SAMPLE CORPORATE PACKAGES -->
+<section class="w-full py-space-3xl bg-surface-container-low">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="flex flex-col md:flex-row md:items-end justify-between mb-space-2xl gap-space-md">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold block mb-space-xs">Exemplary Blueprints</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">Curated Expedition Blueprints</h2>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-md">
+          Fully customizable modules tailored to your company's strategic focus, team profile, and calendar constraints.
+        </p>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-gutter-lg">
+<!-- Package 1 -->
+<div class="bg-surface rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all flex flex-col">
+<div class="relative h-64 w-full">
+<img class="w-full h-full object-cover" data-alt="Panoramic view of historic Ceylon tea bungalow with immaculate English gardens overlooking emerald green valleys and mist in Bogawantalawa Sri Lanka, warm morning sunshine." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCWEEf1F9EJDfY5Cq0cBf4xLvNYHuFeDqZY8eA2Zcjgr10VI2r7pvJU0Rh4W85etTGuRVcgk1NAWU_gsT1_HczUnqZplMGTFfoyCfuqE5Ux92F3_2o4YKPKcMVUv6izR_AGd6gUUiaSa5MP0vOztA2stZDAYcbF1u23Mf-P4gPBhvUILQ-gaj9FORhDIXPcdjFklOpSpl7_VqCKXwatDocdIU8m8l20xsx_6l8CQF-ja2P_AYZ2vdE"/>
+<div class="absolute top-space-md right-space-md bg-primary text-on-primary font-label-md text-label-md px-space-md py-space-xs rounded-full">
+              3 Nights / 4 Days
+            </div>
+<div class="absolute bottom-space-sm left-space-md bg-surface/90 backdrop-blur-sm text-primary font-caption text-caption px-space-sm py-0.5 rounded">
+              Ideal for: 8–16 Executives
+            </div>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-xs">The Hill Country Strategic Retreat</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Exclusive buyout of a heritage Relais &amp; Châteaux tea bungalow. Mornings dedicated to board sessions overlooking mist-laden valleys, followed by private tea cupping masterclasses and sommelier-curated pairing dinners.</p>
+<ul class="flex flex-col gap-space-xs mb-space-lg text-body-md font-body-md text-on-surface-variant">
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Boardroom setup with satellite Starlink backup</span>
+</li>
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Charter helicopter transfer directly onto estate grounds</span>
+</li>
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Mindfulness tea-walk led by resident botanist</span>
+</li>
+</ul>
+</div>
+<a class="w-full py-space-sm bg-surface-container hover:bg-primary hover:text-on-primary text-primary text-center font-label-lg text-label-lg rounded-xl transition-all" href="#rfp-section">
+              Request Retreat Brief
+            </a>
+</div>
+</div>
+<!-- Package 2 -->
+<div class="bg-surface rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all flex flex-col">
+<div class="relative h-64 w-full">
+<img class="w-full h-full object-cover" data-alt="High-end safari glamping tent at Yala National Park Sri Lanka, furnished with luxury four poster bed, private plunge pool overlooking waterhole with spotted deer in golden hour light." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAcxMlOKpqWlIFygvBVR7A2KbWmGqqvLS_xIx96GA7MD7xZoB0gLhTjM8b6DkFapaI7iDPk4FFcfV_fBSFnrUI9SaJsI_apuJdDoHgAZpsk7ZoQEP4GOXRlykmbQLzW22OTOz9XV3ocVSsJqEXzNVzBWgwIWvVpkF13Jz1CkUWNY0ecX1QpQoEPFM8xgFS-DkRDFgXq-f0yKg-MrTev-UDXlneGp-8EgqblvyL1p72gbg7G7TRPAgI"/>
+<div class="absolute top-space-md right-space-md bg-secondary text-on-secondary font-label-md text-label-md px-space-md py-space-xs rounded-full">
+              4 Nights / 5 Days
+            </div>
+<div class="absolute bottom-space-sm left-space-md bg-surface/90 backdrop-blur-sm text-primary font-caption text-caption px-space-sm py-0.5 rounded">
+              Ideal for: 15–35 Qualifiers
+            </div>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-xs">The Coastal &amp; Wilderness Incentive</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Rewarding top performers with tented safari luxury in Yala National Park, private coastal catamaran cruises along the southern headlands, and a finale celebration dinner within historic Galle Fort ramparts.</p>
+<ul class="flex flex-col gap-space-xs mb-space-lg text-body-md font-body-md text-on-surface-variant">
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Private modified safari rovers with senior naturalists</span>
+</li>
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>VIP coastal catamaran sailing &amp; snorkeling</span>
+</li>
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Private jazz quartet gala dinner at Galle Fort</span>
+</li>
+</ul>
+</div>
+<a class="w-full py-space-sm bg-surface-container hover:bg-primary hover:text-on-primary text-primary text-center font-label-lg text-label-lg rounded-xl transition-all" href="#rfp-section">
+              Request Incentive Blueprint
+            </a>
+</div>
+</div>
+<!-- Package 3 -->
+<div class="bg-surface rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all flex flex-col">
+<div class="relative h-64 w-full">
+<img class="w-full h-full object-cover" data-alt="Dawn view of the ancient rock fortress of Sigiriya rising out of the mist and jungle in Sri Lanka, dramatic warm sunrise glow, aerial drone angle showing archaeological scale." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBZEpiT_mhex7A-eygl4yu4QiBVyxKZkO2qV6fC5r6V9d64d6C3BVW4jhLfW_ltoDxs4Q69iXPgI_ItlSwFvrqbd26PqoZ-VOoPQ0MphH3RCbN3A0rBA_GR00riH6nsozaMt4mSa1ZX0vPiHZxaO6Hpmw-oGzyc3D4cdoX6PzEGvNRvt4dh48LfyITW6ep93khGEfY8cLha2J3NuAL7gJKSVplWxQDX7h-OnHMnbXk3PIL1UsUbeJc"/>
+<div class="absolute top-space-md right-space-md bg-tertiary text-on-tertiary font-label-md text-label-md px-space-md py-space-xs rounded-full">
+              5 Nights / 6 Days
+            </div>
+<div class="absolute bottom-space-sm left-space-md bg-surface/90 backdrop-blur-sm text-primary font-caption text-caption px-space-sm py-0.5 rounded">
+              Ideal for: 20–50 Delegates
+            </div>
+</div>
+<div class="p-space-xl flex flex-col flex-grow justify-between">
+<div>
+<h3 class="font-headline-md text-headline-md text-primary mb-space-xs">The Cultural Grand Odyssey</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-md">Specially created for diplomatic envoys, institutional boards, and academic alumni. Features early private access to Sigiriya Fortress before public gates open and exclusive evening ceremonies in Kandy.</p>
+<ul class="flex flex-col gap-space-xs mb-space-lg text-body-md font-body-md text-on-surface-variant">
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Pre-dawn VIP private entrance to Sigiriya Rock</span>
+</li>
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Temple of the Tooth private inner sanctum viewing</span>
+</li>
+<li class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-sm">check_circle</span>
+<span>Colonial seaside diplomatic reception in Mount Lavinia</span>
+</li>
+</ul>
+</div>
+<a class="w-full py-space-sm bg-surface-container hover:bg-primary hover:text-on-primary text-primary text-center font-label-lg text-label-lg rounded-xl transition-all" href="#rfp-section">
+              Request Delegation Dossier
+            </a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- EXECUTIVE TESTIMONIAL FEATURE -->
+<section class="w-full py-space-3xl bg-surface">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="bg-primary text-on-primary rounded-3xl p-space-2xl md:p-space-3xl relative overflow-hidden">
+<div class="absolute right-0 top-0 w-96 h-96 bg-primary-container/30 rounded-full blur-3xl pointer-events-none"></div>
+<div class="relative z-10 max-w-4xl">
+<div class="flex items-center gap-space-xs text-secondary-fixed mb-space-lg">
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-xl" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="font-label-md text-label-md uppercase tracking-widest text-on-primary-container ml-2">Verified Enterprise Audit</span>
+</div>
+<blockquote class="font-headline-md md:font-headline-lg text-headline-md md:text-headline-lg text-surface leading-snug font-serif italic mb-space-xl">
+            "Serendiva handled our 34-person international leadership retreat flawlessly. From VIP airport clearance to private train carriage reservations, Dinesh and his team delivered Swiss-standard precision in the heart of Ceylon."
+          </blockquote>
+<div class="flex items-center gap-space-md">
+<div class="w-14 h-14 rounded-full bg-surface-container overflow-hidden shrink-0">
+<img class="w-full h-full object-cover" data-alt="Portrait of distinguished senior European corporate managing director in a navy linen suit, warm natural outdoor light, professional editorial portrait." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA3RoKtNCIVv7-ClwVgBzbHf4U4jDS03BoV31AntdRjOHLuvNa8QpCB3rC33l6dPjQoB40a4oSARFbRz4SiMrVIY7gXvrBVYbszz0YWz8XsamSKirYlKshnNvkhs29ylOkR3_ckZU6PUtWvs4XhxjcpOywwIVeOWPl8dJYqkJDlQHFbsEduAs8VfdpGalrgs9eStSgSxl3ZKinX7tNLVUoZNMouO8OgKdUfMSh2ecXiKYUZh_2f8F8"/>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm text-surface font-semibold">Dr. Henrik von Bergmann</span>
+<span class="font-caption text-caption text-on-primary-container">Managing Director · European Technology Leadership Forum (Frankfurt &amp; Zurich)</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- RFP / PROPOSAL REQUEST FORM -->
+<section class="w-full py-space-3xl bg-surface-container-low" id="rfp-section">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg">
+<!-- Form Left Editorial Info -->
+<div class="lg:col-span-4 flex flex-col gap-space-lg">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold block mb-space-xs">Initiate Protocol</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">Corporate RFP &amp; Proposal Request</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-sm">
+              Submit your preliminary event specifications. Our corporate desk provides an itemized proposal, transport blueprint, and draft accommodation manifest within 12 business hours.
+            </p>
+</div>
+<!-- Direct Logistics Desk Card -->
+<div class="bg-surface p-space-xl rounded-2xl shadow-sm flex flex-col gap-space-md">
+<div class="flex items-center gap-space-sm">
+<div class="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center text-primary">
+<span class="material-symbols-outlined text-2xl">support_agent</span>
+</div>
+<div>
+<span class="font-headline-sm text-headline-sm text-primary block">Direct Logistics Desk</span>
+<span class="font-caption text-caption text-tertiary">Senior Protocol Manager on Duty</span>
+</div>
+</div>
+<div class="flex flex-col gap-space-xs text-body-md font-body-md text-on-surface-variant pt-space-xs">
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary text-base">call</span>
+<a class="hover:text-primary font-semibold text-on-surface" href="tel:+94112345678">+94 (11) 234 5678</a>
+</div>
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary text-base">mail</span>
+<a class="hover:text-primary font-semibold text-on-surface" href="mailto:corporate@serendiva.lk">corporate@serendiva.lk</a>
+</div>
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary text-base">chat</span>
+<span class="text-on-surface font-semibold">Priority Corporate WhatsApp: +94 77 123 4567</span>
+</div>
+</div>
+<div class="p-space-sm bg-surface-container rounded-xl text-caption font-caption text-on-surface-variant">
+              Available 24/7 for time-critical diplomatic arrivals and aircraft handling.
+            </div>
+</div>
+</div>
+<!-- Form Right Interactive Inputs -->
+<div class="lg:col-span-8 bg-surface p-space-xl md:p-space-2xl rounded-3xl shadow-sm">
+<form class="flex flex-col gap-space-lg" id="corporate-rfp-form" onsubmit="event.preventDefault(); document.getElementById('rfp-success').classList.remove('hidden'); this.reset();">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="company-name">Company / Institution Name *</label>
+<input class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface focus:shadow-md transition-all" id="company-name" placeholder="e.g. Novartis AG / Embassy of Sweden" required=""/>
+</div>
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="contact-name">Contact Person &amp; Title *</label>
+<input class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface focus:shadow-md transition-all" id="contact-name" placeholder="e.g. Elena Rostova, Head of Global Events" required=""/>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="corporate-email">Official Corporate Email *</label>
+<input class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface focus:shadow-md transition-all" id="corporate-email" placeholder="name@company.com" required="" type="email"/>
+</div>
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="contact-phone">Direct Phone / Mobile *</label>
+<input class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface focus:shadow-md transition-all" id="contact-phone" placeholder="+41 22 555 0192" required="" type="tel"/>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-space-md">
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="group-size">Estimated Group Size *</label>
+<select class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface transition-all" id="group-size">
+<option>6–12 Executive Board</option>
+<option>15–30 Corporate Group</option>
+<option>30–60 Delegation / Incentive</option>
+<option>60+ Full Summit / Event</option>
+</select>
+</div>
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="travel-dates">Target Travel Month &amp; Year *</label>
+<input class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface transition-all" id="travel-dates" placeholder="e.g. November 2024 (6 Days)"/>
+</div>
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="event-type">Primary Mission *</label>
+<select class="w-full bg-surface-container-low px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface transition-all" id="event-type">
+<option>Executive Board Retreat</option>
+<option>High-Impact Incentive Trip</option>
+<option>Diplomatic / VIP Delegation</option>
+<option>Conference / Summit Pre-Post</option>
+<option>Academic / University Field Trek</option>
+</select>
+</div>
+</div>
+<!-- Specific Logistics Checkboxes -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider">Specific Logistics &amp; Security Requirements</label>
+<div class="grid grid-cols-2 sm:grid-cols-4 gap-space-sm pt-space-xs">
+<label class="flex items-center gap-space-xs bg-surface-container-low p-space-sm rounded-xl text-caption font-caption text-on-surface cursor-pointer hover:bg-surface-container">
+<input class="accent-primary rounded" type="checkbox"/>
+<span>Seaplane Charter</span>
+</label>
+<label class="flex items-center gap-space-xs bg-surface-container-low p-space-sm rounded-xl text-caption font-caption text-on-surface cursor-pointer hover:bg-surface-container">
+<input class="accent-primary rounded" type="checkbox"/>
+<span>Train Carriage Buyout</span>
+</label>
+<label class="flex items-center gap-space-xs bg-surface-container-low p-space-sm rounded-xl text-caption font-caption text-on-surface cursor-pointer hover:bg-surface-container">
+<input class="accent-primary rounded" type="checkbox"/>
+<span>BIA VIP Fast-Track</span>
+</label>
+<label class="flex items-center gap-space-xs bg-surface-container-low p-space-sm rounded-xl text-caption font-caption text-on-surface cursor-pointer hover:bg-surface-container">
+<input class="accent-primary rounded" type="checkbox"/>
+<span>Bespoke AV / Stage</span>
+</label>
+</div>
+</div>
+<!-- Additional notes & Brief Upload -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md text-primary uppercase tracking-wider" for="notes">Brief Itinerary Concept or Scope</label>
+<textarea class="w-full bg-surface-container-low p-space-md rounded-xl font-body-md text-body-md text-on-surface focus:outline-none focus:bg-surface transition-all" id="notes" placeholder="Tell us about special requests: private dining preferences, security protocols, preferred villa locations, or billing instructions..." rows="3"></textarea>
+</div>
+<div class="flex flex-col sm:flex-row items-center justify-between gap-space-md pt-space-sm">
+<div class="w-full sm:w-auto">
+<label class="inline-flex items-center gap-space-xs text-primary font-label-md text-label-md cursor-pointer hover:text-secondary transition-colors">
+<span class="material-symbols-outlined text-lg">attach_file</span>
+<span>Upload RFP Document (PDF/DOCX max 15MB)</span>
+<input class="hidden" type="file"/>
+</label>
+</div>
+<button class="w-full sm:w-auto bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-xl font-label-lg text-label-lg shadow-lg hover:shadow transition-all flex items-center justify-center gap-space-sm" type="submit">
+<span>Request Bespoke Corporate Proposal</span>
+<span class="material-symbols-outlined text-sm">send</span>
+</button>
+</div>
+<!-- Success Flash Notification (hidden initially) -->
+<div class="hidden p-space-md bg-tertiary-fixed text-on-tertiary-fixed rounded-xl flex items-center gap-space-sm" id="rfp-success">
+<span class="material-symbols-outlined">task_alt</span>
+<span class="font-body-md text-body-md">Thank you. Your corporate dossier has been dispatched to Dinesh &amp; Senior Logistics Desk. A proposal with preliminary availability will be returned within 12 hours.</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+</section>
+<!-- CORPORATE FAQ ACCORDION -->
+<section class="w-full py-space-3xl bg-surface">
+<div class="max-w-[1000px] mx-auto px-margin md:px-margin-md">
+<div class="text-center mb-space-2xl">
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest font-bold block mb-space-xs">Corporate Governance &amp; Terms</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">Frequently Addressed Inquiries</h2>
+</div>
+<div class="flex flex-col gap-space-md" id="corporate-faq">
+<!-- FAQ 1 -->
+<div class="bg-surface-container-low rounded-2xl overflow-hidden transition-all">
+<button class="w-full p-space-lg text-left flex items-center justify-between font-headline-sm text-headline-sm text-primary hover:text-secondary transition-colors" onclick="const p = this.nextElementSibling; const icon = this.querySelector('.faq-icon'); p.classList.toggle('hidden'); icon.classList.toggle('rotate-180');" type="button">
+<span>How do corporate invoicing, wire transfers, and currency settlements work?</span>
+<span class="material-symbols-outlined faq-icon transition-transform duration-200">expand_more</span>
+</button>
+<div class="px-space-lg pb-space-lg text-body-md font-body-md text-on-surface-variant">
+            We issue formal corporate pro-forma invoices in USD, EUR, GBP, or CHF. Payments can be settled via international SWIFT/SEPA bank transfer directly to our corporate bank accounts in Colombo or through international corporate payment corridors. All statutory Ceylon tourism levies, VAT, and hotel service charges are transparently itemized for accounting compliance.
+          </div>
+</div>
+<!-- FAQ 2 -->
+<div class="bg-surface-container-low rounded-2xl overflow-hidden transition-all">
+<button class="w-full p-space-lg text-left flex items-center justify-between font-headline-sm text-headline-sm text-primary hover:text-secondary transition-colors" onclick="const p = this.nextElementSibling; const icon = this.querySelector('.faq-icon'); p.classList.toggle('hidden'); icon.classList.toggle('rotate-180');" type="button">
+<span>What are your cancellation and force majeure terms for large groups?</span>
+<span class="material-symbols-outlined faq-icon transition-transform duration-200">expand_more</span>
+</button>
+<div class="px-space-lg pb-space-lg text-body-md font-body-md text-on-surface-variant hidden">
+            Our corporate service agreements provide phased milestone schedules. For private estate buyouts and chartered aircraft, bespoke reservation timelines apply. In case of international airspace closures, government travel advisories, or recognized force majeure events, our contracts include full credit-retention or adjusted cancellation timelines agreed upon during contract signing.
+          </div>
+</div>
+<!-- FAQ 3 -->
+<div class="bg-surface-container-low rounded-2xl overflow-hidden transition-all">
+<button class="w-full p-space-lg text-left flex items-center justify-between font-headline-sm text-headline-sm text-primary hover:text-secondary transition-colors" onclick="const p = this.nextElementSibling; const icon = this.querySelector('.faq-icon'); p.classList.toggle('hidden'); icon.classList.toggle('rotate-180');" type="button">
+<span>What level of insurance and passenger liability do you maintain?</span>
+<span class="material-symbols-outlined faq-icon transition-transform duration-200">expand_more</span>
+</button>
+<div class="px-space-lg pb-space-lg text-body-md font-body-md text-on-surface-variant hidden">
+            Serendiva maintains a comprehensive Public &amp; Passenger Liability insurance policy of up to $2,000,000 USD per incident through accredited underwriters. All chartered aviation partners and marine vessels hold independent commercial passenger flight/marine certificates meeting Civil Aviation Authority Sri Lanka (CAASL) regulations.
+          </div>
+</div>
+<!-- FAQ 4 -->
+<div class="bg-surface-container-low rounded-2xl overflow-hidden transition-all">
+<button class="w-full p-space-lg text-left flex items-center justify-between font-headline-sm text-headline-sm text-primary hover:text-secondary transition-colors" onclick="const p = this.nextElementSibling; const icon = this.querySelector('.faq-icon'); p.classList.toggle('hidden'); icon.classList.toggle('rotate-180');" type="button">
+<span>Can you accommodate specialized dietary guidelines for multinational teams?</span>
+<span class="material-symbols-outlined faq-icon transition-transform duration-200">expand_more</span>
+</button>
+<div class="px-space-lg pb-space-lg text-body-md font-body-md text-on-surface-variant hidden">
+            Yes, thoroughly. Our private executive chefs and partnered luxury properties routinely manage Halal-certified dining, strict Kosher sourcing, Jain vegetarianism, vegan culinary programs, and severe allergen-segregated food preparation. A comprehensive dietary manifest is compiled during Step 01 of our onboarding process.
+          </div>
+</div>
+</div>
+</div>
+</section>
+<!-- FINAL CALLOUT BAR -->
+<section class="w-full bg-surface-container py-space-2xl">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg text-center flex flex-col items-center">
+<h3 class="font-headline-md text-headline-md text-primary mb-space-xs">Ready to design an extraordinary journey for your leadership?</h3>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-xl mb-space-md">
+        Connect directly with our Chief Executive Concierge to discuss confidential venue buyouts and aircraft schedules.
+      </p>
+<div class="flex items-center gap-space-md">
+<a class="bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-sm rounded-lg font-label-lg text-label-lg transition-colors" href="#rfp-section">
+          Start RFP Submission
+        </a>
+<a class="bg-tertiary-container hover:bg-tertiary text-on-tertiary px-space-lg py-space-sm rounded-lg font-label-lg text-label-lg inline-flex items-center gap-space-xs transition-colors" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-base">chat</span>
+<span>WhatsApp Concierge</span>
+</a>
+</div>
+</div>
+</section>
+</div></main><footer class="w-full bg-surface-container-low mt-space-3xl"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pt-space-3xl pb-space-2xl"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg"><div class="lg:col-span-4 flex flex-col gap-space-md"><div class="flex items-center gap-space-md"><img alt="Serendiva Brand Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1Wj2dHOYyIJcHZi0c__yPro4GGQEKUZsMGgyl0mj3o6U5R9r3zCJDLj9Z9e_qMEWRAMkOYpyGOAvEzmqnagmXsZkHz4BiTr5Xk7CNSYV8I9NO6cnWHcQYCuwlQe50IvJ1oJkoNswbOu_Zeq7fkYuOFBuNQ4n7R6UYVgYK9fRZ97xNWKgjIN42nbp8ZYOeq4tI1TmLYIWC4dZrVmGMiUXq2h2Y1mqHVXNspdFkSYTp-k58cg3bs1rqNmWQ"/><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm">Handcrafted private expeditions, boutique architectural villas, and authentic Sri Lankan heritage curations for the discerning traveler.</p><div class="inline-flex items-center gap-space-sm bg-surface-container px-space-md py-space-sm rounded-full w-fit"><span class="material-symbols-outlined text-tertiary text-sm">verified</span><span class="font-label-md text-label-md text-tertiary">Licensed SLTDA Chauffeur &amp; Tour Operator #TS/2024/091</span></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Expeditions</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Signature Journeys</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Ceylon Hill Country</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Southern Coast Villas</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate Retreats</a></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Concierge</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">The Serendiva Way</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Visual Journal</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Guest Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Private Dispatch</a></div></div><div class="lg:col-span-4 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Private Dispatch Journal</span><p class="font-body-md text-body-md text-on-surface-variant">Receive seasonal insights on Ceylon wildlife migrations, bespoke estate openings, and cultural observances.</p><div class="flex items-center gap-space-xs bg-surface rounded-xl p-space-xs shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><input class="bg-transparent px-space-md py-space-sm font-body-md text-body-md text-on-surface placeholder:text-outline w-full focus:outline-none" placeholder="Your private email address" type="email"/><button class="bg-primary hover:bg-primary-container text-on-primary px-space-md py-space-sm rounded-lg font-label-lg text-label-lg transition-colors shrink-0" type="button">Join</button></div><div class="flex flex-col gap-1 mt-space-sm"><span class="font-caption text-caption text-on-surface-variant">Serving: Colombo · Galle Fort · Kandy · Cultural Triangle · Yala</span><span class="font-caption text-caption text-on-surface-variant">Direct telephone: +94 11 234 5678 · Concierge: private@serendiva.lk</span></div></div></div><div class="mt-space-2xl pt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md"><span class="font-caption text-caption text-on-surface-variant">© 2024 Serendiva - Ceylon Private Journeys. All rights reserved. Registered Travel Partner SLTDA.</span><div class="flex items-center gap-space-lg"><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Privacy Policy</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Terms of Bespoke Carriage</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Safety Protocol</a></div></div></div></footer></body></html>

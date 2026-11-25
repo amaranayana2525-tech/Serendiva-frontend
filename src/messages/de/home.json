@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "Serendiva · Private Sri-Lanka-Reisen mit lizenziertem Guide",
+    "description": "Private, maßgeschneiderte Reisen durch Sri Lanka — abgestimmt auf Ihr Tempo und persönlich begleitet von einem staatlich lizenzierten National Tourist Guide Lecturer."
+  },
+  "hero": {
+    "eyebrow": "Staatlich lizenzierter National Tourist Guide Lecturer",
+    "titleLead": "Sri Lanka,",
+    "titleAccent": "Persönlich Geführt.",
+    "intro": "Private, maßgeschneiderte Entdeckungsreisen durch die Perle im Indischen Ozean — ganz in Ihrem Tempo mit einem staatlich akkreditierten National Guide.",
+    "explore": "Kuratierte Reisen entdecken",
+    "whatsapp": "Per WhatsApp schreiben",
+    "scrollCue": "Ceylon entdecken",
+    "slides": "Sri Lanka in Bildern",
+    "slidePicker": "Hintergrundbild wählen",
+    "inquiry": {
+      "label": "Schnelle Reiseanfrage",
+      "focus": "Reiseschwerpunkt",
+      "focusOpen": "Offen für Ihre Empfehlungen",
+      "month": "Reisemonat",
+      "window": "{start} - {end}",
+      "windowWithNote": "{window} ({note})",
+      "notes": {
+        "peakDry": "Beste Trockenzeit",
+        "eastCoast": "Ostküste"
+      },
+      "flexible": "Flexibel / Frühe Planung",
+      "party": "Reisegruppe",
+      "parties": {
+        "couple": "1–2 Gäste (Paar privat)",
+        "family": "3–6 Gäste (Familie / Freunde)",
+        "group": "7+ Gäste (VIP-Delegation / Gruppe)",
+        "solo": "Alleinreisender Entdecker"
+      },
+      "submit": "Reiseplan anfordern",
+      "submitHint": "Öffnet mein Anfrageformular mit Ihren Vorauswahlen."
+    }
+  },
+  "trust": {
+    "label": "Qualifikationen im Überblick",
+    "reviewTitle": "{rating}★ Reisenden-Auszeichnung",
+    "reviewCount": "{count, plural, one {# verifizierte Bewertung} other {# verifizierte Bewertungen}}"
+  },
+  "guide": {
+    "eyebrow": "Ayubowan & Herzlich Willkommen",
+    "titleLead": "„Ich zeige Ihnen nicht nur Sri Lanka.",
+    "titleAccent": "Ich bringe Sie zu seinem Herzschlag.“",
+    "defaultName": "Dinesh Jayasuriya",
+    "lead": "Ich bin {name}. Seit über {years} Jahren öffne ich Reisenden aus aller Welt die verborgenen Schutzgebiete, antiken Felskönigreiche und duftenden Gewürzhochländer meiner Heimat — weit abseits standardisierter Busreisen.",
+    "leadNoYears": "Ich bin {name}. Seit vielen Jahren öffne ich Reisenden aus aller Welt die verborgenen Schutzgebiete, antiken Felskönigreiche und duftenden Gewürzhochländer meiner Heimat — weit abseits standardisierter Busreisen.",
+    "body": "Mit der höchsten Lizenz als National Tourist Guide Lecturer der Sri Lanka Tourism Development Authority (SLTDA) gestalte ich ausschließlich private, individuelle Routen nach Ihrer Neugier.",
+    "pillars": {
+      "private": {
+        "title": "100 % Privat & Flexibel",
+        "body": "Bestimmen Sie Ihren Morgen selbst. Halten Sie an King-Coconut-Ständen oder stillen Aussichtspunkten ohne festen Zeitdruck."
+      },
+      "access": {
+        "title": "Exklusive Zugänge",
+        "body": "Persönliche Segnungen in buddhistischen Waldeinsiedeleien, koloniale Arrak-Verkostungen und ruhige Safari-Pfade."
+      },
+      "fleet": {
+        "title": "VIP-Fahrkomfort",
+        "body": "Toyota Prado Luxus-SUV & VIP Royal Lounge Vans, 5G-WLAN an Bord, gekühlte Ceylon-Tücher & Erfrischungen."
+      }
+    },
+    "cta": "Geschichte & Lizenzen lesen"
+  },
+  "categories": {
+    "eyebrow": "Vielfältige Ceylon-Facetten",
+    "title": "Wählen Sie Ihren Inselhorizont",
+    "intro": "Jedes Thema lässt sich nahtlos zu einer mehrwöchigen Rundreise kombinieren — exakt zugeschnitten auf Ihre Interessen und Aktivität."
+  },
+  "featured": {
+    "eyebrow": "Handverlesene Entwürfe",
+    "title": "Signatur-Privatreisen",
+    "intro": "Jede Reise findet privat statt, ist vollständig anpassbar und wird persönlich von mir geleitet. Keine festen Gruppen oder fremden Mitreisenden.",
+    "noticeTitle": "Serendiva Concierge-Hinweis:",
+    "notice": "Keine Reise stammt von der Stange. Ich prüfe jede Anfrage persönlich auf Saisonzeiten, Villenverfügbarkeit und Genehmigungen, bevor Ihr maßgeschneiderter Vorschlag entsteht.",
+    "emptyBody": "Meine Signatur-Reisen werden gerade aktualisiert. Schreiben Sie mir Ihre Wünsche und ich entwerfe Ihre Route persönlich."
+  },
+  "craft": {
+    "eyebrow": "Individuelle Ausarbeitung",
+    "title": "So gestalte ich Ihre Reise",
+    "quote": "„Sagen Sie mir, was Sie begeistert — Leoparden im Morgenlicht, verborgene Ruinen oder ruhige Nachmittage am Meer — und ich füge die Teile zusammen.“",
+    "steps": {
+      "share": {
+        "title": "Wünsche & Zeitraum teilen",
+        "body": "Nennen Sie mir Ihren Reisezeitraum, Ihre Gruppengröße, Ihr Wunschtempo und Ihren Unterkunftsstil per Formular oder WhatsApp."
+      },
+      "blueprint": {
+        "title": "Ihren Entwurf erhalten (24 Std.)",
+        "body": "Ich erstelle einen durchdachten Routenvorschlag samt ausgewählter Boutique-Unterkünfte und idealer Safari-Zeiten — verfeinert, bis alles passt."
+      },
+      "arrive": {
+        "title": "Ankommen & entspannt genießen",
+        "body": "Von Ihrer persönlichen Begrüßung am Flughafen Bandaranaike bis zum letzten Sonnenuntergang im Süden sorge ich persönlich für Sicherheit und Ruhe."
+      }
+    },
+    "cta": "Meinen Reiseplaner starten"
+  },
+  "destinations": {
+    "eyebrow": "Landschaften voller Zauber",
+    "title": "Ikonische Orte Ceylons",
+    "intro": "Fahren Sie über jedes Schutzgebiet, um sein Klima und seine kulturelle Bedeutung zu entdecken.",
+    "explore": "{name} entdecken"
+  },
+  "corporate": {
+    "eyebrow": "Executive-Logistik & Delegationen",
+    "title": "Firmen-Retreats, Incentives & Diplomatische Begleitung",
+    "intro": "Reibungslose Rundum-Betreuung vor Ort für Vorstände, internationale Incentive-Gruppen und diplomatische Delegationen.",
+    "features": {
+      "estates": {
+        "title": "Exklusive Anwesen-Miete",
+        "body": "Komplette Privatisierung historischer Teebungalows und Küstenvillen für vertrauliche Klausurtagungen."
+      },
+      "fleet": {
+        "title": "Executive-Fahrzeugflotte",
+        "body": "Komfortable Reisebusse und Luxus-Prado-SUVs mit separatem Gepäckservice."
+      },
+      "liaison": {
+        "title": "Persönliche 24/7-Koordination",
+        "body": "Ein fester Ansprechpartner, zweisprachige Begleitung, VIP-Flughafenservice und maßgeschneiderte Verpflegung."
+      }
+    },
+    "cta": "Firmenangebot anfordern",
+    "sealTitle": "SLTDA-zertifizierter Veranstalter",
+    "sealBody": "Zertifizierte Firmen- & Delegationslogistik"
+  },
+  "reviews": {
+    "title": "Gästebewertungen",
+    "attribution": "— {name}, {place}",
+    "attributionName": "— {name}",
+    "carouselLabel": "Aktuelle Gästestimmen",
+    "emptyBody": "Gästebewertungen erscheinen hier in Kürze."
+  },
+  "responsible": {
+    "eyebrow": "Bewusst durch Ceylon reisen",
+    "title": "Achtsam reisen, Spuren schonen",
+    "intro": "Ich setze mich konsequent für den Schutz der empfindlichen Ökosysteme Sri Lankas und faire Wertschöpfung vor Ort ein — ohne Massentourismus.",
+    "pillars": {
+      "plastic": {
+        "title": "Kein Einwegplastik",
+        "body": "Wiederbefüllbare, doppelwandige Edelstahlflaschen für alle Gäste in meinen Fahrzeugen."
+      },
+      "equity": {
+        "title": "Direkte Fairness vor Ort",
+        "body": "Direkte und faire Vergütung für Dorfköche, Naturführer und traditionelle Kunsthandwerker."
+      },
+      "safari": {
+        "title": "Ethischer Safari-Standard",
+        "body": "Respektvolle Abstände zu Wildtieren, Motor-aus-Regeln und striktes Befolgen der Parkwege."
+      }
+    },
+    "cta": "Mein Versprechen lesen"
+  },
+  "faq": {
+    "emptyBody": "Fragen zu Visum, Saison oder Etikette? Schreiben Sie mir direkt — ich antworte persönlich."
+  },
+  "climate": {
+    "title": "Ceylon Klima- & Saisonmatrix",
+    "intro": "Ein kompakter Überblick, welche Regionen ideal zu Ihrem gewünschten Reisemonat passen.",
+    "regions": {
+      "southWest": {
+        "name": "Süd- & Westküste",
+        "season": "Dezember bis April",
+        "body": "Mirissa, Galle, Bentota, Colombo. Strahlend blauer Himmel, ruhiges Meer und Walwanderungen."
+      },
+      "eastNorth": {
+        "name": "Ostküste & Norden",
+        "season": "Mai bis September",
+        "body": "Trincomalee, Pasikuda, Jaffna. Trockene Wärme, klares Wasser zum Schnorcheln und Delfinschulen."
+      },
+      "highlands": {
+        "name": "Zentrales Teehochland",
+        "season": "Ganzjährig angenehm",
+        "body": "Nuwara Eliya, Ella, Hatton. Erfrischende Bergluft (15 °C–22 °C), nebelverhangene Gipfel und Wasserfälle."
+      }
+    }
+  },
+  "stories": {
+    "eyebrow": "Reisejournal",
+    "title": "Geschichten & Insider-Notizen",
+    "intro": "Persönliche Eindrücke über ruhige Aussichtspunkte, Tee-Traditionen und regionale Kultur.",
+    "emptyBody": "Neue Reiseberichte sind unterwegs.",
+    "instagramFollow": "Meinen Reisen folgen",
+    "instagramLabel": "Aktuelle Fotos von Instagram"
+  },
+  "finalCta": {
+    "eyebrow": "Ayubowan · Persönliche Reiseberatung"
+  }
+}

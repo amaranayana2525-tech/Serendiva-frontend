@@ -1,0 +1,930 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport"><meta content="web_standard" name="shell-type"><link href="https://fonts.googleapis.com" rel="preconnect"><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "surface-container": "#f3ede2", "on-tertiary-container": "#98bf89", "outline": "#70787c", "tertiary-container": "#2c4e23", "surface-container-high": "#ede8dd", "on-secondary": "#ffffff", "on-primary": "#ffffff", "on-primary-fixed": "#001f28", "tertiary": "#16370f", "on-tertiary-fixed-variant": "#2d4f24", "on-background": "#1d1c15", "tertiary-fixed-dim": "#aad19a", "on-surface-variant": "#40484b", "inverse-on-surface": "#f6f0e5", "on-primary-container": "#87bbce", "on-secondary-fixed": "#370e00", "on-error": "#ffffff", "inverse-surface": "#333029", "surface-variant": "#e8e2d7", "secondary": "#9c441e", "primary-fixed-dim": "#9acee1", "surface": "#fff9ee", "surface-container-highest": "#e8e2d7", "surface-dim": "#dfd9cf", "on-surface": "#1d1c15", "background": "#fff9ee", "primary-container": "#0f4c5c", "on-tertiary-fixed": "#022100", "error-container": "#ffdad6", "secondary-fixed": "#ffdbce", "primary-fixed": "#b6ebfe", "inverse-primary": "#9acee1", "on-tertiary": "#ffffff", "surface-container-low": "#f9f3e8", "error": "#ba1a1a", "surface-container-lowest": "#ffffff", "on-error-container": "#93000a", "on-secondary-fixed-variant": "#7d2d08", "surface-bright": "#fff9ee", "secondary-fixed-dim": "#ffb59a", "on-primary-fixed-variant": "#114d5d", "secondary-container": "#ff9064", "on-secondary-container": "#752803", "primary": "#003441", "surface-tint": "#306576", "tertiary-fixed": "#c5eeb4", "outline-variant": "#c0c8cb" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "margin-md": "3rem", "gutter-lg": "2.5rem", "space-3xl": "6rem", "space-lg": "1.5rem", "margin": "1.5rem", "gutter": "1.5rem", "space-xl": "2.5rem", "margin-lg": "5rem", "space-2xl": "4rem", "space-md": "1rem", "space-sm": "0.5rem", "space-xs": "0.25rem" }, "fontFamily": { "label-md": ["Inter"], "headline-sm": ["Playfair Display"], "label-lg": ["Inter"], "headline-xl": ["Playfair Display"], "headline-md": ["Playfair Display"], "display-lg-mobile": ["Playfair Display"], "body-md": ["Inter"], "body-lg": ["Inter"], "display-lg": ["Playfair Display"], "caption": ["Inter"], "body-xl": ["Inter"], "headline-xl-mobile": ["Playfair Display"], "headline-lg-mobile": ["Playfair Display"], "headline-lg": ["Playfair Display"] }, "fontSize": { "label-md": ["11px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" }], "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }], "label-lg": ["13px", { "lineHeight": "18px", "letterSpacing": "0.08em", "fontWeight": "600" }], "headline-xl": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "display-lg-mobile": ["38px", { "lineHeight": "46px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "body-md": ["14px", { "lineHeight": "22px", "fontWeight": "400" }], "body-lg": ["16px", { "lineHeight": "26px", "fontWeight": "400" }], "display-lg": ["56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "600" }], "caption": ["12px", { "lineHeight": "16px", "fontWeight": "400" }], "body-xl": ["18px", { "lineHeight": "30px", "letterSpacing": "-0.005em", "fontWeight": "300" }], "headline-xl-mobile": ["30px", { "lineHeight": "38px", "letterSpacing": "0", "fontWeight": "600" }], "headline-lg-mobile": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "headline-lg": ["32px", { "lineHeight": "40px", "fontWeight": "500" }] } } } };</script></head><body class="bg-surface font-body-lg text-on-surface antialiased relative min-h-screen"><header class="fixed top-0 left-0 right-0 w-full z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)] transition-all duration-300"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg h-20 flex items-center justify-between gap-gutter"><a class="flex items-center gap-space-md shrink-0" data-path="home" href="#"><img alt="Serendiva Elite Travels Emblem Logo" class="h-12 w-12 rounded-full object-contain shadow-sm" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB99V79H6iEmMfclTSbwh7MFNlxcsauP6Bfg7rBqM0K-4ovWemAf3lOXn53KZT_p06BLhasjYXHYwe9yo38N0bi6r1WJUKr5LJ9J95B-FJHBAOoQlwTzzk2Av-Bz6p_iKCn0_Dm8WdiPOh4AQDKDXvTkShtvZTDFEPjTcGGbC6qTYPHy83wQlPBxP6S29DiyYHxyiORWMYMWQwJ90WVMwF2mILL_tr1zKpRR93Xukdc9wd6Bqnm_vdqxeCib51fX6O3"><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span><span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-widest hidden sm:inline-block">Ceylon Private Journeys</span></div></a><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-primary font-semibold"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="home" href="#">Home</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Tours</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Destinations</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">About</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Gallery</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center bg-surface-container rounded-full p-space-xs"><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md bg-surface text-primary shadow-[0_1px_4px_rgba(0,0,0,0.06)] font-semibold" type="button">EN</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">中文</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">DE</button></div><a class="inline-flex items-center justify-center bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-lg py-space-sm rounded-lg font-label-lg text-label-lg transition-all shadow-[0_4px_16px_rgba(156,68,30,0.2)] hover:shadow-none" data-path="plan-my-trip" href="#">Plan My Trip</a></div></div></header><div class="fixed right-0 top-1/2 -translate-y-1/2 z-40 hidden md:block"><a aria-label="Open Bespoke Inquiry Form" class="bg-primary text-on-primary px-space-md py-space-sm rounded-l-lg font-label-lg text-label-lg tracking-widest uppercase flex items-center gap-space-xs shadow-[0_8px_24px_rgba(0,52,65,0.25)] hover:bg-primary-container transition-all [writing-mode:vertical-rl] rotate-180" data-path="bespoke-inquiry" href="#"><span class="material-symbols-outlined text-sm rotate-90">edit_calendar</span><span class="">Inquire</span></a></div><div class="fixed bottom-space-lg right-space-lg z-40 flex items-center"><a aria-label="Direct WhatsApp Expedition Concierge" class="w-14 h-14 rounded-full bg-tertiary-container hover:bg-tertiary text-on-tertiary flex items-center justify-center shadow-[0_8px_24px_rgba(44,78,35,0.35)] transition-all transform hover:scale-105" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-2xl">chat</span></a></div><main class="w-full pt-20 bg-surface min-h-[calc(100vh-80px)]"><div class="flex flex-col w-full">
+<!-- Subtle Ambient Glow -->
+<div class="relative w-full overflow-hidden">
+<div class="absolute -top-32 left-1/4 w-[500px] h-[500px] bg-primary/5 rounded-full blur-3xl pointer-events-none"></div>
+<div class="absolute top-96 right-10 w-[420px] h-[420px] bg-secondary-container/10 rounded-full blur-3xl pointer-events-none"></div>
+<!-- Editorial Header Section -->
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pt-space-xl pb-space-lg">
+<!-- Breadcrumb Navigation -->
+<nav aria-label="Breadcrumbs" class="flex items-center gap-space-xs font-label-md text-label-md text-on-surface-variant uppercase tracking-widest mb-space-lg">
+<a class="hover:text-primary transition-colors" data-path="home" href="#">Home</a>
+<span class="text-outline">/</span>
+<span class="text-primary font-semibold">Plan My Trip</span>
+</nav>
+<!-- Main Headline & Subtitle -->
+<div class="max-w-4xl">
+<div class="inline-flex items-center gap-space-xs px-space-md py-space-xs rounded-full bg-surface-container text-tertiary font-label-md text-label-md mb-space-md shadow-sm">
+<span class="material-symbols-outlined text-sm text-tertiary">diamond</span>
+<span class="">100% Bespoke Private Journeys · Zero Obligation Consultations</span>
+</div>
+<h1 class="font-headline-xl text-headline-xl lg:text-display-lg text-primary tracking-tight mb-space-md">
+          Tell Me About Your Dream Ceylon Journey
+        </h1>
+<p class="font-body-xl text-body-xl text-on-surface-variant leading-relaxed max-w-3xl">
+          Every expedition is crafted personally by Dinesh Jayasuriya. Share your aspirations below, and I will assemble an exquisite, customized blueprint tailored to your exact pace within 24 hours.
+        </p>
+</div>
+</div>
+<!-- Main Content Dual-Column Layout (65% Interactive Planner / 35% Personal Concierge) -->
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pb-space-3xl">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-start">
+<!-- LEFT COLUMN: 65% Interactive Multi-Step Journey Planner -->
+<div class="lg:col-span-8 flex flex-col gap-space-lg">
+<!-- Planner Container Card -->
+<div class="bg-surface-container-lowest rounded-xl shadow-xl p-space-md md:p-space-xl relative overflow-hidden">
+<!-- Step Navigation Tabs / Indicator -->
+<div class="w-full pb-space-lg border-b border-surface-container">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-space-sm">
+<!-- Step 1 Tab -->
+<button class="step-tab text-left flex items-center gap-space-xs p-space-sm rounded-lg bg-surface-container transition-all" id="tab-step-1" onclick="switchStep(1)" type="button">
+<div class="step-num w-7 h-7 rounded-full bg-primary text-on-primary flex items-center justify-center font-label-md text-label-md shrink-0">1</div>
+<div class="flex flex-col min-w-0">
+<span class="font-label-md text-label-md uppercase tracking-wider text-outline step-sub">Step 1</span>
+<span class="font-body-md text-body-md font-semibold text-primary truncate step-title">Who is Travelling?</span>
+</div>
+</button>
+<!-- Step 2 Tab -->
+<button class="step-tab text-left flex items-center gap-space-xs p-space-sm rounded-lg hover:bg-surface-container/60 transition-all" id="tab-step-2" onclick="switchStep(2)" type="button">
+<div class="step-num w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-label-md text-label-md shrink-0">2</div>
+<div class="flex flex-col min-w-0">
+<span class="font-label-md text-label-md uppercase tracking-wider text-outline step-sub">Step 2</span>
+<span class="font-body-md text-body-md text-on-surface-variant truncate step-title">Dates &amp; Pace</span>
+</div>
+</button>
+<!-- Step 3 Tab -->
+<button class="step-tab text-left flex items-center gap-space-xs p-space-sm rounded-lg hover:bg-surface-container/60 transition-all" id="tab-step-3" onclick="switchStep(3)" type="button">
+<div class="step-num w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-label-md text-label-md shrink-0">3</div>
+<div class="flex flex-col min-w-0">
+<span class="font-label-md text-label-md uppercase tracking-wider text-outline step-sub">Step 3</span>
+<span class="font-body-md text-body-md text-on-surface-variant truncate step-title">Passions &amp; Stays</span>
+</div>
+</button>
+<!-- Step 4 Tab -->
+<button class="step-tab text-left flex items-center gap-space-xs p-space-sm rounded-lg hover:bg-surface-container/60 transition-all" id="tab-step-4" onclick="switchStep(4)" type="button">
+<div class="step-num w-7 h-7 rounded-full bg-surface-container-high text-on-surface-variant flex items-center justify-center font-label-md text-label-md shrink-0">4</div>
+<div class="flex flex-col min-w-0">
+<span class="font-label-md text-label-md uppercase tracking-wider text-outline step-sub">Step 4</span>
+<span class="font-body-md text-body-md text-on-surface-variant truncate step-title">Your Details</span>
+</div>
+</button>
+</div>
+<!-- Visual Progress Bar -->
+<div class="w-full bg-surface-container h-1.5 rounded-full mt-space-md overflow-hidden">
+<div class="bg-primary h-full w-1/4 transition-all duration-300" id="progress-fill"></div>
+</div>
+</div>
+<!-- FORM WRAPPER -->
+<form class="pt-space-lg" id="bespoke-planner-form" onsubmit="event.preventDefault(); switchStep(5);">
+<!-- STEP 1: PARTY & COMPANION DYNAMICS -->
+<section class="step-panel flex flex-col gap-space-xl" id="step-panel-1">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest">Party Configuration</span>
+<h2 class="font-headline-md text-headline-md text-primary mt-space-xs">Who will be joining you on this journey?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Select the arrangement that best matches your party to help Dinesh arrange optimal transport and room layouts.</p>
+</div>
+<!-- Selectable Cards -->
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-space-md">
+<!-- Solo -->
+<label class="group relative cursor-pointer">
+<input class="peer sr-only" name="party_type" type="radio" value="solo">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all duration-200 h-full flex flex-col justify-between shadow-sm">
+<div class="flex items-start justify-between">
+<span class="material-symbols-outlined text-2xl text-primary peer-checked:text-on-primary group-hover:scale-110 transition-transform">person</span>
+<div class="w-4 h-4 rounded-full bg-surface-container-high peer-checked:bg-surface-tint flex items-center justify-center">
+<span class="material-symbols-outlined text-xs text-on-primary">check</span>
+</div>
+</div>
+<div class="mt-space-md">
+<div class="font-headline-sm text-headline-sm font-semibold">Solo Explorer</div>
+<p class="font-caption text-caption opacity-80 mt-1">Autonomous pacing, private photographer-guide access.</p>
+</div>
+</div>
+</label>
+<!-- Couple -->
+<label class="group relative cursor-pointer">
+<input checked="" class="peer sr-only" name="party_type" type="radio" value="couple">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all duration-200 h-full flex flex-col justify-between shadow-sm">
+<div class="flex items-start justify-between">
+<span class="material-symbols-outlined text-2xl text-primary peer-checked:text-on-primary group-hover:scale-110 transition-transform">favorite</span>
+<div class="w-4 h-4 rounded-full bg-surface-container-high peer-checked:bg-surface-tint flex items-center justify-center">
+<span class="material-symbols-outlined text-xs text-on-primary">check</span>
+</div>
+</div>
+<div class="mt-space-md">
+<div class="font-headline-sm text-headline-sm font-semibold">Couple / Romantic</div>
+<p class="font-caption text-caption opacity-80 mt-1">Honeymoons, anniversaries, intimate boutique hideaways.</p>
+</div>
+</div>
+</label>
+<!-- Family with Kids -->
+<label class="group relative cursor-pointer">
+<input class="peer sr-only" name="party_type" type="radio" value="family">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all duration-200 h-full flex flex-col justify-between shadow-sm">
+<div class="flex items-start justify-between">
+<span class="material-symbols-outlined text-2xl text-primary peer-checked:text-on-primary group-hover:scale-110 transition-transform">family_restroom</span>
+<div class="w-4 h-4 rounded-full bg-surface-container-high peer-checked:bg-surface-tint flex items-center justify-center">
+<span class="material-symbols-outlined text-xs text-on-primary">check</span>
+</div>
+</div>
+<div class="mt-space-md">
+<div class="font-headline-sm text-headline-sm font-semibold">Family with Kids</div>
+<p class="font-caption text-caption opacity-80 mt-1">Spacious multi-room villas, gentle wildlife &amp; safe coastal bays.</p>
+</div>
+</div>
+</label>
+<!-- Friends & Group -->
+<label class="group relative cursor-pointer">
+<input class="peer sr-only" name="party_type" type="radio" value="friends">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all duration-200 h-full flex flex-col justify-between shadow-sm">
+<div class="flex items-start justify-between">
+<span class="material-symbols-outlined text-2xl text-primary peer-checked:text-on-primary group-hover:scale-110 transition-transform">groups</span>
+<div class="w-4 h-4 rounded-full bg-surface-container-high peer-checked:bg-surface-tint flex items-center justify-center">
+<span class="material-symbols-outlined text-xs text-on-primary">check</span>
+</div>
+</div>
+<div class="mt-space-md">
+<div class="font-headline-sm text-headline-sm font-semibold">Friends &amp; Small Group</div>
+<p class="font-caption text-caption opacity-80 mt-1">Private estate buyouts, private van &amp; convivial dining.</p>
+</div>
+</div>
+</label>
+<!-- Corporate / Executive -->
+<label class="group relative cursor-pointer sm:col-span-2 md:col-span-2">
+<input class="peer sr-only" name="party_type" type="radio" value="corporate">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all duration-200 h-full flex flex-col justify-between shadow-sm">
+<div class="flex items-start justify-between">
+<span class="material-symbols-outlined text-2xl text-primary peer-checked:text-on-primary group-hover:scale-110 transition-transform">business_center</span>
+<div class="w-4 h-4 rounded-full bg-surface-container-high peer-checked:bg-surface-tint flex items-center justify-center">
+<span class="material-symbols-outlined text-xs text-on-primary">check</span>
+</div>
+</div>
+<div class="mt-space-md">
+<div class="font-headline-sm text-headline-sm font-semibold">Corporate / Executive Delegation</div>
+<p class="font-caption text-caption opacity-80 mt-1">High-level VIP privacy, luxury Mercedes-Benz coach, discreet executive hosts.</p>
+</div>
+</div>
+</label>
+</div>
+<!-- Guest Counter Selectors -->
+<div class="p-space-lg rounded-xl bg-surface-container-low flex flex-col sm:flex-row items-center justify-between gap-space-lg">
+<div class="flex flex-col w-full sm:w-auto">
+<span class="font-headline-sm text-headline-sm text-primary">Exact Guest Count</span>
+<span class="font-caption text-caption text-on-surface-variant">Used to secure luxury seating configurations and vehicle types.</span>
+</div>
+<div class="flex items-center gap-space-lg w-full sm:w-auto justify-end">
+<!-- Adults -->
+<div class="flex items-center gap-space-sm bg-surface-container-lowest px-space-md py-space-xs rounded-xl shadow-sm">
+<span class="font-label-md text-label-md uppercase text-on-surface-variant">Adults</span>
+<button class="w-8 h-8 rounded-full bg-surface-container hover:bg-surface-container-high flex items-center justify-center font-bold text-primary transition-colors" onclick="decrementVal('adult-count', 1)" type="button">-</button>
+<span class="font-headline-sm text-headline-sm text-primary w-6 text-center" id="adult-count">2</span>
+<button class="w-8 h-8 rounded-full bg-surface-container hover:bg-surface-container-high flex items-center justify-center font-bold text-primary transition-colors" onclick="incrementVal('adult-count', 12)" type="button">+</button>
+</div>
+<!-- Children -->
+<div class="flex items-center gap-space-sm bg-surface-container-lowest px-space-md py-space-xs rounded-xl shadow-sm">
+<span class="font-label-md text-label-md uppercase text-on-surface-variant">Children</span>
+<button class="w-8 h-8 rounded-full bg-surface-container hover:bg-surface-container-high flex items-center justify-center font-bold text-primary transition-colors" onclick="decrementVal('child-count', 0)" type="button">-</button>
+<span class="font-headline-sm text-headline-sm text-primary w-6 text-center" id="child-count">0</span>
+<button class="w-8 h-8 rounded-full bg-surface-container hover:bg-surface-container-high flex items-center justify-center font-bold text-primary transition-colors" onclick="incrementVal('child-count', 8)" type="button">+</button>
+</div>
+</div>
+</div>
+<!-- Step 1 Action Bar -->
+<div class="flex items-center justify-end pt-space-md">
+<button class="inline-flex items-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-xl font-label-lg text-label-lg tracking-wider transition-all shadow-md" onclick="switchStep(2)" type="button">
+<span class="">Continue to Dates &amp; Pace</span>
+<span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</section>
+<!-- STEP 2: TIMING & PACE -->
+<section class="step-panel hidden flex flex-col gap-space-xl" id="step-panel-2">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest">Timing &amp; Atmosphere</span>
+<h2 class="font-headline-md text-headline-md text-primary mt-space-xs">When are you hoping to visit Ceylon?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Sri Lanka enjoys dual monsoon microclimates; Dinesh aligns your destinations with optimal coastal sunshine and dry highland valleys.</p>
+</div>
+<!-- Date Range or Month Selection -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Estimated Travel Window</label>
+<div class="relative">
+<select class="w-full bg-surface-container-low text-on-surface rounded-xl px-space-md py-space-md font-body-md text-body-md focus:outline-none appearance-none cursor-pointer">
+<option>Immediate (Next 30–60 Days)</option>
+<option selected="">December 2024 – February 2025 (Peak Dry Season)</option>
+<option>March – May 2025 (Vibrant Highlands &amp; Safaris)</option>
+<option>June – August 2025 (East Coast Sun &amp; Minneriya Gathering)</option>
+<option>September – November 2025 (Cultural Harvests)</option>
+<option>Late 2025 / 2026 Bespoke Planning</option>
+</select>
+<span class="material-symbols-outlined absolute right-space-md top-1/2 -translate-y-1/2 pointer-events-none text-on-surface-variant">calendar_month</span>
+</div>
+</div>
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Flexibility Level</label>
+<div class="relative">
+<select class="w-full bg-surface-container-low text-on-surface rounded-xl px-space-md py-space-md font-body-md text-body-md focus:outline-none appearance-none cursor-pointer">
+<option>Completely flexible (seeking optimal seasonal weather)</option>
+<option selected="">Flexible within +/- 3 to 5 days</option>
+<option>Fixed exact dates (flights already held/booked)</option>
+</select>
+<span class="material-symbols-outlined absolute right-space-md top-1/2 -translate-y-1/2 pointer-events-none text-on-surface-variant">sync_alt</span>
+</div>
+</div>
+</div>
+<!-- Preferred Duration Selector -->
+<div class="flex flex-col gap-space-sm">
+<span class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Preferred Duration</span>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-space-sm">
+<label class="cursor-pointer">
+<input class="peer sr-only" name="duration" type="radio" value="3-5">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<span class="font-headline-sm text-headline-sm block">3–5 Days</span>
+<span class="font-caption text-caption opacity-80">Quick Escapes · Galle Fort &amp; Colombo</span>
+</div>
+</label>
+<label class="cursor-pointer">
+<input class="peer sr-only" name="duration" type="radio" value="6-8">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<span class="font-headline-sm text-headline-sm block">6–8 Days</span>
+<span class="font-caption text-caption opacity-80">Essential Ceylon · Tea &amp; Triangle</span>
+</div>
+</label>
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="duration" type="radio" value="9-12">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<span class="font-headline-sm text-headline-sm block">9–12 Days</span>
+<span class="font-caption text-caption opacity-80">In-Depth Discovery · Our Recommended</span>
+</div>
+</label>
+<label class="cursor-pointer">
+<input class="peer sr-only" name="duration" type="radio" value="13+">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<span class="font-headline-sm text-headline-sm block">13+ Days</span>
+<span class="font-caption text-caption opacity-80">Grand Expedition · Island Immersion</span>
+</div>
+</label>
+<label class="cursor-pointer sm:col-span-2 lg:col-span-2">
+<input class="peer sr-only" name="duration" type="radio" value="flexible">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<span class="font-headline-sm text-headline-sm block">Not Sure Yet</span>
+<span class="font-caption text-caption opacity-80">Recommend based on our dream highlights &amp; pace</span>
+</div>
+</label>
+</div>
+</div>
+<!-- Preferred Pace -->
+<div class="flex flex-col gap-space-sm">
+<span class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Desired Travel Rhythm</span>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-space-md">
+<label class="cursor-pointer">
+<input class="peer sr-only" name="pace" type="radio" value="relaxed">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-secondary-container peer-checked:text-on-secondary-container transition-all shadow-sm h-full">
+<span class="font-headline-sm text-headline-sm block">Relaxed &amp; Unhurried</span>
+<span class="font-caption text-caption opacity-85 mt-1 block">2–3 night minimum stays per boutique villa, leisurely late brunches, quiet afternoon poolside rests.</span>
+</div>
+</label>
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="pace" type="radio" value="balanced">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-secondary-container peer-checked:text-on-secondary-container transition-all shadow-sm h-full">
+<span class="font-headline-sm text-headline-sm block">Balanced &amp; Curious</span>
+<span class="font-caption text-caption opacity-85 mt-1 block">Morning temple or wildlife explorations, comfortable transfers, free twilight hours for personal discovery.</span>
+</div>
+</label>
+<label class="cursor-pointer">
+<input class="peer sr-only" name="pace" type="radio" value="active">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-secondary-container peer-checked:text-on-secondary-container transition-all shadow-sm h-full">
+<span class="font-headline-sm text-headline-sm block">Active &amp; Immersive</span>
+<span class="font-caption text-caption opacity-85 mt-1 block">Dawn bird walks, mountain treks, multiple safari drives, and high-frequency cultural immersion.</span>
+</div>
+</label>
+</div>
+</div>
+<!-- Step 2 Action Bar -->
+<div class="flex items-center justify-between pt-space-md">
+<button class="inline-flex items-center gap-space-xs text-on-surface-variant hover:text-primary font-label-lg text-label-lg transition-colors" onclick="switchStep(1)" type="button">
+<span class="material-symbols-outlined text-sm">arrow_back</span>
+<span class="">Back</span>
+</button>
+<button class="inline-flex items-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-xl font-label-lg text-label-lg tracking-wider transition-all shadow-md" onclick="switchStep(3)" type="button">
+<span class="">Continue to Passions &amp; Stays</span>
+<span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</section>
+<!-- STEP 3: PASSIONS & ACCOMMODATION -->
+<section class="step-panel hidden flex flex-col gap-space-xl" id="step-panel-3">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest">Island Desires</span>
+<h2 class="font-headline-md text-headline-md text-primary mt-space-xs">What stirs your imagination about Sri Lanka?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Select all experiences that spark your wanderlust. Dinesh curates private, crowd-free timings for each.</p>
+</div>
+<!-- Multi-Select Interest Chips -->
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-space-sm">
+<!-- Chip 1 -->
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="interests" type="checkbox" value="citadels">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">castle</span>
+<span class="font-body-md text-body-md font-medium">Ancient Citadel Ruins</span>
+</div>
+</label>
+<!-- Chip 2 -->
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="interests" type="checkbox" value="safaris">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">pets</span>
+<span class="font-body-md text-body-md font-medium">Big Cat &amp; Elephant Safaris</span>
+</div>
+</label>
+<!-- Chip 3 -->
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="interests" type="checkbox" value="tea_estates">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">emoji_food_beverage</span>
+<span class="font-body-md text-body-md font-medium">Hill Country Tea Estates</span>
+</div>
+</label>
+<!-- Chip 4 -->
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="interests" type="checkbox" value="trains">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">train</span>
+<span class="font-body-md text-body-md font-medium">Scenic Train Journeys</span>
+</div>
+</label>
+<!-- Chip 5 -->
+<label class="cursor-pointer">
+<input class="peer sr-only" name="interests" type="checkbox" value="coast_whales">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">sailing</span>
+<span class="font-body-md text-body-md font-medium">Golden Coast &amp; Whales</span>
+</div>
+</label>
+<!-- Chip 6 -->
+<label class="cursor-pointer">
+<input class="peer sr-only" name="interests" type="checkbox" value="ayurveda">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">spa</span>
+<span class="font-body-md text-body-md font-medium">Ayurvedic Wellness &amp; Spas</span>
+</div>
+</label>
+<!-- Chip 7 -->
+<label class="cursor-pointer">
+<input class="peer sr-only" name="interests" type="checkbox" value="culinary">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">restaurant</span>
+<span class="font-body-md text-body-md font-medium">Authentic Food &amp; Cooking</span>
+</div>
+</label>
+<!-- Chip 8 -->
+<label class="cursor-pointer">
+<input class="peer sr-only" name="interests" type="checkbox" value="hiking">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">hiking</span>
+<span class="font-body-md text-body-md font-medium">Waterfalls &amp; Ridge Treks</span>
+</div>
+</label>
+<!-- Chip 9 -->
+<label class="cursor-pointer">
+<input class="peer sr-only" name="interests" type="checkbox" value="photography">
+<div class="p-space-sm md:p-space-md rounded-xl bg-surface-container-low peer-checked:bg-tertiary-container peer-checked:text-on-tertiary transition-all flex items-center gap-space-sm shadow-sm">
+<span class="material-symbols-outlined text-xl">photo_camera</span>
+<span class="font-body-md text-body-md font-medium">Birding &amp; Photography</span>
+</div>
+</label>
+</div>
+<!-- Preferred Stay Style -->
+<div class="flex flex-col gap-space-sm">
+<span class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Boutique Stay Aesthetic</span>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-space-md">
+<label class="cursor-pointer">
+<input checked="" class="peer sr-only" name="stay_style" type="radio" value="bungalows">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-lg">villa</span>
+<span class="font-headline-sm text-headline-sm font-semibold">Heritage Tea Bungalows</span>
+</div>
+<p class="font-caption text-caption opacity-80 mt-1">Colonial planter mansions, manicured lawns, log fireplaces, personal butlers.</p>
+</div>
+</label>
+<label class="cursor-pointer">
+<input class="peer sr-only" name="stay_style" type="radio" value="safari_pavilions">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-lg">cabin</span>
+<span class="font-headline-sm text-headline-sm font-semibold">Eco-Luxury Forest Pavilions</span>
+</div>
+<p class="font-caption text-caption opacity-80 mt-1">Architectural open-air pavilions enveloped by jungle sounds and untouched flora.</p>
+</div>
+</label>
+<label class="cursor-pointer">
+<input class="peer sr-only" name="stay_style" type="radio" value="ocean_resorts">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-lg">pool</span>
+<span class="font-headline-sm text-headline-sm font-semibold">5-Star Oceanfront Boutique</span>
+</div>
+<p class="font-caption text-caption opacity-80 mt-1">Bawa-inspired cliffside suites, infinity pools over the Indian Ocean, private beach coves.</p>
+</div>
+</label>
+<label class="cursor-pointer">
+<input class="peer sr-only" name="stay_style" type="radio" value="blend">
+<div class="p-space-md rounded-xl bg-surface-container-low peer-checked:bg-primary peer-checked:text-on-primary transition-all shadow-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-lg">auto_awesome</span>
+<span class="font-headline-sm text-headline-sm font-semibold">Curated Blend of Unique Villas</span>
+</div>
+<p class="font-caption text-caption opacity-80 mt-1">A handpicked progression transitioning smoothly from tea country to coastal sanctuaries.</p>
+</div>
+</label>
+</div>
+</div>
+<!-- Step 3 Action Bar -->
+<div class="flex items-center justify-between pt-space-md">
+<button class="inline-flex items-center gap-space-xs text-on-surface-variant hover:text-primary font-label-lg text-label-lg transition-colors" onclick="switchStep(2)" type="button">
+<span class="material-symbols-outlined text-sm">arrow_back</span>
+<span class="">Back</span>
+</button>
+<button class="inline-flex items-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-xl font-label-lg text-label-lg tracking-wider transition-all shadow-md" onclick="switchStep(4)" type="button">
+<span class="">Final Step: Your Details</span>
+<span class="material-symbols-outlined text-sm">arrow_forward</span>
+</button>
+</div>
+</section>
+<!-- STEP 4: PERSONAL DETAILS & DIRECT CONTACT -->
+<section class="step-panel hidden flex flex-col gap-space-xl" id="step-panel-4">
+<div>
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest">Confidential Concierge Dispatch</span>
+<h2 class="font-headline-md text-headline-md text-primary mt-space-xs">Where should Dinesh send your blueprint?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Your details remain strictly confidential and are used solely to draft your personalized expedition itinerary.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<!-- Full Name -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Full Name *</label>
+<input class="w-full bg-surface-container-low text-on-surface rounded-xl px-space-md py-space-md font-body-md text-body-md focus:outline-none placeholder:text-outline" placeholder="e.g. Alistair &amp; Elena Vance" required="" type="text">
+</div>
+<!-- Email Address -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Email Address *</label>
+<input class="w-full bg-surface-container-low text-on-surface rounded-xl px-space-md py-space-md font-body-md text-body-md focus:outline-none placeholder:text-outline" placeholder="alistair.vance@domain.com" required="" type="email">
+</div>
+<!-- WhatsApp Number -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">WhatsApp / Mobile Number *</label>
+<div class="flex items-center gap-space-xs">
+<select class="bg-surface-container-low text-on-surface rounded-xl px-space-sm py-space-md font-body-md text-body-md focus:outline-none shrink-0 w-24">
+<option>+44 UK</option>
+<option>+1 US</option>
+<option>+61 AU</option>
+<option>+49 DE</option>
+<option>+33 FR</option>
+<option>+971 UAE</option>
+<option>+65 SG</option>
+<option>+94 LK</option>
+<option>Other</option>
+</select>
+<input class="w-full bg-surface-container-low text-on-surface rounded-xl px-space-md py-space-md font-body-md text-body-md focus:outline-none placeholder:text-outline" placeholder="7700 900123" required="" type="tel">
+</div>
+</div>
+<!-- Country of Residence -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Country of Residence</label>
+<input class="w-full bg-surface-container-low text-on-surface rounded-xl px-space-md py-space-md font-body-md text-body-md focus:outline-none placeholder:text-outline" placeholder="e.g. United Kingdom" type="text">
+</div>
+</div>
+<!-- Custom Requests Textarea -->
+<div class="flex flex-col gap-space-xs">
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">
+                    Celebrations, Bucket-List Spots &amp; Dietary Preferences
+                  </label>
+<textarea class="w-full bg-surface-container-low text-on-surface rounded-xl p-space-md font-body-md text-body-md focus:outline-none placeholder:text-outline resize-none" placeholder="Mention any milestone anniversaries, special dietary preferences (gluten-free, vegan, halal), architectural passions (Geoffrey Bawa fans), or specific national parks you wish to prioritize..." rows="4"></textarea>
+</div>
+<!-- Submission Guarantee Banner -->
+<div class="p-space-md rounded-xl bg-surface-container flex items-start gap-space-sm">
+<span class="material-symbols-outlined text-secondary shrink-0 mt-0.5">lock</span>
+<div class="flex flex-col">
+<span class="font-body-md text-body-md font-semibold text-primary">Zero Payment Required · 100% Bespoke Consultation</span>
+<span class="font-caption text-caption text-on-surface-variant mt-0.5">No credit cards, zero booking deposits at this stage. Dinesh builds your custom itinerary blueprint entirely free of charge until you are thrilled.</span>
+</div>
+</div>
+<!-- Step 4 Action Bar -->
+<div class="flex flex-col sm:flex-row items-center justify-between gap-space-md pt-space-sm">
+<button class="inline-flex items-center gap-space-xs text-on-surface-variant hover:text-primary font-label-lg text-label-lg transition-colors order-2 sm:order-1" onclick="switchStep(3)" type="button">
+<span class="material-symbols-outlined text-sm">arrow_back</span>
+<span class="">Back to Passions</span>
+</button>
+<button class="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-xl py-space-md rounded-xl font-headline-sm text-headline-sm transition-all shadow-xl hover:shadow-none order-1 sm:order-2" type="submit">
+<span class="material-symbols-outlined">send</span>
+<span class="">Request My Personalized Trip Blueprint</span>
+</button>
+</div>
+</section>
+<!-- SUCCESS PANEL (Triggered on Submit) -->
+<section class="step-panel hidden py-space-2xl text-center flex flex-col items-center justify-center gap-space-md" id="step-panel-5">
+<div class="w-16 h-16 rounded-full bg-tertiary-container text-on-tertiary flex items-center justify-center shadow-lg mb-space-sm animate-bounce">
+<span class="material-symbols-outlined text-3xl">check_circle</span>
+</div>
+<h3 class="font-headline-lg text-headline-lg text-primary">Ayubowan! Your Blueprint Request is Received.</h3>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-lg">
+                  Dinesh Jayasuriya is reviewing your travel preferences now. Expect a customized PDF blueprint in your inbox and a brief hello on WhatsApp within 24 hours.
+                </p>
+<div class="mt-space-md inline-flex items-center gap-space-sm p-space-md rounded-xl bg-surface-container">
+<span class="material-symbols-outlined text-tertiary">chat</span>
+<span class="font-body-md text-body-md text-primary">Need immediate answers? Text Dinesh directly at <strong>+94 77 123 4567</strong></span>
+</div>
+</section>
+</form>
+</div>
+<!-- Trust Badges Under Form -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-space-md">
+<div class="flex items-center gap-space-sm p-space-md rounded-xl bg-surface-container-low shadow-sm">
+<span class="material-symbols-outlined text-tertiary text-2xl">verified_user</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg text-primary font-semibold">Government Licensed</span>
+<span class="font-caption text-caption text-on-surface-variant">SLTDA National Guide #NTGL/1428</span>
+</div>
+</div>
+<div class="flex items-center gap-space-sm p-space-md rounded-xl bg-surface-container-low shadow-sm">
+<span class="material-symbols-outlined text-secondary text-2xl">published_with_changes</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg text-primary font-semibold">Unlimited Revisions</span>
+<span class="font-caption text-caption text-on-surface-variant">Fine-tune every stop until flawless</span>
+</div>
+</div>
+<div class="flex items-center gap-space-sm p-space-md rounded-xl bg-surface-container-low shadow-sm">
+<span class="material-symbols-outlined text-primary text-2xl">no_accounts</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg text-primary font-semibold">No Middlemen</span>
+<span class="font-caption text-caption text-on-surface-variant">Direct guide curation &amp; execution</span>
+</div>
+</div>
+</div>
+</div>
+<!-- RIGHT COLUMN: 35% Personal Concierge Card (Sticky) -->
+<div class="lg:col-span-4 sticky top-28 flex flex-col gap-space-lg">
+<!-- Dinesh Jayasuriya Direct Card -->
+<div class="bg-surface-container-lowest rounded-xl shadow-xl overflow-hidden relative">
+<!-- Decorative Accent Top Banner -->
+<div class="h-28 bg-gradient-to-r from-primary to-primary-container relative">
+<div class="absolute inset-0 opacity-20 bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]"></div>
+</div>
+<div class="px-space-lg pb-space-lg -mt-16 flex flex-col items-center text-center relative z-10">
+<!-- Guide Avatar with Online Pulse -->
+<div class="relative mb-space-sm">
+<div class="w-28 h-28 rounded-full shadow-xl overflow-hidden bg-surface-container border-4 border-surface-container-lowest">
+<img class="w-full h-full object-cover" data-alt="Warm and distinguished portrait of Dinesh Jayasuriya, a Sri Lankan senior private guide in smart colonial linen safari attire with a genuine welcoming smile in lush tropical estate grounds." src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4ScxUJmcys3f2iA0Sf5vSudMsz7jvAKMo-NF5iTcGR_vTmUzY-o7R1YVcdZxDXPfwYvJJGSpRv2hVGVn7e1ao5T-g2RKeWo1ZFd0pBAAlTM5XOt-i7VHGrGCXERz336ED-4Ri7vvMkx_JtFxf7Swm5oAgV-CeFO6JrEQR2T2NoktdnkuIH5pKoiQzF1FOiDaLxoVWUgdDaD-tPZBd_qyW8vy-kGINIfUNe5hw2Zvq0ATU7TRPvb0">
+</div>
+<!-- WhatsApp Live Dot -->
+<div class="absolute bottom-1 right-2 flex items-center gap-1 bg-surface-container-lowest px-2 py-0.5 rounded-full shadow-md">
+<span class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+<span class="font-caption text-[10px] font-bold text-tertiary uppercase tracking-wider">Online</span>
+</div>
+</div>
+<!-- Guide Name & Credentials -->
+<h3 class="font-headline-sm text-headline-sm font-bold text-primary">Dinesh Jayasuriya</h3>
+<p class="font-label-md text-label-md text-secondary uppercase tracking-widest mt-0.5">Licensed National Tourist Guide Lecturer</p>
+<div class="inline-flex items-center gap-1 mt-1 bg-surface-container px-space-sm py-0.5 rounded-full font-caption text-caption text-on-surface-variant">
+<span class="material-symbols-outlined text-xs text-primary">badge</span>
+<span class="">SLTDA License #NTGL/1428</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-md text-left leading-relaxed">
+                "Welcome to Serendiva. As your personal expedition architect and host, I personally accompany and curate your time in Ceylon. No call centers, no canned itineraries."
+              </p>
+<!-- Quick Direct WhatsApp CTA Button -->
+<div class="w-full mt-space-lg">
+<a class="w-full inline-flex items-center justify-center gap-space-sm bg-tertiary-container hover:bg-tertiary text-on-tertiary px-space-md py-space-md rounded-xl font-label-lg text-label-lg transition-all shadow-md group" href="https://wa.me/94771234567" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-xl group-hover:scale-110 transition-transform">chat</span>
+<span class="">Chat on WhatsApp (+94 77 123 4567)</span>
+</a>
+<span class="font-caption text-caption text-outline mt-1 block">Replies usually within 2 to 4 hours</span>
+</div>
+<!-- Reassurance Bullets -->
+<div class="w-full mt-space-lg pt-space-md border-t border-surface-container flex flex-col gap-space-sm text-left">
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-base shrink-0 mt-0.5">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">Direct guide contact — zero travel agency markups</span>
+</div>
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-base shrink-0 mt-0.5">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">Complimentary itinerary revisions until perfected</span>
+</div>
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-base shrink-0 mt-0.5">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">Private luxury air-conditioned vehicle included</span>
+</div>
+</div>
+<!-- Direct Contact Logistics Card -->
+<div class="w-full mt-space-lg p-space-md rounded-xl bg-surface-container-low flex flex-col gap-space-xs text-left">
+<div class="flex items-center gap-space-xs text-on-surface-variant font-caption text-caption">
+<span class="material-symbols-outlined text-sm text-primary">schedule</span>
+<span class="">Hours: 07:00 – 21:00 (Sri Lanka Time / UTC+5:30)</span>
+</div>
+<div class="flex items-center gap-space-xs text-on-surface-variant font-caption text-caption">
+<span class="material-symbols-outlined text-sm text-primary">mail</span>
+<a class="hover:text-primary transition-colors" href="mailto:concierge@serendivajourneys.com">concierge@serendivajourneys.com</a>
+</div>
+<div class="flex items-center gap-space-xs text-on-surface-variant font-caption text-caption">
+<span class="material-symbols-outlined text-sm text-primary">map</span>
+<span class="">Primary Base: Colombo &amp; Kandy (Islandwide Coverage)</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Editorial Photography Accent -->
+<div class="rounded-xl overflow-hidden shadow-md relative group">
+<div class="h-44 w-full bg-cover bg-center transition-transform duration-500 group-hover:scale-105" data-alt="Atmospheric scenic vista of misty Ceylon tea plantations with an authentic heritage colonial train winding past lush rolling green slopes under soft morning golden sunlight." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDwkp5OLFrVfs_dC-V-VzDtiu76FzPmscTzzHk_caaOakD1TpXqPkToHU2sGWhqXOescsthyqaf3NKUhOV9CkDWxO37NgKMkajVNP7Y77XzHXy8dARB_g6PfKM9--1-CprI1pvG7W8l0qLJcKcFwZlCOBSxvlf5MAI8hnMdDcjv-xBN66vLOqcK3li-qMFqasobrV0FlAo9XnKwkPdUI9L8wZx595BIrCcov3rF047UiKAHzaubp3I')"></div>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent flex items-end p-space-md">
+<span class="text-on-primary font-headline-sm text-headline-sm italic">"Sri Lanka is not a trip; it is an enduring memory."</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- BELOW-THE-FOLD: HOW BESPOKE PLANNING WORKS (4-Step Graphic Flow) -->
+<section class="w-full bg-surface-container-low py-space-3xl">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg">
+<div class="text-center max-w-2xl mx-auto mb-space-2xl">
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest">Our Methodology</span>
+<h2 class="font-headline-xl text-headline-xl text-primary mt-space-xs">How Our Bespoke Planning Works</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mt-space-xs">
+            From the moment you share your initial thoughts to your final farewell at Bandaranaike International, every detail is seamlessly orchestrated.
+          </p>
+</div>
+<!-- 4-Step Cards Grid -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-gutter">
+<!-- Step 1 -->
+<div class="p-space-lg rounded-xl bg-surface-container-lowest shadow-md flex flex-col justify-between relative overflow-hidden group">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-on-primary transition-colors">
+<span class="material-symbols-outlined text-2xl">edit_note</span>
+</div>
+<span class="font-display-lg text-display-lg text-surface-container-high font-bold">01</span>
+</div>
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold mb-space-xs">Share Intentions</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+                Submit this inquiry or send a quick WhatsApp note outlining your preferred season, party size, and travel pace.
+              </p>
+</div>
+<div class="mt-space-md pt-space-sm border-t border-surface-container text-tertiary font-label-md text-label-md flex items-center gap-1">
+<span class="material-symbols-outlined text-sm">schedule</span>
+<span class="">Takes under 3 minutes</span>
+</div>
+</div>
+<!-- Step 2 -->
+<div class="p-space-lg rounded-xl bg-surface-container-lowest shadow-md flex flex-col justify-between relative overflow-hidden group">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-on-primary transition-colors">
+<span class="material-symbols-outlined text-2xl">architecture</span>
+</div>
+<span class="font-display-lg text-display-lg text-surface-container-high font-bold">02</span>
+</div>
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold mb-space-xs">Collaborative Curation</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+                Receive a comprehensive initial draft PDF blueprint within 24 hours featuring handpicked villas, routes, and scenic timing.
+              </p>
+</div>
+<div class="mt-space-md pt-space-sm border-t border-surface-container text-tertiary font-label-md text-label-md flex items-center gap-1">
+<span class="material-symbols-outlined text-sm">bolt</span>
+<span class="">24-Hour Blueprint Delivery</span>
+</div>
+</div>
+<!-- Step 3 -->
+<div class="p-space-lg rounded-xl bg-surface-container-lowest shadow-md flex flex-col justify-between relative overflow-hidden group">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-on-primary transition-colors">
+<span class="material-symbols-outlined text-2xl">tune</span>
+</div>
+<span class="font-display-lg text-display-lg text-surface-container-high font-bold">03</span>
+</div>
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold mb-space-xs">Refine &amp; Perfect</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+                Adjust hotel tiers, switch safari locations, or extend beach time with Dinesh over direct WhatsApp audio calls.
+              </p>
+</div>
+<div class="mt-space-md pt-space-sm border-t border-surface-container text-tertiary font-label-md text-label-md flex items-center gap-1">
+<span class="material-symbols-outlined text-sm">all_inclusive</span>
+<span class="">Unlimited Free Revisions</span>
+</div>
+</div>
+<!-- Step 4 -->
+<div class="p-space-lg rounded-xl bg-surface-container-lowest shadow-md flex flex-col justify-between relative overflow-hidden group">
+<div class="flex items-center justify-between mb-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-on-primary transition-colors">
+<span class="material-symbols-outlined text-2xl">flight_land</span>
+</div>
+<span class="font-display-lg text-display-lg text-surface-container-high font-bold">04</span>
+</div>
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-semibold mb-space-xs">Effortless Welcome</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+                Meet Dinesh in VIP arrivals at Colombo with fresh cold towels, chilled coconuts, and your executive private vehicle.
+              </p>
+</div>
+<div class="mt-space-md pt-space-sm border-t border-surface-container text-tertiary font-label-md text-label-md flex items-center gap-1">
+<span class="material-symbols-outlined text-sm">verified</span>
+<span class="">24/7 Dedicated Care</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- ISLAND LOGISTICS & PROVINCE COVERAGE SECTION -->
+<section class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg py-space-3xl">
+<div class="p-space-xl md:p-space-2xl rounded-xl bg-surface-container-lowest shadow-xl grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-center">
+<div class="lg:col-span-6 flex flex-col gap-space-md">
+<div class="inline-flex items-center gap-space-xs font-label-md text-label-md text-secondary uppercase tracking-widest">
+<span class="material-symbols-outlined text-sm">pin_drop</span>
+<span class="">Comprehensive Islandwide Coverage</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-primary">
+            From the Northern Tip of Jaffna to the Colonial Ramparts of Galle
+          </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant">
+            Serendiva maintains active concierge networks across all 9 provinces. Whether arranging private dawn seaplane connections to Castlereagh Reservoir, priority safari permits into Yala Block 1, or secluded coastal villas in Tangalle, our on-ground coordination is absolute.
+          </p>
+<div class="grid grid-cols-2 gap-space-md pt-space-sm">
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary">directions_car</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg font-semibold text-primary">Private Chauffeur Fleet</span>
+<span class="font-caption text-caption text-on-surface-variant">Luxury SUVs &amp; High-Roof Vans</span>
+</div>
+</div>
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary">airplanemode_active</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg font-semibold text-primary">Domestic Charters</span>
+<span class="font-caption text-caption text-on-surface-variant">Cinnamon Air Seaplanes</span>
+</div>
+</div>
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary">local_police</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg font-semibold text-primary">Full Insurance</span>
+<span class="font-caption text-caption text-on-surface-variant">Comprehensive passenger coverage</span>
+</div>
+</div>
+<div class="flex items-center gap-space-sm">
+<span class="material-symbols-outlined text-primary">star</span>
+<div class="flex flex-col">
+<span class="font-label-lg text-label-lg font-semibold text-primary">VIP Fast-Track</span>
+<span class="font-caption text-caption text-on-surface-variant">Expedited airport arrival support</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Visual Map Pipeline Component -->
+<div class="lg:col-span-6">
+<div class="w-full h-80 md:h-96 rounded-xl shadow-md bg-surface-container relative overflow-hidden" data-location="Sri Lanka" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBYFhsFx55z-dlSGVssIFtbkvIiTiGUb5oWuE09lVrGmCuRDYuFAnSj8blryQZeMRzwzQS-_eZbfMEs9xkZeaFdL4gHPcajO12iCs5SG7m2UQRBvmnVOhijDOLc-wh1PEX6VCQlKvZ84-MHhHS38hOi8AxKq31iNYVXYJK84YLlQC2CNU7RUpMOA4ZKoNRPjpn9DgCk57L5Z5BbG0y1K9C3848FHwtDg8wqvqOzN96mcM3R5ayolLw')">
+<div class="absolute inset-0 bg-primary/20 backdrop-blur-[1px] flex flex-col justify-end p-space-lg text-on-primary">
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary-fixed">Live Fleet Dispatch</span>
+<span class="font-headline-sm text-headline-sm">Sri Lanka Islandwide Expedition Grid</span>
+<span class="font-caption text-caption opacity-80 mt-1">Colombo · Galle · Nuwara Eliya · Sigiriya · Kandy · Ella · Yala</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- BESPOKE BOOKING FAQ ACCORDION -->
+<section class="max-w-4xl mx-auto px-margin md:px-margin-md lg:px-margin-lg pb-space-3xl">
+<div class="text-center mb-space-xl">
+<span class="font-label-md text-label-md text-secondary uppercase tracking-widest">Common Inquiries</span>
+<h2 class="font-headline-xl text-headline-xl text-primary mt-space-xs">Bespoke Planning FAQ</h2>
+</div>
+<div class="flex flex-col gap-space-md">
+<!-- FAQ 1 -->
+<div class="rounded-xl bg-surface-container-lowest shadow-sm p-space-lg">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleFaq(1)" type="button">
+<span class="font-headline-sm text-headline-sm text-primary font-semibold">Is there any fee or commitment to request an itinerary?</span>
+<span class="material-symbols-outlined text-primary transition-transform duration-200" id="faq-icon-1">expand_more</span>
+</button>
+<div class="hidden mt-space-md pt-space-sm border-t border-surface-container font-body-md text-body-md text-on-surface-variant" id="faq-content-1">
+            None whatsoever. Requesting an itinerary blueprint is completely complimentary. Dinesh will consult with you, recommend options, and revise your itinerary without any obligation or card requirement until you are 100% happy with the journey.
+          </div>
+</div>
+<!-- FAQ 2 -->
+<div class="rounded-xl bg-surface-container-lowest shadow-sm p-space-lg">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleFaq(2)" type="button">
+<span class="font-headline-sm text-headline-sm text-primary font-semibold">Can you handle airport pickup at odd hours like 2:00 AM or 3:00 AM?</span>
+<span class="material-symbols-outlined text-primary transition-transform duration-200" id="faq-icon-2">expand_more</span>
+</button>
+<div class="hidden mt-space-md pt-space-sm border-t border-surface-container font-body-md text-body-md text-on-surface-variant" id="faq-content-2">
+            Yes, seamlessly. Many international flights arrive at Bandaranaike International Airport in the middle of the night. Dinesh or an authorized Serendiva representative will personally wait for you at the arrivals gate holding a personalized name board, assist with your luggage, and escort you to your air-conditioned vehicle.
+          </div>
+</div>
+<!-- FAQ 3 -->
+<div class="rounded-xl bg-surface-container-lowest shadow-sm p-space-lg">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleFaq(3)" type="button">
+<span class="font-headline-sm text-headline-sm text-primary font-semibold">How do we handle hotel bookings and national park entry permits?</span>
+<span class="material-symbols-outlined text-primary transition-transform duration-200" id="faq-icon-3">expand_more</span>
+</button>
+<div class="hidden mt-space-md pt-space-sm border-t border-surface-container font-body-md text-body-md text-on-surface-variant" id="faq-content-3">
+            We provide full turn-key flexibility. We can either handle all boutique hotel reservations, private 4x4 safari tracker permits, and scenic rail tickets directly under our operator rates, or you are welcome to book preferred properties using your own points/accounts while we manage all ground transport and guide curations.
+          </div>
+</div>
+<!-- FAQ 4 -->
+<div class="rounded-xl bg-surface-container-lowest shadow-sm p-space-lg">
+<button class="w-full flex items-center justify-between text-left" onclick="toggleFaq(4)" type="button">
+<span class="font-headline-sm text-headline-sm text-primary font-semibold">What if our travel dates change after designing the route?</span>
+<span class="material-symbols-outlined text-primary transition-transform duration-200" id="faq-icon-4">expand_more</span>
+</button>
+<div class="hidden mt-space-md pt-space-sm border-t border-surface-container font-body-md text-body-md text-on-surface-variant" id="faq-content-4">
+            Because you deal directly with Dinesh and not an automated booking algorithm, shifting dates is simple and stress-free. We will readily pivot your itinerary, check alternative hotel availability, and ensure seasonal recommendations remain optimized for your new window.
+          </div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<!-- Inline Interactive Script for Step Switching and Dynamic Counters -->
+<script>
+  function switchStep(stepNumber) {
+    // Hide all step panels
+    for (let i = 1; i <= 5; i++) {
+      const panel = document.getElementById('step-panel-' + i);
+      if (panel) panel.classList.add('hidden');
+    }
+
+    // Show target step panel
+    const targetPanel = document.getElementById('step-panel-' + stepNumber);
+    if (targetPanel) targetPanel.classList.remove('hidden');
+
+    // Update Step Tabs and Progress Bar (for steps 1-4)
+    if (stepNumber <= 4) {
+      const progressFill = document.getElementById('progress-fill');
+      if (progressFill) {
+        progressFill.style.width = (stepNumber * 25) + '%';
+      }
+
+      for (let i = 1; i <= 4; i++) {
+        const tab = document.getElementById('tab-step-' + i);
+        if (!tab) continue;
+        const num = tab.querySelector('.step-num');
+        const title = tab.querySelector('.step-title');
+
+        if (i === stepNumber) {
+          tab.classList.add('bg-surface-container');
+          num.classList.remove('bg-surface-container-high', 'text-on-surface-variant');
+          num.classList.add('bg-primary', 'text-on-primary');
+          title.classList.add('font-semibold', 'text-primary');
+          title.classList.remove('text-on-surface-variant');
+        } else {
+          tab.classList.remove('bg-surface-container');
+          num.classList.remove('bg-primary', 'text-on-primary');
+          num.classList.add('bg-surface-container-high', 'text-on-surface-variant');
+          title.classList.remove('font-semibold', 'text-primary');
+          title.classList.add('text-on-surface-variant');
+        }
+      }
+    } else {
+      // Step 5 (Success)
+      const progressFill = document.getElementById('progress-fill');
+      if (progressFill) progressFill.style.width = '100%';
+    }
+
+    // Scroll form into view gently if on mobile
+    if (window.innerWidth < 768) {
+      const formCard = document.getElementById('bespoke-planner-form');
+      if (formCard) formCard.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  function incrementVal(elementId, maxVal) {
+    const el = document.getElementById(elementId);
+    if (!el) return;
+    let val = parseInt(el.innerText, 10);
+    if (val < maxVal) {
+      el.innerText = val + 1;
+    }
+  }
+
+  function decrementVal(elementId, minVal) {
+    const el = document.getElementById(elementId);
+    if (!el) return;
+    let val = parseInt(el.innerText, 10);
+    if (val > minVal) {
+      el.innerText = val - 1;
+    }
+  }
+
+  function toggleFaq(index) {
+    const content = document.getElementById('faq-content-' + index);
+    const icon = document.getElementById('faq-icon-' + index);
+    if (!content || !icon) return;
+
+    if (content.classList.contains('hidden')) {
+      content.classList.remove('hidden');
+      icon.style.transform = 'rotate(180deg)';
+    } else {
+      content.classList.add('hidden');
+      icon.style.transform = 'rotate(0deg)';
+    }
+  }
+</script></main><footer class="w-full bg-surface-container-low mt-space-3xl"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pt-space-3xl pb-space-2xl"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg"><div class="lg:col-span-4 flex flex-col gap-space-md"><div class="flex items-center gap-space-md"><img alt="Serendiva Elite Travels Emblem Logo" class="h-12 w-12 rounded-full object-contain shadow-sm" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD_zYKrCuk8vJjX9l-iDSNceovMRMSyXjByvmaLRQADdV3r7C3fAvT-GUzms0fUikMxCsyq1yNeJuv4RuH-ecG0s3rVez4WPmVaOCAcpKcZedvAExQuFXOvfJ3Uqm3mfPpLB2HjHrIp8EI1Q9KQF5GCEJgZ2yQWOTeUjucnY9RRIOPag0p_7Ebi840Fkr-GfDl440LXDyu6GYSj2Uav7Bd2FM4ZwJ7O0-jsGe8quA_mrUyYn4iKp9ALDXK-BtMysKwt"><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm">Handcrafted private expeditions, boutique architectural villas, and authentic Sri Lankan heritage curations for the discerning traveler.</p><div class="inline-flex items-center gap-space-sm bg-surface-container px-space-md py-space-sm rounded-full w-fit"><span class="material-symbols-outlined text-tertiary text-sm">verified</span><span class="font-label-md text-label-md text-tertiary">Licensed SLTDA Chauffeur &amp; Tour Operator #TS/2024/091</span></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Expeditions</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Signature Journeys</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Ceylon Hill Country</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Southern Coast Villas</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate Retreats</a></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Concierge</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">The Serendiva Way</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Visual Journal</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Guest Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Private Dispatch</a></div></div><div class="lg:col-span-4 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Private Dispatch Journal</span><p class="font-body-md text-body-md text-on-surface-variant">Receive seasonal insights on Ceylon wildlife migrations, bespoke estate openings, and cultural observances.</p><div class="flex items-center gap-space-xs bg-surface rounded-xl p-space-xs shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><input class="bg-transparent px-space-md py-space-sm font-body-md text-body-md text-on-surface placeholder:text-outline w-full focus:outline-none" placeholder="Your private email address" type="email"><button class="bg-primary hover:bg-primary-container text-on-primary px-space-md py-space-sm rounded-lg font-label-lg text-label-lg transition-colors shrink-0" type="button">Join</button></div><div class="flex flex-col gap-1 mt-space-sm"><span class="font-caption text-caption text-on-surface-variant">Serving: Colombo · Galle Fort · Kandy · Cultural Triangle · Yala</span><span class="font-caption text-caption text-on-surface-variant">Direct telephone: +94 11 234 5678 · Concierge: private@serendiva.lk</span></div></div></div><div class="mt-space-2xl pt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md"><span class="font-caption text-caption text-on-surface-variant">© 2024 Serendiva - Ceylon Private Journeys. All rights reserved. Registered Travel Partner SLTDA.</span><div class="flex items-center gap-space-lg"><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Privacy Policy</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Terms of Bespoke Carriage</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Safety Protocol</a></div></div></div></footer>
+
+</body></html>

@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "title": "About Your Guide — {name}",
+    "titleFallback": "About Your Private Guide",
+    "description": "Meet {name}, your accredited private host, naturalist and cultural interpreter in Sri Lanka — {years}+ years guiding, SLTDA licensed, fluent in {languages}."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "About {name}"
+  },
+  "hero": {
+    "eyebrow": "The Soul of Serendiva",
+    "title": "Guiding Ceylon with Intimacy, Honor & Unhurried Grace",
+    "intro": "Meet <strong>{name}</strong>—your accredited private host, naturalist, and cultural interpreter across the ancient tears, secluded mist-lines, and deep heritage of Sri Lanka.",
+    "introNoName": "Meet your accredited private host, naturalist, and cultural interpreter across the ancient tears, secluded mist-lines, and deep heritage of Sri Lanka.",
+    "readStory": "Read The Story",
+    "whatsapp": "Direct WhatsApp ({number})",
+    "whatsappNoNumber": "Direct WhatsApp",
+    "licence": "{title} • Reg. #{licence}",
+    "sealTitle": "Certified National Lecturer",
+    "sealSubtitle": "Govt. Ministry of Tourism & Lands",
+    "sealYears": "{years}+ Yrs"
+  },
+  "metrics": {
+    "label": "At a glance",
+    "years": "{years}+ Years",
+    "yearsCaption": "Independent Ceylon Curation",
+    "licenceCaption": "SLTDA National Accreditation",
+    "languages": "{count, plural, =1 {Monolingual} =2 {Bilingual} =3 {Trilingual} other {# Languages}}",
+    "rating": "{rating} Star",
+    "ratingCaption": "{count, plural, one {# verified review} other {# verified reviews}}",
+    "ratingFallback": "Guest Reviews",
+    "ratingFallbackCaption": "Read verified reflections"
+  },
+  "story": {
+    "eyebrow": "The Personal Narrative",
+    "chapter": "Chapter I",
+    "title": "From the High Knuckles Ranges to the Royal Archives",
+    "p1": "Born into a lineage of tea planters and Ayurvedic botanists in the shadow of the Knuckles Mountain Range, my childhood was charted not by street maps, but by the monsoon winds and the migration corridors of the Sri Lankan leopard. What began as instinctive village exploration evolved into formal scholarly discipline.",
+    "p2": "In my early twenties, I apprenticed under senior conservators at the Sigiriya Cultural Triangle Project and the ancient ruins of Polonnaruwa. Under the shade of monastic brickwork, I learned to read ancient Brahmi script etched upon wet cave stone and decipher hydrological engineering feats designed three centuries before the Common Era.",
+    "p3": "Later, while managing biodiversity programming for the island's most celebrated heritage retreats, I recognized a quiet longing among the world's most cultured voyagers: they did not seek generic tour commentaries rehearsed through megaphones. They sought thoughtful kinship, complete logistical ease, unhurried contemplation, and the unfiltered truth of our complex, radiant island.",
+    "quote": "“Sri Lanka cannot be understood through a tour bus window. It reveals its heartbeat when you linger at a monastery at dawn, break fresh cinnamon bark between your fingers, and sit with a village elder over woodfire claypot curry.”",
+    "p4": "Today, through Serendiva, I accept no more than sixteen bespoke private expeditions annually. Each guest is afforded my full personal presence, whether that means securing after-hours silence in the Inner Sanctum of Kandy's Temple or charting a safe navigation through Yala's deepest scrubland trails.",
+    "moments": {
+      "zoology": {
+        "label": "Field Zoology",
+        "text": "Interpreting endemic raptor thermals & leopard territorial marks in Yala Block 1."
+      },
+      "architecture": {
+        "label": "Living Architecture",
+        "text": "Unlocking hidden bastion gateways and colonial maritime lore within Galle Fort."
+      },
+      "agrarian": {
+        "label": "Agrarian Heritage",
+        "text": "Evaluating Golden Tips hand-plucked harvest on private single-estate plantations."
+      }
+    }
+  },
+  "video": {
+    "eyebrow": "Video Introduction",
+    "title": "A Morning with {name}",
+    "body": "Experience my conversational cadence, listen to my philosophy on island preservation, and preview what private unscripted travel feels like when guided by an accredited Ceylon scholar.",
+    "badge": "Personal Introduction Film",
+    "audio": "English Audio",
+    "subtitles": "Multi-language subtitles available",
+    "play": "Play the video introduction from {name}",
+    "comingSoon": "Introduction film coming soon",
+    "frameTitle": "Video introduction — {name}"
+  },
+  "pillars": {
+    "eyebrow": "Why I Guide",
+    "title": "The Four Pillars of Private Hospitality",
+    "intro": "Bespoke travel is governed by unspoken principles. Here is how your time and presence are safeguarded under my wing.",
+    "items": {
+      "integrity": {
+        "title": "Uncompromised Integrity",
+        "body": "Absolute zero commercial kickbacks or pressured stops at generic gem shops and spice stalls. Every artisan, boutique weaver, and estate visited is selected purely for historical authenticity.",
+        "tag": "Pure Stewardship"
+      },
+      "pacing": {
+        "title": "Fluid Pacing & Autonomy",
+        "body": "No hurried whistle-blowing or rigid checklists. Sleep late when weary, linger longer at an ancient cliff sanctuary, or pull over unexpectedly for fresh golden king coconuts from a village harvester.",
+        "tag": "Your Rhythms"
+      },
+      "safety": {
+        "title": "Safety & Discreet Discretion",
+        "body": "Advanced defensive chauffeur licensing, Red Cross emergency medical credentials, and seasoned discretion trusted by international ambassadors, executives, and high-profile creative families.",
+        "tag": "VIP Protocol"
+      },
+      "fluency": {
+        "title": "Biogeographic Fluency",
+        "body": "Translating 2,500 years of Anuradhapura lithic records alongside deep field knowledge of wet-zone endemic orchids, butterfly corridors, and birding ecology.",
+        "tag": "Scholarly Depth"
+      }
+    }
+  },
+  "credentials": {
+    "eyebrow": "Official State Registration",
+    "title": "Ministry of Tourism Credentials",
+    "rows": {
+      "guide": {
+        "title": "National Tourist Guide Lecturer",
+        "issuer": "Sri Lanka Tourism Development Authority (SLTDA)"
+      },
+      "firstAid": {
+        "title": "Wilderness First Aid & CPR (Level 3)",
+        "issuer": "Sri Lanka Red Cross Society Certification",
+        "value": "Valid 2026"
+      },
+      "chauffeur": {
+        "title": "High-Tier Defensive Chauffeur Protocol",
+        "issuer": "SLTDA VIP Chauffeur-Guide Endorsement",
+        "value": "A+ Certified"
+      },
+      "wildlife": {
+        "title": "Department of Wildlife Conservation",
+        "issuer": "Permitted Wildlife Naturalist & Safari Tracker",
+        "value": "Permit #DWLC-89"
+      }
+    },
+    "auditable": "All biometric IDs, background clearances, & licenses independently auditable.",
+    "request": "Request Verified Copies",
+    "requestMessage": "Hello Dinesh, could you please share verified copies of your guide licence and certificates?"
+  },
+  "languages": {
+    "eyebrow": "Language Mastery",
+    "title": "Polyglot Cultural Interpretation",
+    "intro": "Nuance matters when translating ancient Buddhist thought, delicate local customs, and estate rituals. I communicate with effortless precision across three continents.",
+    "fluencyLabel": "{language}: {level}% fluency",
+    "profiles": {
+      "english": {
+        "name": "English",
+        "note": "(Native Fluency • Academic Ceylon History)",
+        "level": "100"
+      },
+      "german": {
+        "name": "German (Deutsch)",
+        "note": "(B2 Professional • Goethe Institut Colombo)",
+        "level": "85"
+      },
+      "mandarin": {
+        "name": "Mandarin Chinese (中文)",
+        "note": "(Conversational • Maritime Silk Route Studies)",
+        "level": "75"
+      }
+    },
+    "otherTitle": "Also spoken",
+    "sinhalaNote": "Sinhala (Mother tongue) and working familiarity with Tamil dialect phrases for deep encounters in Jaffna and the Tea Country."
+  },
+  "fleet": {
+    "eyebrow": "Private Carriage & Logistics",
+    "title": "The Dedicated Private Fleet",
+    "intro": "Impeccable mechanical condition, supreme climate control, and unmatched mountain stability. Every vehicle is privately owned, meticulously sanitized, and customized exclusively for Serendiva.",
+    "prado": {
+      "capacity": "Up to 3 Guests",
+      "name": "Toyota Land Cruiser Prado 4x4",
+      "tag": "Expedition Rig",
+      "body": "Engineered for elevated comfort during deep safari expeditions across Wilpattu, navigating misty hairpins across Ella Gap, and accessing remote colonial bungalow driveways.",
+      "features": {
+        "ac": "Dual-Zone High AC",
+        "seats": "Plush Leather Seating",
+        "coldBox": "Cold Box (Chilled Coconuts)",
+        "clearance": "High Terrain Clearance"
+      },
+      "ideal": "Ideal for couples, solo naturalists, photographers"
+    },
+    "hiace": {
+      "capacity": "Up to 7 Guests",
+      "name": "Toyota HiAce Super GL VIP",
+      "tag": "Family & Group Suite",
+      "body": "A sanctuary on wheels tailored for multi-generational families and travel companions. Features individual captain reclining chairs with generous legroom and panoramic viewing glass.",
+      "features": {
+        "chairs": "Executive Reclining Chairs",
+        "wifi": "Dedicated 5G High-Speed Wi-Fi",
+        "luggage": "Luggage Compartment • 8 Bags",
+        "venting": "Independent Multi-Zone Venting"
+      },
+      "ideal": "Ideal for multi-generational families, small travel circles"
+    },
+    "inclusions": {
+      "wifi": {
+        "title": "Continuous 5G Onboard",
+        "body": "Seamless connectivity islandwide"
+      },
+      "flasks": {
+        "title": "Refillable Ceylon Flasks",
+        "body": "Zero single-use plastics policy"
+      },
+      "gear": {
+        "title": "Monsoon & Safari Gear",
+        "body": "Bespoke umbrellas & Steiner optics"
+      },
+      "sanitization": {
+        "title": "Daily Sanitization",
+        "body": "Pure Ayurvedic essential oil spray"
+      }
+    }
+  },
+  "travelers": {
+    "eyebrow": "Travel Resonance",
+    "title": "Travelers I Love to Accompany",
+    "intro": "My expeditions are tailored to individuals who value depth over checklists, context over haste, and authentic kinship over sterile luxury.",
+    "items": {
+      "heritage": {
+        "title": "The Inquisitive Heritage Seekers",
+        "body": "Travelers captivated by hidden monastic chronicles, pre-colonial craftsmanship, Geoffrey Bawa architecture, and meaningful dialogues with Buddhist abbots and local historians.",
+        "tag": "Archeology • Architecture"
+      },
+      "families": {
+        "title": "Multi-Generational Families",
+        "body": "Families traversing Ceylon together where pacing must accommodate grandparents seeking comfortable ease alongside young children eager for elephant encounters and cinnamon peeling demonstrations.",
+        "tag": "Harmonious Pacing"
+      },
+      "solitary": {
+        "title": "Solitary Explorers & Photographers",
+        "body": "Visual storytellers, botanical enthusiasts, and contemplative voyagers who need early morning patience, discreet access to remote vantages, and zero unsolicited interruptions.",
+        "tag": "Silence • Golden Hours"
+      }
+    }
+  },
+  "endorsement": {
+    "label": "Guest endorsement",
+    "title": "TripAdvisor Travelers' Choice",
+    "body": "Ranked in the top 1% of specialized private cultural guides across Sri Lanka since 2018.",
+    "readAll": "Read all {count, plural, one {# guest review} other {# guest reviews}}",
+    "readAllFallback": "Read all guest reviews",
+    "verified": "Verified Expedition",
+    "meta": "{place} • {trip}"
+  },
+  "cta": {
+    "eyebrow": "Bespoke Expedition Inquiries",
+    "title": "Let’s Converse About Your Ceylon Journey",
+    "body": "Whether you are planning a winter season migration through Yala or seeking seclusion in an ancient tea bungalow, I am here to personally shape your private itinerary.",
+    "plan": "Plan My Private Trip",
+    "whatsapp": "WhatsApp {name} Directly ({number})",
+    "whatsappNoNumber": "WhatsApp {name} Directly",
+    "response": "Personal response within 24 hours",
+    "noAgents": "No agents or intermediaries",
+    "season": "Now planning {year} / {nextYear} journeys"
+  },
+  "jsonLd": {
+    "description": "Accredited National Tourist Guide Lecturer and private host for bespoke journeys across Sri Lanka."
+  }
+}

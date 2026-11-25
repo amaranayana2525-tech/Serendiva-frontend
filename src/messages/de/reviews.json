@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "title": "Gästebewertungen — Verifizierte Reiseberichte",
+    "description": "Unbearbeitete Bewertungen von Paaren, Familien, Alleinreisenden und Firmengruppen, die ich persönlich durch Sri Lanka begleitet habe. Durchschnitt {average} von 5 aus {count, plural, one {# Bewertung} other {# Bewertungen}}.",
+    "descriptionFallback": "Unbearbeitete Bewertungen von Paaren, Familien, Alleinreisenden und Firmengruppen aus aller Welt."
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "current": "Reiseberichte & Bewertungen",
+    "share": "Erfahrung teilen"
+  },
+  "hero": {
+    "eyebrow": "Echte Gästestimmen",
+    "title": "Stimmen aus Ceylon: <em>Verifizierte Erfahrungen</em> meiner Gäste",
+    "intro": "Lesen Sie authentische Berichte internationaler Paare, Mehrgenerationen-Familien, Alleinreisender und Delegationen, die ich persönlich durch Sri Lanka geführt habe."
+  },
+  "score": {
+    "label": "Gesamtbewertung der Gäste",
+    "recordFlawless": "Hervorragende Bilanz aus {count, plural, one {# verifizierten Bewertung} other {# verifizierten Bewertungen}}",
+    "record": "Bewertet mit {average} aus {count, plural, one {# verifizierten Bewertung} other {# verifizierten Bewertungen}}",
+    "body": "Durchgehend erstklassig bewertet auf TripAdvisor, Google und in persönlichen Rückmeldungen nach der Reise.",
+    "badges": {
+      "tripadvisor": "TripAdvisor 2024 Empfehlung",
+      "google": "Google 5.0 Verifiziert",
+      "sltda": "SLTDA National Guide"
+    },
+    "emptyTitle": "Neue Bewertungen folgen",
+    "emptyBody": "Gästestimmen erscheinen hier unmittelbar nach Freigabe."
+  },
+  "filters": {
+    "label": "Bewertungen filtern",
+    "travellerLabel": "Reiseart",
+    "all": "Alle Bewertungen",
+    "types": {
+      "couple": "Paare & Flitterwochen",
+      "family": "Familien mit Kindern",
+      "group": "Kleine Gruppen",
+      "solo": "Alleinreisende",
+      "corporate": "Firmenreisen"
+    },
+    "route": "Route filtern:",
+    "routeGroup": "Nach Route filtern",
+    "origin": "Herkunft:",
+    "origins": {
+      "all": "Weltweit (Alle Länder)",
+      "uk": "Großbritannien & Irland",
+      "us": "USA & Kanada",
+      "au": "Australien & Neuseeland",
+      "de": "Deutschland & Schweiz",
+      "sg": "Singapur & Hongkong",
+      "se": "Skandinavien"
+    },
+    "results": "{count, plural, =0 {Keine Bewertungen passen zu diesen Filtern} one {# Bewertung gefunden} other {# Bewertungen gefunden}}",
+    "reset": "Filter zurücksetzen"
+  },
+  "spotlight": {
+    "eyebrow": "Ausgewählter Reisebericht",
+    "travelled": "Gereist am {date}",
+    "route": "Route: {route}",
+    "photos": "Fotos von {name}s Reise:",
+    "source": {
+      "direct": "Verifizierter Direktbericht",
+      "tripadvisor": "TripAdvisor verifiziert",
+      "google": "Google verifiziert"
+    }
+  },
+  "grid": {
+    "eyebrow": "Ungefilterte Eindrücke",
+    "title": "Erfahrungen meiner Gäste",
+    "intro": "Hinter jeder Bewertung steht eine maßgeschneiderte Privatreise mit eigenem Fahrzeug, ausgewählten Unterkünften und meiner persönlichen Begleitung.",
+    "showing": "{shown} von {total, plural, one {# verifizierten Bewertung} other {# verifizierten Bewertungen}} angezeigt",
+    "loadMore": "Weitere {count} Berichte laden",
+    "browseAll": "Alle {count} Berichte ansehen",
+    "allShown": "Alle veröffentlichten Bewertungen werden angezeigt.",
+    "emptyTitle": "Keine Berichte passen zu diesen Filtern",
+    "emptyBody": "Wählen Sie eine andere Route oder Herkunft — auf Wunsch vermittle ich gern auch den Kontakt zu früheren Gästen.",
+    "noneTitle": "Bewertungen folgen in Kürze",
+    "noneBody": "Neue Rückmeldungen werden derzeit geprüft."
+  },
+  "videos": {
+    "eyebrow": "Bewegte Erinnerungen",
+    "title": "Mit eigenen Worten",
+    "intro": "Hören Sie persönliche Eindrücke direkt im Anschluss an Rundreisen durch das Hochland, Nationalparks und an der Küste.",
+    "label": "Gäste-Interview",
+    "play": "Video abspielen: {title}"
+  },
+  "share": {
+    "eyebrow": "Für ehemalige Gäste",
+    "title": "Sind Sie kürzlich mit mir gereist? Ich freue mich sehr über Ihre Rückmeldung.",
+    "body": "Ihr ehrlicher Bericht hilft zukünftigen Reisenden bei der Planung ihrer Privatreise durch Sri Lanka.",
+    "tripadvisor": "Auf TripAdvisor bewerten",
+    "direct": "Eigene Erfahrung teilen"
+  },
+  "faq": {
+    "eyebrow": "Transparenz & Vertrauen",
+    "title": "Häufige Fragen zur Echtheit unserer Bewertungen",
+    "intro": "Wie ich Rückmeldungen verifiziere, arbeite und auf Wunsch Referenzen vermittle.",
+    "items": {
+      "verified": {
+        "q": "Sind diese Gästebewertungen wirklich unbearbeitet und echt?",
+        "a": "Jede hier gezeigte Bewertung stammt von realen Reisenden, die ich persönlich begleitet habe — eingegangen über TripAdvisor, Google oder direkt nach Reiseende. Ich verändere keine Bewertungen."
+      },
+      "rating": {
+        "q": "Wie gelingt eine so konstant hohe Zufriedenheit?",
+        "a": "Durch volle persönliche Verantwortung: Ich gebe meine Gäste niemals an anonyme Vermittler weiter, sondern prüfe Fahrzeug, Tempo, Verpflegung und Abläufe bei jeder Reise selbst."
+      },
+      "references": {
+        "q": "Kann ich vor meiner Planung direkt mit einem früheren Gast sprechen?",
+        "a": "Ja. Viele frühere Gäste aus Deutschland, der Schweiz, Großbritannien, den USA und Australien stellen sich gern für einen kurzen Erfahrungsaustausch per E-Mail zur Verfügung."
+      },
+      "weather": {
+        "q": "Was passiert bei unerwartetem Wetter oder Straßensperrungen?",
+        "a": "Als staatlich lizenzierter National Guide kenne ich alternative Routen im ganzen Land und passe Tagesprogramme flexibel und stressfrei für Sie an."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Ihre Reise beginnt mit einem Gespräch",
+    "title": "Erleben Sie Sri Lanka durch die Augen eines vertrauten Freundes",
+    "body": "Lassen Sie uns gemeinsam Ihre private Route durch die Insel im Indischen Ozean gestalten.",
+    "plan": "Meine Wunschreise planen",
+    "whatsapp": "Mit Dinesh per WhatsApp chatten",
+    "checks": {
+      "tailored": "100 % maßgeschneiderte Routen",
+      "whatsapp": "Direkter WhatsApp-Kontakt",
+      "obligation": "Unverbindliche Reiseplanung"
+    }
+  },
+  "form": {
+    "meta": {
+      "title": "Erfahrung teilen",
+      "description": "Mit mir durch Sri Lanka gereist? Teilen Sie Ihren Reisebericht — jede Bewertung wird persönlich gelesen."
+    },
+    "hero": {
+      "eyebrow": "Gästestimmen",
+      "title": "Teilen Sie Ihre <em>Ceylon</em>-Erinnerungen",
+      "intro": "Ihre Rückmeldung hilft anderen Reisenden bei ihrer Entscheidung. Jeder Beitrag wird vor Veröffentlichung persönlich von mir gelesen."
+    },
+    "aside": {
+      "title": "So wird Ihre Bewertung veröffentlicht",
+      "steps": {
+        "write": "Schreiben Sie frei in Ihren eigenen Worten — Lob wie auch konstruktive Hinweise sind willkommen.",
+        "moderate": "Ich lese jede Einsendung persönlich und gebe sie in der Regel innerhalb weniger Tage frei.",
+        "publish": "Öffentlich erscheinen nur Ihr Name, Ort, Land, Reisemonat und Text."
+      },
+      "privacyTitle": "Ihre E-Mail bleibt privat",
+      "privacyBody": "Ihre E-Mail-Adresse wird niemals veröffentlicht oder weitergegeben.",
+      "back": "Zurück zu allen Bewertungen"
+    },
+    "title": "Ihre Bewertung",
+    "sections": {
+      "about": "Über Sie",
+      "trip": "Ihre Reise",
+      "review": "Ihr Reisebericht"
+    },
+    "labels": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "country": "Wohnsitzland",
+      "city": "Stadt / Region",
+      "travellerType": "Sie reisten als",
+      "tour": "Welche Reise haben Sie unternommen?",
+      "rating": "Ihre Bewertung",
+      "title": "Überschrift",
+      "text": "Ihre Erfahrung",
+      "travelDate": "Wann sind Sie gereist?"
+    },
+    "hints": {
+      "email": "Wird nicht veröffentlicht — nur für Rückfragen.",
+      "tour": "Optional — leer lassen bei einer individuellen Tour.",
+      "text": "Mindestens 20 Zeichen. Absätze bleiben erhalten.",
+      "travelDate": "Monat und Jahr (YYYY-MM).",
+      "name": "Wie Ihr Name erscheinen soll, z. B. „Lukas & Hannah M.“"
+    },
+    "placeholders": {
+      "name": "z. B. Lukas & Hannah Weber",
+      "email": "name@domain.de",
+      "country": "Bitte Land auswählen",
+      "city": "z. B. Zürich",
+      "travellerType": "Bitte wählen",
+      "tour": "Eine maßgeschneiderte Privatreise",
+      "title": "z. B. Eine unvergessliche Reise",
+      "text": "Was hat Ihre Reise besonders gemacht? Welche Momente sind Ihnen geblieben?"
+    },
+    "rating": {
+      "legend": "Ihre Bewertung",
+      "star": "{count, plural, one {# Stern} other {# Sterne}}",
+      "labels": {
+        "1": "Enttäuschend",
+        "2": "Unter Erwartung",
+        "3": "Gut",
+        "4": "Wunderbar",
+        "5": "Unvergesslich"
+      },
+      "hint": "Mit den Pfeiltasten eine Bewertung wählen."
+    },
+    "consent": "Mit dem Absenden stimmen Sie zu, dass Name, Stadt, Land, Reisemonat und Text nach Prüfung auf Serendiva veröffentlicht werden dürfen. Ihre E-Mail wird nicht angezeigt.",
+    "submit": "Bewertung absenden",
+    "sending": "Wird gesendet…",
+    "success": {
+      "title": "Vielen Dank — Ihre Bewertung ist bei mir eingegangen",
+      "body": "Ich lese jeden Beitrag persönlich und gebe Ihre Bewertung in Kürze frei.",
+      "back": "Zurück zu allen Bewertungen",
+      "another": "Weitere Bewertung schreiben"
+    }
+  },
+  "jsonLd": {
+    "name": "Serendiva — Private Sri-Lanka-Reisen"
+  }
+}

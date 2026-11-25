@@ -1,0 +1,660 @@
+{
+  "id": "cmuv1ndib007n0i7dtjxn3zxr",
+  "slug": "wild-leopards-untamed-coastlines",
+  "title": "Wild Leopards & Untamed Coastlines",
+  "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+  "cardTag": "Private 4x4 Jeep",
+  "durationDays": 8,
+  "durationNights": 7,
+  "route": [
+    "Colombo",
+    "Wilpattu",
+    "Udawalawe",
+    "Yala",
+    "Mirissa"
+  ],
+  "highlights": [
+    "Private Naturalist Guide",
+    "Blue Whale Yacht Charter",
+    "Luxury Tented Safari Camp"
+  ],
+  "isFeatured": true,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz00140i7d3h0lpa8r",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+    "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1ndds004x0i7dt1ak9m7n",
+      "slug": "wildlife-safari",
+      "name": "Wildlife & Safari Expeditions",
+      "shortName": "Wildlife & Safari"
+    },
+    {
+      "id": "cmuv1nddy004y0i7d73erk1uw",
+      "slug": "pristine-beaches",
+      "name": "Pristine Southern Beaches",
+      "shortName": "Pristine Beach"
+    }
+  ],
+  "travellerTypes": [
+    "couple",
+    "solo",
+    "group",
+    "family"
+  ],
+  "seasons": [
+    "nov-apr",
+    "may-sep"
+  ],
+  "description": "Privileged leopard tracking in Yala and Wilpattu, secluded glamping pavilions, and azure whale migrations off Mirissa. This is the journey I design for travellers who measure a day by the light — dawn and dusk drives, long patient waits and the thrill of a leopard stepping out of the scrub.\n\nBetween the parks we slow down: Udawalawe’s elephant herds, Bundala’s flamingos and, to finish, a small private yacht out to the blue whale highway off the southern coast.",
+  "badges": [
+    "Wildlife & Coastal Wilderness",
+    "Private Naturalist",
+    "Ethical Safari Standard"
+  ],
+  "overview": {
+    "kicker": "Wildlife & Coastal Wilderness",
+    "heading": "Three National Parks and the Blue Whale Highway",
+    "quote": "A good safari is mostly silence: the engine off, the tracker listening for a langur’s alarm call, and then a leopard walking out of the shade as if it owned the morning — which it does."
+  },
+  "keyFeatures": [
+    {
+      "icon": "pets",
+      "title": "Three National Parks",
+      "text": "Wilpattu, Udawalawe and Yala, each with private open 4x4 drives."
+    },
+    {
+      "icon": "visibility",
+      "title": "Senior Trackers",
+      "text": "Naturalists who read tracks and alarm calls rather than radio chatter."
+    },
+    {
+      "icon": "sailing",
+      "title": "Private Whale Charter",
+      "text": "A small vessel with a marine conservationist off Mirissa."
+    },
+    {
+      "icon": "holiday_village",
+      "title": "Luxury Tented Camps",
+      "text": "Canvas suites on the park edges, lantern dinners under the stars."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "pets",
+      "text": "Private open 4x4 safaris in Wilpattu, Udawalawe and Yala with park fees and senior trackers"
+    },
+    {
+      "icon": "sailing",
+      "text": "Private yacht charter for whale watching off Mirissa (season permitting) with a marine naturalist"
+    },
+    {
+      "icon": "hotel",
+      "text": "7 nights handpicked boutique luxury accommodations including luxury tented safari camps, with daily breakfasts and dinners"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "880 Kilometers · 3 National Parks & the Southern Ocean",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz00150i7d4rryfzyk",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBfLLeJay3wdUVrA1w35CcODFgdoABUw9BACpgkzXwp_yQR6y2IRjq8t3VtHoP2JPp1tIhwMgPEyyinCP1Q25at5Hpr8TR2vQlcqbfwVGQ3sj202f0Mr-4dNxN5NcEZuobBYoMfm49I7KmlhifeFRiSw0GOMkVnjHsfqlSAWLzO0Q8jB9lb3Zp1OE2wn80IfE5AY7k6-5g591wXfTUjaFfot_u-WKL37MP9vkbzPV9OxP0EDipJfSI",
+        "alt": "Safari jeep watching an elephant and calf in Wilpattu at sunset",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Wilpattu at Sunset",
+      "caption": "An elephant mother and newborn calf"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00160i7dfmm6zl09",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBH3p1q8DXk2rcfAWpNOIwEWirBOML9NWdP7YeyjPfuo_tRTcad3MV0-HLDime3dkcuiUJfX8sgChXLILzniiDD2-pvSD0xduijePWsPvGHhzYUwR5V0oAJmJM35odT-I85hY98FoKWcSCyvMWzyOmrcwGk1E8lOVieU6Sz3-zc8E8yP-ysoc7O8C_9ryo6trhPMHk9w9YmUci0d8lc2VApu9YKIDn4BTPfHQaU0v5zZuX5DOzeIUQ",
+        "alt": "Leopard on a granite outcrop in Yala at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Yala Leopard",
+      "caption": "Golden hour on the granite outcrops"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz003e0i7donn3chlj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDFC02FMamftGYy5BbuNxSpJeY1ZKE6Crw02hI4cU8gnlInxhFHkQQI4JXiHCjGwiQds3LkD5NZmv0ULBgKELyNC9fzpiPoRx_GUoZ8aKwhubB895Zv58d6Pg9p1_F22VOMHozN832D8uILzz_k1bdWCeG4aFSuedUz9zTHbKtdJXInJD2i8PC2mHIk_uJ760dZb64eHwH38j15BraxDI5iiJKIBz9_O0aXax4MIznTSkiseWClnVc",
+        "alt": "Tusker walking through golden grass in Udawalawe National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Udawalawe Tusker",
+      "caption": "Open grasslands in the afternoon"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00480i7dwyht8juh",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAcxMlOKpqWlIFygvBVR7A2KbWmGqqvLS_xIx96GA7MD7xZoB0gLhTjM8b6DkFapaI7iDPk4FFcfV_fBSFnrUI9SaJsI_apuJdDoHgAZpsk7ZoQEP4GOXRlykmbQLzW22OTOz9XV3ocVSsJqEXzNVzBWgwIWvVpkF13Jz1CkUWNY0ecX1QpQoEPFM8xgFS-DkRDFgXq-f0yKg-MrTev-UDXlneGp-8EgqblvyL1p72gbg7G7TRPAgI",
+        "alt": "Luxury safari tent with a plunge pool overlooking a waterhole in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Tented Camp",
+      "caption": "A waterhole view from your canvas suite"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00340i7dkblhxux9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCY4c_j_2yw_xaEVueVh4levl80tU3Tgepm1OlcSjc4AVrcubd8d2yz5FZFoUuhGQFl3dJTHAqEWTVjQK3TNBvtvdB64DBViinq9c8VluShbxMzgLNA_1Z1d_nFtN7lqE0TID56JMAJflceysikQAyr3xyvd64G7IKG0OY8kxTSOdyuQ90oFwD-hgmeEBDZOd9LGuuBXKo5R6c3EAhX1UnMVY4sst5UDZ0AeKLB8UDVHXsE6DpZbp0",
+        "alt": "Blue whale fluke breaking the surface off Mirissa",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Titan of the Trench",
+      "caption": "Blue whale off Mirissa"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & Into the Lakes of Wilpattu",
+      "description": "From the airport we drive north along the coast to a tented camp on the edge of Wilpattu, Sri Lanka’s largest national park. Late-afternoon safari among its natural lakes, the villus, looking for leopards and sloth bears.",
+      "overnightArea": "Wilpattu",
+      "meals": "Lunch, Dinner",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Overnight Residence",
+          "value": "Luxury tented camp near Hunuwilagama gate"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Wilpattu National Park",
+          "lat": 8.4333,
+          "lng": 80.0167
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "A Full Day in Wilpattu’s Wilderness",
+      "description": "Dawn and dusk drives with a picnic breakfast beside a villu. Wilpattu sees a fraction of Yala’s visitors, so sightings are quiet and unhurried — leopards, sloth bears, spotted deer and crocodiles basking on the banks.",
+      "overnightArea": "Wilpattu",
+      "meals": "Breakfast, Picnic Lunch, Dinner",
+      "drivingTime": "Full Day Safari",
+      "details": [
+        {
+          "label": "Wildlife",
+          "value": "Leopards, sloth bears & lake birdlife"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Wilpattu National Park",
+          "lat": 8.4333,
+          "lng": 80.0167
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Across the Island via the Gem Town of Ratnapura",
+      "description": "A long but scenic transfer south, broken with lunch in Ratnapura, the city of gems, and a look at traditional gem pits. Evening arrival at Udawalawe.",
+      "overnightArea": "Udawalawe",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~6 hrs with breaks",
+      "details": [
+        {
+          "label": "Curated Stop",
+          "value": "Traditional gem-pit visit near Ratnapura"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Wilpattu National Park",
+          "lat": 8.4333,
+          "lng": 80.0167
+        },
+        {
+          "name": "Ratnapura",
+          "lat": 6.6828,
+          "lng": 80.3992
+        },
+        {
+          "name": "Udawalawe National Park",
+          "lat": 6.4333,
+          "lng": 80.8833
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Udawalawe Elephants & Onward to Yala",
+      "description": "A dawn drive among Udawalawe’s grazing elephant herds and a visit to the Elephant Transit Home at feeding time, then on to a tented camp on the edge of Yala for a sunset drink by the waterhole.",
+      "overnightArea": "Yala",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~2.5 hrs",
+      "details": [
+        {
+          "label": "Conservation",
+          "value": "Elephant Transit Home feeding time"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Udawalawe National Park",
+          "lat": 6.4333,
+          "lng": 80.8833
+        },
+        {
+          "name": "Elephant Transit Home",
+          "lat": 6.444,
+          "lng": 80.891
+        },
+        {
+          "name": "Yala National Park",
+          "lat": 6.3725,
+          "lng": 81.5169
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "Yala: Leopard Country from First Light",
+      "description": "We enter at gate opening with a senior tracker and stay out until late morning, then return in the afternoon — exploring quieter blocks so that every sighting is calm and engine-off.",
+      "overnightArea": "Yala",
+      "meals": "Breakfast, Lunch, Dinner",
+      "drivingTime": "Full Day Safari",
+      "details": [
+        {
+          "label": "Private 4x4",
+          "value": "Modified open vehicle for your party only"
+        },
+        {
+          "label": "Ethics",
+          "value": "Engine-off sightings, no crowding"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Yala National Park",
+          "lat": 6.3725,
+          "lng": 81.5169
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "Bundala Flamingos & the Road to Mirissa",
+      "description": "An early birding walk at Bundala’s salt pans — flamingos, painted storks and waders in season — then west along the coast to a beach villa in Mirissa. Afternoon free.",
+      "overnightArea": "Mirissa",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~2.5 hrs",
+      "details": [
+        {
+          "label": "Birding",
+          "value": "Telephoto optics in the vehicle"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bundala National Park",
+          "lat": 6.2,
+          "lng": 81.2167
+        },
+        {
+          "name": "Mirissa",
+          "lat": 5.9483,
+          "lng": 80.4716
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "Private Yacht to the Blue Whale Highway",
+      "description": "Out at sunrise on a small private yacht with a marine naturalist to look for blue and sperm whales and spinner dolphins. The afternoon is for the beach, the pool or a sunset at Coconut Tree Hill.",
+      "overnightArea": "Mirissa",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "At Sea",
+      "details": [
+        {
+          "label": "Season Note",
+          "value": "Whales Nov – Apr; dolphin and coastal cruise outside the season"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Mirissa",
+          "lat": 5.9483,
+          "lng": 80.4716
+        },
+        {
+          "name": "Mirissa Continental Shelf",
+          "lat": 5.85,
+          "lng": 80.48
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "title": "Coastal Expressway & Airport Farewell",
+      "description": "A relaxed breakfast by the sea, then the expressway north to the airport. A Galle Fort lunch stop can be added for later flights.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~3 hrs via Highway",
+      "details": [
+        {
+          "label": "Option",
+          "value": "Lunch and a walk in Galle Fort for evening flights"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Mirissa",
+          "lat": 5.9483,
+          "lng": 80.4716
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "udawalawe",
+      "name": "Udawalawe"
+    },
+    {
+      "slug": "yala-bundala",
+      "name": "Yala & Bundala"
+    },
+    {
+      "slug": "mirissa-weligama",
+      "name": "Mirissa & Weligama"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcct0064yh7d946epd5q",
+      "guestName": "Lukas & Anna Hoffmann",
+      "initials": "LH",
+      "country": "DE",
+      "location": "Munich",
+      "partyLabel": "2 Travelers",
+      "travellerType": "couple",
+      "tourType": "Wildlife Photography",
+      "tripLabel": "8-Day Wild Leopards & Untamed Coastlines",
+      "tour": {
+        "slug": "wild-leopards-untamed-coastlines",
+        "title": "Wild Leopards & Untamed Coastlines"
+      },
+      "rating": 5,
+      "title": "Patience, silence and four leopards",
+      "text": "We are keen wildlife photographers and have done safaris in Kenya and India. Dinesh and his tracker had the same patience as the best guides we know: engine off, no shouting between jeeps, and a long wait at a waterhole in Wilpattu that ended with a female leopard walking past twenty metres away. The blue whale morning off Mirissa was the perfect finale.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "google",
+      "travelDate": "2025-03-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2025-03-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 1
+  },
+  "related": [
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndj0008d0i7d4b9av1hp",
+      "slug": "southern-beaches-whale-trails",
+      "title": "Pristine Southern Beaches & Whale Trails",
+      "summary": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and secluded coves near Tangalle.",
+      "cardTag": "Coastal Luxury",
+      "durationDays": 6,
+      "durationNights": 5,
+      "route": [
+        "Galle Fort",
+        "Weligama",
+        "Mirissa",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Stilt Fishermen Encounter",
+        "Cinnamon Island Boat Safari",
+        "Sunset Oceanfront Dining"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001a0i7daohzzy3u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+        "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Wild Leopards & Untamed Coastlines · 7 Nights / 8 Days",
+    "description": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charter",
+    "image": {
+      "id": "cmuv1ndcz00140i7d3h0lpa8r",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+      "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.160Z"
+}

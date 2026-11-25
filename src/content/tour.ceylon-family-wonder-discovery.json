@@ -1,0 +1,786 @@
+{
+  "id": "cmuv1ndkj009s0i7dt13bl054",
+  "slug": "ceylon-family-wonder-discovery",
+  "title": "Ceylon Family Wonder & Discovery",
+  "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+  "cardTag": "All Ages",
+  "durationDays": 11,
+  "durationNights": 10,
+  "route": [
+    "Colombo",
+    "Sigiriya",
+    "Kandy",
+    "Udawalawe",
+    "Bentota"
+  ],
+  "highlights": [
+    "Ethical Elephant Sanctuary Day",
+    "Junior Naturalist Safari Kits",
+    "Kid-Friendly Surfing & Kayak"
+  ],
+  "isFeatured": false,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz001f0i7drk09mcyb",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+    "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nde300520i7dasiux54s",
+      "slug": "family",
+      "name": "Family Journeys & Wildlife",
+      "shortName": "Family Expeditions"
+    }
+  ],
+  "travellerTypes": [
+    "family",
+    "group"
+  ],
+  "seasons": [
+    "nov-apr",
+    "jul-aug"
+  ],
+  "description": "Travelling with children in the tropics is all about rhythm. I keep driving legs short, plan the big outings for the cool mornings and leave the afternoons for the pool. Every child gets a junior naturalist kit — binoculars, a field notebook and a checklist of animals to spot.\n\nSpacious air-conditioned vehicles, connecting rooms or villas, child seats and a flexible plan mean that grandparents travel as comfortably as the youngest explorers.",
+  "badges": [
+    "Multi-Generational",
+    "All Ages",
+    "Gentle Pacing"
+  ],
+  "overview": {
+    "kicker": "Multi-Generational",
+    "heading": "A Journey the Whole Family Will Retell for Years",
+    "quote": "The best moment of a family trip is often small: a child counting elephants out loud, or a grandmother teaching everyone to eat rice and curry with their fingers."
+  },
+  "keyFeatures": [
+    {
+      "icon": "child_care",
+      "title": "Junior Naturalist Kits",
+      "text": "Binoculars, field notebooks and spotting checklists for every child."
+    },
+    {
+      "icon": "pets",
+      "title": "Ethical Wildlife Only",
+      "text": "Wild elephants from the jeep — never rides or shows."
+    },
+    {
+      "icon": "airport_shuttle",
+      "title": "Spacious VIP Van",
+      "text": "Child seats, extra legroom and a cool box of fruit and water."
+    },
+    {
+      "icon": "pool",
+      "title": "Afternoons Off",
+      "text": "Big outings in the morning, pool time when it is hot."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "airport_shuttle",
+      "text": "Private air-conditioned VIP family van with child seats, unlimited mileage, tolls and fuel"
+    },
+    {
+      "icon": "pets",
+      "text": "Private jeep safaris in Minneriya and Udawalawe and the Elephant Transit Home visit"
+    },
+    {
+      "icon": "surfing",
+      "text": "Kid-friendly surf lesson and river kayak session in Bentota with certified instructors"
+    },
+    {
+      "icon": "hotel",
+      "text": "10 nights handpicked boutique luxury accommodations with family rooms or villas, daily breakfasts and dinners"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "780 Kilometers · Short Driving Legs",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcm000r0i7d1hxyqtey",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd1iMxSZAFYQQna5nQerhQi_LeQFx560TUuOzy-WY2T3cdfxzAPOOhJ_xsqv_05mReGC8VcUbE2gNBK0QhFWBbtYQPFLYi4kuSU-R-lDoLYNXVcQeD1U1k3yLTp979cL2xwTPY9FV2HF78LIm0d7boPQZ9DwPW8M0s-v6KkKkwmHnkQD1jW64X8mITQrnj2HyfzoR2kbn8KyPg0PBPSuOTd-nlamvkEgRqhmymRBu2Q21LDhnbtkk",
+        "alt": "Family watching elephant calves play in Udawalawe National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Elephant Calves",
+      "caption": "Udawalawe from the safari jeep"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz004d0i7dm5occ2rb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC-vKutObhInoR5vCvyP29mNmwadxIVTVTfYPkSx5j3O7-Mih319OokngQRLe6SfcM5OvdRg6RC6iAUPcxndPteR1rrrNO6Pd6eqyU1i3gPxFDMVJTF6HqcJyQ701B08g22GreyvBbiUd6PAMtMUB44yMrPTcosJ6QesKfpNHZh_K2mzzpspSYB9za90Z6l_roZlPqaj3lyK2aKbecsQY1wabHzmb8iY9x6duqBccOHzRe1bTyyB-o",
+        "alt": "Family watching an elephant matriarch and calf from a safari jeep in Minneriya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Minneriya Gathering",
+      "caption": "A matriarch and calf"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00360i7d1fhzo2om",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD0tIvfZ_h1ObJkkBxqgtD5bwXD3Tu5_kDDaLgbwvUWQlN_LrU68pBr1CP7eRVQhyQe5WurS5gjenDwORvU02HazM6aWGKEDbe9N6EYs1UXvY8SOFpi-BqDEC4kT07QKk2FsRpYtRMc46326K_zu6QQulGihCqlrqkQOVboneiU4NLKohrCxCh_LzqqSe9aHi-k3jE4lJ5_gXLp6ZF4b5JABs1SPywPAMT6m0c6Gis4Z43nA9xbgaA",
+        "alt": "Travelling family sharing king coconuts with Dinesh in Polonnaruwa",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Thambili & Tales",
+      "caption": "King coconuts in Polonnaruwa"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz003m0i7dp6g8uiqp",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdCpzRVKNFJUFO6iG_6FBCJV2K08pK0jdIvb4DRHsEad1Yp6rK2qFK-MZsIIrFPmgCdUlfpuvkmN3R8ZFxYF7iTY_7evCjV8dT6TGdZ2V85Dgb7ZIVZp2vJe2YSPIUedm8peqi85kqrzChHD7znj7AY0fGdsub6_PaLVNNrtQUesDbWMIQjsq0JEPgYX2vDoF1N8QfUbVz5ZWAaWKe_RjEeeCCz5PRWhqbG9f483K1icFhY4swxfA",
+        "alt": "David Chen and his family on an open-roof safari vehicle",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Safari Smiles",
+      "caption": "A family on the open-roof jeep"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & Kites on Galle Face Green",
+      "description": "A short transfer to a Colombo hotel to rest after the flight. In the late afternoon we join local families flying kites on Galle Face Green, with isso vadai and fresh juice by the sea.",
+      "overnightArea": "Colombo",
+      "meals": "Dinner",
+      "drivingTime": "Drive: ~45 mins",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Sunset kites on Galle Face Green"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Galle Face Green",
+          "lat": 6.9246,
+          "lng": 79.8455
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "To the Cultural Triangle",
+      "description": "A gentle drive north with stops for fruit stalls and a village pottery where children can try the wheel. Arrival at a family villa near Sigiriya with time for a swim.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~4 hrs with breaks",
+      "details": [
+        {
+          "label": "Hands-On",
+          "value": "Village pottery wheel session"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Colombo",
+          "lat": 6.9271,
+          "lng": 79.8612
+        },
+        {
+          "name": "Dambulla Cave Temple",
+          "lat": 7.8567,
+          "lng": 80.6492
+        },
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "A Village Day: Bullock Cart, Canoe & Cooking",
+      "description": "A morning in Hiriwadunna village — a bullock-cart ride, a canoe across the lake and a cooking session with a local family. In the cool of the evening, an easy climb of Pidurangala or the Sigiriya water gardens.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Village Lunch, Dinner",
+      "drivingTime": "Short Drives",
+      "details": [
+        {
+          "label": "Option",
+          "value": "Sigiriya climb with accessible alternatives for grandparents"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Hiriwadunna Village",
+          "lat": 8.0233,
+          "lng": 80.7392
+        },
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Elephant Gathering Safari & Polonnaruwa by Bike",
+      "description": "Children receive their junior naturalist kits before a morning safari to see elephants on the grasslands of Minneriya. Afternoon cycle among the ruins of Polonnaruwa on flat, shaded paths.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~1 hr each way",
+      "details": [
+        {
+          "label": "Wildlife",
+          "value": "Private jeep safari in Minneriya"
+        },
+        {
+          "label": "Kids",
+          "value": "Junior naturalist kits handed out"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Minneriya National Park",
+          "lat": 8.0333,
+          "lng": 80.8667
+        },
+        {
+          "name": "Polonnaruwa (Gal Vihara)",
+          "lat": 7.9659,
+          "lng": 81.0059
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "Spice Gardens & Kandyan Dancers",
+      "description": "On to Kandy via a spice garden where children can smell and taste cinnamon, cardamom and vanilla. In the evening, a lively performance of Kandyan drumming and fire dancing.",
+      "overnightArea": "Kandy",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Evening",
+          "value": "Kandyan dance and fire-walking show"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Matale Spice Gardens",
+          "lat": 7.4675,
+          "lng": 80.6234
+        },
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "Peradeniya Gardens & the Temple of the Tooth",
+      "description": "The botanic gardens are perfect for running around — giant bamboo, a suspension bridge and fruit bats in the trees. In the afternoon a short visit to the Temple of the Tooth.",
+      "overnightArea": "Kandy",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Short Drives",
+      "details": [
+        {
+          "label": "Attire Prep",
+          "value": "Light wraps for the temple provided"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Royal Botanic Gardens, Peradeniya",
+          "lat": 7.269,
+          "lng": 80.5965
+        },
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "Down to Udawalawe & the Elephant Transit Home",
+      "description": "A scenic drive south to Udawalawe, arriving in time for feeding at the Elephant Transit Home, where orphaned calves are cared for until they can return to the wild.",
+      "overnightArea": "Udawalawe",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~5 hrs with breaks",
+      "details": [
+        {
+          "label": "Conservation",
+          "value": "Ethical, hands-off sanctuary visit"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        },
+        {
+          "name": "Elephant Transit Home",
+          "lat": 6.444,
+          "lng": 80.891
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "title": "Dawn Safari & On to the West Coast",
+      "description": "An early jeep safari among Udawalawe’s grazing herds, then a drive west to a family-friendly beach villa in Bentota.",
+      "overnightArea": "Bentota",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Wildlife",
+          "value": "Private jeep safari in Udawalawe"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Udawalawe National Park",
+          "lat": 6.4333,
+          "lng": 80.8833
+        },
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        }
+      ]
+    },
+    {
+      "dayNumber": 9,
+      "title": "Turtles, Surf & River Kayaks",
+      "description": "A morning at the Kosgoda turtle hatchery, then a surf lesson for beginners on a gentle break and a kayak trip on the calm Bentota river in the afternoon.",
+      "overnightArea": "Bentota",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Short Drives",
+      "details": [
+        {
+          "label": "Activities",
+          "value": "Certified surf and kayak instructors"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Kosgoda Turtle Hatchery",
+          "lat": 6.3355,
+          "lng": 80.0275
+        },
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        }
+      ]
+    },
+    {
+      "dayNumber": 10,
+      "title": "A Lazy Beach Day",
+      "description": "A day with nothing planned: sandcastles, the pool and a final family dinner by the sea. Optional visit to Bawa’s Lunuganga garden for the grown-ups.",
+      "overnightArea": "Bentota",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Leisure Day",
+      "details": [
+        {
+          "label": "Option",
+          "value": "Lunuganga garden tour"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        },
+        {
+          "name": "Lunuganga Estate",
+          "lat": 6.393,
+          "lng": 80.027
+        }
+      ]
+    },
+    {
+      "dayNumber": 11,
+      "title": "Farewell & Airport Transfer",
+      "description": "A short drive to the airport, timed around your flight, with snacks for the plane.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~1.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Farewell",
+          "value": "Junior naturalist certificates for the children"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "colombo",
+      "name": "Colombo"
+    },
+    {
+      "slug": "sigiriya-dambulla",
+      "name": "Sigiriya & Dambulla"
+    },
+    {
+      "slug": "anuradhapura-polonnaruwa",
+      "name": "Anuradhapura & Polonnaruwa"
+    },
+    {
+      "slug": "kandy-knuckles",
+      "name": "Kandy & Knuckles"
+    },
+    {
+      "slug": "udawalawe",
+      "name": "Udawalawe"
+    },
+    {
+      "slug": "bentota",
+      "name": "Bentota"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcbs005tyh7dv56vsczl",
+      "guestName": "David Chen",
+      "initials": "DC",
+      "country": "SG",
+      "location": "Singapore",
+      "partyLabel": "6 Travelers",
+      "travellerType": "family",
+      "tourType": "Multi-Generational",
+      "tripLabel": "Multi-Generational Family Journey",
+      "tour": {
+        "slug": "ceylon-family-wonder-discovery",
+        "title": "Ceylon Family Wonder & Discovery"
+      },
+      "rating": 5,
+      "title": null,
+      "text": "My elderly parents (76) were treated with utmost dignity, comfort, and care. Dinesh arranged wheelchair access where necessary, and the vehicle was always cool and stocked with chilled Ceylon water.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "direct",
+      "travelDate": "2023-12-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2023-12-25T00:00:00.000Z"
+    },
+    {
+      "id": "cmuv1vcbv005uyh7dfdnd0p9t",
+      "guestName": "David Chen & Family",
+      "initials": "DC",
+      "country": "SG",
+      "location": "Singapore",
+      "partyLabel": "6 Travelers",
+      "travellerType": "family",
+      "tourType": "Family Wonder",
+      "tripLabel": "9-Day Family Wonder Route",
+      "tour": {
+        "slug": "ceylon-family-wonder-discovery",
+        "title": "Ceylon Family Wonder & Discovery"
+      },
+      "rating": 5,
+      "title": "Unrivaled patience with two restless boys, spot-on wildlife sightings",
+      "text": "Traveling with a 6-year-old and 9-year-old through tropical climates can be fraught with exhaustion, but Dinesh designed our daily rhythm flawlessly. His immaculate Mercedes van was a haven of calm, always restocked with fresh seasonal fruits, cold towels, and filtered water. In Minneriya, his relationship with local wildlife trackers led us right to a peaceful gathering of fifty wild elephants bathing in the lake, away from tourist congestion.",
+      "photo": {
+        "id": "cmuv1ndcz003m0i7dp6g8uiqp",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdCpzRVKNFJUFO6iG_6FBCJV2K08pK0jdIvb4DRHsEad1Yp6rK2qFK-MZsIIrFPmgCdUlfpuvkmN3R8ZFxYF7iTY_7evCjV8dT6TGdZ2V85Dgb7ZIVZp2vJe2YSPIUedm8peqi85kqrzChHD7znj7AY0fGdsub6_PaLVNNrtQUesDbWMIQjsq0JEPgYX2vDoF1N8QfUbVz5ZWAaWKe_RjEeeCCz5PRWhqbG9f483K1icFhY4swxfA",
+        "alt": "David Chen and his family on an open-roof safari vehicle",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "tripPhotos": [
+        {
+          "id": "cmuv1ndcz003n0i7difzd399h",
+          "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCAt1r3hZhldZziPWTYSKFDOYW5W-sR5Ob8Kxf43L4DjQ9nQKcAnDvo2a5jeuXl0RZjSCfSOghascHZAYm1CZws5_NcPztVc4XBj3H3GL514V3iUxokbPOIs7VKsG2Eq1-64u_5ISCzoa038OQmsYOHYTMbpyt8pYvCubKHl__Q4porkv0zbZ2LaT8XJr6racQ9yLf6bbDzb-22iLtGBTQAyjqG8ZdKjf3fYOw8lLIYkJ1qEhC5vZ0",
+          "alt": "Elephant mother and calf crossing marshy grassland in Minneriya",
+          "width": null,
+          "height": null,
+          "blurDataUrl": null,
+          "variants": {}
+        }
+      ],
+      "source": "tripadvisor",
+      "travelDate": "2023-12-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2023-12-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 2
+  },
+  "related": [
+    {
+      "id": "cmuv1ndj0008d0i7d4b9av1hp",
+      "slug": "southern-beaches-whale-trails",
+      "title": "Pristine Southern Beaches & Whale Trails",
+      "summary": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and secluded coves near Tangalle.",
+      "cardTag": "Coastal Luxury",
+      "durationDays": 6,
+      "durationNights": 5,
+      "route": [
+        "Galle Fort",
+        "Weligama",
+        "Mirissa",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Stilt Fishermen Encounter",
+        "Cinnamon Island Boat Safari",
+        "Sunset Oceanfront Dining"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001a0i7daohzzy3u",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+        "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Ceylon Family Wonder & Discovery · 10 Nights / 11 Days",
+    "description": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist",
+    "image": {
+      "id": "cmuv1ndcz001f0i7drk09mcyb",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+      "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.164Z"
+}

@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "title": "Sri Lanka Travel Guide: Visas, Best Time, Etiquette & Practical Tips",
+    "description": "A licensed guide’s practical handbook to Sri Lanka: ETA visa rules, the two monsoons and the best time to visit, temple etiquette, packing, getting around, money and tipping, SIM cards, festivals and safety."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Travel Guide & Practicalities"
+  },
+  "hero": {
+    "badge": "Curated & Audited by Dinesh Jayasuriya • National Tourist Guide Lecturer",
+    "updated": "Reviewed for the 2026 / 2027 season",
+    "titleLine1": "The Discerning Traveler’s",
+    "titleLine2": "Guide to Ceylon",
+    "intro": "Practical wisdom, microclimate nuances, sanctuary decorum and sacred customs gathered over years of private highland and coastal journeys across Sri Lanka.",
+    "searchLabel": "Search this travel guide",
+    "searchPlaceholder": "Search practicalities (e.g. ETA visa, temple attire, tipping, Yala monsoon)…",
+    "searchBadge": "Live Index",
+    "searchResults": "{count, plural, =0 {No chapter mentions “{query}” — try another word, or ask me on WhatsApp.} one {# chapter mentions “{query}”. Press Enter to jump to it.} other {# chapters mention “{query}”. Press Enter to jump to the first one.}}",
+    "clearSearch": "Clear search"
+  },
+  "curator": {
+    "verified": "SLTDA licensed guide lecturer",
+    "licence": "Licence #{number}",
+    "years": "Guiding private journeys across Sri Lanka for {years} years."
+  },
+  "nav": {
+    "title": "Table of Practicalities",
+    "count": "{count} Chapters",
+    "label": "Travel guide chapters",
+    "mobileLabel": "Jump to a chapter",
+    "items": {
+      "visa": "1. Visa & ETA Protocols",
+      "bestTime": "2. Best Time & Monsoons",
+      "etiquette": "3. Sacred Temple Etiquette",
+      "packing": "4. Microclimatic Packing",
+      "gettingAround": "5. Getting Around & Roads",
+      "money": "6. Money & Gratuities",
+      "health": "7. Health & Culinary Comfort",
+      "connectivity": "8. e-SIM & Mountain Wi-Fi",
+      "festivals": "9. Festival Calendar",
+      "safety": "10. Safety & Emergencies"
+    },
+    "short": {
+      "visa": "Visa & ETA",
+      "bestTime": "Best time",
+      "etiquette": "Etiquette",
+      "packing": "Packing",
+      "gettingAround": "Getting around",
+      "money": "Money",
+      "health": "Health",
+      "connectivity": "SIM & Wi-Fi",
+      "festivals": "Festivals",
+      "safety": "Safety"
+    }
+  },
+  "advice": {
+    "title": "Puzzled by Itinerary Routing?",
+    "body": "Send me your questions about seasonal routing, mobility access at Sigiriya or train tickets — I answer every message personally.",
+    "cta": "Ask Dinesh on WhatsApp"
+  },
+  "visa": {
+    "eyebrow": "Section 01 • Entry Regulations",
+    "title": "Visa & Electronic Travel Authorization (ETA)",
+    "intro": "Every foreign visitor needs an Electronic Travel Authorization (ETA) before arriving in Sri Lanka. Since 25 May 2026 the 30-day tourist ETA has been free for citizens of 40 countries — including the UK, USA, Canada, Australia, Germany, France, China, India and Japan — but you still have to apply for it. Visas on arrival exist at Bandaranaike International Airport (CMB), yet a long immigration queue is the last thing you want after a long-haul flight, so I strongly advise securing your approval before you fly.",
+    "facts": {
+      "duration": {
+        "label": "Standard Duration",
+        "value": "30 Days, Double Entry",
+        "note": "Longer stays can be extended at the Department of Immigration & Emigration in Colombo."
+      },
+      "passport": {
+        "label": "Passport Rule",
+        "value": "6 Months Minimum",
+        "note": "Validity counted from your arrival date in Sri Lanka, with a blank page for the entry stamp."
+      },
+      "processing": {
+        "label": "Processing Horizon",
+        "value": "Usually 24 – 48 Hours",
+        "note": "Apply 7 to 10 days before departure and keep a copy of your approval."
+      }
+    },
+    "caution": {
+      "title": "Beware of Copycat Visa Websites",
+      "body": "Apply only through the official Department of Immigration & Emigration portal (<hl>eta.gov.lk</hl>). Look-alike sites that appear first in search results add inflated “processing” surcharges to an authorization that is free or low-cost. Forward me your approval email and I will double-check that every detail matches your passport."
+    },
+    "arrivalCard": {
+      "title": "Online Digital Arrival Card",
+      "body": "Fill it in online within 3 days (72 hours) of landing to move faster through the CMB immigration counters.",
+      "cta": "CMB e-Arrival Card"
+    },
+    "disclaimer": "Entry rules change often — always confirm the current requirements on the official portal before you travel."
+  },
+  "bestTime": {
+    "eyebrow": "Section 02 • Ceylon Climate Dynamics",
+    "title": "The Dual-Monsoon Reality: Sunshine 365 Days a Year",
+    "intro": "The most common misconception about Sri Lanka is that a single “monsoon season” drenches the whole island. In reality, Ceylon has two opposite wind-and-rain systems separated by the central mountains. When one coast has showers, the other enjoys glassy seas and clear azure skies — so there is always a right place to be.",
+    "recommendationLabel": "My Recommendation:",
+    "southwest": {
+      "label": "The Southwest Passage",
+      "months": "May to September",
+      "title": "Yala Monsoon",
+      "body": "Moist air from the Indian Ocean brings showers to Galle, Bentota, Colombo and the western slopes of the hill country around Nuwara Eliya.",
+      "recommendation": "Head north-east to the golden beaches of Trincomalee and Pasikudah and the dry-zone Cultural Triangle (Sigiriya, Anuradhapura), where days stay dry, radiant and calm."
+    },
+    "northeast": {
+      "label": "The Northeast Passage",
+      "months": "October to January",
+      "title": "Maha Monsoon",
+      "body": "Rain from the Bay of Bengal replenishes the eastern wetlands and the northern Jaffna peninsula.",
+      "recommendation": "The ideal season for Galle Fort, the Tangalle coastal cliffs, whale watching off Mirissa (December to April) and leopard tracking in Yala National Park."
+    },
+    "chart": {
+      "title": "Islandwide Rainfall Matrix & Sun Patterns",
+      "subtitle": "Monthly rainfall on the south-west coast compared with the east coast and the Cultural Triangle.",
+      "legendSouthWest": "South & West (Galle/Colombo)",
+      "legendEast": "East & Triangle (Trinco/Sigiriya)",
+      "caption": "Indicative relative rainfall based on long-term climate normals for Colombo and Trincomalee — the tallest bar marks each coast’s wettest month.",
+      "tableCaption": "Relative monthly rainfall (percentage of the wettest month) on the south-west and east coasts",
+      "month": "Month",
+      "value": "{value}%"
+    },
+    "matrix": {
+      "title": "Where to Go, Month by Month",
+      "intro": "My region-by-region calendar — peak sun, pleasant and monsoon months at a glance.",
+      "caption": "Best months to visit each region of Sri Lanka"
+    }
+  },
+  "etiquette": {
+    "eyebrow": "Section 03 • Reverence & Sacred Customs",
+    "title": "Cultural Decorum & Sacred Temple Etiquette",
+    "intro": "Sri Lanka has been a Buddhist sanctuary for more than 2,000 years, alongside living Hindu, Muslim and Christian traditions. Whether you are climbing the rock-cut steps of the Dambulla Cave Temple or entering the inner chamber of the Temple of the Sacred Tooth Relic (Sri Dalada Maligawa) in Kandy, a little decorum turns a simple site visit into an authentic cultural encounter.",
+    "attire": {
+      "title": "The White Vestment Tradition",
+      "body": "Modest, lightweight clothing that covers both shoulders and knees is mandatory. Wearing white or pale ivory signals deep respect and lets you blend in naturally with local devotees, especially on poya (full moon) days."
+    },
+    "footwear": {
+      "title": "Footwear & Headwear Deposition",
+      "body": "Shoes, sandals and hats come off before you pass through the temple archway (<em>makara thorana</em>). Caretakers look after your footwear for a small donation (50–100 LKR).",
+      "tip": "My tip: carry a pair of thick cotton socks for crossing sun-baked granite at noon."
+    },
+    "photography": {
+      "title": "Posing & Sacred Photography",
+      "body": "<strong>Never pose with your back turned to a Buddha statue</strong> or take selfies framed against sacred images. In Theravada Buddhist culture this is deeply disrespectful, and photographs like these have led to arrests and deportations."
+    },
+    "tattoos": {
+      "title": "Buddhist Tattoos & Clothing Prints",
+      "body": "Visible tattoos or clothing prints of the Buddha or sacred iconography can lead to refused entry or deportation. If you have such body art, keep it completely covered with linen shirts or breathable leggings throughout the island."
+    },
+    "quote": "“When you place fresh jasmine blossoms at the altar, offer them with both hands. The gesture reflects purity of intention and humility in the presence of timeless heritage.”",
+    "quoteAuthor": "— Dinesh Jayasuriya, National Tourist Guide Lecturer"
+  },
+  "packing": {
+    "eyebrow": "Section 04 • Wardrobe & Field Gear",
+    "title": "What to Pack for Microclimatic Diversity",
+    "intro": "Within a four-hour scenic drive you move from sweltering coastal coconut groves (33°C / 91°F) to the mist-shrouded tea estates of Hatton and Nuwara Eliya, where night-time temperatures can drop to 10°C (50°F). Layering is not a style choice — it is essential comfort.",
+    "coastal": {
+      "badge": "Coastal Zones • 28–34°C",
+      "title": "Coastal & Safari Lowlands",
+      "items": {
+        "one": "Pure linen shirts & wide-leg trousers",
+        "two": "UV-protective sunglasses & a broad-brim hat",
+        "three": "DEET or lemon-eucalyptus insect repellent",
+        "four": "Neutral khaki safari tones (avoid bright red/black)"
+      }
+    },
+    "highlands": {
+      "badge": "Highlands • 10–20°C",
+      "title": "Highland Tea Estates",
+      "items": {
+        "one": "Merino or cashmere knit, or a fleece zip jacket",
+        "two": "Lightweight waterproof rain shell",
+        "three": "Sturdy trail shoes with ankle support",
+        "four": "Leech socks for rainforest & tea-trail walks"
+      }
+    },
+    "triangle": {
+      "badge": "Cultural Triangle • 26–32°C",
+      "title": "Ancient Citadels & Temples",
+      "items": {
+        "one": "Slip-on espadrilles or easy-off loafers",
+        "two": "A white temple sarong or linen wrap",
+        "three": "Extra-thick cotton temple socks",
+        "four": "Refillable insulated water flask"
+      }
+    }
+  },
+  "gettingAround": {
+    "eyebrow": "Section 05 • Island Logistics & Travel Pacing",
+    "title": "Getting Around: Private Chauffeur Etiquette & Road Pacing",
+    "intro": "Sri Lanka looks compact on a map, but its roads are nothing like a Western motorway: mountain passes with eighteen hairpin bends, narrow tea-estate lanes and elephant corridors where the herd always has right of way. Expect to average 30–40 km per hour. As your chauffeur-guide I am not only behind the wheel — I am your cultural interpreter, naturalist spotter and logistical anchor.",
+    "customs": {
+      "title": "Guide Lodging & Meal Customs Explained",
+      "quartersLabel": "Guide Quarters",
+      "quartersBody": "Most hotels and tea-estate villas provide dedicated guide rooms and meals. Where a private villa has none, I arrange my own lodging nearby — it is all settled in your itinerary, so you never have to think about it.",
+      "diningLabel": "Dining Autonomy",
+      "diningBody": "Guests sometimes kindly invite me to their table, and I am always happy to join. Just as often I leave you to an unhurried dinner and enjoy rice and curry with the hotel team — there is no etiquette to worry about either way."
+    },
+    "train": {
+      "title": "The Famous Kandy to Ella Scenic Railway",
+      "body": "Reserved seats on the hill-country line are released about 30 days ahead and sell out within minutes. I reserve observation-saloon or first-class seats for my guests as soon as they open, then drive your luggage ahead and greet you on the platform at the other end with chilled towels."
+    }
+  },
+  "money": {
+    "eyebrow": "Section 06 • Financial Practicalities",
+    "title": "Currency, Card Terminals & Gratuities",
+    "intro": "The currency is the Sri Lankan Rupee (LKR). Visa and Mastercard are widely accepted in boutique hotels and upscale Colombo restaurants, American Express far less so — and roadside tea stalls, temple donations and village markets run on cash. Carry small notes (100s and 500s) for everyday use.",
+    "table": {
+      "caption": "Customary gratuities in Sri Lanka",
+      "role": "Recipient Role",
+      "amount": "Customary Gratuity",
+      "method": "Best Method & Currency",
+      "rows": {
+        "guide": {
+          "role": "Your private chauffeur-guide",
+          "amount": "Entirely at your discretion — never expected",
+          "method": "At the end of your journey"
+        },
+        "safari": {
+          "role": "Jeep safari tracker & driver",
+          "amount": "2,500 – 4,000 LKR per game drive",
+          "method": "Cash at the park exit gate"
+        },
+        "villa": {
+          "role": "Boutique villa butler & staff",
+          "amount": "1,500 – 2,500 LKR per day, shared",
+          "method": "Communal tip box at the end of your stay"
+        },
+        "porter": {
+          "role": "Tea pluckers & trek porters",
+          "amount": "500 – 1,000 LKR per encounter",
+          "method": "Small, discreet cash notes"
+        },
+        "dining": {
+          "role": "Restaurants & cafés",
+          "amount": "10% service charge usually included; +5% for great service",
+          "method": "Added to the bill or loose change"
+        }
+      }
+    },
+    "atm": {
+      "title": "Reliable ATM Networks",
+      "body": "Commercial Bank, Hatton National Bank (HNB), Sampath Bank and Bank of Ceylon ATMs accept international Visa, Mastercard and Cirrus/Plus cards."
+    },
+    "exchange": {
+      "title": "Airport Exchange Desks",
+      "body": "Licensed bank counters in the CMB arrivals hall offer regulated, competitive rates for USD, EUR and GBP. Keep the receipts — you need them to change rupees back when you leave."
+    }
+  },
+  "health": {
+    "eyebrow": "Section 07 • Wellness, Water & Dining",
+    "title": "Health, Wildlife & Culinary Comfort",
+    "intro": "Sri Lanka’s private healthcare is among the best in South Asia, and the WHO certified the island malaria-free in 2016. Dengue is still present, especially after the monsoon rains, so a few sensible precautions with insect repellent, hydration, spice levels and wildlife keep your journey untroubled.",
+    "water": {
+      "title": "Hydration & King Coconuts",
+      "body": "Never drink tap water. Good hotels provide filtered water in glass carafes, and I carry chilled water in the vehicle. On the road, try a freshly cut <em>thambili</em> (king coconut) — nature’s own sterile electrolyte drink."
+    },
+    "spice": {
+      "title": "Mastering the Heat",
+      "body": "Authentic Sri Lankan curry makes unapologetic use of black pepper, roasted chilli and mustard seed. Ask for dishes “less spicy”, and cool your palate with buffalo curd and a trickle of kithul treacle."
+    },
+    "wildlife": {
+      "title": "Primate & Safari Ethics",
+      "body": "Toque macaques at Sigiriya and Polonnaruwa are curious, so keep snacks inside your daypack. On safari, never lean out of the open 4×4 or try to attract leopards with noise."
+    },
+    "hospitals": {
+      "title": "Leading Private Hospitals",
+      "items": {
+        "asiri": {
+          "name": "Asiri Central Hospital",
+          "address": "Norris Canal Rd, Colombo 10",
+          "phone": "+94 11 466 5500"
+        },
+        "lanka": {
+          "name": "Lanka Hospitals",
+          "address": "Elvitigala Mawatha, Colombo 05",
+          "phone": "+94 11 553 0000"
+        },
+        "suwasevana": {
+          "name": "Suwasevana Hospital",
+          "address": "Peradeniya Rd, Kandy",
+          "phone": "+94 81 222 2404"
+        }
+      },
+      "call": "Call {name}"
+    }
+  },
+  "connectivity": {
+    "eyebrow": "Section 08 • Cellular & Remote Highlands",
+    "title": "Connectivity: e-SIM, Wi-Fi & Mountain Signals",
+    "intro": "Mobile coverage is excellent. Fast 4G reaches almost every town, tea valley and national park, and the signal on remote ridges of the Knuckles Range often surprises visitors.",
+    "sim": {
+      "title": "Dialog & SLT-Mobitel SIMs",
+      "body": "Dialog has the strongest coverage across deep tea valleys, national parks and the southern beaches. Tourist SIMs with generous data are sold in the CMB arrivals hall (bring your passport), and eSIM plans can be installed before you fly."
+    },
+    "wifi": {
+      "title": "Heritage Bungalow Wi-Fi",
+      "body": "Colonial-era tea bungalows have thick stone walls, so Wi-Fi is often strongest in the central lounges and verandas rather than in distant garden bedrooms."
+    }
+  },
+  "festivals": {
+    "eyebrow": "Section 09 • Living Traditions",
+    "title": "Month-by-Month Festival & Cultural Calendar",
+    "intro": "Island life follows the lunar calendar and its sacred spectacles. Watching an authentic pageant (<em>perahera</em>) with fire dancers, drummers and ceremonially dressed elephants is an indelible memory.",
+    "note": "Festival dates follow the lunar calendar and move every year — ask me for this year’s dates.",
+    "items": {
+      "duruthu": {
+        "month": "January",
+        "tag": "Full Moon",
+        "title": "Duruthu Perahera",
+        "place": "Kelaniya Raja Maha Vihara, Colombo",
+        "body": "Commemorates the Buddha’s legendary first visit to Sri Lanka with torch-lit night processions, whip-crackers and low-country drummers."
+      },
+      "shivaratri": {
+        "month": "February / March",
+        "tag": "New Moon",
+        "title": "Maha Shivaratri",
+        "place": "Koneswaram & Munneswaram Kovils",
+        "body": "Solemn all-night Shaivite vigils, chanting and milk offerings — most atmospheric at the clifftop Koneswaram temple above the bay of Trincomalee."
+      },
+      "avurudu": {
+        "month": "April 13 – 14",
+        "tag": "National Holiday",
+        "title": "Aluth Avurudda (New Year)",
+        "place": "Island-wide family rituals",
+        "body": "The Sinhala and Tamil New Year follows the sun’s astrological passage. Expect sweet <em>kavum</em> oil cakes, firecrackers and a quiet island as many shops close for a few days."
+      },
+      "vesak": {
+        "month": "May",
+        "tag": "Sacred Poya",
+        "title": "Vesak Festival of Light",
+        "place": "Colombo, Kandy & every village",
+        "body": "Illuminated pandals and paper lanterns (<em>kudu</em>) light the streets, while roadside <em>dansalas</em> hand out free food and drinks to every passer-by — travellers included."
+      },
+      "esala": {
+        "month": "July / August",
+        "tag": "Crown Jewel",
+        "title": "Kandy Esala Perahera",
+        "place": "Temple of the Sacred Tooth Relic",
+        "body": "Ten nights of torch-lit processions with caparisoned elephants, drummers and fire dancers, ending with the sacred water-cutting ceremony."
+      },
+      "sripada": {
+        "month": "December – May",
+        "tag": "Pilgrim Season",
+        "title": "Sri Pada (Adam’s Peak)",
+        "place": "Maskeliya, Central Highlands",
+        "body": "Night-time, lantern-lit ascents of the 2,243 m sacred mountain to see its triangular shadow at sunrise, surrounded by pilgrims’ chanting."
+      }
+    }
+  },
+  "safety": {
+    "eyebrow": "Section 10 • Safety Nets & Emergency Hubs",
+    "title": "Staying Safe: Emergency Hotlines & Tourist Police",
+    "intro": "Sri Lanka is a welcoming, safe country for travellers, and most problems are avoidable with a little local knowledge. These are the precautions I share with every guest — and the numbers worth saving before you land.",
+    "tips": {
+      "sea": {
+        "title": "Respect the Sea",
+        "body": "Rip currents are strong on the south and west coasts during the south-west monsoon (May to September). Swim where lifeguards are on duty or where locals swim, and never after drinking."
+      },
+      "roads": {
+        "title": "Tuk-Tuks & Road Sense",
+        "body": "Use metered tuk-tuks or ride-hailing apps such as PickMe and Uber in Colombo and Kandy, agree the fare before you set off elsewhere, and take care crossing roads — traffic rarely stops for pedestrians."
+      },
+      "scams": {
+        "title": "Friendly Touts & Gem “Bargains”",
+        "body": "Be wary of strangers offering gem deals, a “special festival today” or a shortcut to a temple. A smile and a polite “no, thank you” is always enough."
+      },
+      "wildlife": {
+        "title": "Elephants on the Road",
+        "body": "Never approach wild elephants on foot or feed them from a vehicle. On the Habarana and Udawalawe roads at dusk, stay inside and let me keep a calm, respectful distance."
+      }
+    },
+    "hotlinesTitle": "Numbers to Save",
+    "hotlines": {
+      "ambulance": {
+        "title": "1990 • Suwa Seriya Ambulance",
+        "body": "Free island-wide ambulance service with trained paramedics and GPS dispatch."
+      },
+      "tourism": {
+        "title": "1912 • Tourism Hotline",
+        "body": "English-speaking hotline of the Sri Lanka Tourism Development Authority for complaints, scams and lost belongings — it can connect you with the Tourist Police."
+      },
+      "police": {
+        "title": "119 • Police Emergency",
+        "body": "The national police emergency line, answered around the clock."
+      },
+      "fire": {
+        "title": "110 • Fire & Rescue",
+        "body": "Fire brigade and rescue services across the island."
+      }
+    }
+  },
+  "faq": {
+    "eyebrow": "Immediate Clarity",
+    "title": "Frequently Consulted Practicalities",
+    "items": {
+      "poya": {
+        "question": "Can I buy wine or spirits on full-moon Poya days?",
+        "answer": "No — by law, liquor shops and hotel bars close and alcohol is not sold on Poya (full moon) days, one of which falls every month. Many private villas allow you to enjoy your own duty-free bottles discreetly in your suite."
+      },
+      "sigiriya": {
+        "question": "How early should we start the climb at Sigiriya Rock?",
+        "answer": "I like to be at the gate as soon as it opens in the early morning. Climbing early avoids the midday heat radiating from the granite, gives you cooler breezes on the Lion’s Paw terrace and keeps you ahead of the tour coaches."
+      },
+      "flights": {
+        "question": "Are domestic flights between Colombo and the coast worthwhile?",
+        "answer": "Cinnamon Air runs scheduled and charter flights, some by seaplane landing on lakes and reservoirs. A flight can turn a five-hour mountain drive into a 30-minute hop over the jungle canopy — worthwhile on a short trip, although on longer journeys most guests prefer the scenery of the road."
+      },
+      "plugs": {
+        "question": "Do I need a special plug adapter for my devices?",
+        "answer": "Sri Lanka uses Type D (large round three-pin) and Type G (British square three-pin) sockets at 230 V. Most boutique hotels have universal sockets or lend adapters on request, but bring one universal adapter to be safe."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Unanswered Inquiries?",
+    "title": "Have Specific Queries Unaddressed in This Digest?",
+    "body": "Every itinerary is unique. Message me directly and I will craft an unhurried, private journey calibrated precisely to your interests.",
+    "whatsapp": "WhatsApp Dinesh",
+    "plan": "Plan My Journey"
+  }
+}

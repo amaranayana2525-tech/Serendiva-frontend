@@ -1,0 +1,622 @@
+{
+  "id": "cmuv1ndg9005u0i7dc9xilkr5",
+  "slug": "kandy-knuckles",
+  "name": "Kandy & Knuckles",
+  "tagline": "The Sacred Tooth Temple & UNESCO Cloud Forest",
+  "summary": "Sri Lanka’s last royal kingdom steeped in ritual drum ceremonies, surrounded by the rugged Knuckles range where endemic orchids bloom.",
+  "metaLabel": "Hill Country · UNESCO Biosphere",
+  "badge": null,
+  "bestTimeLabel": "Dec – Apr",
+  "curations": [
+    "Private VIP inner-chamber morning puja at Temple of the Tooth",
+    "Knuckles mountain cloud-forest trek with botanist",
+    "Royal Peradeniya Botanical Walk exploring historic spice trees"
+  ],
+  "region": {
+    "slug": "hill-country",
+    "name": "Central Hill Country",
+    "icon": "landscape",
+    "description": "Ella Tea Terraces, Nuwara Eliya Peaks & Knuckles Cloud Ridge",
+    "places": "Ella, Nuwara Eliya, Hatton, Knuckles, Kandy",
+    "bestMonths": [
+      "good",
+      "peak",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "peak",
+      "peak",
+      "good",
+      "rain",
+      "rain",
+      "good"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz001m0i7dfsj0dsuz",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBbhRcxIkpCqtAnkSc0RI6nybBgrOdKEjEGJbYgRpT-a0EHrfwDA6erwAUgv-RXTMUXzciRz-p9jUvfui_vEwFTnb0zHC6gVwihv7T1wjaVKvwxoJeweCiRCyjnVXr6bKE0klCqvAwgGF263RscNJweVCyfQkC69lB3Nanio37wASMlPSs6jS5-fvXZYYgVTTrS9bNw3eqA5-PBr1Bx2Q44Lm2hWbLj_6H4i6-BA_ZvWbcCvPqjRXU",
+    "alt": "Temple of the Tooth beside Kandy Lake with misty hills behind",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 7.2906,
+  "longitude": 80.6337,
+  "elevation": 500,
+  "headline": "Kandy & Knuckles: The Sacred Tooth Temple & a UNESCO Cloud Forest",
+  "description": "Kandy was the last capital of the Sinhalese kings and still guards the island’s most sacred relic in the Temple of the Tooth. Drums and conch shells announce the evening puja, and every July or August the Esala Perahera fills the streets with torch-bearers and caparisoned elephants.\n\nAn hour north, the Knuckles range rises into cloud forest — a UNESCO-listed wilderness of ridge trails, remote villages and endemic orchids that I explore with a local botanist.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Dec – Apr",
+      "note": "Plus July – August for the Esala Perahera pageant"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 Nights",
+      "note": "An evening puja, Peradeniya and a Knuckles trail day"
+    },
+    {
+      "icon": "thermostat",
+      "label": "Elevation & Temperatures",
+      "value": "500 m • 20°C – 29°C",
+      "note": "Cooler on the Knuckles ridges (12°C – 20°C)"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "3 hrs from Colombo",
+      "note": "Or 2.5 hrs from Sigiriya via Matale"
+    }
+  ],
+  "guideNote": {
+    "heading": "Kandy at the Hour the Drums Begin",
+    "paragraphs": [
+      "I bring guests to the Temple of the Tooth for the evening puja, when the drummers fill the octagon with sound and devotees carry lotus flowers up the stairs. Dressed in white, with offerings prepared, you are a respectful participant rather than a spectator."
+    ],
+    "perks": [
+      {
+        "icon": "temple_buddhist",
+        "label": "Inner Sanctum Escort"
+      },
+      {
+        "icon": "hiking",
+        "label": "Knuckles Trail Permits"
+      },
+      {
+        "icon": "local_florist",
+        "label": "Botanist-Led Walks"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Sacred Ritual",
+      "meta": "Gentle • 1.5 Hours • Evening Puja",
+      "title": "Evening Puja at the Temple of the Sacred Tooth Relic",
+      "text": "Pre-arranged seating for the drum-and-horn ceremony, an escort through the inner sanctum and the stories behind the relic that legitimised Sri Lanka’s kings.",
+      "tagIcon": "temple_buddhist",
+      "tagLabel": "White Wraps Provided",
+      "image": {
+        "id": "cmuv1ndcz00320i7dt2g6m1ke",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAHp_KZGQtMK7Ujkclvo4uaHJCr2habxbeJsr9RQZFOooMD1wGfqnaTobKJDAafU_l3mx8ozta06qgSeO-u1cclZG9jeWHEPQI58_N675p5UWJfiJ4lWLjWYNgbakLlQRFCIe5e516WhW5Pf4KO-HXdcBej11MjHeqUlATxpomJapvBbRI18_MaJY5Trd8UCbzcqzvLfXqR_8UxvgFAukE7gB9-aG1CdRRp4DRxB-Xe7eEhXBsqeS0",
+        "alt": "Coconut oil lamps glowing in the Temple of the Sacred Tooth Relic, Kandy",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • Cloud Forest",
+      "meta": "Moderate • 5 Hours • 07:00 Start",
+      "title": "Knuckles Range Cloud-Forest Trek with a Botanist",
+      "text": "Ridge paths through montane forest and grassland, endemic lizards and orchids, and a home-cooked lunch in a village that was only reached by footpath until recently.",
+      "tagIcon": "hiking",
+      "tagLabel": "Permits Pre-Arranged",
+      "image": {
+        "id": "cmuv1ndcm000p0i7d4b2tf1dj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKe0LDmAHKxYMoGGCA1IDq6NPx6mfZuEHoCit5ij_EriAbMszQBTuyQ-bEv1X5K5egBhd52r6Q-ojVmcEFLLUvNPm6hWljtQI7lZ5sNED4QMVW3DWuAjmBTEsPkGV44JrpyZQ4j-HNvzr2tw5s1ft_coT8TD8Hr4HqLapVA-OOSLl7UeGSdblsIHDInIRAkIvSJceGd48Q0JbdCfJ0c18L2vekDiwP9kEvdwRIcK-TB3I4tdKlgRc",
+        "alt": "Cloud forest summit and hiking trail in the Knuckles Range",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Botanical Heritage",
+      "meta": "Leisurely • 2 Hours • Morning",
+      "title": "Royal Botanic Gardens, Peradeniya",
+      "text": "Giant Java fig trees, the royal palm avenue, a spice garden and an orchid house — 60 hectares laid out on a former royal pleasure garden beside the Mahaweli river.",
+      "tagIcon": "park",
+      "tagLabel": "Historic Spice Avenue",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "checkroom",
+      "title": "Temple Dress Code",
+      "text": "White or light clothing, shoulders and knees covered, shoes left at the entrance. I bring clean wraps for everyone."
+    },
+    {
+      "icon": "celebration",
+      "title": "Perahera Season",
+      "text": "During the Esala Perahera (July or August) hotels fill a year ahead. Tell me early if you would like to see the procession."
+    },
+    {
+      "icon": "directions_walk",
+      "title": "Lake Walk at Dusk",
+      "text": "The 3 km path around Kandy Lake is lovely after the evening puja, when the temple lights reflect on the water."
+    }
+  ],
+  "interests": [
+    "Temple of the Tooth",
+    "Knuckles Trekking",
+    "Botanical Gardens",
+    "Kandyan Dance",
+    "Esala Perahera"
+  ],
+  "mapPoints": [
+    {
+      "name": "Temple of the Sacred Tooth Relic",
+      "lat": 7.2936,
+      "lng": 80.6413
+    },
+    {
+      "name": "Kandy Lake",
+      "lat": 7.2925,
+      "lng": 80.6448
+    },
+    {
+      "name": "Royal Botanic Gardens, Peradeniya",
+      "lat": 7.269,
+      "lng": 80.5965
+    },
+    {
+      "name": "Knuckles Conservation Forest (Riverston)",
+      "lat": 7.528,
+      "lng": 80.735
+    },
+    {
+      "name": "Meemure Village",
+      "lat": 7.4283,
+      "lng": 80.8411
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001r0i7d54vnmjtg",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDeztnKNkgUzA3CgP01fAyZmLZ_lbJ_jJHuFpMXYzzNNgCWJuqWOurLWEME8hr6pBqt6WRoSCYDruRW4iv0k9RZ1Uhd_BYKV6c-EPY18iLA7IDKLkniZl1dXenYg21ojUFnYJLEfTkaUZ5FrMoYmzg8FnzZpIq6RtfD11kXiAZVjo0pnyjCiB_MHWFvpNwB6P8YBEjNkGFBaC5RpNzX0i2eQHm3auIBjzsg-HAdoTn7uRYALDuhxps",
+        "alt": "Temple of the Tooth reflected in Kandy Lake at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Kandy Lake",
+      "caption": "The golden roof at twilight"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00320i7dt2g6m1ke",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAHp_KZGQtMK7Ujkclvo4uaHJCr2habxbeJsr9RQZFOooMD1wGfqnaTobKJDAafU_l3mx8ozta06qgSeO-u1cclZG9jeWHEPQI58_N675p5UWJfiJ4lWLjWYNgbakLlQRFCIe5e516WhW5Pf4KO-HXdcBej11MjHeqUlATxpomJapvBbRI18_MaJY5Trd8UCbzcqzvLfXqR_8UxvgFAukE7gB9-aG1CdRRp4DRxB-Xe7eEhXBsqeS0",
+        "alt": "Coconut oil lamps glowing in the Temple of the Sacred Tooth Relic, Kandy",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Evening Thevava",
+      "caption": "Lamps in the temple corridors"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcm000p0i7d4b2tf1dj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKe0LDmAHKxYMoGGCA1IDq6NPx6mfZuEHoCit5ij_EriAbMszQBTuyQ-bEv1X5K5egBhd52r6Q-ojVmcEFLLUvNPm6hWljtQI7lZ5sNED4QMVW3DWuAjmBTEsPkGV44JrpyZQ4j-HNvzr2tw5s1ft_coT8TD8Hr4HqLapVA-OOSLl7UeGSdblsIHDInIRAkIvSJceGd48Q0JbdCfJ0c18L2vekDiwP9kEvdwRIcK-TB3I4tdKlgRc",
+        "alt": "Cloud forest summit and hiking trail in the Knuckles Range",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Knuckles Range",
+      "caption": "Cloud forest ridges"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndjf008o0i7db1hnl0as",
+      "slug": "bespoke-ceylon-honeymoon",
+      "title": "Bespoke Ceylon Honeymoon & Seclusion",
+      "summary": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of Ella and a hidden cove near Tangalle.",
+      "cardTag": "Secluded Villas",
+      "durationDays": 10,
+      "durationNights": 9,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Candlelit Sigiriya Dinner",
+        "Couples Ayurvedic Rituals",
+        "Luxury Coastal Hideaways"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001b0i7dg3fo08h9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+        "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde100510i7da02jrzls",
+          "slug": "honeymoon",
+          "name": "Bespoke Honeymoons",
+          "shortName": "Bespoke Honeymoon"
+        },
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "couple"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndjw00930i7d88kh9t7v",
+      "slug": "highland-trekking-cloud-forest-peaks",
+      "title": "Highland Trekking & Cloud Forest Peaks",
+      "summary": "Designed for avid hikers seeking panoramic summits, hidden waterfalls, and crisp high-altitude wilderness — the Knuckles cloud forest, the pilgrim ascent of Adam’s Peak, World’s End at dawn and three nights of ridge trails around Ella.",
+      "cardTag": "Mountain Escort",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Knuckles Range",
+        "Adam's Peak",
+        "Horton Plains",
+        "Ella"
+      ],
+      "highlights": [
+        "Knuckles Range Trekking Permits",
+        "World's End Escorted Sunrise Walk",
+        "Waterfall Plunge Pools"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001d0i7dhfj0hyri",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI",
+        "alt": "Morning view from the ridge of Little Adam's Peak over the Ella Gap",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde000500i7d6h3e1ovd",
+          "slug": "trekking-adventure",
+          "name": "Highland Trekking & Peaks",
+          "shortName": "Trekking & Adventure"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndk9009g0i7dxtwfa133",
+      "slug": "sacred-ramayana-heritage-trail",
+      "title": "Sacred Ramayana Heritage Trail",
+      "summary": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and the caves and falls of Ravana Ella — with a private Vedic scholar.",
+      "cardTag": "Vedic Heritage",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Chilaw",
+        "Kandy",
+        "Nuwara Eliya",
+        "Ravana Ella",
+        "Rumassala"
+      ],
+      "highlights": [
+        "Munneswaram & Manavari Temples",
+        "Ashok Vatika Botanical Visit",
+        "Private Vedic Scholar Host"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001e0i7df7ew6mt6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+        "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde700540i7deus2t3mf",
+          "slug": "ramayana-trail",
+          "name": "Sacred Ramayana Heritage",
+          "shortName": "Ramayana Trail"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "couple",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    },
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Kandy & Knuckles: The Sacred Tooth Temple & UNESCO Cloud Forest",
+    "description": "Sri Lanka’s last royal kingdom steeped in ritual drum ceremonies, surrounded by the rugged Knuckles range where endemic orchids bloom.",
+    "image": {
+      "id": "cmuv1ndcz001m0i7dfsj0dsuz",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBbhRcxIkpCqtAnkSc0RI6nybBgrOdKEjEGJbYgRpT-a0EHrfwDA6erwAUgv-RXTMUXzciRz-p9jUvfui_vEwFTnb0zHC6gVwihv7T1wjaVKvwxoJeweCiRCyjnVXr6bKE0klCqvAwgGF263RscNJweVCyfQkC69lB3Nanio37wASMlPSs6jS5-fvXZYYgVTTrS9bNw3eqA5-PBr1Bx2Q44Lm2hWbLj_6H4i6-BA_ZvWbcCvPqjRXU",
+      "alt": "Temple of the Tooth beside Kandy Lake with misty hills behind",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.937Z"
+}

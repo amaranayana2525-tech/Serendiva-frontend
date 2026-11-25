@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "confirm": {
+      "title": "Anmeldung bestätigen",
+      "description": "Bestätigen Sie Ihre Anmeldung für das Private Dispatch Journal — saisonale Hinweise Ihres Sri-Lanka-Guides."
+    },
+    "unsubscribe": {
+      "title": "Abmelden",
+      "description": "Vom Private Dispatch Journal abmelden."
+    }
+  },
+  "eyebrow": "Private Dispatch Journal",
+  "confirm": {
+    "loading": {
+      "title": "Ihre Anmeldung wird bestätigt…",
+      "body": "Einen Moment, ich prüfe Ihren Link."
+    },
+    "confirmed": {
+      "title": "Willkommen beim Private Dispatch Journal",
+      "body": "Ihre Anmeldung ist bestätigt. Einige Male im Jahr sende ich Ihnen saisonale Hinweise zu Tierwanderungen, Festen und neuen Routen — ohne Spam und jederzeit mit einem Klick abbestellbar."
+    },
+    "already": {
+      "title": "Sie sind bereits angemeldet",
+      "body": "Dieser Link wurde bereits bestätigt — Ihr Abonnement ist aktiv."
+    },
+    "invalid": {
+      "title": "Dieser Link ist ungültig oder abgelaufen",
+      "body": "Bestätigungslinks gelten jeweils für die neueste Anmeldung. Tragen Sie unten Ihre E-Mail ein, um einen neuen Link zu erhalten."
+    }
+  },
+  "unsubscribe": {
+    "loading": {
+      "title": "Abmeldung läuft…",
+      "body": "Einen Moment, ich aktualisiere Ihre Einstellungen."
+    },
+    "unsubscribed": {
+      "title": "Sie wurden abgemeldet",
+      "body": "Ich habe Ihre Adresse aus dem Verteiler entfernt — Sie erhalten keine weiteren Newsletter. Falls gewünscht, können Sie sich unten jederzeit wieder anmelden."
+    },
+    "invalid": {
+      "title": "Dieser Abmeldelink ist ungültig",
+      "body": "Der Link scheint unvollständig zu sein — öffnen Sie ihn bitte erneut aus Ihrer E-Mail oder schreiben Sie mir direkt."
+    }
+  },
+  "errors": {
+    "network": {
+      "title": "Server nicht erreichbar",
+      "body": "Bitte prüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+    },
+    "rateLimited": {
+      "title": "Zu viele Versuche",
+      "body": "Bitte warten Sie eine Minute und versuchen Sie es dann erneut."
+    },
+    "server": {
+      "title": "Etwas ist schiefgelaufen",
+      "body": "Bitte versuchen Sie es gleich erneut oder schreiben Sie mir kurz per WhatsApp."
+    }
+  },
+  "actions": {
+    "home": "Zur Startseite",
+    "plan": "Reise planen",
+    "tours": "Reisen entdecken",
+    "retry": "Erneut versuchen",
+    "resubscribe": "Erneut anmelden",
+    "emailMe": "E-Mail senden"
+  }
+}

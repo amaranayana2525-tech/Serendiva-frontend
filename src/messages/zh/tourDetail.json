@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "titleFallback": "{title} · 斯里兰卡私人定制"
+  },
+  "breadcrumb": {
+    "tours": "精选路线"
+  },
+  "header": {
+    "kicker": "招牌路线",
+    "badgesLabel": "行程亮点标签",
+    "duration": "行程时长"
+  },
+  "gallery": {
+    "label": "行程摄影集",
+    "viewAll": "查看全部 {count, plural, one {# 张照片} other {# 张照片}}",
+    "open": "打开第 {number} 张图片（共 {total} 张）：{title}"
+  },
+  "blueprint": {
+    "title": "路线概览",
+    "label": "沿途站点顺序"
+  },
+  "subnav": {
+    "label": "本页导航",
+    "overview": "行程概览",
+    "itinerary": "逐日行程",
+    "inclusions": "包含项目",
+    "route": "线路与地形",
+    "faq": "常见问题",
+    "reviews": "客人评价"
+  },
+  "overview": {
+    "kicker": "路线理念",
+    "curatedBy": "策划人：{name}",
+    "guideMeta": "{title} · {years} 年锡兰专业带队经验",
+    "featuresLabel": "核心特色",
+    "quote": "“{text}”"
+  },
+  "itinerary": {
+    "eyebrow": "每日细览",
+    "title": "逐日行程安排",
+    "expandAll": "展开全部 {count} 天",
+    "collapseAll": "全部收起",
+    "day": "第 {number} 天",
+    "highlight": "重点日",
+    "meals": "餐食：{meals}",
+    "detailLabel": "{label}："
+  },
+  "inclusions": {
+    "eyebrow": "清晰透明",
+    "title": "服务包含与不含说明",
+    "included": "已包含",
+    "notIncluded": "不含项目"
+  },
+  "route": {
+    "eyebrow": "地理轨迹",
+    "title": "路线走向与海拔变化",
+    "totalCircuit": "参考总里程",
+    "mapLabel": "「{tour}」路线地图",
+    "mapHint": "交互式地图 — 数字标记按游览顺序排列。",
+    "stopsTitle": "站点顺序列表",
+    "stopDay": "第 {day} 天",
+    "stopNumber": "第 {number} 站",
+    "loading": "正在加载路线地图…",
+    "showStops": "显示全部 {count} 个站点",
+    "hideStops": "隐藏站点列表"
+  },
+  "faq": {
+    "eyebrow": "出行建议",
+    "title": "常见问题解答"
+  },
+  "reviews": {
+    "eyebrow": "真实客人见证",
+    "title": "走过此路线的客人感言",
+    "count": "（{count, plural, one {# 位认证私人旅客} other {# 位认证私人旅客}}）",
+    "average": "平均评分 {rating} / 5"
+  },
+  "related": {
+    "eyebrow": "更多探索灵感",
+    "title": "您可能还感兴趣的路线",
+    "exploreAll": "浏览全部路线方案",
+    "exploreAllCount": "浏览全部 {count} 条精选路线"
+  },
+  "inquiry": {
+    "selectedJourney": "已选参考路线",
+    "monthPlaceholder": "选择出行月份",
+    "flexible": "时间灵活",
+    "flexibleWindow": "日期灵活",
+    "guests": {
+      "couple": "2 位成人",
+      "solo": "1 位独行",
+      "family": "3–4 位家庭",
+      "group": "5+ 位私人团队"
+    },
+    "successTitle": "感谢您 — 关于「{tour}」的咨询我已收到。",
+    "availabilityTitle": "我的近期档期"
+  }
+}

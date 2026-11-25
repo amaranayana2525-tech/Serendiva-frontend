@@ -1,0 +1,18 @@
+{
+  "average": 5,
+  "count": 20,
+  "byTravellerType": {
+    "couple": 9,
+    "family": 5,
+    "group": 1,
+    "solo": 4,
+    "corporate": 1
+  },
+  "byRating": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 20
+  }
+}

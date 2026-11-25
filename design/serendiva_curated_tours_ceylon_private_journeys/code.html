@@ -1,0 +1,757 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta content="width=device-width, initial-scale=1.0" name="viewport"><meta content="web_standard" name="shell-type"><link href="https://fonts.googleapis.com" rel="preconnect"><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&amp;display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "surface-container": "#f3ede2", "on-tertiary-container": "#98bf89", "outline": "#70787c", "tertiary-container": "#2c4e23", "surface-container-high": "#ede8dd", "on-secondary": "#ffffff", "on-primary": "#ffffff", "on-primary-fixed": "#001f28", "tertiary": "#16370f", "on-tertiary-fixed-variant": "#2d4f24", "on-background": "#1d1c15", "tertiary-fixed-dim": "#aad19a", "on-surface-variant": "#40484b", "inverse-on-surface": "#f6f0e5", "on-primary-container": "#87bbce", "on-secondary-fixed": "#370e00", "on-error": "#ffffff", "inverse-surface": "#333029", "surface-variant": "#e8e2d7", "secondary": "#9c441e", "primary-fixed-dim": "#9acee1", "surface": "#fff9ee", "surface-container-highest": "#e8e2d7", "surface-dim": "#dfd9cf", "on-surface": "#1d1c15", "background": "#fff9ee", "primary-container": "#0f4c5c", "on-tertiary-fixed": "#022100", "error-container": "#ffdad6", "secondary-fixed": "#ffdbce", "primary-fixed": "#b6ebfe", "inverse-primary": "#9acee1", "on-tertiary": "#ffffff", "surface-container-low": "#f9f3e8", "error": "#ba1a1a", "surface-container-lowest": "#ffffff", "on-error-container": "#93000a", "on-secondary-fixed-variant": "#7d2d08", "surface-bright": "#fff9ee", "secondary-fixed-dim": "#ffb59a", "on-primary-fixed-variant": "#114d5d", "secondary-container": "#ff9064", "on-secondary-container": "#752803", "primary": "#003441", "surface-tint": "#306576", "tertiary-fixed": "#c5eeb4", "outline-variant": "#c0c8cb" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "margin-md": "3rem", "gutter-lg": "2.5rem", "space-3xl": "6rem", "space-lg": "1.5rem", "margin": "1.5rem", "gutter": "1.5rem", "space-xl": "2.5rem", "margin-lg": "5rem", "space-2xl": "4rem", "space-md": "1rem", "space-sm": "0.5rem", "space-xs": "0.25rem" }, "fontFamily": { "label-md": ["Inter"], "headline-sm": ["Playfair Display"], "label-lg": ["Inter"], "headline-xl": ["Playfair Display"], "headline-md": ["Playfair Display"], "display-lg-mobile": ["Playfair Display"], "body-md": ["Inter"], "body-lg": ["Inter"], "display-lg": ["Playfair Display"], "caption": ["Inter"], "body-xl": ["Inter"], "headline-xl-mobile": ["Playfair Display"], "headline-lg-mobile": ["Playfair Display"], "headline-lg": ["Playfair Display"] }, "fontSize": { "label-md": ["11px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" }], "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }], "label-lg": ["13px", { "lineHeight": "18px", "letterSpacing": "0.08em", "fontWeight": "600" }], "headline-xl": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "display-lg-mobile": ["38px", { "lineHeight": "46px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "body-md": ["14px", { "lineHeight": "22px", "fontWeight": "400" }], "body-lg": ["16px", { "lineHeight": "26px", "fontWeight": "400" }], "display-lg": ["56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "600" }], "caption": ["12px", { "lineHeight": "16px", "fontWeight": "400" }], "body-xl": ["18px", { "lineHeight": "30px", "letterSpacing": "-0.005em", "fontWeight": "300" }], "headline-xl-mobile": ["30px", { "lineHeight": "38px", "letterSpacing": "0", "fontWeight": "600" }], "headline-lg-mobile": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "headline-lg": ["32px", { "lineHeight": "40px", "fontWeight": "500" }] } } } };</script></head><body class="bg-surface font-body-lg text-on-surface antialiased relative min-h-screen"><header class="fixed top-0 left-0 right-0 w-full z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)] transition-all duration-300"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg h-20 flex items-center justify-between gap-gutter"><a class="flex items-center gap-space-md shrink-0" data-path="home" href="#"><img alt="Serendiva Elite Travels Emblem" class="h-12 w-12 rounded-full object-contain shadow-sm" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAMU4oIG1rUA1oLoOHcI1iCxvtdYsVwWC6TNVF8fYH-qAUuinMaXgvgU6dGRS95RFw0CXyahZCAJA2jwOAlVol_eDfXqG2X3h3yVPOaMQEmlKzZvbVpaW2S5IKW-bD124cjt0JO69dL9Gfd8AkJGwywNRkrn53-4mxnZjJ_QIIDrd3V_BqoYC9YD5q7qrTA3EM9kAr1EOFaMbl3szh8OBtey4xFlqKWvsDcZYClTpgp2qW0JxVlmAeFIHjLSyqh3JGe"><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span><span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-widest hidden sm:inline-block">Ceylon Private Journeys</span></div></a><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-primary font-semibold"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="home" href="#">Home</a><a aria-current="page" class="transition-colors text-primary font-semibold" data-path="tours" href="#">Tours</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Destinations</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">About</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Gallery</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center bg-surface-container rounded-full p-space-xs"><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md bg-surface text-primary shadow-[0_1px_4px_rgba(0,0,0,0.06)] font-semibold" type="button">EN</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">中文</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">DE</button></div><a class="inline-flex items-center justify-center bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-lg py-space-sm rounded-lg font-label-lg text-label-lg transition-all shadow-[0_4px_16px_rgba(156,68,30,0.2)] hover:shadow-none" data-path="plan-my-trip" href="#">Plan My Trip</a></div></div></header><div class="fixed right-0 top-1/2 -translate-y-1/2 z-40 hidden md:block"><a aria-label="Open Bespoke Inquiry Form" class="bg-primary text-on-primary px-space-md py-space-sm rounded-l-lg font-label-lg text-label-lg tracking-widest uppercase flex items-center gap-space-xs shadow-[0_8px_24px_rgba(0,52,65,0.25)] hover:bg-primary-container transition-all [writing-mode:vertical-rl] rotate-180" data-path="bespoke-inquiry" href="#"><span class="material-symbols-outlined text-sm rotate-90">edit_calendar</span><span class="">Inquire</span></a></div><div class="fixed bottom-space-lg right-space-lg z-40 flex items-center"><a aria-label="Direct WhatsApp Expedition Concierge" class="w-14 h-14 rounded-full bg-tertiary-container hover:bg-tertiary text-on-tertiary flex items-center justify-center shadow-[0_8px_24px_rgba(44,78,35,0.35)] transition-all transform hover:scale-105" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-2xl">chat</span></a></div><main class="w-full pt-20 bg-surface min-h-[calc(100vh-80px)]"><div class="flex flex-col w-full">
+<!-- HERO SECTION WITH ASYMMETRIC OVERLAP -->
+<section class="relative w-full overflow-hidden bg-surface pb-space-2xl">
+<div class="relative w-full h-[520px] lg:h-[620px]">
+<div class="bg-cover bg-center w-full h-full relative" data-alt="Cinematic wide panoramic view of the vintage vibrant blue Ceylon train crossing the monumental brick Nine Arches Bridge in Ella Sri Lanka, enveloped in lush rolling green tea hills and morning tropical mist with golden dawn sunlight reflecting on eucalyptus trees, serene high-end travel monograph photography style." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuB7oAlP0S_t79jeNn2AnH6pvLchb14ch_uYwr6St-GJWqPHYQyDBPuz4thjZ1anCxAu9uxR7Xo50I78DARyxEikxz6pxgiR9QIzGTiJqRaxXyJoArC0EOA35TpmpnvFHGM0FbI8K2D0akjcYrhcl5QhD_1xm3dqq0Q96mbFicQykd_LUM-2Fm4w-f4C5eBwgPvnzAKCxxL3nBam9h9LmYnI8RF6Fv_Qo9IMsFHNiVZ8ay_XPc9c6nQ')">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/40 to-transparent"></div>
+<div class="absolute inset-0 bg-primary/20 mix-blend-multiply"></div>
+</div>
+<!-- Hero Content Floated -->
+<div class="absolute inset-0 flex flex-col justify-end">
+<div class="max-w-[1440px] w-full mx-auto px-margin md:px-margin-md lg:px-margin-lg pb-space-xl">
+<!-- Breadcrumb -->
+<nav aria-label="Breadcrumb" class="flex items-center gap-space-xs text-surface-container-low mb-space-md">
+<a class="font-label-md text-label-md uppercase tracking-widest text-surface/80 hover:text-surface transition-colors" href="#">Home</a>
+<span class="material-symbols-outlined text-xs text-surface/60">chevron_right</span>
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary-fixed">Curated Tours</span>
+</nav>
+<div class="max-w-3xl">
+<span class="inline-block font-label-md text-label-md tracking-[0.2em] text-secondary-fixed uppercase bg-primary-container/80 backdrop-blur-md px-space-md py-1 rounded-full mb-space-sm">
+              Authentic Ceylon Curations
+            </span>
+<h1 class="font-display-lg text-display-lg text-on-primary drop-shadow-sm leading-tight">
+              Tours Designed Around You
+            </h1>
+<p class="font-body-xl text-body-xl text-surface-container-low mt-space-sm max-w-2xl font-light">
+              Hand-crafted private itineraries tailored to your pace, passions, and curiosities by an accredited National Guide Lecturer.
+            </p>
+</div>
+</div>
+</div>
+</div>
+<!-- Quick Stats Floating Banner -->
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg -mt-10 relative z-20">
+<div class="bg-surface-container-lowest rounded-xl shadow-xl p-space-lg grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<div class="flex items-center gap-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-primary text-2xl" style="font-variation-settings: 'FILL' 1;">verified_user</span>
+</div>
+<div>
+<h2 class="font-headline-sm text-headline-sm text-primary">100% Private Expeditions</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Sole carriage, private stops, completely unshared.</p>
+</div>
+</div>
+<div class="flex items-center gap-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-secondary text-2xl" style="font-variation-settings: 'FILL' 1;">directions_car</span>
+</div>
+<div>
+<h2 class="font-headline-sm text-headline-sm text-primary">Chauffeur &amp; Guide Included</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Accredited SLTDA National Lecturer &amp; luxury van.</p>
+</div>
+</div>
+<div class="flex items-center gap-space-md">
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center shrink-0">
+<span class="material-symbols-outlined text-tertiary text-2xl" style="font-variation-settings: 'FILL' 1;">schedule</span>
+</div>
+<div>
+<h2 class="font-headline-sm text-headline-sm text-primary">Flexible Daily Pacing</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Linger at morning temples, rest through afternoon heat.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- STICKY FILTER BAR & SEARCH -->
+<section class="sticky top-20 z-30 bg-surface/95 backdrop-blur-md shadow-sm py-space-md">
+<div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg flex flex-col gap-space-md">
+<!-- Upper Search Row -->
+<div class="flex flex-col lg:flex-row items-center justify-between gap-gutter">
+<div class="relative w-full lg:w-96">
+<span class="material-symbols-outlined absolute left-space-md top-1/2 -translate-y-1/2 text-outline text-xl">search</span>
+<input class="w-full bg-surface-container-lowest pl-11 pr-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface placeholder:text-outline focus:outline-none shadow-sm" id="tourSearchInput" placeholder="Search by destination, interest, or temple..." type="text">
+</div>
+<div class="flex items-center justify-between lg:justify-end gap-space-lg w-full lg:w-auto">
+<div class="flex items-center gap-space-sm">
+<span class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">Duration:</span>
+<select class="bg-surface-container-lowest px-space-md py-space-sm rounded-xl font-body-md text-body-md text-on-surface focus:outline-none shadow-sm cursor-pointer" id="durationFilter">
+<option value="all">All Durations</option>
+<option value="1-3">1–3 Days</option>
+<option value="4-7">4–7 Days</option>
+<option value="8-11">8–11 Days</option>
+<option value="12+">12+ Days</option>
+</select>
+</div>
+<div class="flex items-center gap-space-xs text-primary bg-primary/5 px-space-md py-space-xs rounded-full">
+<span class="material-symbols-outlined text-sm">travel_explore</span>
+<span class="font-label-md text-label-md font-semibold whitespace-nowrap" id="resultsCounter">Showing 9 Curated Private Expeditions</span>
+</div>
+</div>
+</div>
+<!-- Filter Chips Carousel/Wrap -->
+<div class="flex items-center gap-space-xs overflow-x-auto no-scrollbar pb-1 pt-0.5">
+<button class="filter-chip active-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-primary text-on-primary shadow-sm" data-category="all">
+          All Tours
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="cultural">
+          Cultural &amp; Heritage
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="wildlife">
+          Wildlife &amp; Safari
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="beach">
+          Pristine Beach
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="hillcountry">
+          Hill Country
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="adventure">
+          Trekking &amp; Adventure
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="honeymoon">
+          Bespoke Honeymoon
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="family">
+          Family Expeditions
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="wellness">
+          Ayurveda &amp; Wellness
+        </button>
+<button class="filter-chip px-space-md py-1.5 rounded-full font-label-md text-label-md uppercase tracking-wider transition-all whitespace-nowrap bg-surface-container text-on-surface-variant hover:bg-surface-container-high" data-category="ramayana">
+          Ramayana Trail
+        </button>
+</div>
+</div>
+</section>
+<!-- TOURS GRID (9 BESPOKE JOURNEYS) -->
+<section class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg py-space-2xl">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-gutter-lg" id="toursGrid">
+<!-- CARD 1 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="cultural" data-duration="8-11">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="The ancient monolith Sigiriya Lion Rock Fortress rising dramatically above misty Sri Lankan jungle canopy during early golden hour with warm peach and teal skies, editorial Sri Lanka landscape photography." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<!-- Badges -->
+<div class="absolute top-space-md left-space-md flex items-center gap-space-xs">
+<span class="bg-surface/90 backdrop-blur-md text-primary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Cultural &amp; Heritage
+            </span>
+</div>
+<div class="absolute top-space-md right-space-md">
+<span class="bg-secondary text-on-secondary font-label-md text-label-md uppercase tracking-wider px-space-sm py-1 rounded-full shadow-md font-bold">
+              ★ Most Popular
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 8 Nights / 9 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-primary-container/80 px-2 py-0.5 rounded text-surface">
+              Chauffeur Guide
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              The Cultural Odyssey
+            </h3>
+<!-- Route -->
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Colombo → Sigiriya → Polonnaruwa → Kandy → Galle</span>
+</div>
+<!-- Highlights -->
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Sigiriya Private Dawn Climb
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Sacred Tooth Relic VIP Entry
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Bespoke Village Cooking Feast
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 2 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="wildlife" data-duration="4-7">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="An exclusive open-top safari 4x4 vehicle in Yala National Park Sri Lanka, looking towards a solitary Sri Lankan leopard reposing on an ancient granite boulder surrounded by dry-zone scrub forest in soft afternoon golden lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-tertiary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Wildlife &amp; Safari
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 7 Nights / 8 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-tertiary-container/80 px-2 py-0.5 rounded text-surface">
+              Private 4x4 Jeep
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Wild Leopards &amp; Untamed Coastlines
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Colombo → Wilpattu → Udawalawe → Yala → Mirissa</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Private Naturalist Guide
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Blue Whale Yacht Charter
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Luxury Tented Safari Camp
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 3 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="hillcountry" data-duration="4-7">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="A historic Ceylon tea estate colonial bungalow with manicured gardens and rolling emerald tea terraces enveloped in ethereal swirling mountain mist, with a distant blue mountain train curve in Hatton Sri Lanka." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-primary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Hill Country
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 6 Nights / 7 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-primary-container/80 px-2 py-0.5 rounded text-surface">
+              Scenic Rail Included
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Tea Mist, Monasteries &amp; Colonial Charms
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Kandy → Nuwara Eliya → Ella → Hatton</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                First-Class Scenic Train Tickets
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Heritage Tea Planter's Bungalow
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Private Temple Forest Blessings
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 4 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="beach" data-duration="4-7">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Pristine secluded golden crescent beach in Tangalle Sri Lanka with angled curved coconut palms, turquoise Indian Ocean gentle waves, and authentic wooden stilt fishermen silhouettes at warm twilight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-secondary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Beach &amp; Coast
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 5 Nights / 6 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-secondary-container/80 px-2 py-0.5 rounded text-on-secondary-container font-semibold">
+              Coastal Luxury
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Pristine Southern Beaches &amp; Whale Trails
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Galle Fort → Weligama → Mirissa → Tangalle</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Private Stilt Fishermen Encounter
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Cinnamon Island Boat Safari
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Sunset Oceanfront Dining
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 5 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="honeymoon" data-duration="8-11">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Exquisite private infinity swimming pool of a luxury boutique Sri Lankan villa overlooking lush jungle ravines and tea-covered mountain ranges, with floating flower blossoms and intimate sun loungers at golden dusk." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-secondary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Bespoke Honeymoon
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 9 Nights / 10 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-secondary/80 px-2 py-0.5 rounded text-surface">
+              Secluded Villas
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Bespoke Ceylon Honeymoon &amp; Seclusion
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Negombo → Cultural Triangle → Ella → Tangalle</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Private Candlelit Sigiriya Dinner
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Couples Ayurvedic Rituals
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Luxury Coastal Hideaways
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 6 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="adventure" data-duration="4-7">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Breathtaking morning view from the peak ridge of Mini Adams Peak in Ella Sri Lanka, dramatic jagged mountain gaps with soft sun rays penetrating layers of low clouds and green tropical valleys." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-tertiary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Adventure &amp; Trekking
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 7 Nights / 8 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-tertiary/80 px-2 py-0.5 rounded text-surface">
+              Mountain Escort
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Highland Trekking &amp; Cloud Forest Peaks
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Knuckles Range → Horton Plains → Adam's Peak → Ella</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Knuckles Range Trekking Permits
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                World's End Escorted Sunrise Walk
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Waterfall Plunge Pools
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 7 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="ramayana" data-duration="4-7">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="Intricate ancient Hindu stone temple pillars and colorful carved sanctum of Seetha Amman Kovil temple framed by pine hills and flowing river in Nuwara Eliya Sri Lanka, soft atmospheric daylight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-secondary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Ramayana Trail
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 6 Nights / 7 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-primary-container/80 px-2 py-0.5 rounded text-surface">
+              Vedic Heritage
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Sacred Ramayana Heritage Trail
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Chilaw → Kandy → Nuwara Eliya → Ravana Ella</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Munneswaram &amp; Manavari Temples
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Ashok Vatika Botanical Visit
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Private Vedic Scholar Host
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 8 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="family" data-duration="8-11">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="A caring family with young children happily walking alongside an Asian elephant mother and calf in a lush green ethical sanctuary in Udawalawe Sri Lanka, joyful candid travel portraiture in soft tropical sunlight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-primary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Family Expeditions
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 10 Nights / 11 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-surface/80 px-2 py-0.5 rounded text-primary font-bold">
+              All Ages
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Ceylon Family Wonder &amp; Discovery
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Colombo → Sigiriya → Kandy → Bentota</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Ethical Elephant Sanctuary Day
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Junior Naturalist Safari Kits
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Kid-Friendly Surfing &amp; Kayak
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+<!-- CARD 9 -->
+<article class="tour-card group flex flex-col bg-surface-container-lowest rounded-xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1" data-category="wellness" data-duration="8-11">
+<div class="relative h-64 overflow-hidden">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" data-alt="An open-air wooden architectural yoga shala pavilion nestled deep in the tropical rainforest of Sinharaja Sri Lanka overlooking a tranquil pond with floating water lilies in peaceful early morning meditative light." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs">
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<div class="absolute top-space-md left-space-md">
+<span class="bg-surface/90 backdrop-blur-md text-tertiary font-label-md text-label-md uppercase px-space-sm py-1 rounded-full font-semibold">
+              Ayurveda &amp; Wellness
+            </span>
+</div>
+<div class="absolute bottom-space-md left-space-md right-space-md flex items-center justify-between text-on-primary">
+<span class="font-label-lg text-label-lg flex items-center gap-1 font-medium">
+<span class="material-symbols-outlined text-sm">dark_mode</span> 8 Nights / 9 Days
+            </span>
+<span class="font-caption text-caption uppercase tracking-wider bg-tertiary-container/80 px-2 py-0.5 rounded text-surface">
+              Holistic Rejuvenation
+            </span>
+</div>
+</div>
+<div class="p-space-lg flex flex-col flex-1 justify-between gap-space-md">
+<div class="flex flex-col gap-space-sm">
+<h3 class="font-headline-md text-headline-md text-primary group-hover:text-secondary transition-colors">
+              Ayurveda, Healing &amp; Forest Silence
+            </h3>
+<div class="flex items-center gap-1.5 text-on-surface-variant font-label-md text-label-md">
+<span class="material-symbols-outlined text-base text-secondary shrink-0">route</span>
+<span class="truncate">Sinharaja Rainforest → Ella Foothills → South Coast</span>
+</div>
+<div class="flex flex-wrap gap-1.5 pt-space-xs">
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Resident Ayurvedic Doctor Consult
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Daily Dawn Pranayama &amp; Yoga
+              </span>
+<span class="bg-surface-container px-2.5 py-1 rounded-full font-caption text-caption text-on-surface-variant">
+                Farm-to-Table Organic Dining
+              </span>
+</div>
+</div>
+<div class="pt-space-md flex items-center justify-between gap-space-sm">
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-primary bg-surface-container hover:bg-surface-container-high transition-colors font-semibold" href="#">
+              View Itinerary
+            </a>
+<a class="w-1/2 text-center py-2.5 rounded-lg font-label-md text-label-md uppercase tracking-wider text-on-primary bg-primary hover:bg-primary-container transition-colors font-semibold shadow-sm" href="#">
+              Inquire
+            </a>
+</div>
+</div>
+</article>
+</div>
+</section>
+<!-- MID-PAGE TAILOR-MADE BESPOKE BANNER -->
+<section class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg py-space-xl">
+<div class="relative bg-surface-container-low rounded-xl overflow-hidden shadow-lg p-space-xl md:p-space-2xl">
+<div class="absolute -right-20 -bottom-20 w-96 h-96 bg-primary-fixed/30 rounded-full blur-3xl pointer-events-none"></div>
+<div class="absolute -left-20 -top-20 w-96 h-96 bg-secondary-fixed/20 rounded-full blur-3xl pointer-events-none"></div>
+<div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-gutter items-center">
+<div class="lg:col-span-8 flex flex-col gap-space-md">
+<div class="flex items-center gap-space-sm text-secondary">
+<span class="material-symbols-outlined">design_services</span>
+<span class="font-label-md text-label-md uppercase tracking-widest font-semibold">Private Route Atelier</span>
+</div>
+<h2 class="font-headline-xl text-headline-xl text-primary font-normal leading-tight">
+            Can’t find your exact route? Every itinerary can be custom-crafted.
+          </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl">
+            Tell Dinesh your preferred pace, travel dates, and dream experiences. I will build an entirely personalized private itinerary for you within 24 hours—complete with villa suggestions and private driver allocation.
+          </p>
+</div>
+<div class="lg:col-span-4 flex flex-col gap-space-md items-start lg:items-end">
+<a class="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-xl py- space-md py-3.5 rounded-lg font-label-lg text-label-lg uppercase tracking-wider shadow-lg transition-all font-semibold" href="#">
+<span class="material-symbols-outlined text-lg">edit_note</span>
+<span class="">Build My Custom Trip</span>
+</a>
+<a class="w-full sm:w-auto inline-flex items-center justify-center gap-space-sm bg-surface text-primary hover:bg-surface-container px-space-xl py-3.5 rounded-lg font-label-lg text-label-lg uppercase tracking-wider shadow-sm transition-all font-semibold" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-tertiary text-lg">chat</span>
+<span class="">Chat on WhatsApp with Dinesh</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<!-- LUXURY FAQ SECTION -->
+<section class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg py-space-2xl">
+<div class="text-center max-w-2xl mx-auto mb-space-2xl">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-semibold">Clarifications &amp; Assurances</span>
+<h2 class="font-headline-lg text-headline-lg text-primary mt-space-xs">Frequently Asked Questions</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-sm">Everything you need to know about our private chauffeur-guided Ceylon journeys.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-gutter">
+<!-- FAQ 1 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl shadow-sm flex flex-col gap-space-sm">
+<div class="flex items-center gap-space-sm text-primary">
+<span class="material-symbols-outlined text-secondary">tune</span>
+<h3 class="font-headline-sm text-headline-sm">Can we modify any listed itinerary?</h3>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+          Absolutely. All itineraries shown are curated master-frameworks. We regularly swap accommodations for your preferred boutique tea bungalows or ocean villas, add layover rest days, or weave in unique regional curiosities.
+        </p>
+</div>
+<!-- FAQ 2 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl shadow-sm flex flex-col gap-space-sm">
+<div class="flex items-center gap-space-sm text-primary">
+<span class="material-symbols-outlined text-secondary">directions_car</span>
+<h3 class="font-headline-sm text-headline-sm">What vehicles are used for private tours?</h3>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+          We maintain a dedicated fleet of modern, air-conditioned Toyota luxury vans and SUVs. Each vehicle features panoramic high-visibility tinted windows, complimentary Wi-Fi, chilled king coconut refreshments, and generous luggage stowage.
+        </p>
+</div>
+<!-- FAQ 3 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl shadow-sm flex flex-col gap-space-sm">
+<div class="flex items-center gap-space-sm text-primary">
+<span class="material-symbols-outlined text-secondary">confirmation_number</span>
+<h3 class="font-headline-sm text-headline-sm">Are entrance tickets and permits included?</h3>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+          Yes. All UNESCO Cultural Triangle passes, wildlife sanctuary fees, scenic railway tickets, and private 4x4 safaris are pre-arranged and included in your tailored quote, eliminating queue delays throughout your journey.
+        </p>
+</div>
+<!-- FAQ 4 -->
+<div class="bg-surface-container-lowest p-space-lg rounded-xl shadow-sm flex flex-col gap-space-sm">
+<div class="flex items-center gap-space-sm text-primary">
+<span class="material-symbols-outlined text-secondary">handshake</span>
+<h3 class="font-headline-sm text-headline-sm">How do we confirm our booking?</h3>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+          Once you and Dinesh finalize the day-by-day plan, we reserve your selected villas and vehicle. We operate an unhurried, transparent concierge process with direct wire transfers and zero hidden add-ons.
+        </p>
+</div>
+</div>
+</section>
+<!-- FINAL INSPIRING CTA BANNER -->
+<section class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pb-space-3xl">
+<div class="relative rounded-xl overflow-hidden shadow-2xl">
+<div class="bg-cover bg-center w-full min-h-[420px] flex items-center justify-center p-space-xl" data-alt="Dreamy mist gently rolling across dramatic mountain tea valleys of Ceylon at sunrise, warm glowing golden morning sunrays kissing tea leaves and ancient forest trees, serene fine art travel photography." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuBzlVfENuE51fnUff3csFohmOaBUjnjuKv_uPB0h50v-eo_1-gvP6wPYVyFQVUhZQrEVcOwITQyCk97djCH9uMgZ4Z_bTiEAO3g1UFwfuvaFuwHfHc8PNOkiVE2TjJsCcFIpb7njh3oDxc8KL-np2En_pAhqTceJv7ANZTD1rdtcava9_qJgXolRWc6BKAOSMI-EsP11AIwk1WAElEnORb9zdhDAhvBcXZufLFgucim2i-Dvt__EaM')">
+<div class="absolute inset-0 bg-primary/75 backdrop-blur-[2px]"></div>
+<div class="relative z-10 max-w-2xl text-center flex flex-col items-center gap-space-md">
+<span class="font-label-md text-label-md uppercase tracking-[0.2em] text-secondary-fixed">
+            Accredited Private Host &amp; Chauffeur
+          </span>
+<h2 class="font-display-lg text-display-lg text-on-primary">
+            Your Ceylon Journey, Perfectly Handled.
+          </h2>
+<p class="font-body-lg text-body-lg text-surface-container-low max-w-lg font-light">
+            Reach out directly to Dinesh for personal guidance, boutique villa recommendations, and bespoke route planning across Sri Lanka.
+          </p>
+<div class="flex flex-col sm:flex-row items-center gap-space-md mt-space-sm w-full sm:w-auto">
+<a class="w-full sm:w-auto bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-xl py-space-sm rounded-lg font-label-lg text-label-lg uppercase tracking-wider transition-all shadow-lg font-semibold text-center" href="#">
+              Plan My Trip
+            </a>
+<a class="w-full sm:w-auto bg-surface-container-lowest/15 hover:bg-surface-container-lowest/25 backdrop-blur-md text-on-primary px-space-xl py-space-sm rounded-lg font-label-lg text-label-lg uppercase tracking-wider transition-all font-semibold flex items-center justify-center gap-2" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-sm">chat</span>
+<span class="">Message on WhatsApp</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script>
+  // Dynamic Filter & Search Handling
+  document.addEventListener('DOMContentLoaded', () => {
+    const chips = document.querySelectorAll('.filter-chip');
+    const searchInput = document.getElementById('tourSearchInput');
+    const durationFilter = document.getElementById('durationFilter');
+    const cards = document.querySelectorAll('.tour-card');
+    const counter = document.getElementById('resultsCounter');
+
+    let activeCategory = 'all';
+
+    function filterTours() {
+      const query = (searchInput.value || '').toLowerCase().trim();
+      const selectedDuration = durationFilter.value;
+      let visibleCount = 0;
+
+      cards.forEach(card => {
+        const cat = card.getAttribute('data-category');
+        const dur = card.getAttribute('data-duration');
+        const textContent = card.innerText.toLowerCase();
+
+        const matchesCat = (activeCategory === 'all' || cat === activeCategory);
+        const matchesDur = (selectedDuration === 'all' || dur === selectedDuration);
+        const matchesQuery = !query || textContent.includes(query);
+
+        if (matchesCat && matchesDur && matchesQuery) {
+          card.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+
+      if (counter) {
+        counter.textContent = `Showing ${visibleCount} Curated Private Expedition${visibleCount === 1 ? '' : 's'}`;
+      }
+    }
+
+    chips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        chips.forEach(c => {
+          c.classList.remove('bg-primary', 'text-on-primary', 'shadow-sm');
+          c.classList.add('bg-surface-container', 'text-on-surface-variant');
+        });
+        chip.classList.add('bg-primary', 'text-on-primary', 'shadow-sm');
+        chip.classList.remove('bg-surface-container', 'text-on-surface-variant');
+
+        activeCategory = chip.getAttribute('data-category');
+        filterTours();
+      });
+    });
+
+    if (searchInput) searchInput.addEventListener('input', filterTours);
+    if (durationFilter) durationFilter.addEventListener('change', filterTours);
+  });
+</script></main><footer class="w-full bg-surface-container-low mt-space-3xl"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pt-space-3xl pb-space-2xl"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg"><div class="lg:col-span-4 flex flex-col gap-space-md"><div class="flex items-center gap-space-md"><img alt="Serendiva Elite Travels Emblem" class="h-12 w-12 rounded-full object-contain shadow-sm" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDzUKaN448vmPn-YY5ADy_xj8KXAH-TE8Ohxyl9gYkLyqTxO0ItO1GXHQqa76a-fAIizYbguNxHJk1zO6geNXUDXfz45vYFcRdN3bgUkX_C3vwyX-IqWUvILYwksPiskrl0p8EWxWT1Ctu06YPqrVrxdkbHGBWOWQGr2I64tZ4lnRUjuO9BtFiWQaoNU4_3Qe-nqCOlOGngUJV-dLw__TmgsoTn8btmiGI4zgsXSkpulCYI96UOPGtVmpYRl44z0BUQ"><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm">Handcrafted private expeditions, boutique architectural villas, and authentic Sri Lankan heritage curations for the discerning traveler.</p><div class="inline-flex items-center gap-space-sm bg-surface-container px-space-md py-space-sm rounded-full w-fit"><span class="material-symbols-outlined text-tertiary text-sm">verified</span><span class="font-label-md text-label-md text-tertiary">Licensed SLTDA Chauffeur &amp; Tour Operator #TS/2024/091</span></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Expeditions</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Signature Journeys</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Ceylon Hill Country</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Southern Coast Villas</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate Retreats</a></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Concierge</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">The Serendiva Way</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Visual Journal</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Guest Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Private Dispatch</a></div></div><div class="lg:col-span-4 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Private Dispatch Journal</span><p class="font-body-md text-body-md text-on-surface-variant">Receive seasonal insights on Ceylon wildlife migrations, bespoke estate openings, and cultural observances.</p><div class="flex items-center gap-space-xs bg-surface rounded-xl p-space-xs shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><input class="bg-transparent px-space-md py-space-sm font-body-md text-body-md text-on-surface placeholder:text-outline w-full focus:outline-none" placeholder="Your private email address" type="email"><button class="bg-primary hover:bg-primary-container text-on-primary px-space-md py-space-sm rounded-lg font-label-lg text-label-lg transition-colors shrink-0" type="button">Join</button></div><div class="flex flex-col gap-1 mt-space-sm"><span class="font-caption text-caption text-on-surface-variant">Serving: Colombo · Galle Fort · Kandy · Cultural Triangle · Yala</span><span class="font-caption text-caption text-on-surface-variant">Direct telephone: +94 11 234 5678 · Concierge: private@serendiva.lk</span></div></div></div><div class="mt-space-2xl pt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md"><span class="font-caption text-caption text-on-surface-variant">© 2024 Serendiva - Ceylon Private Journeys. All rights reserved. Registered Travel Partner SLTDA.</span><div class="flex items-center gap-space-lg"><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Privacy Policy</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Terms of Bespoke Carriage</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Safety Protocol</a></div></div></div></footer>
+
+</body></html>

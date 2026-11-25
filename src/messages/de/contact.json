@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "title": "Reise planen · Individuelle Sri-Lanka-Anfrage",
+    "description": "Erzählen Sie mir von Ihrer Traumreise durch Sri Lanka — Mitreisende, Zeitraum, Tempo und Wünsche — und erhalten Sie innerhalb von 24 Stunden Ihren persönlichen Routenentwurf."
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "current": "Reise planen"
+  },
+  "hero": {
+    "pill": "100 % maßgeschneiderte Privatreisen · Unverbindliche Beratung",
+    "title": "Erzählen Sie mir von Ihrer Traumreise durch Ceylon",
+    "intro": "Jede Reise wird von mir, {name}, persönlich entworfen. Teilen Sie mir Ihre Wünsche mit — innerhalb von 24 Stunden erhalten Sie Ihren individuellen Routenentwurf.",
+    "introFallbackName": "Dinesh Jayasuriya"
+  },
+  "wizard": {
+    "formLabel": "Individuelle Reiseanfrage",
+    "stepsLabel": "Anfrageschritte",
+    "stepLabel": "Schritt {number}",
+    "stepCompleted": "abgeschlossen",
+    "progressLabel": "Fortschritt der Anfrage",
+    "progressValue": "Schritt {current} von {total}",
+    "announceStep": "Schritt {current} von {total}: {title}",
+    "about": "Zu: {title}",
+    "aboutRemove": "„{title}“ aus dieser Anfrage entfernen",
+    "draftRestored": "Ich habe Ihre zuvor begonnenen Angaben wiederhergestellt.",
+    "draftClear": "Neu beginnen",
+    "steps": {
+      "party": "Wer reist mit?",
+      "dates": "Reisezeit & Tempo",
+      "passions": "Wünsche & Stile",
+      "details": "Ihre Kontaktdaten"
+    },
+    "back": "Zurück",
+    "party": {
+      "eyebrow": "Reisegruppe",
+      "title": "Wer wird an dieser Reise teilnehmen?",
+      "intro": "Wählen Sie die passende Konstellation, damit ich das ideale Fahrzeug und passende Zimmeraufteilungen berücksichtigen kann.",
+      "options": {
+        "solo": {
+          "title": "Alleinreisend",
+          "body": "Eigenes Tempo, flexible Stopps und persönliche Begleitung."
+        },
+        "couple": {
+          "title": "Paar / Romantisch",
+          "body": "Flitterwochen, Jubiläen und ruhige Boutique-Refugien."
+        },
+        "family": {
+          "title": "Familie mit Kindern",
+          "body": "Geräumige Familienvillen, familienfreundliche Safaris und sichere Strände."
+        },
+        "group": {
+          "title": "Freunde & kleine Gruppe",
+          "body": "Private Anwesen, komfortabler Van und gemeinsame Erlebnisse."
+        },
+        "corporate": {
+          "title": "Firmen- / Executive-Reise",
+          "body": "Hohe Diskretion, Luxus-Reisebus und persönliche Koordination."
+        }
+      },
+      "guestsTitle": "Genaue Personenzahl",
+      "guestsBody": "Hilft bei der Auswahl von Fahrzeuggröße und Sitzkomfort.",
+      "adults": "Erwachsene",
+      "children": "Kinder",
+      "childAges": "Alter der Kinder",
+      "childAgesPlaceholder": "z. B. 4 und 9",
+      "childAgesHint": "Wichtig für Kindersitze, Safari-Hinweise und Familienzimmer.",
+      "corporateNote": "Planen Sie ein Firmen-Retreat, Incentive oder eine Delegation mit Briefing?",
+      "corporateLink": "Direkt zum Firmen-Anfrageformular",
+      "next": "Weiter zu Reisezeit & Tempo"
+    },
+    "dates": {
+      "eyebrow": "Zeitraum & Atmosphäre",
+      "title": "Wann möchten Sie Sri Lanka bereisen?",
+      "intro": "Sri Lanka besitzt zwei gegenläufige Monsunsysteme — ich stimme Ihre Route auf sonnige Küsten und trockene Täler ab.",
+      "windowLabel": "Voraussichtlicher Reisezeitraum",
+      "windowPlaceholder": "Wählen Sie Ihren Wunschzeitraum",
+      "arrival": "Ankunftsdatum",
+      "departure": "Abreisedatum",
+      "busyWarning": "An einigen dieser Tage bin ich bereits gebucht. Senden Sie Ihre Anfrage gern trotzdem — ich nenne Ihnen passende Alternativen oder einen vertrauenswürdigen Kollegen.",
+      "calendarToggleShow": "Verfügbarkeit prüfen & Daten wählen",
+      "calendarToggleHide": "Kalender ausblenden",
+      "calendarSelectionEmpty": "Tippen Sie zuerst auf das Ankunftsdatum und dann auf das Abreisedatum — ich übernehme die Daten oben.",
+      "calendarSelectionStart": "Ankunft gesetzt auf {start} — wählen Sie nun Ihr Abreisedatum.",
+      "calendarSelectionRange": "Ausgewählt: {start} bis {end}",
+      "flexibilityLabel": "Flexibilität",
+      "windows": {
+        "immediate": "Kurzfristig (nächste 30–60 Tage)",
+        "season": "{range} ({note})",
+        "notes": {
+          "dec": "Beste Trockenzeit",
+          "mar": "Lebhaftes Hochland & Safaris",
+          "jun": "Sonnige Ostküste & Minneriya",
+          "sep": "Kulturelle Erntezeit"
+        },
+        "later": "Ab {month} — individuelle Planung",
+        "flexible": "Flexibel / Noch offen — bitte beste Saison empfehlen"
+      },
+      "flexibility": {
+        "completely": "Vollkommen flexibel (bestes Reisewetter gesucht)",
+        "days": "Flexibel innerhalb von +/- 3 bis 5 Tagen",
+        "fixed": "Feste Reisedaten (Flüge bereits reserviert)"
+      },
+      "exactDurationBadge": "Reisedauer: {days} Tage / {nights} Nächte (aus Ihren Daten berechnet)",
+      "exactDurationValue": "{days} Tage ({nights} Nächte)",
+      "durationLabel": "Bevorzugte Reisedauer",
+      "durations": {
+        "short": {
+          "title": "3–5 Tage",
+          "body": "Kurztrip · Galle Fort & Colombo"
+        },
+        "essential": {
+          "title": "6–8 Tage",
+          "body": "Klassisches Ceylon · Tee & Kulturelles Dreieck"
+        },
+        "indepth": {
+          "title": "9–12 Tage",
+          "body": "Intensiv entdecken · Meine Empfehlung"
+        },
+        "grand": {
+          "title": "13+ Tage",
+          "body": "Große Rundreise · Tiefe Insel-Immersion"
+        },
+        "flexible": {
+          "title": "Noch unsicher",
+          "body": "Passend zu Ihren Wünschen vorschlagen"
+        }
+      },
+      "paceLabel": "Gewünschter Tagesrhythmus",
+      "paces": {
+        "relaxed": {
+          "title": "Entspannt & Genussvoll",
+          "body": "Mindestens 2–3 Nächte je Boutique-Hotel, spätes Frühstück und ruhige Nachmittage."
+        },
+        "balanced": {
+          "title": "Ausgewogen & Neugierig",
+          "body": "Tempel oder Safaris am Morgen, angenehme Fahrten und Zeit zur freien Entdeckung."
+        },
+        "active": {
+          "title": "Aktiv & Intensiv",
+          "body": "Frühe Wanderungen, Bergtouren, mehrere Pirschfahrten und dichte Kulturprogramme."
+        },
+        "undecided": {
+          "title": "Noch keine Präferenz",
+          "body": "Ich empfehle ein Tempo passend zu Ihrer Gruppe und Route."
+        }
+      },
+      "next": "Weiter zu Wünschen & Stilen"
+    },
+    "passions": {
+      "eyebrow": "Ihre Reiseträume",
+      "title": "Was begeistert Sie an Sri Lanka?",
+      "intro": "Wählen Sie alle Erlebnisse aus, die Sie ansprechen. Ich plane ruhige Zeiten fernab großer Besuchergruppen.",
+      "interestsLabel": "Interessen",
+      "interests": {
+        "citadels": "Antike Felsenfestungen",
+        "safaris": "Leoparden- & Elefantensafaris",
+        "tea_estates": "Teeplantagen im Hochland",
+        "trains": "Panoramazug-Fahrten",
+        "coast_whales": "Goldene Küste & Wale",
+        "ayurveda": "Ayurveda & Erholung",
+        "culinary": "Authentische Küche & Kochkurse",
+        "hiking": "Wasserfälle & Bergwanderungen",
+        "photography": "Vogelbeobachtung & Fotografie"
+      },
+      "tourLabel": "An eine bestehende Rundreise anlehnen? (Optional)",
+      "tourPlaceholder": "Komplett individuell planen (keine feste Tour)",
+      "tourOption": "{title} ({days} Tage)",
+      "destinationsLabel": "Wunschorte (Optional)",
+      "destinationsField": "Wunschziele",
+      "destinationsShow": "Orte wählen ({count} ausgewählt)",
+      "destinationsShowNone": "Orte auswählen",
+      "destinationsHide": "Auswahl fertig",
+      "destinationsEmpty": "Alle Reiseziele sind optional — wählen Sie einfach Orte, die Sie schon ins Auge gefasst haben.",
+      "stayLabel": "Gewünschter Unterkunftsstil",
+      "stays": {
+        "bungalows": {
+          "title": "Historische Teebungalows",
+          "body": "Koloniale Pflanzerhäuser, gepflegte Gärten, Kamine und persönlicher Service."
+        },
+        "safari_pavilions": {
+          "title": "Öko-Luxus-Dschungellodges",
+          "body": "Offene Architektur inmitten unberührter Natur und Wildtierkorridoren."
+        },
+        "ocean_resorts": {
+          "title": "5-Sterne Boutique am Meer",
+          "body": "Inspiriert von Geoffrey Bawa, Meerblick-Suiten und ruhige Buchten."
+        },
+        "blend": {
+          "title": "Abwechslungsreiche Auswahl",
+          "body": "Eine stimmige Mischung vom Hochland bis an die Südküste."
+        },
+        "undecided": {
+          "title": "Noch keine Präferenz",
+          "body": "Ich schlage passende Häuser entlang Ihrer Route vor."
+        }
+      },
+      "budgetLabel": "Komfort- & Budgetstufe (Optional)",
+      "budgets": {
+        "comfortable": {
+          "title": "Gepflegter Komfort",
+          "body": "Handverlesene 3–4★ Boutique-Hotels & charmante Gästehäuser ($180–$280 / Tag pro Paar)."
+        },
+        "boutique": {
+          "title": "Kuratierte Boutique-Klasse",
+          "body": "Historische Teebungalows & intime Design-Hotels ($280–$480 / Tag pro Paar)."
+        },
+        "luxury": {
+          "title": "Luxus-Refugien",
+          "body": "Relais & Châteaux Anwesen und Spitzen-Resorts ($480–$850 / Tag)."
+        },
+        "ultra": {
+          "title": "Ultra-Exklusiv & Wasserflugzeug",
+          "body": "Top-Suiten, private Villen-Übernahmen & Charterflüge ($850+ / Tag)."
+        },
+        "undecided": {
+          "title": "Offen / Empfehlung gewünscht",
+          "body": "Passend zu den schönsten Orten Ihrer Route."
+        }
+      },
+      "next": "Letzter Schritt: Ihre Kontaktdaten"
+    },
+    "details": {
+      "eyebrow": "Vertrauliche Anfrage",
+      "title": "Wohin darf ich Ihren Routenentwurf senden?",
+      "intro": "Ihre Angaben werden streng vertraulich behandelt und ausschließlich zur Ausarbeitung Ihrer Reise verwendet.",
+      "name": "Vollständiger Name",
+      "namePlaceholder": "z. B. Lukas & Hannah Weber",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "name@domain.de",
+      "whatsapp": "WhatsApp / Mobilnummer",
+      "whatsappCode": "Landesvorwahl",
+      "whatsappPlaceholder": "170 1234567",
+      "whatsappOtherHint": "Bitte inklusive Landesvorwahl, z. B. +43 660 1234567.",
+      "whatsappOptionalHint": "Optional — über WhatsApp antworte ich meist am schnellsten.",
+      "whatsappRequiredHint": "Erforderlich, da Sie diesen Weg als bevorzugte Antwort gewählt haben.",
+      "preferredContactLabel": "Wie soll ich Sie zuerst kontaktieren?",
+      "contactMethods": {
+        "any": "WhatsApp oder E-Mail",
+        "whatsapp": "WhatsApp-Nachricht",
+        "email": "Ausführliche E-Mail",
+        "call": "Telefon- / WhatsApp-Anruf"
+      },
+      "codes": {
+        "gb": "+44 UK",
+        "us": "+1 US",
+        "au": "+61 AU",
+        "nz": "+64 NZ",
+        "de": "+49 DE",
+        "at": "+43 AT",
+        "ch": "+41 CH",
+        "fr": "+33 FR",
+        "be": "+32 BE",
+        "nl": "+31 NL",
+        "it": "+39 IT",
+        "es": "+34 ES",
+        "se": "+46 SE",
+        "no": "+47 NO",
+        "dk": "+45 DK",
+        "pl": "+48 PL",
+        "ru": "+7 RU",
+        "cn": "+86 CN",
+        "hk": "+852 HK",
+        "jp": "+81 JP",
+        "kr": "+82 KR",
+        "sg": "+65 SG",
+        "my": "+60 MY",
+        "in": "+91 IN",
+        "ae": "+971 UAE",
+        "sa": "+966 SA",
+        "qa": "+974 QA",
+        "za": "+27 ZA",
+        "lk": "+94 LK",
+        "other": "Andere"
+      },
+      "country": "Wohnsitzland",
+      "countryPlaceholder": "z. B. Deutschland",
+      "message": "Anlässe, besondere Orte & Ernährungswünsche",
+      "messagePlaceholder": "Nennen Sie gern Jubiläen, besondere Ernährungsbedürfnisse, Architekturinteressen oder bestimmte Nationalparks...",
+      "guaranteeTitle": "Keine Zahlung, keine Verpflichtung · 100 % persönliche Beratung",
+      "guaranteeBody": "Über diese Website erfolgt weder Zahlung noch verbindliche Buchung. Ich plane Ihre Route persönlich und passe sie kostenlos an, bis Sie rundum zufrieden sind.",
+      "summaryTitle": "Ihre Reisedaten im Überblick",
+      "summaryEdit": "Bearbeiten",
+      "summaryParty": "Gruppe & Gäste",
+      "summaryTiming": "Zeitraum & Tempo",
+      "summaryStyle": "Route, Stil & Interessen",
+      "summaryNone": "Nicht angegeben",
+      "privacyBefore": "Mit dem Absenden erklären Sie sich einverstanden, dass wir Ihre Daten gemäß unserer ",
+      "privacyLink": "Datenschutzerklärung",
+      "privacyAfter": " ausschließlich zur Reiseplanung nutzen.",
+      "back": "Zurück zu den Wünschen",
+      "submit": "Meinen persönlichen Reiseentwurf anfordern",
+      "submitting": "Anfrage wird gesendet…",
+      "whatsappPreview": "Ich schreibe Ihnen auf WhatsApp unter {number} — bitte prüfen Sie die Vorwahl."
+    },
+    "success": {
+      "title": "Ayubowan! Ihre Anfrage ist eingegangen.",
+      "body": "Ich prüfe Ihre Reisewünsche jetzt persönlich. Ihren individuellen Entwurf erhalten Sie innerhalb von 24 Stunden per E-Mail und WhatsApp.",
+      "bodyEmailOnly": "Ich prüfe Ihre Reisewünsche jetzt persönlich. Ihren individuellen Entwurf erhalten Sie innerhalb von 24 Stunden per E-Mail.",
+      "sentTo": "Bestätigung gesendet an {email}",
+      "referenceLabel": "Ihre Anfragereferenz",
+      "referenceHint": "Bitte nennen Sie diese Nummer bei Rückfragen — so finde ich Ihre Notizen sofort.",
+      "copyReference": "Referenz kopieren",
+      "copiedReference": "Kopiert!",
+      "whatsappLead": "Schnelle Frage? Schreiben Sie mir direkt unter",
+      "whatsappMessage": "Hallo {name}, ich habe gerade meine Reiseanfrage gesendet (Referenz {reference}) und freue mich auf den Austausch.",
+      "whatsappMessageNoName": "Hallo, ich habe gerade meine Reiseanfrage gesendet (Referenz {reference}) und freue mich auf den Austausch.",
+      "again": "Neue Anfrage starten"
+    }
+  },
+  "trust": {
+    "licensed": {
+      "title": "Staatlich lizenziert",
+      "body": "National Guide #{licence}",
+      "bodyFallback": "SLTDA-lizenzierter National Guide"
+    },
+    "revisions": {
+      "title": "Beliebige Anpassungen",
+      "body": "Jeder Stopp wird nach Wunsch verfeinert"
+    },
+    "direct": {
+      "title": "Ohne Zwischenhändler",
+      "body": "Direkte Planung & Durchführung"
+    }
+  },
+  "concierge": {
+    "label": "Ihr persönlicher Reiseleiter",
+    "online": "Online",
+    "away": "Abwesend",
+    "awayLabel": "Außerhalb meiner Arbeitszeiten — ich antworte gleich am nächsten Morgen",
+    "onlineLabel": "Innerhalb meiner Arbeitszeiten",
+    "licence": "Lizenz #{licence}",
+    "quote": "„Willkommen bei Serendiva. Als Ihr persönlicher Reiseleiter plane und begleite ich Ihre Zeit auf Ceylon selbst — ohne Callcenter oder Standardprogramme.“",
+    "whatsapp": "Per WhatsApp chatten ({number})",
+    "whatsappShort": "Per WhatsApp chatten",
+    "bullets": {
+      "direct": "Direkter Kontakt zum Guide — ohne Agenturen",
+      "revisions": "Unbegrenzte Routen-Anpassungen",
+      "vehicle": "Privates, klimatisiertes Komfortfahrzeug"
+    },
+    "hours": "Erreichbarkeit: {hours}",
+    "base": "Standort: {area}",
+    "photoQuote": "„Sri Lanka ist keine Reise — es ist eine bleibende Erinnerung.“",
+    "availabilityTitle": "Meine Verfügbarkeit",
+    "availabilityPickHint": "Tippen Sie Daten an, um Schritt 2 auszufüllen.",
+    "availabilityPickEnd": "Ankunft: {start} — tippen Sie die Abreise.",
+    "availabilityRange": "{start} → {end}",
+    "unavailable": "Kontaktdaten konnten gerade nicht geladen werden — WhatsApp und E-Mail erreichen mich trotzdem."
+  },
+  "process": {
+    "eyebrow": "Meine Arbeitsweise",
+    "title": "Wie Ihre individuelle Planung abläuft",
+    "intro": "Von Ihrer ersten Idee bis zum Abschied am Flughafen Bandaranaike wird jedes Detail nahtlos abgestimmt.",
+    "steps": {
+      "share": {
+        "title": "Wünsche teilen",
+        "body": "Senden Sie dieses Formular oder eine kurze WhatsApp-Nachricht mit Zeitraum, Personenanzahl und Tempo.",
+        "footer": "Dauert unter 3 Minuten"
+      },
+      "curate": {
+        "title": "Erster Entwurf",
+        "body": "Erhalten Sie innerhalb von 24 Stunden einen detaillierten Vorschlag mit ausgewählten Unterkünften und Routen.",
+        "footer": "Antwort in 24 Stunden"
+      },
+      "refine": {
+        "title": "Gemeinsam verfeinern",
+        "body": "Passen Sie Hotelkategorien, Safaris oder Strandtage direkt mit mir an.",
+        "footer": "Unbegrenzte Anpassungen"
+      },
+      "welcome": {
+        "title": "Entspannte Ankunft",
+        "body": "Ich empfange Sie persönlich am Flughafen Colombo mit kalten Tüchern, frischer Kokosnuss und Ihrem Privatfahrzeug.",
+        "footer": "Persönliche 24/7-Betreuung"
+      }
+    }
+  },
+  "coverage": {
+    "eyebrow": "Inselweite Abdeckung",
+    "title": "Von der Nordspitze Jaffnas bis zu den Bastionen von Galle",
+    "body": "Dank persönlicher Kontakte in allen neun Provinzen koordiniere ich zuverlässig Inlandsflüge, Safari-Genehmigungen in Yala Block 1 und ruhige Strandvillen in Tangalle.",
+    "features": {
+      "fleet": {
+        "title": "Private Fahrzeugflotte",
+        "body": "Luxus-SUVs & geräumige Vans"
+      },
+      "charters": {
+        "title": "Inlandsflüge",
+        "body": "Cinnamon Air Wasserflugzeuge"
+      },
+      "insurance": {
+        "title": "Voller Versicherungsschutz",
+        "body": "Umfassende Passagierdeckung"
+      },
+      "fastTrack": {
+        "title": "VIP-Flughafenservice",
+        "body": "Beschleunigte Ankunftsabfertigung"
+      }
+    },
+    "mapEyebrow": "Inselkarte",
+    "mapTitle": "Hauptziele meiner Privatführungen",
+    "mapLabel": "Karte von Sri Lanka mit meinem Standort und den wichtigsten Regionen",
+    "baseMarker": "Mein Standort · {area}",
+    "baseFallback": "Colombo",
+    "explore": "{name} entdecken",
+    "hubsLabel": "Hauptziele auf der Karte",
+    "mapError": "Die Karte konnte gerade nicht geladen werden."
+  },
+  "faq": {
+    "eyebrow": "Häufige Fragen",
+    "title": "FAQ zur Reiseplanung"
+  }
+}

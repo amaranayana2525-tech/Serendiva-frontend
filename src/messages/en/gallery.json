@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "title": "Gallery — Moments from Sri Lanka",
+    "description": "A curated gallery from my private journeys across Sri Lanka: dawn at Sigiriya, leopards in Yala, misty tea highlands, sacred rituals, coasts and village kitchens."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Curated Gallery"
+  },
+  "archive": "Archive Volume IV • Autumn Solstice Collection",
+  "hero": {
+    "eyebrow": "Cinematic Ceylon Archives",
+    "title": "Moments from the Island",
+    "intro": "Glimpses of dawn mist over the central highlands, sacred ritual chants, solitary leopard tracks in Yala, and the unhurried smiles of my traveling companions.",
+    "plates": "{count, plural, one {# Plate} other {# Plates}}",
+    "platesCaption": "Shot across the island on my private journeys"
+  },
+  "filters": {
+    "label": "Filter the gallery by theme",
+    "all": "All Archives",
+    "count": "({count})",
+    "results": "{count, plural, =0 {No photographs in this collection} one {# photograph shown} other {# photographs shown}}"
+  },
+  "categories": {
+    "heritage": "Sacred Heritage & Citadels",
+    "wildlife": "Wildlife & Sanctuaries",
+    "tea-country": "Misty Tea Highlands",
+    "coasts": "Pristine Coasts & Oceans",
+    "gastronomy": "Gastronomy & Village",
+    "portraits": "Traveler Portraits"
+  },
+  "grid": {
+    "title": "Gallery plates",
+    "plateLong": "Plate No. {number} • {category}",
+    "plateShort": "Plate {number} • {category}",
+    "view": "View Plate",
+    "open": "Open “{title}” in the image viewer ({number} of {total})",
+    "untitled": "Untitled plate",
+    "emptyTitle": "No photographs here yet",
+    "emptyBody": "This collection is still being curated. Browse all archives, or ask me for photographs from a particular region.",
+    "showAll": "Show all archives"
+  },
+  "quote": {
+    "eyebrow": "Guest Chronicle"
+  },
+  "videos": {
+    "eyebrow": "Cinematic Chronicles",
+    "title": "Moving Portraits of Ceylon",
+    "intro": "Experience the cadence of private exploration through soundscapes recorded on 35mm film across the island’s microclimates.",
+    "badge": "4K Master Soundtracks",
+    "chapter": "Chapter {number}",
+    "play": "Play film: {title}",
+    "noVideo": "Film coming soon"
+  },
+  "instagram": {
+    "eyebrow": "Live Field Notes",
+    "title": "Follow the Journey {handle}",
+    "titleNoHandle": "Follow the Journey",
+    "explore": "Explore Journal Feed",
+    "openPost": "Open on Instagram: {alt}"
+  },
+  "cta": {
+    "eyebrow": "From Imagery to Reality",
+    "title": "Want to Experience These Moments Firsthand?",
+    "body": "Every photograph was taken on a private journey curated for my guests. Let me tailor your personalized passage across Sri Lanka.",
+    "plan": "Plan My Custom Trip",
+    "whatsapp": "Chat with Dinesh on WhatsApp",
+    "tailored": "100% Tailored Private Chauffeur Itineraries",
+    "proposals": "Bespoke Proposals Within 24 Hours"
+  },
+  "lightbox": {
+    "label": "Gallery viewer",
+    "videoLabel": "Video player",
+    "frameTitle": "Video: {title}",
+    "externalVideo": "Watch this film on its original site",
+    "unavailable": "This film is not available yet."
+  }
+}

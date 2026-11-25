@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "confirm": {
+      "title": "确认订阅",
+      "description": "确认订阅 Private Dispatch Journal — 来自斯里兰卡私人向导的季节旅行笔记。"
+    },
+    "unsubscribe": {
+      "title": "退订通信",
+      "description": "取消订阅 Private Dispatch Journal 季节通信。"
+    }
+  },
+  "eyebrow": "Private Dispatch Journal",
+  "confirm": {
+    "loading": {
+      "title": "正在确认您的订阅…",
+      "body": "请稍候，我正在验证您的确认链接。"
+    },
+    "confirmed": {
+      "title": "欢迎订阅私人通讯",
+      "body": "您的订阅已正式生效。我每年会不定期寄送数封斯里兰卡野生动物季、传统节日与私藏新线的笔记——绝不打扰，随时一键退订。"
+    },
+    "already": {
+      "title": "您已经完成订阅",
+      "body": "此链接此前已验证生效，您已在订阅名单中。"
+    },
+    "invalid": {
+      "title": "此确认链接无效或已过期",
+      "body": "确认链接仅对最近一次提交有效，并在退订后失效。您可以在下方重新输入邮箱获取新链接。"
+    }
+  },
+  "unsubscribe": {
+    "loading": {
+      "title": "正在为您退订…",
+      "body": "请稍候，正在更新您的订阅设置。"
+    },
+    "unsubscribed": {
+      "title": "您已成功退订",
+      "body": "您的邮箱已从通信名单移除，今后将不会再收到发送邮件。如有需要，随时欢迎在下方重新订阅。"
+    },
+    "invalid": {
+      "title": "此退订链接无效",
+      "body": "链接可能不完整 — 请重新点击邮件中的完整按钮，或直接回复邮件由我手工处理。"
+    }
+  },
+  "errors": {
+    "network": {
+      "title": "无法连接服务器",
+      "body": "请检查您的网络连接后重试。"
+    },
+    "rateLimited": {
+      "title": "请求过于频繁",
+      "body": "请稍等一分钟后再试。"
+    },
+    "server": {
+      "title": "服务器暂时遇到问题",
+      "body": "请稍后重试，或直接通过 WhatsApp 与我联系处理。"
+    }
+  },
+  "actions": {
+    "home": "返回首页",
+    "plan": "定制行程",
+    "tours": "探索精选路线",
+    "retry": "重试",
+    "resubscribe": "重新订阅",
+    "emailMe": "联系向导邮箱"
+  }
+}

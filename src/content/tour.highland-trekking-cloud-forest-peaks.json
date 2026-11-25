@@ -1,0 +1,644 @@
+{
+  "id": "cmuv1ndjw00930i7d88kh9t7v",
+  "slug": "highland-trekking-cloud-forest-peaks",
+  "title": "Highland Trekking & Cloud Forest Peaks",
+  "summary": "Designed for avid hikers seeking panoramic summits, hidden waterfalls, and crisp high-altitude wilderness — the Knuckles cloud forest, the pilgrim ascent of Adam’s Peak, World’s End at dawn and three nights of ridge trails around Ella.",
+  "cardTag": "Mountain Escort",
+  "durationDays": 8,
+  "durationNights": 7,
+  "route": [
+    "Knuckles Range",
+    "Adam's Peak",
+    "Horton Plains",
+    "Ella"
+  ],
+  "highlights": [
+    "Knuckles Range Trekking Permits",
+    "World's End Escorted Sunrise Walk",
+    "Waterfall Plunge Pools"
+  ],
+  "isFeatured": false,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz001d0i7dhfj0hyri",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI",
+    "alt": "Morning view from the ridge of Little Adam's Peak over the Ella Gap",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nde000500i7d6h3e1ovd",
+      "slug": "trekking-adventure",
+      "name": "Highland Trekking & Peaks",
+      "shortName": "Trekking & Adventure"
+    }
+  ],
+  "travellerTypes": [
+    "solo",
+    "couple",
+    "group"
+  ],
+  "seasons": [
+    "nov-apr"
+  ],
+  "description": "This is the active side of the island: ridge paths through the UNESCO-listed Knuckles range, the 5,500-step night ascent of Adam’s Peak with thousands of pilgrims, the misty escarpment of World’s End and the trails and plunge pools around Ella.\n\nEvery trek is escorted by a mountain guide who knows the weather, the leeches and the best tea shops on the way down. Your vehicle follows the route, so you only ever carry a day pack.",
+  "badges": [
+    "Active Naturalist Passage",
+    "Mountain Escort",
+    "Permits Included"
+  ],
+  "overview": {
+    "kicker": "Active Naturalist Passage",
+    "heading": "Summits, Cloud Forests and Waterfall Pools",
+    "quote": "Watching the sun rise from Sri Pada, with the peak’s perfect triangular shadow falling across the clouds, is worth every one of the five thousand steps."
+  },
+  "keyFeatures": [
+    {
+      "icon": "hiking",
+      "title": "Escorted Treks",
+      "text": "A certified mountain guide on every trail, plus permits arranged."
+    },
+    {
+      "icon": "landscape",
+      "title": "Four Mountain Zones",
+      "text": "Knuckles, Sri Pada, Horton Plains and the Ella ridges."
+    },
+    {
+      "icon": "water",
+      "title": "Waterfall Plunge Pools",
+      "text": "Swims in natural pools above Diyaluma and near Ella."
+    },
+    {
+      "icon": "directions_car",
+      "title": "Vehicle Support",
+      "text": "Your car meets you at every trailhead — day packs only."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "hiking",
+      "text": "Certified mountain guide for all treks, Knuckles and Horton Plains permits and park fees"
+    },
+    {
+      "icon": "hotel",
+      "text": "7 nights in mountain lodges, a heritage bungalow and an Ella villa with breakfasts and dinners"
+    },
+    {
+      "icon": "backpack",
+      "text": "Trekking poles, rain shells, leech socks and packed trail lunches"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "620 Kilometers · 6 Escorted Treks up to 2,243m",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz002d0i7dzbmhkgz9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdzTHE9dUBOOSGgBhvRfGQgjjRDtt2Ii_wiMiYZu6DZcE1_99dPuI1dgOEk4SqXCrw19afxveFkxH3f-QMtHdICLt2uJcGxKlvdqXsq3mTzFAwL-QxBpCthNqVeVsz2w5WmRuE_KjdgXACKjLojl-RFAAfJSpb0P79XcY1H9R8TLCXIEo9qUu1vwN16ZkghkUc1pXJz9is-y9OhsUOCIWSozZ-a6q1abFRxfN7qdGlp0o2w6FAEac",
+        "alt": "Knuckles Range peaks, ravines and cloud forest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Knuckles Range",
+      "caption": "Ravines, waterfalls and cloud forest"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00370i7dnomelpxw",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBrmePzi1CyapL5RyjRDcih8PH3GkH8Tr6v6tY32JZyCk9yClW3JesBVI1ScDuEm8LbOtufijh7yvmny-4yEDSTP1RkirnHUTbBIyT8TNzfn60Ro65X6yemalVZrOXiHKbTOY3Kdzs3ft7B7KLOdfY7LaCnGtOnb_KbwRGrTr1eDjLnOImN490al2XRrshYtyZhgweMzmwZBzK2cMXAH1l_i4qMJQHoEq-j8Z3NRe7IhiWjWeV7qew",
+        "alt": "Mist swirling over the World's End escarpment at Horton Plains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Great Abyss",
+      "caption": "World's End, Horton Plains"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz004k0i7d6lt5c8hk",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCzvhuJ3X9Xap9ip6G1ziy3IgdWlEB7UmKs0zVzDMRCjPLYbW7vlAU7Ob9FQT37VXC5p6ZzvFeZEoGz9glOpJ2tfVir9Xxh_jyoMd8-snrmuKib3fsBuWubv9mZZeRKDesjIgs_PJbmpKWX5NCr32VatiZ41xkA5Zdb7jRLEAVMYUgwTI-20Fi3JxqAS7nbjjuY2Huk8apbKuxnwz19QrCw49A-wqEx_aosGUfQVwexBW-YsdDNlVI",
+        "alt": "Misty cloud forest peaks of the Knuckles Mountain Range",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Cloud Forest",
+      "caption": "Misty peaks of the Knuckles"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00230i7dhkkq5yxs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD8i4BAxK-t_UDH6RTNQHSO6NSNbuqwZKPOq51TnQjbefiZzTNmoZ8q-wTsFXlcJw1HTywNpOhkkeglKIuzVlXjBv2wm_UrEO9bQklf8VxD7bE9jFaKXPBv8WoA-kRUiw84DPCl2sJRs5VJ7OqhLXIOufIvFtAmYwV4T_hyZdI3RaWrXFYcOoIgsvh3CdlTXxERekD3-arUaa7vP923D1Hhd-yKRuvgPGUejTeOgjth3t4_zuJ_Ct4",
+        "alt": "Sunrise over the Ella Gap from the summit of Little Adam's Peak",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Little Adam's Peak",
+      "caption": "Sunrise over the Ella Gap"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & Into the Knuckles Mountains",
+      "description": "We drive from the airport to a mountain lodge at Riverston on the edge of the Knuckles Conservation Forest. A short sunset walk to stretch the legs after the flight.",
+      "overnightArea": "Knuckles Range",
+      "meals": "Lunch, Dinner",
+      "drivingTime": "Drive: ~4.5 hrs",
+      "details": [
+        {
+          "label": "Overnight Residence",
+          "value": "Eco-lodge at Riverston"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Knuckles Conservation Forest (Riverston)",
+          "lat": 7.528,
+          "lng": 80.735
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "Pitawala Pathana, Mini World’s End & Meemure",
+      "description": "A full day on foot: the grasslands of Pitawala Pathana, the drop at Mini World’s End and a descent to the remote village of Meemure for a home-cooked lunch beside the river.",
+      "overnightArea": "Knuckles Range",
+      "meals": "Breakfast, Village Lunch, Dinner",
+      "drivingTime": "Trek: ~6 hrs",
+      "details": [
+        {
+          "label": "Trek Grade",
+          "value": "Moderate · 12 km"
+        },
+        {
+          "label": "Permits",
+          "value": "Knuckles Conservation Forest permit included"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Pitawala Pathana",
+          "lat": 7.5476,
+          "lng": 80.7426
+        },
+        {
+          "name": "Meemure Village",
+          "lat": 7.4283,
+          "lng": 80.8411
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Across the Hills to the Foot of Sri Pada",
+      "description": "A scenic drive through Kandy and the tea country to Dalhousie at the foot of Adam’s Peak. An early dinner and early night — the climb begins at 02:00.",
+      "overnightArea": "Adam's Peak",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~5 hrs",
+      "details": [
+        {
+          "label": "Preparation",
+          "value": "Warm layers and head torches provided"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Knuckles Conservation Forest (Riverston)",
+          "lat": 7.528,
+          "lng": 80.735
+        },
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        },
+        {
+          "name": "Dalhousie (Nallathanni)",
+          "lat": 6.8282,
+          "lng": 80.5254
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Night Pilgrimage to the Summit of Adam’s Peak",
+      "description": "We climb by lantern light with pilgrims to reach the 2,243 m summit for sunrise and the peak’s famous triangular shadow. After breakfast and a rest, a short drive to a heritage bungalow near Horton Plains.",
+      "overnightArea": "Horton Plains",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Trek: ~7 hrs return · Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Trek Grade",
+          "value": "Challenging · 5,500 steps"
+        },
+        {
+          "label": "Season Note",
+          "value": "Pilgrim season Dec – May"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Adam's Peak (Sri Pada)",
+          "lat": 6.8096,
+          "lng": 80.4994
+        },
+        {
+          "name": "Horton Plains National Park",
+          "lat": 6.8023,
+          "lng": 80.807
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "World’s End at Dawn & On to Ella",
+      "description": "An escorted sunrise walk across the Horton Plains plateau to World’s End and Baker’s Falls before the mist rises. Afternoon drive down to a villa above the Ella Gap.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Trek: ~3.5 hrs · Drive: ~2 hrs",
+      "details": [
+        {
+          "label": "Trek Grade",
+          "value": "Easy to moderate · 9 km loop"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "World's End",
+          "lat": 6.7853,
+          "lng": 80.7928
+        },
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "Ella Rock by the Railway Line",
+      "description": "A classic half-day trek along the railway, through tea estates and eucalyptus to the summit of Ella Rock. The afternoon is free for a massage or a swim.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Trek: ~4.5 hrs",
+      "details": [
+        {
+          "label": "Trek Grade",
+          "value": "Moderate · 8 km return"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ella Rock",
+          "lat": 6.8573,
+          "lng": 81.0381
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "Little Adam’s Peak at Sunrise & the Pools of Diyaluma",
+      "description": "Sunrise on Little Adam’s Peak, then a drive to Koslanda and a hike to the natural plunge pools at the top of Diyaluma Falls, the island’s second-highest waterfall.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Picnic Lunch, Dinner",
+      "drivingTime": "Drive: ~1.5 hrs each way",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Swim in the upper Diyaluma pools"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Little Adam's Peak",
+          "lat": 6.8689,
+          "lng": 81.0628
+        },
+        {
+          "name": "Diyaluma Falls",
+          "lat": 6.734,
+          "lng": 81.031
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "title": "Farewell to the Mountains",
+      "description": "A slow breakfast with the valley view before the drive back to the airport — or onward to Yala or the south coast for a well-earned rest.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~6 hrs",
+      "details": [
+        {
+          "label": "Extension",
+          "value": "Beach recovery nights on request"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "kandy-knuckles",
+      "name": "Kandy & Knuckles"
+    },
+    {
+      "slug": "nuwara-eliya",
+      "name": "Nuwara Eliya"
+    },
+    {
+      "slug": "ella",
+      "name": "Ella"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcd20067yh7d7qznyl22",
+      "guestName": "Oliver Grant",
+      "initials": "OG",
+      "country": "CA",
+      "location": "Vancouver",
+      "partyLabel": "Solo Traveler",
+      "travellerType": "solo",
+      "tourType": "Trekking",
+      "tripLabel": "8-Day Highland Trekking & Cloud Forest Peaks",
+      "tour": {
+        "slug": "highland-trekking-cloud-forest-peaks",
+        "title": "Highland Trekking & Cloud Forest Peaks"
+      },
+      "rating": 5,
+      "title": "Sunrise on Sri Pada will stay with me forever",
+      "text": "Superbly organised trekking: permits sorted, a mountain guide who knew every shortcut and every tea shop, and the car waiting at each trailhead. Climbing Adam’s Peak at night with the pilgrims and watching the shadow of the mountain fall across the clouds was extraordinary.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "google",
+      "travelDate": "2025-04-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2025-04-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 1
+  },
+  "related": [
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Highland Trekking & Cloud Forest Peaks · 7 Nights / 8 Days",
+    "description": "Designed for avid hikers seeking panoramic summits, hidden waterfalls, and crisp high-altitude wilderness — the Knuckles cloud forest, the pilgrim ascent of Ada",
+    "image": {
+      "id": "cmuv1ndcz001d0i7dhfj0hyri",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBJVv__qU6gWW3hdxrRWYzFYKozSaW98b8Y5MgTYEaslO7R3Sbo9iL2cLMHQWGOaH5FU1naZ2ekvOPXBenhoqSxapEUQC3ne9ErCYD6KfCHfgQlgkG6E0Re6V7mxzVM1quBi92OoctrTW-WtpfBmjxEyWkm6VHLxVeXTOCuvOPdoxR87VbYB14uMzGHV6lJFw6dp_rx2OT87TelCSFkRcQgaDokHlxJv_D_rDUYEbDjRU49_rOHDlI",
+      "alt": "Morning view from the ridge of Little Adam's Peak over the Ella Gap",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.163Z"
+}

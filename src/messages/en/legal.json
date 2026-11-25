@@ -1,0 +1,684 @@
+{
+  "ui": {
+    "home": "Home",
+    "updated": "Last updated {date}",
+    "tocTitle": "On this page",
+    "tocCount": "{count, plural, one {# section} other {# sections}}",
+    "sectionLabel": "Section {number}",
+    "glanceTitle": "At a glance",
+    "templateTitle": "Template — pending legal review",
+    "templateBody": "This text is a carefully prepared template for a one-person guide business. It is not legal advice and must be reviewed by a qualified lawyer (Sri Lankan law and, for guests from the EU/UK, the GDPR) before it is relied upon.",
+    "emailCta": "Email me",
+    "whatsappCta": "Ask on WhatsApp",
+    "contactEmail": "Email",
+    "contactWhatsapp": "WhatsApp",
+    "contactAddress": "Address",
+    "contactLicence": "Licences",
+    "contactLicenceValue": "Guide {guideLicence} · Operator {operatorLicence}",
+    "backToTop": "Back to top",
+    "alsoRead": "Also read",
+    "tableScrollHint": "Scroll sideways to see the whole table"
+  },
+  "defaults": {
+    "businessName": "Serendiva – Ceylon Private Journeys",
+    "guideName": "Dinesh Jayasuriya",
+    "address": "Colombo, Sri Lanka",
+    "email": "private@serendiva.lk",
+    "whatsapp": "+94 77 123 4567",
+    "guideLicence": "SLTDA/SQA/NTGL/01482",
+    "operatorLicence": "TS/2024/091"
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy",
+      "description": "How Serendiva — a one-person private guide business in Sri Lanka — collects, uses and protects the personal data you share through inquiries, proposals, the newsletter and reviews."
+    },
+    "breadcrumb": "Privacy Policy",
+    "badge": "Legal · Your Personal Data",
+    "title": "Privacy Policy",
+    "titleAccent": "Your data, handled personally",
+    "intro": "I keep this simple: I only ask for what I need to answer you and plan your journey, I never sell it, and the website uses no tracking cookies.",
+    "updated": "2026-10-05",
+    "help": {
+      "title": "Questions about your data?",
+      "body": "Ask me what I hold about you, or to correct or delete it — I reply personally within one month, usually much sooner."
+    },
+    "related": { "label": "Terms of Bespoke Carriage", "href": "/terms" },
+    "glance": [
+      {
+        "label": "Data I sell",
+        "value": "None — ever",
+        "text": "Your details are used only to answer you and plan your journey."
+      },
+      {
+        "label": "Tracking cookies",
+        "value": "None",
+        "text": "Only essential cookies — no analytics or advertising trackers."
+      },
+      {
+        "label": "Your requests",
+        "value": "Within 1 month",
+        "text": "Access, correction or deletion — just write to me."
+      }
+    ],
+    "sections": [
+      {
+        "id": "who-i-am",
+        "short": "Who I am",
+        "kicker": "Data controller",
+        "title": "Who is responsible for your data",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This website is run by me, **{guideName}**, a licensed National Tourist Guide Lecturer (SLTDA licence {guideLicence}) trading as **{businessName}** (tour operator licence {operatorLicence}), {address}. I am the “controller” of the personal data described in this policy: I decide why and how it is used."
+          },
+          {
+            "type": "p",
+            "text": "There is no larger company behind the website — when you write to me, I personally read and answer your message. This policy explains what I collect, why, how long I keep it and which rights you have. It is written with the EU and UK General Data Protection Regulation (GDPR) and Sri Lanka’s Personal Data Protection Act, No. 9 of 2022 in mind."
+          }
+        ]
+      },
+      {
+        "id": "what-i-collect",
+        "short": "What I collect",
+        "kicker": "Your information",
+        "title": "What I collect",
+        "blocks": [
+          { "type": "p", "text": "I only ask for what I need. Depending on how you use the website, this is:" },
+          {
+            "type": "list",
+            "items": [
+              {
+                "term": "Trip inquiries",
+                "text": "When you send the inquiry form (including the forms on tour and destination pages): your name, email address, WhatsApp or phone number (optional), country of residence, who is travelling (party type, number of adults and children), travel dates or window, preferred length, pace and style of stay, interests, the tour or destination you ask about and your message."
+              },
+              {
+                "term": "Corporate proposals",
+                "text": "Company or organisation, contact person, email, phone, group size, dates, type of programme, the logistics you need, your message and — only if you choose to attach one — a brief as a PDF or DOCX file."
+              },
+              {
+                "term": "Newsletter",
+                "text": "Your email address, language, where you signed up and the dates you confirmed or unsubscribed. I use double opt-in: nothing is sent until you click the confirmation link in my email."
+              },
+              {
+                "term": "Reviews",
+                "text": "Your name, email address, country, city or region (optional), how you travelled, the tour you took, your rating, title, review and travel month. Your email address is never published; your name, country, region and review are, once I have approved them."
+              },
+              {
+                "term": "Direct messages",
+                "text": "If you write to me by email or WhatsApp, I receive the details you choose to share there."
+              },
+              {
+                "term": "Technical data",
+                "text": "When a form is sent, the server records your IP address, the page it was sent from, your browser’s language and the time — to prevent spam and abuse. Like every website, the hosting service also keeps short-lived server logs."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": "**The Trip Finder quiz** runs entirely in your browser: your answers are kept in the page address and are not sent to me unless you continue to the inquiry form. I do not take online payments and never collect card details on this website."
+          },
+          {
+            "type": "callout",
+            "tone": "info",
+            "title": "Please share only what is needed",
+            "text": "If you tell me about dietary needs, allergies, mobility or a medical condition so that I can plan safely, I use it only for your journey and only with your explicit consent. Please never send passport scans or payment card details through the website."
+          }
+        ]
+      },
+      {
+        "id": "purposes",
+        "short": "Why I use it",
+        "kicker": "Purposes & legal basis",
+        "title": "Why I use it — and on what legal basis",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I use your data only for the purposes below. Under the GDPR each purpose needs a legal basis:"
+          },
+          {
+            "type": "table",
+            "head": ["Purpose", "Data used", "Legal basis"],
+            "rows": [
+              [
+                "Answering your inquiry and preparing a proposal",
+                "Inquiry or proposal details and our messages",
+                "Steps you asked for before an agreement (Art. 6(1)(b) GDPR)"
+              ],
+              [
+                "Planning and guiding the journey we agree",
+                "Contact, party and travel details, special requirements",
+                "Performance of our agreement (Art. 6(1)(b)); explicit consent for health-related details (Art. 9(2)(a))"
+              ],
+              [
+                "Sending the Private Dispatch Journal newsletter",
+                "Email address and language",
+                "Your consent (Art. 6(1)(a)) — withdraw it at any time"
+              ],
+              ["Publishing your review", "Name, country, region and review", "Your consent (Art. 6(1)(a))"],
+              [
+                "Keeping the site secure and free of spam (hidden honeypot field, rate limits, optional Cloudflare Turnstile check)",
+                "IP address and technical data",
+                "Legitimate interest in protecting the service (Art. 6(1)(f))"
+              ],
+              [
+                "Keeping business, tax and licensing records",
+                "Records of confirmed journeys",
+                "Legal obligation (Art. 6(1)(c))"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "I never use your data for automated decision-making or profiling, and I never sell, rent or trade it."
+          }
+        ]
+      },
+      {
+        "id": "sharing",
+        "short": "Who I share it with",
+        "kicker": "Recipients",
+        "title": "Who I share it with",
+        "blocks": [
+          { "type": "p", "text": "I share personal data only when it is necessary, and only with:" },
+          {
+            "type": "list",
+            "items": [
+              {
+                "term": "Services that run this website for me",
+                "text": "the hosting provider of the website and its database, the file storage used for attachments and photographs, the email delivery service that sends inquiry notifications and newsletter confirmations and — if enabled — Cloudflare Turnstile for spam protection. These “processors” may use the data only on my instructions and under a data processing agreement."
+              },
+              {
+                "term": "Partners for your confirmed journey",
+                "text": "the hotels, drivers, naturalists, railway, national park and heritage-site ticket offices involved receive what they need — usually names, and passport details only where the law requires them for permits or check-in."
+              },
+              {
+                "term": "Messaging services you choose",
+                "text": "if you contact me on WhatsApp or by email, those services (for example Meta for WhatsApp) process the messages under their own privacy policies."
+              },
+              {
+                "term": "Authorities",
+                "text": "where I am legally required to, for example Sri Lankan tourism or tax authorities."
+              }
+            ]
+          },
+          { "type": "p", "text": "The names of the service providers I currently use are available on request." }
+        ]
+      },
+      {
+        "id": "transfers",
+        "short": "International transfers",
+        "kicker": "Outside the EU / UK",
+        "title": "International transfers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I am based in Sri Lanka, which is outside the European Economic Area and the United Kingdom and has no “adequacy decision” of the European Commission. When you send me an inquiry from Europe, your data is transferred to me because that is necessary to answer your request and to arrange the journey you ask for (Art. 49(1)(b) GDPR)."
+          },
+          {
+            "type": "p",
+            "text": "Where my service providers store data in other countries, I choose providers that offer appropriate safeguards, such as the European Commission’s Standard Contractual Clauses."
+          }
+        ]
+      },
+      {
+        "id": "retention",
+        "short": "How long I keep it",
+        "kicker": "Retention",
+        "title": "How long I keep it",
+        "blocks": [
+          { "type": "p", "text": "I keep personal data only as long as I need it, then delete it:" },
+          {
+            "type": "table",
+            "head": ["Data", "How long"],
+            "rows": [
+              ["Inquiries and proposals that do not lead to a journey", "24 months after our last contact"],
+              ["Attachments to corporate proposals", "12 months after they were sent"],
+              [
+                "Journeys we confirm",
+                "As long as Sri Lankan tax and tourism rules require (currently up to 6 years after the journey)"
+              ],
+              ["Newsletter subscription", "Until you unsubscribe; unconfirmed sign-ups are removed after 30 days"],
+              ["Published reviews", "While the review is online — ask me and I remove it"],
+              ["Server logs", "Up to 30 days"]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cookies",
+        "short": "Cookies & tracking",
+        "kicker": "No tracking",
+        "title": "Cookies & tracking",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This website uses **no analytics, advertising or social-media tracking cookies** and builds no visitor profiles. It sets only cookies that are strictly necessary for it to work, which do not need your consent:"
+          },
+          {
+            "type": "table",
+            "head": ["Cookie", "Purpose", "Duration"],
+            "rows": [
+              [
+                "NEXT_LOCALE",
+                "Remembers the language version of the site you are viewing",
+                "Until you close the browser"
+              ],
+              [
+                "sd_access, sd_refresh, sd_session",
+                "Keep the site owner signed in to the private admin area — never set for visitors",
+                "15 minutes / 30 days"
+              ],
+              ["Cloudflare Turnstile (only if enabled)", "Checks that a form is sent by a person, not a bot", "Session"]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Maps load their tiles from OpenStreetMap, which receives your IP address to deliver them. Videos, where shown, use YouTube’s privacy-enhanced mode and load only when you press play."
+          },
+          {
+            "type": "p",
+            "text": "If I ever add analytics or other non-essential cookies, I will ask for your consent first and update this policy."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "short": "Your rights",
+        "kicker": "You decide",
+        "title": "Your rights",
+        "blocks": [
+          { "type": "p", "text": "Wherever you live, you can ask me for:" },
+          {
+            "type": "list",
+            "items": [
+              { "term": "Access", "text": "a copy of the personal data I hold about you;" },
+              { "term": "Rectification", "text": "correction of inaccurate or incomplete data;" },
+              { "term": "Erasure", "text": "deletion of your data when I no longer need it or you withdraw consent;" },
+              { "term": "Restriction", "text": "limiting how I use it while a question is being resolved;" },
+              { "term": "Portability", "text": "the data you gave me in a common electronic format;" },
+              { "term": "Objection", "text": "to processing based on legitimate interests;" },
+              {
+                "term": "Withdrawal of consent",
+                "text": "for the newsletter or a published review, at any time — every newsletter contains an unsubscribe link."
+              }
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Write to me at {email}. I reply within one month and do not charge for it; I may first ask you to confirm your identity."
+          },
+          {
+            "type": "p",
+            "text": "You also have the right to complain to a supervisory authority — in the EU the data protection authority of your country, in the UK the Information Commissioner’s Office (ICO), in Sri Lanka the Data Protection Authority. I would be grateful for the chance to resolve your concern first."
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "short": "How I protect it",
+        "kicker": "Security",
+        "title": "How I protect it",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The website is served over encrypted HTTPS connections. Inquiries are stored in a database that only I can reach, through an admin area protected by a strong password, short-lived sessions and login rate limits. Uploads are limited to PDF and DOCX files, backups are encrypted and the software is kept up to date."
+          },
+          {
+            "type": "p",
+            "text": "No system is perfectly secure. If a breach ever put your data at risk, I would inform you and the competent authority as the law requires."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "short": "Children",
+        "kicker": "Families",
+        "title": "Children",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This website is not directed at children under 16, and I do not knowingly collect their data. For family journeys I ask parents or guardians only for what I need to plan safely — such as the number and ages of the children travelling."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "short": "Changes",
+        "kicker": "Updates",
+        "title": "Changes to this policy",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I update this policy when the website or the law changes. The date at the top shows the current version; I will tell newsletter subscribers about significant changes."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "short": "Contact",
+        "kicker": "Get in touch",
+        "title": "Contact & complaints",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Questions about your data, or want to use one of your rights? Write to me directly — I will answer personally."
+          },
+          { "type": "contact" }
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Bespoke Carriage",
+      "description": "The terms for using the Serendiva website and for inquiries about private journeys in Sri Lanka: inquiry-only website, no online payments, written journey agreements, cancellations, liability and governing law."
+    },
+    "breadcrumb": "Terms of Bespoke Carriage",
+    "badge": "Legal · Inquiry-Only Website",
+    "title": "Terms of Bespoke Carriage",
+    "titleAccent": "Clear, fair and personal",
+    "intro": "This website helps you get to know my journeys and start a conversation. Nothing is booked or paid here — every journey is agreed personally with you, in writing.",
+    "updated": "2026-10-05",
+    "help": {
+      "title": "Questions before you travel?",
+      "body": "If anything in these terms is unclear, ask me — I would rather explain than have you guess."
+    },
+    "related": { "label": "Privacy Policy", "href": "/privacy" },
+    "glance": [
+      {
+        "label": "Online payments",
+        "value": "None",
+        "text": "This website is for inquiries only — nothing is booked or charged here."
+      },
+      {
+        "label": "Your journey",
+        "value": "Agreed in writing",
+        "text": "Itinerary, inclusions and conditions are confirmed personally with you."
+      },
+      {
+        "label": "Governing law",
+        "value": "Sri Lanka",
+        "text": "Your mandatory consumer rights at home are not affected."
+      }
+    ],
+    "sections": [
+      {
+        "id": "about",
+        "short": "About these terms",
+        "kicker": "Who I am",
+        "title": "About these terms",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "These terms apply to the use of this website and to every inquiry you send me. They are offered by **{guideName}**, trading as **{businessName}**, {address} — a licensed National Tourist Guide Lecturer (SLTDA licence {guideLicence}) and registered tour operator (licence {operatorLicence}). “I”, “me” and “my” refer to me; “you” refers to the person using the website or travelling with me."
+          },
+          {
+            "type": "p",
+            "text": "By using the website you accept these terms. The specific arrangements for your journey are set out in the written journey agreement we make together (section 4), which takes precedence over these general terms where they differ."
+          }
+        ]
+      },
+      {
+        "id": "website",
+        "short": "Inquiry-only website",
+        "kicker": "No online booking",
+        "title": "An inquiry-only website",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This website presents my journeys, destinations and travel advice so that you can get to know my way of travelling. It is an **inquiry-only** website: you cannot book, reserve or pay for anything here, and sending a form creates no booking and no obligation for you or for me."
+          },
+          {
+            "type": "p",
+            "text": "Itineraries, routes, photographs and descriptions are examples of journeys I have designed. They are indicative, can change with the seasons, road and park conditions, and are always tailored before you travel. Availability shown on the website is a guide only and is confirmed personally."
+          }
+        ]
+      },
+      {
+        "id": "proposals",
+        "short": "Proposals & quotations",
+        "kicker": "Free & without obligation",
+        "title": "Inquiries, proposals & quotations",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "When you send an inquiry I reply personally — usually within 24 hours — with questions, ideas or a tailored proposal. Proposals are free of charge and without obligation."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Every quotation is prepared individually and sent to you privately in writing, by email or WhatsApp. No prices are published on this website.",
+              "A proposal is valid for the period stated in it; hotel, train and park availability can change until your journey is confirmed.",
+              "I may decline an inquiry, for example when I cannot guarantee the quality or safety of a requested programme."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "agreement",
+        "short": "Your journey agreement",
+        "kicker": "Confirmed in writing",
+        "title": "Your journey agreement",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A journey is confirmed only when we have both agreed its details in writing — your “journey agreement”. It sets out at least:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "the itinerary, dates and number of travellers;",
+              "what is included and what is not — accommodation, vehicle, guiding, entrance tickets, meals and activities;",
+              "how and when any payment is made, and the conditions for changes and cancellations;",
+              "any special requirements you have asked me to arrange."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Please read your journey agreement carefully and tell me straight away if anything is not as you expect."
+          }
+        ]
+      },
+      {
+        "id": "payments",
+        "short": "No online payments",
+        "kicker": "Payments",
+        "title": "No payments through this website",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No payments are taken through this website, and I will never ask you to enter card details here. If your journey requires a deposit or payment, the method and timing are agreed individually in your journey agreement."
+          },
+          {
+            "type": "callout",
+            "tone": "warning",
+            "title": "Beware of impersonation",
+            "text": "I only ever send payment details personally, from {email} or my WhatsApp number {whatsapp}. If you receive a request that looks unusual, please call or message me before acting on it."
+          }
+        ]
+      },
+      {
+        "id": "changes-cancellations",
+        "short": "Changes & cancellations",
+        "kicker": "Flexibility",
+        "title": "Changes & cancellations",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Because every journey is bespoke, changes and cancellations are handled according to the conditions of your individual journey agreement:"
+          },
+          {
+            "type": "list",
+            "items": [
+              {
+                "term": "Changes by you",
+                "text": "tell me as early as possible; I will do my best to adapt the plan and let you know if a change affects hotels, trains or permits already arranged."
+              },
+              {
+                "term": "Cancellation by you",
+                "text": "please cancel in writing; the conditions in your journey agreement apply, taking into account the costs that hotels and other providers charge for late cancellations."
+              },
+              {
+                "term": "Changes by me",
+                "text": "weather, monsoon patterns, road conditions, national park closures (for example the annual Yala closure), festivals or safety may require me to adjust the route, sometimes on the day. I always aim to offer an equivalent experience and will explain why."
+              },
+              {
+                "term": "Cancellation by me",
+                "text": "if I have to cancel a confirmed journey for reasons within my control, you will be offered an alternative or a full refund of what you paid me, as set out in your journey agreement."
+              },
+              {
+                "term": "Events beyond anyone’s control",
+                "text": "such as natural disasters, epidemics, civil unrest or official travel warnings are handled fairly and in line with your journey agreement and the applicable law."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "third-parties",
+        "short": "Independent providers",
+        "kicker": "Hotels, trains & parks",
+        "title": "Hotels, trains, parks & other providers",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hotels, villas, domestic flights, trains, national parks, heritage sites, restaurants and activity operators are independent providers. I choose them carefully and arrange their services on your behalf, but they deliver them under their own terms and responsibility. Entry rules, opening times and ticket conditions set by the authorities — for example the Department of Wildlife Conservation or the Central Cultural Fund — apply."
+          }
+        ]
+      },
+      {
+        "id": "your-responsibilities",
+        "short": "Your responsibilities",
+        "kicker": "Before & during the journey",
+        "title": "Your responsibilities",
+        "blocks": [
+          {
+            "type": "list",
+            "items": [
+              "Hold a valid passport and the right visa or Electronic Travel Authorization (ETA) for Sri Lanka.",
+              "Take out comprehensive travel insurance covering medical treatment, evacuation and cancellation — I strongly recommend it.",
+              "Follow medical advice on vaccinations and health precautions, and tell me about anything that affects the itinerary, such as mobility needs.",
+              "Respect local laws and customs, including dress codes and photography rules at temples and sacred sites.",
+              "Follow the safety instructions of your guide, drivers and park rangers — especially on safaris, treks and near water.",
+              "Give me accurate information for permits, tickets and accommodation."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "short": "Health & safety",
+        "kicker": "Your wellbeing",
+        "title": "Health, safety & accessibility",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Your safety comes first. Journeys are driven by experienced, licensed drivers, and I will change or stop an activity whenever conditions are unsafe. Practical advice is collected in my [Safety Protocol](/travel-guide#safety)."
+          },
+          {
+            "type": "p",
+            "text": "Some experiences — trekking, safaris, boat trips, climbing Sigiriya or Adam’s Peak — need a reasonable level of fitness. If you are unsure, ask me; I am happy to adapt any journey."
+          }
+        ]
+      },
+      {
+        "id": "liability",
+        "short": "Liability",
+        "kicker": "Responsibility",
+        "title": "Liability",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I plan and guide every journey with reasonable skill and care. Within the limits allowed by law:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "I am not liable for the acts or omissions of independent providers (section 7), for events beyond my reasonable control, or for losses caused by not following these terms or safety instructions;",
+              "I am not liable for indirect or consequential losses, such as onward travel you booked yourself or loss of income;",
+              "my total liability for a journey is limited to the value of the services I agreed to provide in your journey agreement."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Nothing in these terms limits liability for death or personal injury caused by negligence, for fraud, or any other liability that cannot be limited by law."
+          }
+        ]
+      },
+      {
+        "id": "licences",
+        "short": "Licences & insurance",
+        "kicker": "SLTDA licensed",
+        "title": "Licences & insurance",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I hold a Sri Lanka Tourism Development Authority (SLTDA) National Tourist Guide Lecturer licence ({guideLicence}), and {businessName} is a registered tour operator (licence {operatorLicence}). Vehicles used for your journey are commercially registered and insured for passenger transport, and drivers hold the required licences. Copies are available on request."
+          }
+        ]
+      },
+      {
+        "id": "content",
+        "short": "Website content & reviews",
+        "kicker": "Content",
+        "title": "Website content & reviews",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Texts, photographs, videos and itineraries on this website belong to me or are used with permission. You may share links and print pages for personal use, but please do not copy content for commercial purposes without my written consent."
+          },
+          {
+            "type": "p",
+            "text": "When you submit a review, you confirm that it describes your own experience and allow me to publish it on this website with your name, country and region — never your email address. I read reviews before they appear and may decline ones that are offensive, unrelated or contain other people’s personal data. You can ask me to remove your review at any time."
+          },
+          {
+            "type": "p",
+            "text": "Links to other websites are provided for convenience; I am not responsible for their content."
+          }
+        ]
+      },
+      {
+        "id": "complaints",
+        "short": "Complaints",
+        "kicker": "Putting things right",
+        "title": "Complaints",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "If something is not right during your journey, please tell me straight away so that I can fix it on the spot. If you are still unhappy afterwards, write to me at {email} within 28 days of your return; I will reply within 14 days. You may also contact the Sri Lanka Tourism Development Authority."
+          }
+        ]
+      },
+      {
+        "id": "law",
+        "short": "Governing law",
+        "kicker": "Jurisdiction",
+        "title": "Governing law & jurisdiction",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "These terms, and any dispute about them or about your journey, are governed by the laws of the Democratic Socialist Republic of Sri Lanka, and the courts of Colombo have jurisdiction."
+          },
+          {
+            "type": "p",
+            "text": "If you are a consumer living in the European Union, the United Kingdom or another country with mandatory consumer-protection laws, you keep the protection of those laws and may also bring proceedings in the courts of your home country."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "short": "Changes & contact",
+        "kicker": "Get in touch",
+        "title": "Changes to these terms & contact",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "I may update these terms from time to time; the version published on the date you confirm your journey applies to it. Questions are always welcome:"
+          },
+          { "type": "contact" }
+        ]
+      }
+    ]
+  }
+}

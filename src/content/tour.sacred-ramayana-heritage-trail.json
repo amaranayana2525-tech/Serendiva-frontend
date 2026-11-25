@@ -1,0 +1,644 @@
+{
+  "id": "cmuv1ndk9009g0i7dxtwfa133",
+  "slug": "sacred-ramayana-heritage-trail",
+  "title": "Sacred Ramayana Heritage Trail",
+  "summary": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and the caves and falls of Ravana Ella — with a private Vedic scholar.",
+  "cardTag": "Vedic Heritage",
+  "durationDays": 7,
+  "durationNights": 6,
+  "route": [
+    "Chilaw",
+    "Kandy",
+    "Nuwara Eliya",
+    "Ravana Ella",
+    "Rumassala"
+  ],
+  "highlights": [
+    "Munneswaram & Manavari Temples",
+    "Ashok Vatika Botanical Visit",
+    "Private Vedic Scholar Host"
+  ],
+  "isFeatured": false,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz001e0i7df7ew6mt6",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+    "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nde700540i7deus2t3mf",
+      "slug": "ramayana-trail",
+      "name": "Sacred Ramayana Heritage",
+      "shortName": "Ramayana Trail"
+    }
+  ],
+  "travellerTypes": [
+    "family",
+    "couple",
+    "group",
+    "solo"
+  ],
+  "seasons": [
+    "year-round"
+  ],
+  "description": "For many Hindu families, Sri Lanka is Lanka of the Ramayana. This journey visits the places tradition links to the epic: where Rama worshipped Shiva after the war, the gardens where Sita was held captive, the spot of her trial by fire, and the caves and waterfalls of Ravana’s kingdom.\n\nA Vedic scholar joins us at the main temples to explain the rituals and the stories, while I take care of timings, offerings and the comfort of every generation travelling with you.",
+  "badges": [
+    "Spiritual Mythology",
+    "Vedic Scholar Host",
+    "Family Friendly"
+  ],
+  "overview": {
+    "kicker": "Spiritual Mythology",
+    "heading": "Walking Through the Pages of the Ramayana",
+    "quote": "Whether you come as a pilgrim or simply love a great story, standing in the misty gardens of Seetha Eliya makes the epic feel astonishingly close."
+  },
+  "keyFeatures": [
+    {
+      "icon": "temple_hindu",
+      "title": "Sacred Kovils",
+      "text": "Munneswaram, Manavari, Ramboda and Seetha Amman temples."
+    },
+    {
+      "icon": "auto_stories",
+      "title": "Vedic Scholar Host",
+      "text": "Rituals and legends explained at every major site."
+    },
+    {
+      "icon": "local_florist",
+      "title": "Ashok Vatika",
+      "text": "The gardens of Hakgala, linked to Sita’s captivity."
+    },
+    {
+      "icon": "water",
+      "title": "Ravana Ella",
+      "text": "The legendary caves and waterfalls of Ravana’s kingdom."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "auto_stories",
+      "text": "Private Vedic scholar host at Munneswaram, Seetha Amman and Divurumpola"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Temple offerings (pooja baskets) prepared for every shrine"
+    },
+    {
+      "icon": "hotel",
+      "text": "6 nights handpicked boutique luxury accommodations with daily breakfasts and vegetarian-friendly dinners"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "720 Kilometers · 9 Ramayana Sites",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcm000t0i7djp6arixk",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAqWepzvitwFPBjD-l8PhX0fXhU1ZIQ0DT0XhT40AQyNpvj55HodxCcrGchK_HKvUdHkuaukxfV-CEVqxhi-bIBFSMW0ORGOvv0Q6AJYzI8PAUm7yRAjAPX0z6QjAUFJ_5q0WuWbZPpEHwbAhfsZmp_j2on7Z7D9OEKja1NayyIDfP3EYOXKHJ4gl3PgZWCAlU_7qsOuE4q28DZQNW0gXa8sEdoOeOVcvS2D7GhrKfdJ6if23SiGw",
+        "alt": "Seetha Amman temple among mountain streams in the Nuwara Eliya highlands",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Seetha Amman Kovil",
+      "caption": "Mountain streams and incense"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00220i7dy9tjbban",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBdWQIWZ7Bpf3MuGlYFmn7m_ke-oOllyl6kK5NALG55ZshI17IuIneYtiXqADm3yImbemRNV3AZTBRJs5wGjeRhTG1RKKJGPwp8f2T8_XgrlOAPW2ceG8ZMHPPha_mwVQ5daXqrM6_HT7aRjPW8afJIf2F4PB5eJrPcDUUY9EHZSvvsl_IvqcWJkYviAlW9XK4ZEbPz8wRueUTGggB3LdXfSSLnne68Ond3ieC1hHjU3UricZrGG6s",
+        "alt": "Tiered cascades of Ravana Falls among granite boulders near Ella",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ravana Falls",
+      "caption": "Cascades near Ella"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00320i7dt2g6m1ke",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAHp_KZGQtMK7Ujkclvo4uaHJCr2habxbeJsr9RQZFOooMD1wGfqnaTobKJDAafU_l3mx8ozta06qgSeO-u1cclZG9jeWHEPQI58_N675p5UWJfiJ4lWLjWYNgbakLlQRFCIe5e516WhW5Pf4KO-HXdcBej11MjHeqUlATxpomJapvBbRI18_MaJY5Trd8UCbzcqzvLfXqR_8UxvgFAukE7gB9-aG1CdRRp4DRxB-Xe7eEhXBsqeS0",
+        "alt": "Coconut oil lamps glowing in the Temple of the Sacred Tooth Relic, Kandy",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Kandy by Lamplight",
+      "caption": "An evening of devotion"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00260i7dltgfrae7",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAVfr8Fte8v6ANKtfNi-Qb4Oysj0DFDlIxohZgs9UvdtvMwD-O9T6WWVx-UhG5jzR49qGjXrlwnnPMh8wHDaXrl-42tE7vdQAkWBuR-e-TEQMxXIvjKVxqyzdl4knc_ni5C81ky-6DHtm_8o9Om6qmd7YKE9Zp6AvdOBybs9NIY4-l_w0v_k5mipi-0wx6VXOv9RFYHPdfq129o_5popc91OT3H28LjS1JCf-WQueHEc9cXldDRWQ8",
+        "alt": "Clear natural river pool over granite boulders in the Ella jungle",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ravana Sanctuary",
+      "caption": "Hidden rock pools in the forest"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & the Shiva Temples of Chilaw",
+      "description": "From the airport we drive north to Chilaw to visit Munneswaram, where tradition says Rama worshipped Shiva after the war, and the nearby Manavari temple with its sand-formed lingam. Overnight in a quiet lagoon resort.",
+      "overnightArea": "Waikkal",
+      "meals": "Lunch, Dinner",
+      "drivingTime": "Drive: ~1.5 hrs",
+      "details": [
+        {
+          "label": "Scholar Host",
+          "value": "Puja at Munneswaram with your Vedic scholar"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Munneswaram Temple",
+          "lat": 7.584,
+          "lng": 79.817
+        },
+        {
+          "name": "Manavari Temple",
+          "lat": 7.6091,
+          "lng": 79.8277
+        },
+        {
+          "name": "Waikkal",
+          "lat": 7.2833,
+          "lng": 79.85
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "To the Hill Capital of Kandy",
+      "description": "A drive inland to Kandy. In the evening we visit the Temple of the Tooth and the Kataragama Devalaya within the royal precinct, followed by a walk around Kandy Lake.",
+      "overnightArea": "Kandy",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Attire Prep",
+          "value": "White clothing recommended"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Waikkal",
+          "lat": 7.2833,
+          "lng": 79.85
+        },
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Hanuman’s Temple at Ramboda & Arrival in Nuwara Eliya",
+      "description": "The road climbs through tea estates to the Sri Bhakta Hanuman temple at Ramboda, built where Hanuman is said to have searched for Sita. Afternoon arrival in Nuwara Eliya.",
+      "overnightArea": "Nuwara Eliya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Hanuman temple with tea-country views"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Sri Bhakta Hanuman Temple, Ramboda",
+          "lat": 7.0525,
+          "lng": 80.695
+        },
+        {
+          "name": "Nuwara Eliya",
+          "lat": 6.9497,
+          "lng": 80.7891
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Ashok Vatika, Seetha Amman & Divurumpola",
+      "description": "The heart of the trail: the Seetha Amman temple beside the stream where Sita is said to have bathed, the Hakgala gardens identified with Ashok Vatika, and Divurumpola, the place of her trial by fire.",
+      "overnightArea": "Nuwara Eliya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Short Drives",
+      "details": [
+        {
+          "label": "Scholar Host",
+          "value": "Readings from the Ramayana at Seetha Eliya"
+        },
+        {
+          "label": "Botanical Visit",
+          "value": "Hakgala (Ashok Vatika) gardens"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Seetha Amman Temple",
+          "lat": 6.9406,
+          "lng": 80.8335
+        },
+        {
+          "name": "Hakgala Botanical Garden",
+          "lat": 6.9269,
+          "lng": 80.8197
+        },
+        {
+          "name": "Divurumpola Temple",
+          "lat": 6.9228,
+          "lng": 80.813
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "The Caves & Falls of Ravana Ella",
+      "description": "Down to Ella to visit the Ravana Cave, where legend says Sita was hidden, and the cascades of Ravana Falls. Evening with the valley views of the Ella Gap.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~2.5 hrs",
+      "details": [
+        {
+          "label": "Trek Grade",
+          "value": "Easy climb to the cave entrance"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ravana Cave",
+          "lat": 6.866,
+          "lng": 81.048
+        },
+        {
+          "name": "Ravana Falls",
+          "lat": 6.8406,
+          "lng": 81.0544
+        },
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "Ussangoda & Rumassala on the Southern Coast",
+      "description": "We follow the coast to Ussangoda, a red-earth plateau linked to Ravana’s legends, and Rumassala, the hill said to have fallen from Hanuman’s hands as he carried healing herbs. Overnight near Galle.",
+      "overnightArea": "Galle",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~4 hrs",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Sunset over the bay from Rumassala"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ussangoda",
+          "lat": 6.099,
+          "lng": 80.987
+        },
+        {
+          "name": "Rumassala",
+          "lat": 6.0189,
+          "lng": 80.2397
+        },
+        {
+          "name": "Galle Fort",
+          "lat": 6.0267,
+          "lng": 80.217
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "Farewell & Airport Transfer",
+      "description": "A morning walk in Galle Fort if time allows, then the expressway to the airport.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~2.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Farewell",
+          "value": "Blessed thread and tea gift from Dinesh"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Galle Fort",
+          "lat": 6.0267,
+          "lng": 80.217
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "kandy-knuckles",
+      "name": "Kandy & Knuckles"
+    },
+    {
+      "slug": "nuwara-eliya",
+      "name": "Nuwara Eliya"
+    },
+    {
+      "slug": "ella",
+      "name": "Ella"
+    },
+    {
+      "slug": "galle-fort",
+      "name": "Galle Fort"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcd40068yh7dg66x536f",
+      "guestName": "The Raghavan Family",
+      "initials": "TF",
+      "country": "IN",
+      "location": "Bengaluru",
+      "partyLabel": "5 Travelers",
+      "travellerType": "family",
+      "tourType": "Ramayana Pilgrimage",
+      "tripLabel": "7-Day Sacred Ramayana Trail",
+      "tour": {
+        "slug": "sacred-ramayana-heritage-trail",
+        "title": "Sacred Ramayana Heritage Trail"
+      },
+      "rating": 5,
+      "title": null,
+      "text": "Three generations travelled together and everyone was comfortable. The Vedic scholar at Seetha Amman explained each ritual beautifully for the children, and Dinesh had pooja baskets ready at every temple. A deeply meaningful journey for our family.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "google",
+      "travelDate": "2025-08-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2025-08-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 1
+  },
+  "related": [
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Sacred Ramayana Heritage Trail · 6 Nights / 7 Days",
+    "description": "Follow the Ramayana across the island — the Shiva shrines of Munneswaram and Manavari, Hanuman’s temple at Ramboda, Ashok Vatika and the Seetha Amman kovil, and",
+    "image": {
+      "id": "cmuv1ndcz001e0i7df7ew6mt6",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpl-U-q0PTEBNs_sRjehEJHnmgjPivUIaEKFTmmodI1ubyB0ch9c7g_8WV12Ko2CntsFi8oNS9HiMlCQXZlCEPWmZHn3zEkZb87kkVJQtTXYpUHieCPtNBXgDwS-7IIh6uGqCtgQWBfblr1EFfByKUeg74QUmtfYftxgnUDtvVpBSQRaDex5Vx-W37KaIbmQdumFzJp3gINwhtCTGADYoitdQ79rLzeOTm4huMhLNY_vSwQWj8bLc",
+      "alt": "Carved pillars and sanctum of Seetha Amman Kovil near Nuwara Eliya",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.163Z"
+}

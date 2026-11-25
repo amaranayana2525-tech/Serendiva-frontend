@@ -1,0 +1,594 @@
+{
+  "id": "cmuv1ndj0008d0i7d4b9av1hp",
+  "slug": "southern-beaches-whale-trails",
+  "title": "Pristine Southern Beaches & Whale Trails",
+  "summary": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and secluded coves near Tangalle.",
+  "cardTag": "Coastal Luxury",
+  "durationDays": 6,
+  "durationNights": 5,
+  "route": [
+    "Galle Fort",
+    "Weligama",
+    "Mirissa",
+    "Tangalle"
+  ],
+  "highlights": [
+    "Private Stilt Fishermen Encounter",
+    "Cinnamon Island Boat Safari",
+    "Sunset Oceanfront Dining"
+  ],
+  "isFeatured": false,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz001a0i7daohzzy3u",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+    "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nddy004y0i7d73erk1uw",
+      "slug": "pristine-beaches",
+      "name": "Pristine Southern Beaches",
+      "shortName": "Pristine Beach"
+    },
+    {
+      "id": "cmuv1nde300520i7dasiux54s",
+      "slug": "family",
+      "name": "Family Journeys & Wildlife",
+      "shortName": "Family Expeditions"
+    }
+  ],
+  "travellerTypes": [
+    "couple",
+    "family",
+    "solo",
+    "group"
+  ],
+  "seasons": [
+    "nov-apr"
+  ],
+  "description": "A coastal journey for travellers who want the sea in every day. We begin inside the walls of Galle Fort, follow the coast past Weligama’s surf and Mirissa’s whale grounds, and end in a quiet cove near Tangalle where the only sound at night is the surf — and, in season, nesting turtles.\n\nDrives are short, villas are chosen for their beaches, and there is always time for nothing at all.",
+  "badges": [
+    "Coastal Luxury",
+    "Whale Season",
+    "Private Chauffeur-Guide"
+  ],
+  "overview": {
+    "kicker": "Coastal Sanctuaries",
+    "heading": "Ramparts, Whales and Hidden Coves",
+    "quote": "On the south coast the best plans leave room for the tide, the light and a long lunch under the palms."
+  },
+  "keyFeatures": [
+    {
+      "icon": "fort",
+      "title": "Galle Fort Living",
+      "text": "Two nights inside the UNESCO walls in a restored merchant villa."
+    },
+    {
+      "icon": "sailing",
+      "title": "Whales & Cinnamon Islands",
+      "text": "A private whale charter and a Madu Ganga boat safari."
+    },
+    {
+      "icon": "beach_access",
+      "title": "Hand-Picked Beaches",
+      "text": "Villas chosen for safe swimming and quiet sand."
+    },
+    {
+      "icon": "restaurant",
+      "title": "Oceanfront Dining",
+      "text": "Sunset seafood dinners with your feet in the sand."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "sailing",
+      "text": "Private whale-watching charter off Mirissa and a Madu Ganga cinnamon island boat safari"
+    },
+    {
+      "icon": "hotel",
+      "text": "5 nights handpicked boutique luxury accommodations in beachfront villas and a Galle Fort heritage hotel, with breakfasts and dinners"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "330 Kilometers · 120 km of Indian Ocean Coastline",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz00350i7dcif4uptj",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCdFNx0nOH0W3hOppOfqCAYTo-iQWEyMDdOT1IzttaJvSNrzF6Yz2ZWqsfOwvRHqUEqkgBO3n7HoRMpquZjVYTLSdkl4jo22OjLguvP47sjkxK6qX7TPlFMm1BZdRqIncEisd4IemZhWtKv558j1j2aLZZ09sMCdTWJZjJKZG7RGljEeTrAN69IpyeuA6FZwIWKSmaJ2J6kY9FEVWCL0kDj7q2BRZoKecgh_3WBROG8BCjt3Plv4Ns",
+        "alt": "Lantern-lit colonnades and cobbled street in Galle Fort at twilight",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ramparts in Indigo",
+      "caption": "Galle Fort at twilight"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00300i7dhez8kyxl",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBHBzg5BgB2t9Zy9XdniNbypOdNQSZTvBRBoiIMg19IU5FB1qW1CHgjALmulDgaYVmNGj60o_29UfVjJpmG4bNIIWjdJ_wiy5CXhN_fbbrRpqHZ15mOVXlgoKW8ErxFo84gg1nXR-Ljbr8kJjkoKXC14BMu4viWAFUgX2aCjxWDgzqcq8EvefHVoWVZD-L5SbFA5vS3OpAvDMTX0Vhhr5FrwI7lyT_HD6OoEtt9xzW3INwCk21Ly0I",
+        "alt": "Stilt fishermen silhouetted against a fiery Indian Ocean dusk",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Riti Panna Twilight",
+      "caption": "Stilt fishermen at dusk"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001w0i7dtqc58ubx",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBd6jYuvhg8nm1k5SVsNMMqF0ZKEst851nwkmMPeFBTxqd0kKhIqqoe7hyr3CrF3sL7VBiQAomKMOte--fb2n3FC5bsRm0pPv4aYxnojfRsbMAy9XnxszuOjA16heXqC58fLw-4PGqFTISh3W9dWerN-qMx8V9jZHYkPNSgaKs5ToouunfwZGi_gILl8dVsbruQ4bl8GvXXBQnEtQYWw5RCShEo4F957sjBDm7i_H_gfXE_0UD4tIA",
+        "alt": "Blue whale raising its tail off the coast of Mirissa",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Blue Whale",
+      "caption": "Off the Mirissa shelf"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz003g0i7d6jsb4j9q",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBc75DyMjy61rsm0ENOvlMt9DOFlhGs32klgi_CIlnF6y2BFc1cVWDbqJ4OWl3XTWWMkXHzTHh-qczg8v3UxpfKFQCgIxFoQnv9YuDJJtMAyAx9qH51yJ8n2RbeoxpC91EJ_vHOVzzvi80iKVeqloTi9eLKnm46REcCf2RbMUtBdg2r6Rzi9GB6ue-MJ2eqaZgLTR2N0bPQIeJmofTKTgXpAGnzSe3qaqcn5jP3i5Xz-wP9hQCfn28",
+        "alt": "Secluded white-sand cove in Tangalle with leaning coconut palms",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Tangalle Cove",
+      "caption": "White sand and leaning palms"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & Sunset on the Galle Fort Ramparts",
+      "description": "The Southern Expressway brings us to Galle in about two and a half hours. After checking into a restored villa inside the fort, we walk the ramparts to Flag Rock for sunset.",
+      "overnightArea": "Galle Fort",
+      "meals": "Dinner",
+      "drivingTime": "Drive: ~2.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Sunset Highlight",
+          "value": "Rampart walk to Flag Rock Bastion"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Galle Fort",
+          "lat": 6.0267,
+          "lng": 80.217
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "Cinnamon Islands of the Madu Ganga",
+      "description": "A morning boat safari through the mangrove channels of the Madu Ganga to a tiny island where a family peels cinnamon by hand. Afternoon in the fort’s lanes, galleries and courtyard cafés.",
+      "overnightArea": "Galle Fort",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~1 hr each way",
+      "details": [
+        {
+          "label": "Private Boat",
+          "value": "Shaded wooden boat with refreshments"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Galle Fort",
+          "lat": 6.0267,
+          "lng": 80.217
+        },
+        {
+          "name": "Madu Ganga Estuary",
+          "lat": 6.2853,
+          "lng": 80.0417
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Stilt Fishermen & the Surf Town of Weligama",
+      "description": "Along the coast to Ahangama for an unhurried morning with a stilt-fishing family, then lunch and an afternoon on Weligama’s gentle surf (lessons available). Evening arrival at a Mirissa beach villa.",
+      "overnightArea": "Mirissa",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~1 hr",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Private stilt fishermen encounter"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ahangama Stilt Fishermen",
+          "lat": 5.973,
+          "lng": 80.37
+        },
+        {
+          "name": "Weligama Bay",
+          "lat": 5.9739,
+          "lng": 80.4294
+        },
+        {
+          "name": "Mirissa",
+          "lat": 5.9483,
+          "lng": 80.4716
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Blue Whales at Dawn & Coconut Tree Hill",
+      "description": "A private yacht out to the continental shelf at sunrise to look for blue whales and dolphins with a marine naturalist. Long lunch, a swim, and a golden-hour walk up Coconut Tree Hill.",
+      "overnightArea": "Mirissa",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "At Sea",
+      "details": [
+        {
+          "label": "Season Note",
+          "value": "Whales Nov – Apr"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Mirissa",
+          "lat": 5.9483,
+          "lng": 80.4716
+        },
+        {
+          "name": "Coconut Tree Hill",
+          "lat": 5.9437,
+          "lng": 80.4627
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "Mulkirigala Rock Temple & Tangalle’s Hidden Coves",
+      "description": "East along the coast to Tangalle, with a climb to the cave temples of Mulkirigala on the way. In the evening, an oceanfront dinner and — in season — a quiet, guided visit to watch turtles nesting at Rekawa.",
+      "overnightArea": "Tangalle",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~1.5 hrs",
+      "details": [
+        {
+          "label": "Sunset Dining",
+          "value": "Seafood dinner on the beach"
+        },
+        {
+          "label": "Wildlife",
+          "value": "Ethical turtle watch at Rekawa (season permitting)"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Mulkirigala Rock Temple",
+          "lat": 6.123,
+          "lng": 80.736
+        },
+        {
+          "name": "Tangalle",
+          "lat": 6.024,
+          "lng": 80.794
+        },
+        {
+          "name": "Rekawa Turtle Beach",
+          "lat": 6.049,
+          "lng": 80.852
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "A Last Swim & Airport Farewell",
+      "description": "A final morning swim in the cove before the expressway takes us back to the airport.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~3.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Late Check-Out",
+          "value": "Day room available on request"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Tangalle",
+          "lat": 6.024,
+          "lng": 80.794
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "galle-fort",
+      "name": "Galle Fort"
+    },
+    {
+      "slug": "mirissa-weligama",
+      "name": "Mirissa & Weligama"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vccw0066yh7deevjdv8q",
+      "guestName": "Mei Lin & Jun Zhang",
+      "initials": "MZ",
+      "country": "CN",
+      "location": "Shanghai",
+      "partyLabel": "2 Travelers",
+      "travellerType": "couple",
+      "tourType": "Beach & Whales",
+      "tripLabel": "6-Day Southern Beaches & Whale Trails",
+      "tour": {
+        "slug": "southern-beaches-whale-trails",
+        "title": "Pristine Southern Beaches & Whale Trails"
+      },
+      "rating": 5,
+      "title": null,
+      "text": "Our first trip to Sri Lanka and we will be back. The blue whale surfaced right beside our small boat, the cinnamon island family made us tea, and the beach dinner in Tangalle was the most romantic evening of our year. Dinesh even taught us a few words of Sinhala.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "tripadvisor",
+      "travelDate": "2026-02-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2026-02-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 1
+  },
+  "related": [
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Pristine Southern Beaches & Whale Trails · 5 Nights / 6 Days",
+    "description": "Five unhurried nights along the southern coast — Galle Fort’s ramparts, a cinnamon island boat safari, stilt fishermen at sunset, blue whales off Mirissa and se",
+    "image": {
+      "id": "cmuv1ndcz001a0i7daohzzy3u",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU9ucexPPh2k6qVei-v0jVJvif2zC-_v2wguSr746xMOyctqQzi9TnOtSAjiZ81TXpzSWzohd_FctSsJBJb-W-PNQ0_Li5HDZdiNdeBAgLuE3FdtdaNxxJwvupfNtuXXe1zHK0q5GMEyXyYJ60F4plTCJLNiQw9UFcslJNIXd2cqk94uJ-sPipre8FGHive9h2v3VaukNQOnwr5gPYPD-vgoR6uYk71xxr7dtn10IaCh0r2_9-jOg",
+      "alt": "Golden crescent beach in Tangalle with palms and stilt fishermen at twilight",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.161Z"
+}

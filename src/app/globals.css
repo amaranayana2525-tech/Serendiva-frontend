@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------------------------------------
+ * Base — mirrors the <style> block every Stitch screen ships with, plus accessibility defaults.
+ * (Stitch also hides every webkit scrollbar globally; we only hide them where the design scrolls
+ *  horizontally — use the `no-scrollbar` utility — so the page scrollbar stays usable.)
+ * ---------------------------------------------------------------------------------------------- */
+@layer base {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+  }
+
+  body {
+    overscroll-behavior: none;
+    @apply bg-surface font-body-lg text-on-surface antialiased;
+  }
+
+  main > :first-child {
+    margin-top: 0 !important;
+  }
+
+  main > :last-child {
+    margin-bottom: 0 !important;
+  }
+
+  ::selection {
+    background-color: theme('colors.secondary-fixed');
+    color: theme('colors.on-secondary-fixed');
+  }
+
+  /* Visible keyboard focus everywhere; components refine it with focus-visible:ring-* utilities. */
+  :focus-visible {
+    outline: 2px solid theme('colors.primary');
+    outline-offset: 2px;
+  }
+
+  /* In-page anchors land below the fixed 80px header. */
+  [id] {
+    scroll-margin-top: 6rem;
+  }
+
+  /* Native <dialog> backdrop (Dialog / Lightbox): Deep Ocean Teal 40% + 8px blur per DESIGN.md. */
+  dialog::backdrop {
+    background-color: rgb(0 52 65 / 0.4);
+    backdrop-filter: blur(8px);
+  }
+
+  /* Number inputs without spinners (party size steppers use buttons). */
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+@layer components {
+  /* Material Symbols sprite icon (<Icon />). font-size drives the size so Stitch classes such as
+     text-sm / text-[18px] / text-2xl keep working (Tailwind utilities override the 24px default). */
+  .icon {
+    width: 1em;
+    height: 1em;
+    font-size: 24px;
+    display: inline-block;
+    flex-shrink: 0;
+    fill: currentColor;
+    vertical-align: middle;
+  }
+
+  /* Visually hidden until focused (skip links). */
+  .sr-only-focusable:not(:focus):not(:focus-within) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  /* Long-form content rendered from the API's markdown (<Markdown />). */
+  .markdown {
+    @apply font-body-lg text-body-lg text-on-surface-variant;
+  }
+  .markdown > * + * {
+    @apply mt-space-md;
+  }
+  .markdown h2 {
+    @apply mt-space-xl font-headline-lg text-headline-lg-mobile text-primary md:text-headline-lg;
+  }
+  .markdown h3 {
+    @apply mt-space-lg font-headline-sm text-headline-sm text-primary;
+  }
+  .markdown h4 {
+    @apply mt-space-lg font-label-lg text-label-lg uppercase tracking-widest text-secondary;
+  }
+  .markdown a {
+    @apply font-medium text-primary underline decoration-secondary/40 underline-offset-4 transition-colors hover:text-secondary;
+  }
+  .markdown strong {
+    @apply font-semibold text-on-surface;
+  }
+  .markdown ul {
+    @apply list-disc space-y-space-xs pl-space-lg marker:text-secondary;
+  }
+  .markdown ol {
+    @apply list-decimal space-y-space-xs pl-space-lg marker:font-semibold marker:text-secondary;
+  }
+  .markdown blockquote {
+    @apply rounded-r-xl border-l-[3px] border-[rgba(201,162,75,0.6)] bg-surface-container-low px-space-lg py-space-md font-headline-sm text-headline-sm font-normal italic text-primary;
+  }
+  .markdown hr {
+    @apply my-space-xl border-outline-variant/50;
+  }
+  .markdown table {
+    @apply w-full border-collapse overflow-hidden rounded-xl text-left font-body-md text-body-md;
+  }
+  .markdown th {
+    @apply bg-surface-container px-space-md py-space-sm font-label-md text-label-md uppercase tracking-wider text-primary;
+  }
+  .markdown td {
+    @apply border-t border-surface-container px-space-md py-space-sm;
+  }
+  .markdown code {
+    @apply rounded bg-surface-container px-1 py-0.5 text-[0.9em];
+  }
+  .markdown img {
+    @apply rounded-xl;
+  }
+}
+
+@layer utilities {
+  /* Horizontal carousels / chip rows from the Stitch export scroll without a visible scrollbar.
+     Gotcha: give every overflow-x-auto container `relative`, otherwise absolutely positioned children
+     (e.g. `sr-only` text) escape it and widen the page (horizontal scroll on phones). */
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Touch screens: grows the hit area of a small control (text link, chip, dot, tab) to at least 44×44 px
+     without changing how it looks. The element must be positioned (`relative`/`absolute`) and must not use
+     ::after itself. Inside an `overflow-x-auto` row, give the row enough vertical padding (e.g. `py-2 -my-2`)
+     so the invisible area does not make the row scroll vertically. */
+  @media (pointer: coarse) {
+    .tap-target::after {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: max(100%, 44px);
+      height: max(100%, 44px);
+      transform: translate(-50%, -50%);
+    }
+  }
+
+  /* Organic ambient elevation from DESIGN.md. */
+  .shadow-ambient {
+    box-shadow:
+      0 16px 36px -12px rgba(43, 43, 43, 0.08),
+      0 4px 12px -4px rgba(43, 43, 43, 0.04);
+  }
+}
+
+/* Respect reduced-motion: no smooth scrolling, no animations/transitions (Reveal/CountUp also check it in JS). */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Leaflet zoom buttons are 30 px on touch screens by default — make them proper 44 px tap targets.
+   (Outside @layer so Tailwind never purges it: the Leaflet class names only exist at runtime.) */
+.leaflet-container.leaflet-touch .leaflet-bar a {
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+}

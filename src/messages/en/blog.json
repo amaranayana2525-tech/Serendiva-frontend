@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "title": "Field Dispatches: Sri Lanka Travel Notes from a Licensed Guide",
+    "description": "Insider essays on Sri Lanka from a licensed national tourist guide — dawn at Sigiriya, the hill-country railway, leopards of Yala, Ceylon cuisine, Geoffrey Bawa and responsible travel."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "current": "Dispatches & Field Notes"
+  },
+  "metaBar": {
+    "live": "Live Journal • Field Notes",
+    "desk": "Written on the Road Across Sri Lanka"
+  },
+  "header": {
+    "eyebrow": "The Serendiva Journal",
+    "subEyebrow": "Stories & Field Notes",
+    "title": "Dispatches from the",
+    "titleAccent": "Teardrop Island",
+    "intro": "Insider essays, seasonal wildlife movements, culinary revelations and off-the-beaten-track routes — written on the road by me and a few trusted friends: naturalists, chefs and architects.",
+    "curatorTitle": "Curated by Your Guide",
+    "curatorBody": "Every field note is written or vetted by Dinesh Jayasuriya, licensed national tourist guide lecturer."
+  },
+  "featured": {
+    "label": "Featured dispatch",
+    "badge": "Featured Dispatch",
+    "eyebrow": "{category} • {minutes} Min Read",
+    "noteLabel": "Curator’s Note:",
+    "note": "Every route in this dispatch can be woven into your private itinerary — just ask me.",
+    "cta": "Read Field Dispatch",
+    "guestContributor": "Guest Contributor"
+  },
+  "filters": {
+    "label": "Filter dispatches by category",
+    "all": "All Articles ({count})",
+    "category": "{label} ({count})",
+    "searchLabel": "Search dispatches",
+    "searchPlaceholder": "Search articles, wildlife, ruins…"
+  },
+  "grid": {
+    "eyebrow": "Curated Dispatches",
+    "title": "Field Essays & Journey Logs",
+    "sortLabel": "Sort By:",
+    "sortValue": "Newest First",
+    "results": "{count, plural, =0 {No dispatches match} one {# dispatch shown} other {# dispatches shown}}",
+    "showing": "Showing {shown} of {total}",
+    "loadMore": "Load More Dispatches"
+  },
+  "empty": {
+    "title": "No Dispatches Found",
+    "body": "No field notes match your search. Try “Sigiriya”, “Leopard”, “Bawa” or “Train”.",
+    "reset": "Reset Filter"
+  },
+  "newsletter": {
+    "eyebrow": "The Serendiva Dispatch Club",
+    "title": "Receive Seasonal Dispatches in Your Inbox",
+    "body": "Join mindful travellers who receive my quarterly notes on seasonal wildlife movements, newly restored tea bungalows and private route ideas.",
+    "pointOne": "Written by me, from the field",
+    "pointTwo": "Zero commercial spam, ever"
+  },
+  "spotlight": {
+    "eyebrow": "Voice from the Field",
+    "quote": "“A journey across Ceylon is not about ticking off landmarks, but understanding the whisper of the monsoon and the rhythm of the village tank.”",
+    "bio": "I have spent {years} years guiding diplomats, architectural historians, conservationists and families along Sri Lanka’s quietest tracks. My field journals chronicle the subtle changes in the national parks, temple customs and forgotten colonial rest houses.",
+    "licence": "Licence #{number}",
+    "years": "{years}+ Years Field Experience",
+    "dispatches": "{count, plural, one {# Field Dispatch} other {# Field Dispatches}} Published",
+    "conservation": "Wildlife Conservation Supporter"
+  },
+  "finalCta": {
+    "eyebrow": "From Story to Itinerary",
+    "title": "Inspired by These Dispatches? Let’s Turn Them Into Your Private Itinerary.",
+    "body": "Every route in this journal can be woven into a bespoke private journey, matched to your travel pace, favourite sanctuaries and culinary curiosity.",
+    "plan": "Design My Bespoke Tour",
+    "whatsapp": "WhatsApp with Dinesh",
+    "trustOne": "Dedicated Private Chauffeur-Guide & Vehicle",
+    "trustTwo": "Vetted Architectural & Tea Estate Stays",
+    "trustThree": "Personal Support Throughout Your Journey"
+  },
+  "article": {
+    "breadcrumbBlog": "Field Dispatches",
+    "readingTime": "{minutes} Min Read",
+    "published": "Published {date}",
+    "updated": "Updated {date}",
+    "by": "By {name}",
+    "toc": {
+      "title": "In This Dispatch",
+      "label": "Table of contents",
+      "count": "{count, plural, one {# Section} other {# Sections}}",
+      "toggle": "In this dispatch",
+      "current": "Now reading"
+    },
+    "tags": {
+      "title": "Filed Under",
+      "link": "More dispatches about {tag}"
+    },
+    "share": {
+      "title": "Share This Dispatch",
+      "copy": "Copy Link",
+      "copied": "Link Copied",
+      "copyFailed": "Copy failed — please copy the address bar",
+      "whatsapp": "WhatsApp",
+      "whatsappLabel": "Share on WhatsApp",
+      "email": "Email",
+      "emailLabel": "Share by email",
+      "emailBody": "I thought you would enjoy this dispatch from Sri Lanka: {url}"
+    },
+    "author": {
+      "eyebrow": "About the Author",
+      "guestEyebrow": "Guest Contributor",
+      "licence": "Licence #{number}",
+      "years": "{years} years guiding private journeys",
+      "bio": "I write these dispatches between journeys — field notes from {years} years of guiding travellers through Sri Lanka’s temples, tea country and wild places.",
+      "guestBio": "Written by {name} as a guest dispatch for the Serendiva Journal.",
+      "reviewedBy": "Reviewed by {name}",
+      "more": "Meet Your Guide"
+    },
+    "inlineCta": {
+      "eyebrow": "From Story to Itinerary",
+      "title": "Would You Like to Experience This Yourself?",
+      "body": "I can weave this dispatch into your private journey — timed to the right season, at your pace, with me as your guide.",
+      "plan": "Plan My Trip",
+      "whatsapp": "Ask on WhatsApp",
+      "message": "I read your dispatch “{title}” and would love to include this in my journey."
+    },
+    "advice": {
+      "title": "Questions About This Route?",
+      "body": "Message me with your dates and I will tell you honestly how this fits your journey.",
+      "cta": "Ask Dinesh on WhatsApp"
+    },
+    "related": {
+      "eyebrow": "Keep Reading",
+      "title": "More Field Dispatches",
+      "all": "All Dispatches"
+    }
+  }
+}

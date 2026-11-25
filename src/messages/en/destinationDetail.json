@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "title": "{name}, Sri Lanka · Private Guide"
+  },
+  "hero": {
+    "elevation": "{region} • {elevation}m",
+    "galleryLabel": "Photo highlights of {name}",
+    "openImage": "Open photo “{title}” in the image viewer",
+    "viewGallery": "View {count, plural, one {# photo} other {all # photos}}"
+  },
+  "facts": {
+    "label": "Quick facts about {name}"
+  },
+  "guide": {
+    "years": "{years} Years Guiding Ceylon Ridges",
+    "quote": "“{text}”",
+    "perksLabel": "What a private host opens for you"
+  },
+  "experiences": {
+    "eyebrow": "Handcrafted Itinerary Highlights",
+    "title": "Signature {name} Encounters",
+    "intro": "Each experience is timed around natural sunlight, temperature, and solitary access—crafted to immerse you without friction.",
+    "curated": "Curated by Serendiva",
+    "inquire": "Ask me about “{title}”"
+  },
+  "cuisine": {
+    "eyebrow": "Ceylon Regional Gastronomy"
+  },
+  "stays": {
+    "eyebrow": "Hand-Selected Sanctuaries",
+    "title": "Where Serendiva Guests Rest in {name}",
+    "intro": "I decline generic hotels. Every property I recommend is an architecturally expressive haven vetted for quiet privacy, authentic character, and exceptional hospitality."
+  },
+  "fieldNotes": {
+    "title": "Guide Field Notes: {name} Nuances",
+    "quote": "“{text}”"
+  },
+  "map": {
+    "eyebrow": "Regional Geography",
+    "title": "{name} & Surrounding Sanctuary Map",
+    "zone": "SLTDA Certified Exploration Zone",
+    "label": "Map of {name} and nearby landmarks",
+    "legendLabel": "Landmarks — select one to show it on the map",
+    "focus": "Show {name} on the map",
+    "centre": "{name} (destination centre)",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "attribution": "© OpenStreetMap contributors",
+    "titleCompound": "Map of {name} and Its Surroundings"
+  },
+  "faq": {
+    "eyebrow": "Before You Travel",
+    "title": "{name}: Questions I’m Often Asked"
+  },
+  "inquiry": {
+    "eyebrow": "Tailored To Your Rhythm",
+    "title": "Include {name} in My Journey",
+    "intro": "Handled personally by National Chauffeur-Guide {guide}. No automated algorithms or rigid group schedules.",
+    "formLabel": "Include {name} in my journey — inquiry form",
+    "labels": {
+      "name": "Your Full Name",
+      "email": "Private Email Address",
+      "whatsapp": "WhatsApp / Mobile Contact",
+      "month": "Travel Month",
+      "stay": "Stay in {name}",
+      "interests": "{name} Experiences Desired"
+    },
+    "placeholders": {
+      "name": "Lord / Lady / Mr / Ms...",
+      "email": "name@company.com",
+      "whatsapp": "+44 7911 123456 / +1..."
+    },
+    "monthPlaceholder": "Select month",
+    "flexible": "Flexible / not sure yet",
+    "stay": {
+      "one": "1 Night (Brief)",
+      "two": "2 Nights (Ideal)",
+      "three": "3+ Nights (Deep)"
+    },
+    "stayValue": "{stay} in {name}",
+    "submit": "Send Bespoke Inquiry",
+    "whatsapp": "Chat Direct with Dinesh",
+    "successTitle": "Thank you — {name} is now part of your blueprint.",
+    "successBody": "I will reach out personally via WhatsApp or email with your bespoke route plan, usually within 12 hours.",
+    "sendAnother": "Send another inquiry",
+    "trustLabel": "Why travellers plan with me",
+    "trust": {
+      "chauffeur": "100% Dedicated Chauffeur & Luxury Hybrid SUV",
+      "tickets": "Permits, Passes & Observation-Train Tickets Hand-Arranged",
+      "licensed": "SLTDA Licensed Guide #{license}",
+      "licensedNoNumber": "SLTDA Licensed National Guide",
+      "noObligation": "Zero Obligation, Complimentary Custom Route Plan"
+    },
+    "introNoGuide": "Handled personally by your National Chauffeur-Guide. No automated algorithms or rigid group schedules.",
+    "messagePlaceholder": "Anything I should know — special occasions, dietary or mobility needs…"
+  },
+  "journeys": {
+    "eyebrow": "Bespoke Ceylon Routes",
+    "title": "Journeys Weaving Through {name}",
+    "intro": "{name} is rarely experienced in isolation. These thoughtfully balanced itineraries weave it together with ancient capitals, tea country and coastal fortresses.",
+    "footer": "Bespoke Private Chauffeur",
+    "explore": "Explore Route",
+    "exploreLabel": "Explore the route: {title}",
+    "emptyTitle": "No published journey visits {name} yet",
+    "emptyBody": "I design every route from scratch — share your dates and I will weave {name} into a private journey for you.",
+    "emptyCta": "Design a Journey Around {name}"
+  },
+  "connections": {
+    "eyebrow": "Effortless Regional Chauffeur Drives",
+    "title": "Connecting {name} to the Rest of Ceylon",
+    "intro": "My private air-conditioned vehicles transition seamlessly from alpine mist to leopard-rich jungles or Indian Ocean beaches.",
+    "distance": "≈ {km} km as the crow flies",
+    "direction": {
+      "N": "To North",
+      "NE": "To North-East",
+      "E": "To East",
+      "SE": "To South-East",
+      "S": "To South",
+      "SW": "To South-West",
+      "W": "To West",
+      "NW": "To North-West"
+    }
+  }
+}

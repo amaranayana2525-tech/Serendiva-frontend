@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base { html, body { margin: 0; padding: 0; } body { overscroll-behavior: none; } main > :first-child { margin-top: 0 !important; } main > :last-child { margin-bottom: 0 !important; } } ::-webkit-scrollbar { display: none; }</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "surface-container": "#f3ede2", "on-tertiary-container": "#98bf89", "outline": "#70787c", "tertiary-container": "#2c4e23", "surface-container-high": "#ede8dd", "on-secondary": "#ffffff", "on-primary": "#ffffff", "on-primary-fixed": "#001f28", "tertiary": "#16370f", "on-tertiary-fixed-variant": "#2d4f24", "on-background": "#1d1c15", "tertiary-fixed-dim": "#aad19a", "on-surface-variant": "#40484b", "inverse-on-surface": "#f6f0e5", "on-primary-container": "#87bbce", "on-secondary-fixed": "#370e00", "on-error": "#ffffff", "inverse-surface": "#333029", "surface-variant": "#e8e2d7", "secondary": "#9c441e", "primary-fixed-dim": "#9acee1", "surface": "#fff9ee", "surface-container-highest": "#e8e2d7", "surface-dim": "#dfd9cf", "on-surface": "#1d1c15", "background": "#fff9ee", "primary-container": "#0f4c5c", "on-tertiary-fixed": "#022100", "error-container": "#ffdad6", "secondary-fixed": "#ffdbce", "primary-fixed": "#b6ebfe", "inverse-primary": "#9acee1", "on-tertiary": "#ffffff", "surface-container-low": "#f9f3e8", "error": "#ba1a1a", "surface-container-lowest": "#ffffff", "on-error-container": "#93000a", "on-secondary-fixed-variant": "#7d2d08", "surface-bright": "#fff9ee", "secondary-fixed-dim": "#ffb59a", "on-primary-fixed-variant": "#114d5d", "secondary-container": "#ff9064", "on-secondary-container": "#752803", "primary": "#003441", "surface-tint": "#306576", "tertiary-fixed": "#c5eeb4", "outline-variant": "#c0c8cb" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "margin-md": "3rem", "gutter-lg": "2.5rem", "space-3xl": "6rem", "space-lg": "1.5rem", "margin": "1.5rem", "gutter": "1.5rem", "space-xl": "2.5rem", "margin-lg": "5rem", "space-2xl": "4rem", "space-md": "1rem", "space-sm": "0.5rem", "space-xs": "0.25rem" }, "fontFamily": { "label-md": ["Inter"], "headline-sm": ["Playfair Display"], "label-lg": ["Inter"], "headline-xl": ["Playfair Display"], "headline-md": ["Playfair Display"], "display-lg-mobile": ["Playfair Display"], "body-md": ["Inter"], "body-lg": ["Inter"], "display-lg": ["Playfair Display"], "caption": ["Inter"], "body-xl": ["Inter"], "headline-xl-mobile": ["Playfair Display"], "headline-lg-mobile": ["Playfair Display"], "headline-lg": ["Playfair Display"] }, "fontSize": { "label-md": ["11px", { "lineHeight": "16px", "letterSpacing": "0.1em", "fontWeight": "600" }], "headline-sm": ["20px", { "lineHeight": "28px", "fontWeight": "600" }], "label-lg": ["13px", { "lineHeight": "18px", "letterSpacing": "0.08em", "fontWeight": "600" }], "headline-xl": ["40px", { "lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "headline-md": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "display-lg-mobile": ["38px", { "lineHeight": "46px", "letterSpacing": "-0.01em", "fontWeight": "600" }], "body-md": ["14px", { "lineHeight": "22px", "fontWeight": "400" }], "body-lg": ["16px", { "lineHeight": "26px", "fontWeight": "400" }], "display-lg": ["56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "600" }], "caption": ["12px", { "lineHeight": "16px", "fontWeight": "400" }], "body-xl": ["18px", { "lineHeight": "30px", "letterSpacing": "-0.005em", "fontWeight": "300" }], "headline-xl-mobile": ["30px", { "lineHeight": "38px", "letterSpacing": "0", "fontWeight": "600" }], "headline-lg-mobile": ["24px", { "lineHeight": "32px", "fontWeight": "500" }], "headline-lg": ["32px", { "lineHeight": "40px", "fontWeight": "500" }] } } } };</script></head><body class="bg-surface font-body-lg text-on-surface antialiased relative min-h-screen"><header class="fixed top-0 left-0 right-0 w-full z-50 bg-surface/90 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)] transition-all duration-300"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg h-20 flex items-center justify-between gap-gutter"><a class="flex items-center gap-space-md shrink-0" data-path="home" href="#"><img alt="Serendiva Ceylon Private Journeys Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1Wj2dHOYyIJcHZi0c__yPro4GGQEKUZsMGgyl0mj3o6U5R9r3zCJDLj9Z9e_qMEWRAMkOYpyGOAvEzmqnagmXsZkHz4BiTr5Xk7CNSYV8I9NO6cnWHcQYCuwlQe50IvJ1oJkoNswbOu_Zeq7fkYuOFBuNQ4n7R6UYVgYK9fRZ97xNWKgjIN42nbp8ZYOeq4tI1TmLYIWC4dZrVmGMiUXq2h2Y1mqHVXNspdFkSYTp-k58cg3bs1rqNmWQ"/><div class="flex flex-col"><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span><span class="font-label-md text-label-md text-on-surface-variant uppercase tracking-widest hidden sm:inline-block">Ceylon Private Journeys</span></div></a><nav class="hidden xl:flex items-center gap-space-lg" data-active-classes="text-primary font-semibold"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="home" href="#">Home</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Tours</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Destinations</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">About</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Gallery</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-space-md shrink-0"><div class="hidden md:flex items-center bg-surface-container rounded-full p-space-xs"><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md bg-surface text-primary shadow-[0_1px_4px_rgba(0,0,0,0.06)] font-semibold" type="button">EN</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">中文</button><button class="px-space-sm py-0.5 rounded-full font-label-md text-label-md text-on-surface-variant hover:text-on-surface transition-colors" type="button">DE</button></div><a class="inline-flex items-center justify-center bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-lg py-space-sm rounded-lg font-label-lg text-label-lg transition-all shadow-[0_4px_16px_rgba(156,68,30,0.2)] hover:shadow-none" data-path="trip-quiz" href="#">Plan My Trip</a></div></div></header><div class="fixed right-0 top-1/2 -translate-y-1/2 z-40 hidden md:block"><a aria-label="Open Bespoke Inquiry Form" class="bg-primary text-on-primary px-space-md py-space-sm rounded-l-lg font-label-lg text-label-lg tracking-widest uppercase flex items-center gap-space-xs shadow-[0_8px_24px_rgba(0,52,65,0.25)] hover:bg-primary-container transition-all [writing-mode:vertical-rl] rotate-180" data-path="bespoke-inquiry" href="#"><span class="material-symbols-outlined text-sm rotate-90">edit_calendar</span><span>Inquire</span></a></div><div class="fixed bottom-space-lg right-space-lg z-40 flex items-center"><a aria-label="Direct WhatsApp Expedition Concierge" class="w-14 h-14 rounded-full bg-tertiary-container hover:bg-tertiary text-on-tertiary flex items-center justify-center shadow-[0_8px_24px_rgba(44,78,35,0.35)] transition-all transform hover:scale-105" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-2xl">chat</span></a></div><main class="w-full pt-20 bg-surface min-h-[calc(100vh-80px)]"><div class="flex flex-col w-full">
+<!-- QUIZ INTRO SECTION -->
+<section class="relative px-margin md:px-margin-md lg:px-margin-lg pt-space-xl pb-space-lg overflow-hidden">
+<div class="max-w-[1080px] mx-auto text-center flex flex-col items-center">
+<div class="inline-flex items-center gap-space-xs bg-tertiary/10 text-tertiary px-space-md py-space-xs rounded-full shadow-sm mb-space-md">
+<span class="material-symbols-outlined text-sm">explore</span>
+<span class="font-label-md text-label-md tracking-widest uppercase">Ceylon Route Atelier • 60-Second Trip Finder</span>
+</div>
+<h1 class="font-headline-xl text-headline-xl md:text-display-lg font-headline-xl text-primary tracking-tight max-w-3xl">
+        Find Your Perfect Sri Lankan Odyssey
+      </h1>
+<p class="font-body-xl text-body-xl text-on-surface-variant max-w-2xl mt-space-sm font-light">
+        Answer four curated curiosities to reveal the hand-crafted expedition blueprint attuned to your passions, group rhythm, and preferred season.
+      </p>
+<!-- Trust Badges Bar -->
+<div class="flex flex-wrap items-center justify-center gap-space-lg mt-space-lg pt-space-sm text-on-surface-variant">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-secondary text-base">verified_user</span>
+<span class="font-caption text-caption font-medium tracking-wide">Direct Chauffeur-Lecturer Guidance</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-secondary text-base">hotel_class</span>
+<span class="font-caption text-caption font-medium tracking-wide">Boutique Heritage Stays</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-secondary text-base">nest_eco_leaf</span>
+<span class="font-caption text-caption font-medium tracking-wide">Zero Commercial Commissions</span>
+</div>
+</div>
+</div>
+</section>
+<!-- INTERACTIVE WIZARD CONTAINER -->
+<section class="px-margin md:px-margin-md lg:px-margin-lg pb-space-2xl">
+<div class="max-w-[1180px] mx-auto">
+<!-- Stepper Indicator Card -->
+<div class="bg-surface-container-low rounded-xl p-space-md md:p-space-lg shadow-sm mb-space-xl">
+<div class="flex flex-col md:flex-row md:items-center justify-between gap-space-md mb-space-md">
+<div class="flex items-center gap-space-sm">
+<span class="w-8 h-8 rounded-full bg-primary text-on-primary font-label-md text-label-md flex items-center justify-center font-bold" id="step-number-indicator">1</span>
+<span class="font-label-lg text-label-lg uppercase tracking-wider text-primary font-semibold" id="step-name-indicator">Step 1 of 4: Companion Dynamics</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant" id="step-hint">Estimated completion time: 45 seconds</span>
+</div>
+<!-- Progress Track -->
+<div class="w-full bg-surface-container-highest rounded-full h-1.5 overflow-hidden">
+<div class="bg-secondary h-full rounded-full transition-all duration-500 ease-out" id="quiz-progress-bar" style="width: 25%;"></div>
+</div>
+<!-- Desktop Steps Navigation Bar -->
+<div class="hidden sm:grid grid-cols-4 gap-space-sm mt-space-sm text-center">
+<button class="text-left py-1 cursor-pointer transition-opacity opacity-100" id="step-tab-1" onclick="goToStep(1)" type="button">
+<span class="block font-caption text-caption uppercase text-primary font-bold">1. Companions</span>
+<span class="block font-caption text-caption text-on-surface-variant truncate">Party dynamics</span>
+</button>
+<button class="text-left py-1 cursor-pointer transition-opacity opacity-40 hover:opacity-80" id="step-tab-2" onclick="goToStep(2)" type="button">
+<span class="block font-caption text-caption uppercase text-primary font-bold">2. Duration</span>
+<span class="block font-caption text-caption text-on-surface-variant truncate">Days on island</span>
+</button>
+<button class="text-left py-1 cursor-pointer transition-opacity opacity-40 hover:opacity-80" id="step-tab-3" onclick="goToStep(3)" type="button">
+<span class="block font-caption text-caption uppercase text-primary font-bold">3. Passions</span>
+<span class="block font-caption text-caption text-on-surface-variant truncate">Curated curiosities</span>
+</button>
+<button class="text-left py-1 cursor-pointer transition-opacity opacity-40 hover:opacity-80" id="step-tab-4" onclick="goToStep(4)" type="button">
+<span class="block font-caption text-caption uppercase text-primary font-bold">4. Season</span>
+<span class="block font-caption text-caption text-on-surface-variant truncate">Arrival timing</span>
+</button>
+</div>
+</div>
+<!-- STEP 1: PARTY DYNAMICS -->
+<div class="quiz-step-pane block" id="quiz-step-1">
+<div class="mb-space-lg text-center md:text-left">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-bold">Question 01</span>
+<h2 class="font-headline-lg text-headline-lg text-primary font-headline-lg mt-space-xs">Who will be joining you on this Ceylon journey?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">We tailor vehicle proportions, villa acoustics, and expedition pacing according to your travel arrangement.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-space-md">
+<!-- Card A: Romantic Couple (Selected Default) -->
+<div class="quiz-choice-card cursor-pointer group relative bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md ring-2 ring-primary" onclick="selectSingle('party', 'couple', this)">
+<div class="relative h-44 w-full rounded-lg overflow-hidden mb-space-md">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="High-end private plunge pool overlooking Sri Lankan mist-laden hills in Ella with candlelit dining setting, warm morning tropical atmosphere, editorial travel photography" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC8QVtpWnXtTgGVzvrPYxExnIsO-b_chHDlleZ-2utDGQvAbm0GprpehrUrbQd_wwg8nqY_-gqBcdzNux275hAy5C49aEWFklVtwqjV1-J4JFua0DeNngdQw0OHPfT1NwzqEslHfPsr7ADLLWruM4bK68tTojkg6G6CikfZp7aQEg2ZZZ8MGwiiRJYAJpoFzkRz1RIlttJwXZed6MWf2YUxREfUXI3HvoUPfe3FqKauQ0esetsv-Ik"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+<span class="absolute bottom-3 left-3 bg-surface/90 backdrop-blur-sm text-primary font-label-md text-label-md px-space-sm py-0.5 rounded-full font-semibold">Most Popular</span>
+</div>
+<div class="flex items-start justify-between">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm">Romantic Couple / Honeymoon</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Secluded architectural villas, candlelit Ceylon tea bungalows, discreet private chauffeur pacing.</p>
+</div>
+<span class="material-symbols-outlined text-primary text-2xl shrink-0 check-indicator" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+</div>
+</div>
+<!-- Card B: Solo Explorer -->
+<div class="quiz-choice-card cursor-pointer group relative bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('party', 'solo', this)">
+<div class="relative h-44 w-full rounded-lg overflow-hidden mb-space-md">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Solo traveler walking with a camera atop Sigiriya Lion Rock fortress at golden dawn, soft sun rays mist over ancient UNESCO ruins, cinematic atmospheric perspective" src="https://lh3.googleusercontent.com/aida-public/AB6AXuChGv7iydk_9vRw5hGXyWFfmDtKnc0RJ8lOZ6NIu2BJyjyo6Fk4VItBVoYShf0zHtDOxa4odWPOdWUwWrubvnS-tJ5v9iRo3Qza2ksuUQx1yZl6HD7Sxp0oFXc0Ps6waLM5N3KusMojZ3H3gEc6I5KCJSRwiBTgmSwecFS9m7T2rxrHFdBTdNufFK4Eso88x972g6W4P7s-gxTZRqSPKD4UVRZRO0ZC_aIDqvUDsfYXW_KYAav5XmY"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+</div>
+<div class="flex items-start justify-between">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm">Solo Explorer</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Autonomous sunrise photography, deep Buddhist monastic discussions, flexible unplanned stops.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- Card C: Family with Children -->
+<div class="quiz-choice-card cursor-pointer group relative bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('party', 'family', this)">
+<div class="relative h-44 w-full rounded-lg overflow-hidden mb-space-md">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Family with kids watching a majestic wild elephant matriarch and calf from a private luxury safari jeep in Minneriya National Park, warm natural light, documentary style" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC-vKutObhInoR5vCvyP29mNmwadxIVTVTfYPkSx5j3O7-Mih319OokngQRLe6SfcM5OvdRg6RC6iAUPcxndPteR1rrrNO6Pd6eqyU1i3gPxFDMVJTF6HqcJyQ701B08g22GreyvBbiUd6PAMtMUB44yMrPTcosJ6QesKfpNHZh_K2mzzpspSYB9za90Z6l_roZlPqaj3lyK2aKbecsQY1wabHzmb8iY9x6duqBccOHzRe1bTyyB-o"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+</div>
+<div class="flex items-start justify-between">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm">Family with Children</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Kid-tested safari naturalists, gentle travel legs, connecting luxury suites, and safe coastal surf bays.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- Card D: Small Group of Friends -->
+<div class="quiz-choice-card cursor-pointer group relative bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('party', 'friends', this)">
+<div class="relative h-44 w-full rounded-lg overflow-hidden mb-space-md">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Group of lifelong friends dining al fresco under lantern light in a restored Galle Fort colonial courtyard with curated Ceylon cuisine, joyful warm aesthetic" src="https://lh3.googleusercontent.com/aida-public/AB6AXuChvo4iu8oE4vC_S--gZ_OaPpRNlgqTBb5EroQa3ELA79ZOqyfhfNcnFntoRtMtmALdiZ5k0YvMMuIXtKUrfi3xqNNc40dj-KXsr8VajApS4pRE5-l3vSfMjHvNRHd5ZVr8xwqYcR-1cqVycKH6Xojdk-OXHzhAyFrjhwx9x7XlLmBH-4F_mLHw6xLkUZ1zSnNyDNdOV8E5nl1a1coqE4tZic4NyrK_XX4rie6ywVRsqu54mjVyrf8"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+</div>
+<div class="flex items-start justify-between">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm">Friends &amp; Small Group</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Boutique estate buyouts, convivial private chef dinners, mountain treks, and heritage bar curations.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- Card E: Corporate / Delegation -->
+<div class="quiz-choice-card cursor-pointer group relative bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md md:col-span-2 lg:col-span-2" onclick="selectSingle('party', 'corporate', this)">
+<div class="flex flex-col sm:flex-row items-center gap-space-md">
+<div class="relative h-44 w-full sm:w-1/2 rounded-lg overflow-hidden shrink-0">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Sophisticated executive retreat in an open-air tropical modernist pavilion designed by Geoffrey Bawa, high-end meeting lounge with serene water gardens" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDywAjMZqwnkDkHnqBP214NhYcGavNETejPHjoZ5Of0B3HSrKL3E9GrcupcJkUQ8mZzOUbl0jKk1YCv64eZbMWJaRQwAfqOKpldYUUTo1kSzugoAGjBd1RuPYjM-qDgVoFtNeLWytqMzeGdJYAK-0nspHES574Dsr4MSNnS5I-a31KsKGxyA_ik5akdKbTiHU4aMbNhEAKSkgOwGEUzgYU2_3oOXeB_Vn2ht85wirHeEBf3RsFlhEI"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
+</div>
+<div class="flex flex-col justify-between w-full">
+<div>
+<div class="inline-flex items-center gap-1 text-tertiary font-label-md text-label-md mb-1 uppercase font-semibold">
+<span class="material-symbols-outlined text-sm">workspace_premium</span> Executive Service
+                  </div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm">Executive Delegation / Retreat</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">High-security VIP transport, Geoffrey Bawa architectural venues, confidential meetings, and custom gala hosting.</p>
+</div>
+<div class="mt-space-md flex items-center justify-end">
+<span class="material-symbols-outlined text-outline-variant text-2xl check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mt-space-xl flex justify-end">
+<button class="inline-flex items-center gap-space-sm bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-lg font-label-lg text-label-lg transition-all shadow-md hover:shadow-none" onclick="goToStep(2)" type="button">
+<span>Continue to Duration</span>
+<span class="material-symbols-outlined text-base">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- STEP 2: DURATION -->
+<div class="quiz-step-pane hidden" id="quiz-step-2">
+<div class="mb-space-lg text-center md:text-left">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-bold">Question 02</span>
+<h2 class="font-headline-lg text-headline-lg text-primary font-headline-lg mt-space-xs">What is your ideal journey duration?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Sri Lanka is compact yet geographically diverse; we balance scenic drive windows with unhurried villa leisure.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<!-- 5-7 Days -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('duration', 'short', this)">
+<div class="flex items-start justify-between">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">5 to 7 Days</span>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">The Essential Ceylon Accent</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Focused regional immersion. Ideal for pairing either the misty tea highlands and cultural triangle, or a wildlife safari and pristine southern coastline.</p>
+<div class="mt-space-md flex flex-wrap gap-2">
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">2 Signature Destinations</span>
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">Boutique Express</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- 8-10 Days (Default Selected) -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md ring-2 ring-primary" onclick="selectSingle('duration', 'balanced', this)">
+<div class="flex items-start justify-between">
+<div>
+<div class="flex items-center gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">8 to 10 Days</span>
+<span class="bg-tertiary-fixed text-on-tertiary-fixed font-label-md text-label-md px-2 py-0.5 rounded-full font-bold">Recommended</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">The Balanced Grand Circuit</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">The quintessential Ceylon narrative: UNESCO ancient kingdoms, the world-famed scenic blue train through tea estates, untamed leopard safari, and Galle colonial ramparts.</p>
+<div class="mt-space-md flex flex-wrap gap-2">
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">Sigiriya + Kandy + Ella + Yala + Galle</span>
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">Full Spectrum Odyssey</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-primary text-2xl shrink-0 check-indicator" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+</div>
+</div>
+<!-- 11-14 Days -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('duration', 'deep', this)">
+<div class="flex items-start justify-between">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">11 to 14 Days</span>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">The Immersive In-Depth Odyssey</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Unrushed double-night stays at premier tea bungalows. Incorporates secluded northern heritage (Jaffna / Wilpattu) alongside the southern coast and tea country.</p>
+<div class="mt-space-md flex flex-wrap gap-2">
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">North-to-South Archipelago</span>
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">Deep Heritage Immersion</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- 15+ Days -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('duration', 'grand', this)">
+<div class="flex items-start justify-between">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">15+ Days</span>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">The Connoisseur's Slow Expedition</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Total serenity. Extended multi-day wellness immersions, rare wildlife sanctuaries, private boat charters, and deep culinary exploration with master chefs.</p>
+<div class="mt-space-md flex flex-wrap gap-2">
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">Slow Travel Philosophy</span>
+<span class="bg-surface px-space-sm py-0.5 rounded text-caption font-caption text-primary">Private Villa Buyouts</span>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+</div>
+<div class="mt-space-xl flex items-center justify-between">
+<button class="inline-flex items-center gap-space-xs text-primary font-label-lg text-label-lg hover:text-secondary transition-colors" onclick="goToStep(1)" type="button">
+<span class="material-symbols-outlined text-base">arrow_back</span>
+<span>Back</span>
+</button>
+<button class="inline-flex items-center gap-space-sm bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-lg font-label-lg text-label-lg transition-all shadow-md hover:shadow-none" onclick="goToStep(3)" type="button">
+<span>Continue to Passions</span>
+<span class="material-symbols-outlined text-base">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- STEP 3: EXPERIENCES / PASSIONS (Multi-select up to 3) -->
+<div class="quiz-step-pane hidden" id="quiz-step-3">
+<div class="mb-space-lg text-center md:text-left">
+<div class="flex items-center justify-between">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-bold">Question 03</span>
+<span class="bg-secondary-fixed text-on-secondary-fixed font-label-md text-label-md px-space-sm py-0.5 rounded-full" id="selection-counter">3 of 3 Selected</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-primary font-headline-lg mt-space-xs">What experiences captivate your curiosity most?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Select up to three key facets so we can assign specialized expert lecturers and timing windows.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-space-md">
+<!-- Experience 1 (Selected) -->
+<div class="quiz-multi-card cursor-pointer group bg-surface-container rounded-xl p-space-md transition-all duration-300 shadow-sm hover:shadow-md ring-2 ring-primary" data-selected="true" onclick="toggleMulti(this, 'citadels')">
+<div class="relative h-36 w-full rounded-lg overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Ancient Sigiriya Rock Fortress standing majestic amidst lush jungle canopy during tranquil sunrise, warm mist floating, architectural heritage photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBCvdHqa1aNP3f7UrF7y1D2hTryxftr5gp8OSeEIEDg8tzTUhM2N8P_fl6a8AXtaV2fnihxeY72P6tyayO5EHj11-MKZ9DRDun7C8oXRJHeeFQbQ0aChEqnCJS4vHX22NixaOvEE4Cj9NBdIUaEBRocX44qxNZldesYAfSQ-47eYgY6_3WGPt6rJKZd3bf3VypKN6vlihBPKeRf3FwHpYpwtKNVEDJLC-ma1ywdIT9IbVR9ZMgKvU4"/>
+</div>
+<div class="flex items-start justify-between gap-space-xs">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base">Ancient Citadels &amp; UNESCO Ruins</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1 text-xs">Sigiriya dawn ascents, Polonnaruwa royal stone palaces, and sacred Dambulla cave murals.</p>
+</div>
+<span class="material-symbols-outlined text-primary text-xl shrink-0 check-indicator" style="font-variation-settings: 'FILL' 1;">check_box</span>
+</div>
+</div>
+<!-- Experience 2 (Selected) -->
+<div class="quiz-multi-card cursor-pointer group bg-surface-container rounded-xl p-space-md transition-all duration-300 shadow-sm hover:shadow-md ring-2 ring-primary" data-selected="true" onclick="toggleMulti(this, 'safari')">
+<div class="relative h-36 w-full rounded-lg overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Sri Lankan leopard perched elegantly on a sun-warmed granite boulder in Yala National Park, natural wildlife photography in early morning light" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlDfmqJ4vjwRbCWwPNgfj1iT2Q6yr6PYVzduQpXPq70qAE4hIwqLTznjFlTqO73080bcHK989wiNl-sbHBWnKE6hG_K7F5Fe3U6rBtaUsDh5ArMDpO0NJJ7txGsHr9p_1vMk5mnfAdPM_YEu-wPejoAaOyDkeJpMQ-ejtNwY1CN_0omcbzSp-KlIXflmhnQjfRLG7WOy8HsB5BlhtQ7z0sVV0tADhrydfFEptgWFabs7Jrvg9ZLAo"/>
+</div>
+<div class="flex items-start justify-between gap-space-xs">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base">Leopards, Elephants &amp; Safari</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1 text-xs">Yala Block 1 uncrowded dawn entries, sloth bear tracking, and private naturalist accompaniment.</p>
+</div>
+<span class="material-symbols-outlined text-primary text-xl shrink-0 check-indicator" style="font-variation-settings: 'FILL' 1;">check_box</span>
+</div>
+</div>
+<!-- Experience 3 (Selected) -->
+<div class="quiz-multi-card cursor-pointer group bg-surface-container rounded-xl p-space-md transition-all duration-300 shadow-sm hover:shadow-md ring-2 ring-primary" data-selected="true" onclick="toggleMulti(this, 'tea')">
+<div class="relative h-36 w-full rounded-lg overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Iconic blue Ceylon train traversing the Nine Arch Bridge surrounded by lush emerald tea plantations in Ella, soft tropical mountain haze" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAXq0eU02FXUXej5FZssD2A7s_iri-qJXyUpq38IigDBtW3tCXNo__ey-jUxFLi22A7WtWonDozKMTcswS2e8fkncT2DYUeEBW8_nzbEDoWGgxHStIKCb6MJdi7YneoYCkFJl_0B8XYyEKbajrn10Ley5-seBC8IwUzH44_TZx-_VU21iWLWqWqHzrM0cDQc-xW5id_uA8OKQMTgfD5p3otWYr_FSDYL7-KDoHysV9SZDL6f7siy3s"/>
+</div>
+<div class="flex items-start justify-between gap-space-xs">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base">Misty Tea Country &amp; Railways</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1 text-xs">First-class reserved observation train cars, colonial tea planter bungalows, and private tastings.</p>
+</div>
+<span class="material-symbols-outlined text-primary text-xl shrink-0 check-indicator" style="font-variation-settings: 'FILL' 1;">check_box</span>
+</div>
+</div>
+<!-- Experience 4 -->
+<div class="quiz-multi-card cursor-pointer group bg-surface-container rounded-xl p-space-md transition-all duration-300 shadow-sm hover:shadow-md" data-selected="false" onclick="toggleMulti(this, 'coast')">
+<div class="relative h-36 w-full rounded-lg overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Pristine palm-fringed golden sand beach at Tangalle Sri Lanka with gentle turquoise Indian Ocean waves crashing on smooth rocks, warm afternoon sun" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDxToyZzRqszrpaHBCIGrdz7AmHxeeE8vtHlMdMipgNYtyinD-3fiJucfmOSpMp7hnroqOy0siteEG_vawXjGi-ABWLZTkenIOwuO-Spt8TGm3wJ5yN176P61V3dxm9z2-iJli5r6LlQ3L110U34fVdUqgNusgqHGhRgqrcb4fkaA5L9HQKYTPUVIxZUJcth7WzcaJPm27mdBykqpgdC42WiN4iKRwCq6-Ew68kLyJH1BpzVwq2eZQ"/>
+</div>
+<div class="flex items-start justify-between gap-space-xs">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base">Pristine South Beaches &amp; Galle Fort</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1 text-xs">Private catamaran blue whale spotting, Dutch colonial ramparts, and secluded coastal bays.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-xl shrink-0 check-indicator">check_box_outline_blank</span>
+</div>
+</div>
+<!-- Experience 5 -->
+<div class="quiz-multi-card cursor-pointer group bg-surface-container rounded-xl p-space-md transition-all duration-300 shadow-sm hover:shadow-md" data-selected="false" onclick="toggleMulti(this, 'trekking')">
+<div class="relative h-36 w-full rounded-lg overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="High altitude misty cloud forest in Knuckles Mountain Range Sri Lanka with dramatic green peaks and wild mountain streams, hiking expedition feel" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCzvhuJ3X9Xap9ip6G1ziy3IgdWlEB7UmKs0zVzDMRCjPLYbW7vlAU7Ob9FQT37VXC5p6ZzvFeZEoGz9glOpJ2tfVir9Xxh_jyoMd8-snrmuKib3fsBuWubv9mZZeRKDesjIgs_PJbmpKWX5NCr32VatiZ41xkA5Zdb7jRLEAVMYUgwTI-20Fi3JxqAS7nbjjuY2Huk8apbKuxnwz19QrCw49A-wqEx_aosGUfQVwexBW-YsdDNlVI"/>
+</div>
+<div class="flex items-start justify-between gap-space-xs">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base">High-Altitude Trekking &amp; Peaks</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1 text-xs">World’s End precipice at Horton Plains, secluded Knuckles range pathways, and waterfall descents.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-xl shrink-0 check-indicator">check_box_outline_blank</span>
+</div>
+</div>
+<!-- Experience 6 -->
+<div class="quiz-multi-card cursor-pointer group bg-surface-container rounded-xl p-space-md transition-all duration-300 shadow-sm hover:shadow-md" data-selected="false" onclick="toggleMulti(this, 'wellness')">
+<div class="relative h-36 w-full rounded-lg overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" data-alt="Traditional Ayurvedic herbal treatment pavilion nestled in a serene tropical spice forest, oil urns, fresh lotus blossoms, soothing peaceful retreat atmosphere" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBHeDoAMs1NnKi40efJuPeunb45ePWQIinJxldEz_DLTzP0LkTQRPguOPVyMtGafEr8CV4p90w9U8yFmADGZGrsBtGdiPJKLpB3e6uIcSJdnwqgxqqt--lemYczKyz7g74OO3eArgTRpDoT4rl7Lw2Pwfaq_bI9ox3q8QJRLFvrUhrTIIAHFBFf9PtS1yRXyaEqZpyM5nVYTB_hi2HrAOVs6XzuKN9fikKL5ARMdO5HO6olahJRuhM"/>
+</div>
+<div class="flex items-start justify-between gap-space-xs">
+<div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base">Ayurvedic Sanctuary &amp; Forest Zen</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1 text-xs">Authentic physician-guided herbal panchakarma, yoga pavilions, and farm-to-table organic dining.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-xl shrink-0 check-indicator">check_box_outline_blank</span>
+</div>
+</div>
+</div>
+<div class="mt-space-xl flex items-center justify-between">
+<button class="inline-flex items-center gap-space-xs text-primary font-label-lg text-label-lg hover:text-secondary transition-colors" onclick="goToStep(2)" type="button">
+<span class="material-symbols-outlined text-base">arrow_back</span>
+<span>Back</span>
+</button>
+<button class="inline-flex items-center gap-space-sm bg-primary hover:bg-primary-container text-on-primary px-space-xl py-space-md rounded-lg font-label-lg text-label-lg transition-all shadow-md hover:shadow-none" onclick="goToStep(4)" type="button">
+<span>Continue to Season</span>
+<span class="material-symbols-outlined text-base">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- STEP 4: SEASON & TIMING -->
+<div class="quiz-step-pane hidden" id="quiz-step-4">
+<div class="mb-space-lg text-center md:text-left">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-bold">Question 04</span>
+<h2 class="font-headline-lg text-headline-lg text-primary font-headline-lg mt-space-xs">When do you plan to arrive in Sri Lanka?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Sri Lanka experiences dual monsoon systems, guaranteeing that one coast or mountain region is always basked in radiant weather.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<!-- Nov - Apr (Selected Default) -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md ring-2 ring-primary" onclick="selectSingle('season', 'southwest', this)">
+<div class="flex items-start justify-between">
+<div>
+<div class="flex items-center gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">November to April</span>
+<span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary">Peak Season</span>
+</div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">Southwest Coast &amp; Central Highlands</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Golden calm seas at Galle &amp; Bentota, blue skies over tea plantations, and optimal leopard visibility in Yala and Udawalawe.</p>
+</div>
+<span class="material-symbols-outlined text-primary text-2xl shrink-0 check-indicator" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+</div>
+</div>
+<!-- May - Sep -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('season', 'east', this)">
+<div class="flex items-start justify-between">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">May to September</span>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">East Coast &amp; Northern Peninsula</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Crystal-clear diving seas in Trincomalee and Pasikudah, serene Jaffna cultural exploration, and dry conditions across Wilpattu.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- Jul - Aug Festival Season -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('season', 'perahera', this)">
+<div class="flex items-start justify-between">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">July to August</span>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">The Esala Perahera Festival &amp; The Elephant Gathering</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">Kandy’s spellbinding sacred relic pageant with torchbearers, paired with the awe-inspiring 300+ elephant assembly at Minneriya reservoir.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+<!-- Flexible -->
+<div class="quiz-choice-card cursor-pointer group bg-surface-container rounded-xl p-space-lg transition-all duration-300 shadow-sm hover:shadow-md" onclick="selectSingle('season', 'flexible', this)">
+<div class="flex items-start justify-between">
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">Flexible / Undecided</span>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mt-1">I Seek Chauffeur Dinesh's Recommendation</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-space-xs">We will evaluate flight convenience, hotel seasonality rates, and festival dates to suggest your premier travel window.</p>
+</div>
+<span class="material-symbols-outlined text-outline-variant text-2xl shrink-0 check-indicator">radio_button_unchecked</span>
+</div>
+</div>
+</div>
+<div class="mt-space-xl flex items-center justify-between">
+<button class="inline-flex items-center gap-space-xs text-primary font-label-lg text-label-lg hover:text-secondary transition-colors" onclick="goToStep(3)" type="button">
+<span class="material-symbols-outlined text-base">arrow_back</span>
+<span>Back</span>
+</button>
+<button class="inline-flex items-center gap-space-sm bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-xl py-space-md rounded-lg font-label-lg text-label-lg transition-all shadow-[0_4px_16px_rgba(156,68,30,0.2)]" onclick="revealBlueprint()" type="button">
+<span class="material-symbols-outlined text-base">magic_button</span>
+<span>Generate My Curated Route</span>
+</button>
+</div>
+</div>
+</div>
+</section>
+<!-- RESULT CONTAINER: CURATED BLUEPRINT (Auto-revealed on Step 4 or completion) -->
+<section class="px-margin md:px-margin-md lg:px-margin-lg py-space-2xl bg-surface-container-low transition-all duration-700" id="blueprint-result-section">
+<div class="max-w-[1240px] mx-auto">
+<!-- Result Top Header -->
+<div class="text-center max-w-2xl mx-auto mb-space-xl">
+<div class="inline-flex items-center gap-space-xs bg-tertiary-fixed text-on-tertiary-fixed px-space-md py-space-xs rounded-full shadow-sm mb-space-sm">
+<span class="material-symbols-outlined text-sm">stars</span>
+<span class="font-label-md text-label-md font-bold uppercase tracking-wider">98% Route Alignment Match</span>
+</div>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl">
+          Dinesh's Recommended Route Blueprint
+        </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mt-space-xs">
+          Synthesized from your preferences: Couple's sanctuary, 8–10 days pacing, UNESCO citadels, tea mountains, and private wildlife safaris.
+        </p>
+</div>
+<!-- Main Result Layout: Grid 12 Columns -->
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg">
+<!-- Left Column: Matched Tour Card (7 Cols) -->
+<div class="lg:col-span-7 flex flex-col gap-space-lg">
+<!-- Route Visual Presentation -->
+<div class="bg-surface rounded-xl overflow-hidden shadow-md">
+<div class="relative h-72 w-full">
+<img class="w-full h-full object-cover" data-alt="Dramatic panoramic view of Ceylon tea country near Nuwara Eliya with misty green terraced hills and distant colonial bungalow, exquisite golden morning light" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDapjrpPuDvWg1eOx6c6lXrNj1ELvK1JOUUe2k1aSgE1cv7LUkWwZumqE3Wn2Wq59KAtnb95AJZfkh476ZIMGjIWW4kR2i-w2Buk1uBQ5YoVNs68wbqzTJUFYPbdDrBgDAQ4qoDhuFI3xTK8tHYztBnMSrSvptbdQBD-3dE0djAZ9ydoKuU7FTniTry19CEvPGwnLgLU6Ib_WeAtzaQR5bcVxwMoI1IbsWJBuGIzxeMe-fzFrcVD7g"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/30 to-transparent"></div>
+<div class="absolute top-4 left-4 flex gap-2">
+<span class="bg-secondary text-on-secondary px-space-sm py-1 rounded font-label-md text-label-md uppercase tracking-wider font-semibold">Signature Circuit</span>
+<span class="bg-surface/90 backdrop-blur-md text-primary px-space-sm py-1 rounded font-label-md text-label-md font-bold">8 Nights / 9 Days</span>
+</div>
+<div class="absolute bottom-4 left-4 right-4 text-on-primary">
+<span class="font-label-md text-label-md text-on-primary-container uppercase tracking-widest block mb-1">Tailored Itinerary</span>
+<h3 class="font-headline-lg text-headline-lg font-headline-lg text-on-primary">The Cultural Odyssey &amp; Southern Coast</h3>
+</div>
+</div>
+<div class="p-space-lg flex flex-col gap-space-md">
+<!-- Route Sequence Badges -->
+<div>
+<span class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant block mb-2 font-semibold">Bespoke Route Trajectory</span>
+<div class="flex flex-wrap items-center gap-1.5 text-body-md font-body-md text-primary">
+<span class="bg-surface-container px-2.5 py-1 rounded font-medium">Colombo</span>
+<span class="material-symbols-outlined text-outline text-xs">arrow_forward</span>
+<span class="bg-surface-container px-2.5 py-1 rounded font-medium">Sigiriya (2N)</span>
+<span class="material-symbols-outlined text-outline text-xs">arrow_forward</span>
+<span class="bg-surface-container px-2.5 py-1 rounded font-medium">Kandy (1N)</span>
+<span class="material-symbols-outlined text-outline text-xs">arrow_forward</span>
+<span class="bg-surface-container px-2.5 py-1 rounded font-medium">Ella Tea Country (2N)</span>
+<span class="material-symbols-outlined text-outline text-xs">arrow_forward</span>
+<span class="bg-surface-container px-2.5 py-1 rounded font-medium">Yala Safari (1N)</span>
+<span class="material-symbols-outlined text-outline text-xs">arrow_forward</span>
+<span class="bg-surface-container px-2.5 py-1 rounded font-medium">Galle Fort (2N)</span>
+</div>
+</div>
+<!-- Included Private Curations -->
+<div class="pt-space-sm">
+<span class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant block mb-3 font-semibold">Included Handcrafted Privileges</span>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-space-sm">
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-lg shrink-0">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">Private dawn ascent of Sigiriya before public gate opening</span>
+</div>
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-lg shrink-0">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">First-class reserved carriage tickets on the iconic Ella Blue Train</span>
+</div>
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-lg shrink-0">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">Private modified Land Cruiser safari inside Yala National Park</span>
+</div>
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-tertiary text-lg shrink-0">check_circle</span>
+<span class="font-body-md text-body-md text-on-surface">Sunset walking salon of Galle Fort ramparts with local historian</span>
+</div>
+</div>
+</div>
+<!-- Dedicated Guide & Chauffeur Spotlight -->
+<div class="bg-surface-container rounded-xl p-space-md flex flex-col sm:flex-row items-center gap-space-md mt-space-xs">
+<div class="relative w-16 h-16 rounded-full overflow-hidden shrink-0 ring-2 ring-primary">
+<img class="w-full h-full object-cover" data-alt="Portrait of an experienced Sri Lankan senior chauffeur guide Dinesh Jayasuriya, smiling warmly in smart linen safari shirt, background soft green palms" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBhQR1trHP85hCj6_z0hEq2T2yXMDnbMLIwIazqedo50BwX3BPnxUpznYU2PKYFqmi8wWrFCZvzaOPaz3Fmn6b7quCEVMPDKZiEPmUkW2OIZ5WzgaudQVcglWjBtj3e5iBdbsArsWohIUA2xBaO4CbyBM08751QOrUFNcJJ8_f6LzzdwZeitDLdBxvdLLtb2Fa__mN4BBuHBp_H2jOfsehxL9EbBLumUtxxE-SXCM5jN5nHCU8thUw"/>
+</div>
+<div class="flex-1 text-center sm:text-left">
+<div class="flex items-center justify-center sm:justify-start gap-space-xs">
+<h4 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-lg">Dinesh Jayasuriya</h4>
+<span class="material-symbols-outlined text-tertiary text-base" title="Licensed Tour Lecturer">verified</span>
+</div>
+<p class="font-caption text-caption text-on-surface-variant">Accredited Sri Lanka Tourism Development Authority (SLTDA) Chauffeur-Lecturer #TL/1482 • 14 Years Curating Private Journeys</p>
+<p class="font-caption text-caption text-primary mt-1 font-semibold">Chauffeured in: Air-Conditioned Luxury Toyota Prado / HiAce Commuter</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Pull-quote Monograph -->
+<div class="bg-surface rounded-xl p-space-lg shadow-sm border-l-4 border-secondary flex flex-col gap-space-xs">
+<span class="font-label-md text-label-md uppercase tracking-wider text-secondary font-bold">The Serendiva Difference</span>
+<p class="font-headline-sm text-headline-sm text-primary italic font-headline-sm">
+              "We do not sell pre-packaged group tours. Every road turned, estate visited, and restaurant table reserved is tuned precisely around your personal clock."
+            </p>
+<span class="font-caption text-caption text-on-surface-variant font-medium">— Dinesh Jayasuriya, Senior Expedition Director</span>
+</div>
+</div>
+<!-- Right Column: Pre-Filled Customization Inquiry Form (5 Cols) -->
+<div class="lg:col-span-5 flex flex-col">
+<div class="bg-surface rounded-xl p-space-lg md:p-space-xl shadow-md sticky top-24">
+<div class="mb-space-md">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-bold">Instant Dispatch</span>
+<h3 class="font-headline-md text-headline-md text-primary font-headline-md">Send Blueprint To Dinesh</h3>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Receive a bespoke PDF journey proposal and villa availability within 24 hours.</p>
+</div>
+<!-- Pre-filled Quiz Profile Tags -->
+<div class="bg-surface-container rounded-lg p-space-sm mb-space-md">
+<span class="font-caption text-caption text-on-surface-variant font-semibold uppercase tracking-wider block mb-1">Synthesized Profile</span>
+<div class="flex flex-wrap gap-1.5" id="form-summary-tags">
+<span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">Romantic Couple</span>
+<span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">8–10 Days</span>
+<span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">Heritage + Safari + Tea</span>
+<span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">Nov – Apr</span>
+</div>
+</div>
+<!-- Form -->
+<form class="flex flex-col gap-space-sm" onsubmit="handleInquirySubmit(event)">
+<div>
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant block mb-1">Full Name</label>
+<input class="w-full bg-surface-container-low text-on-surface px-space-md py-space-sm rounded-lg font-body-md text-body-md placeholder:text-outline focus:outline-none focus:bg-surface focus:shadow-sm" placeholder="e.g. Eleanor &amp; Arthur Pendelton" required="" type="text"/>
+</div>
+<div>
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant block mb-1">Email Address</label>
+<input class="w-full bg-surface-container-low text-on-surface px-space-md py-space-sm rounded-lg font-body-md text-body-md placeholder:text-outline focus:outline-none focus:bg-surface focus:shadow-sm" placeholder="eleanor@domain.com" required="" type="email"/>
+</div>
+<div>
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant block mb-1">WhatsApp / Phone with Country Code</label>
+<input class="w-full bg-surface-container-low text-on-surface px-space-md py-space-sm rounded-lg font-body-md text-body-md placeholder:text-outline focus:outline-none focus:bg-surface focus:shadow-sm" placeholder="+44 7700 900077" required="" type="tel"/>
+</div>
+<div>
+<label class="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant block mb-1">Specific Curiosities / Notes (Optional)</label>
+<textarea class="w-full bg-surface-container-low text-on-surface px-space-md py-space-sm rounded-lg font-body-md text-body-md placeholder:text-outline focus:outline-none focus:bg-surface focus:shadow-sm resize-none" placeholder="e.g. Vegetarian dining, preferring Geoffrey Bawa architectural suites, or interested in scenic seaplane transfers..." rows="2"></textarea>
+</div>
+<!-- Primary Action CTA -->
+<div class="mt-space-sm flex flex-col gap-space-xs">
+<button class="w-full bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary py-space-md px-space-lg rounded-lg font-label-lg text-label-lg transition-all shadow-[0_4px_16px_rgba(156,68,30,0.2)] flex items-center justify-center gap-space-xs" type="submit">
+<span class="material-symbols-outlined text-base">send</span>
+<span>Receive My 24-Hour Custom Blueprint</span>
+</button>
+<!-- WhatsApp Direct CTA -->
+<a class="w-full bg-tertiary-container hover:bg-tertiary text-on-tertiary py-space-md px-space-lg rounded-lg font-label-lg text-label-lg transition-all flex items-center justify-center gap-space-xs" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-base">chat</span>
+<span>Chat on WhatsApp with Dinesh</span>
+</a>
+</div>
+<!-- Reassurances -->
+<div class="pt-space-xs border-t-0 mt-space-xs text-center flex flex-col gap-1">
+<div class="flex items-center justify-center gap-space-xs text-on-surface-variant">
+<span class="material-symbols-outlined text-tertiary text-sm">lock</span>
+<span class="font-caption text-caption">Zero booking obligation • No upfront consultation fees</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant">Your privacy is respected. We never share traveler records.</span>
+</div>
+</form>
+<div class="hidden mt-space-md p-space-md bg-tertiary/10 rounded-lg text-center" id="inquiry-success-message">
+<span class="material-symbols-outlined text-tertiary text-2xl">check_circle</span>
+<p class="font-headline-sm text-headline-sm text-tertiary mt-1">Blueprint Dispatched</p>
+<p class="font-body-md text-body-md text-on-surface-variant">Dinesh has received your trip parameters and is preparing your tailored PDF portfolio.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- HOW DINESH REFINES YOUR BLUEPRINT SECTION -->
+<section class="px-margin md:px-margin-md lg:px-margin-lg py-space-3xl bg-surface">
+<div class="max-w-[1240px] mx-auto">
+<div class="text-center max-w-2xl mx-auto mb-space-2xl">
+<span class="font-label-md text-label-md uppercase tracking-widest text-secondary font-bold">The Bespoke Process</span>
+<h2 class="font-headline-xl text-headline-xl text-primary font-headline-xl mt-space-xs">How Dinesh Refines Your Journey</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mt-space-xs">
+          From quiz submission to stepping off your flight at Bandaranaike International, every detail is personally overseen.
+        </p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<!-- Step 1 -->
+<div class="bg-surface-container rounded-xl p-space-lg relative flex flex-col justify-between shadow-sm">
+<div>
+<div class="w-12 h-12 rounded-full bg-primary text-on-primary font-headline-sm text-headline-sm flex items-center justify-center font-bold mb-space-md">
+              01
+            </div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mb-space-xs">Profile Analysis</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+              Within minutes of submission, Dinesh examines your chosen travel season, party configuration, and desired sights against current real-time road conditions.
+            </p>
+</div>
+<div class="mt-space-lg pt-space-md">
+<span class="font-caption text-caption text-secondary font-semibold uppercase tracking-wider">Turnaround: Immediate</span>
+</div>
+</div>
+<!-- Step 2 -->
+<div class="bg-surface-container rounded-xl p-space-lg relative flex flex-col justify-between shadow-sm">
+<div>
+<div class="w-12 h-12 rounded-full bg-secondary text-on-secondary font-headline-sm text-headline-sm flex items-center justify-center font-bold mb-space-md">
+              02
+            </div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mb-space-xs">Boutique Villa Lock-in</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+              We cross-check availability with our private partners: tea planter bungalows, heritage Galle manses, and reserved luxury train compartments.
+            </p>
+</div>
+<div class="mt-space-lg pt-space-md">
+<span class="font-caption text-caption text-secondary font-semibold uppercase tracking-wider">Turnaround: Under 12 Hours</span>
+</div>
+</div>
+<!-- Step 3 -->
+<div class="bg-surface-container rounded-xl p-space-lg relative flex flex-col justify-between shadow-sm">
+<div>
+<div class="w-12 h-12 rounded-full bg-tertiary text-on-tertiary font-headline-sm text-headline-sm flex items-center justify-center font-bold mb-space-md">
+              03
+            </div>
+<h3 class="font-headline-sm text-headline-sm text-primary font-headline-sm mb-space-xs">Tailored Itinerary Portfolio</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+              You receive an elegant, day-by-day customized PDF portfolio containing hand-picked suites, recommended dining, vehicle specs, and clear terms.
+            </p>
+</div>
+<div class="mt-space-lg pt-space-md">
+<span class="font-caption text-caption text-secondary font-semibold uppercase tracking-wider">Turnaround: Within 24 Hours</span>
+</div>
+</div>
+</div>
+<!-- FAQ Accordion Snippet -->
+<div class="mt-space-3xl max-w-3xl mx-auto bg-surface-container-low rounded-xl p-space-lg md:p-space-xl shadow-sm">
+<h3 class="font-headline-md text-headline-md text-primary font-headline-md mb-space-md text-center">Common Route Atelier Inquiries</h3>
+<div class="flex flex-col gap-space-md">
+<div class="bg-surface rounded-lg p-space-md shadow-sm">
+<h4 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base font-semibold">Can we adjust the route after submitting the quiz?</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Yes, completely. This quiz is a creative starting blueprint. Dinesh will converse with you on WhatsApp or email to refine stopover durations, add bespoke birdwatching detours, or switch lodging styles.</p>
+</div>
+<div class="bg-surface rounded-lg p-space-md shadow-sm">
+<h4 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base font-semibold">Who handles our transport throughout Sri Lanka?</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">You will be accompanied by Dinesh Jayasuriya or one of Serendiva’s hand-selected National Chauffeur Lecturers in a sanitized, climate-controlled executive SUV or micro-van with bottled Ceylon water and mobile Wi-Fi.</p>
+</div>
+<div class="bg-surface rounded-lg p-space-md shadow-sm">
+<h4 class="font-headline-sm text-headline-sm text-primary font-headline-sm text-base font-semibold">Are train tickets guaranteed?</h4>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Yes. Unlike standard mass agencies, Serendiva secures official SLGR first-class observation salon tickets directly through authorized governmental reservation systems 30 days prior to travel.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- REASSURANCE FOOTER BANNER -->
+<section class="bg-primary text-on-primary py-space-xl px-margin md:px-margin-md lg:px-margin-lg">
+<div class="max-w-[1240px] mx-auto flex flex-col md:flex-row items-center justify-between gap-space-lg">
+<div class="flex flex-col">
+<span class="font-label-md text-label-md uppercase tracking-widest text-on-primary-container">Serendiva Concierge Dispatch</span>
+<h3 class="font-headline-lg text-headline-lg font-headline-lg text-on-primary mt-1">Prefer to speak directly with Dinesh right now?</h3>
+<p class="font-body-md text-body-md text-on-primary-container mt-1">Reach out via WhatsApp audio or direct text message for immediate guidance on seasonal weather patterns.</p>
+</div>
+<a class="inline-flex items-center gap-space-sm bg-secondary hover:bg-on-secondary-fixed-variant text-on-secondary px-space-xl py-space-md rounded-lg font-label-lg text-label-lg transition-all shadow-md shrink-0" href="https://wa.me/serendiva" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-base">chat</span>
+<span>Open Direct WhatsApp Concierge</span>
+</a>
+</div>
+</section>
+<!-- INLINE CLIENT CONTROLLER -->
+<script>
+    // Quiz State Object
+    const quizState = {
+      currentStep: 1,
+      party: 'couple',
+      duration: 'balanced',
+      passions: ['citadels', 'safari', 'tea'],
+      season: 'southwest'
+    };
+
+    const stepTitles = {
+      1: "Step 1 of 4: Companion Dynamics",
+      2: "Step 2 of 4: Journey Duration",
+      3: "Step 3 of 4: Curated Passions",
+      4: "Step 4 of 4: Arrival Season"
+    };
+
+    function updateProgressBar() {
+      const bar = document.getElementById('quiz-progress-bar');
+      const indicator = document.getElementById('step-number-indicator');
+      const title = document.getElementById('step-name-indicator');
+      
+      const percent = (quizState.currentStep / 4) * 100;
+      if (bar) bar.style.width = percent + '%';
+      if (indicator) indicator.textContent = quizState.currentStep;
+      if (title) title.textContent = stepTitles[quizState.currentStep];
+
+      // Update tabs opacity
+      for (let i = 1; i <= 4; i++) {
+        const tab = document.getElementById('step-tab-' + i);
+        if (tab) {
+          if (i === quizState.currentStep) {
+            tab.classList.remove('opacity-40');
+            tab.classList.add('opacity-100');
+          } else {
+            tab.classList.remove('opacity-100');
+            tab.classList.add('opacity-40');
+          }
+        }
+      }
+    }
+
+    function goToStep(step) {
+      if (step < 1 || step > 4) return;
+      
+      // Hide all steps
+      for (let i = 1; i <= 4; i++) {
+        const el = document.getElementById('quiz-step-' + i);
+        if (el) {
+          el.classList.add('hidden');
+          el.classList.remove('block');
+        }
+      }
+
+      // Show targeted step
+      const target = document.getElementById('quiz-step-' + step);
+      if (target) {
+        target.classList.remove('hidden');
+        target.classList.add('block');
+      }
+
+      quizState.currentStep = step;
+      updateProgressBar();
+
+      // Soft scroll to top of wizard on switch
+      const wizardTop = document.getElementById('step-number-indicator');
+      if (wizardTop) {
+        wizardTop.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    function selectSingle(category, val, element) {
+      quizState[category] = val;
+      
+      // Update UI siblings
+      const parent = element.parentElement;
+      const cards = parent.querySelectorAll('.quiz-choice-card');
+      cards.forEach(card => {
+        card.classList.remove('ring-2', 'ring-primary');
+        const icon = card.querySelector('.check-indicator');
+        if (icon) {
+          icon.textContent = 'radio_button_unchecked';
+          icon.classList.remove('text-primary');
+          icon.classList.add('text-outline-variant');
+          icon.style.fontVariationSettings = "'FILL' 0";
+        }
+      });
+
+      element.classList.add('ring-2', 'ring-primary');
+      const icon = element.querySelector('.check-indicator');
+      if (icon) {
+        icon.textContent = 'check_circle';
+        icon.classList.remove('text-outline-variant');
+        icon.classList.add('text-primary');
+        icon.style.fontVariationSettings = "'FILL' 1";
+      }
+
+      updateSummaryTags();
+    }
+
+    function toggleMulti(element, key) {
+      const isSelected = element.getAttribute('data-selected') === 'true';
+      
+      if (isSelected) {
+        // Deselect
+        if (quizState.passions.length > 1) { // keep at least 1
+          quizState.passions = quizState.passions.filter(item => item !== key);
+          element.setAttribute('data-selected', 'false');
+          element.classList.remove('ring-2', 'ring-primary');
+          const icon = element.querySelector('.check-indicator');
+          if (icon) {
+            icon.textContent = 'check_box_outline_blank';
+            icon.classList.remove('text-primary');
+            icon.classList.add('text-outline-variant');
+            icon.style.fontVariationSettings = "'FILL' 0";
+          }
+        }
+      } else {
+        // Select if under max 3
+        if (quizState.passions.length < 3) {
+          quizState.passions.push(key);
+          element.setAttribute('data-selected', 'true');
+          element.classList.add('ring-2', 'ring-primary');
+          const icon = element.querySelector('.check-indicator');
+          if (icon) {
+            icon.textContent = 'check_box';
+            icon.classList.remove('text-outline-variant');
+            icon.classList.add('text-primary');
+            icon.style.fontVariationSettings = "'FILL' 1";
+          }
+        }
+      }
+
+      const counter = document.getElementById('selection-counter');
+      if (counter) {
+        counter.textContent = `${quizState.passions.length} of 3 Selected`;
+      }
+
+      updateSummaryTags();
+    }
+
+    function updateSummaryTags() {
+      const container = document.getElementById('form-summary-tags');
+      if (!container) return;
+
+      const partyLabels = {
+        couple: 'Romantic Couple',
+        solo: 'Solo Explorer',
+        family: 'Family & Children',
+        friends: 'Small Group',
+        corporate: 'Executive Delegation'
+      };
+
+      const durationLabels = {
+        short: '5–7 Days',
+        balanced: '8–10 Days',
+        deep: '11–14 Days',
+        grand: '15+ Days'
+      };
+
+      const seasonLabels = {
+        southwest: 'Nov – Apr (West & Tea)',
+        east: 'May – Sep (East Coast)',
+        perahera: 'Jul – Aug (Festival)',
+        flexible: 'Flexible Season'
+      };
+
+      const pLabel = partyLabels[quizState.party] || 'Party';
+      const dLabel = durationLabels[quizState.duration] || 'Days';
+      const sLabel = seasonLabels[quizState.season] || 'Season';
+
+      container.innerHTML = `
+        <span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">${pLabel}</span>
+        <span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">${dLabel}</span>
+        <span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">${quizState.passions.length} Passions Chosen</span>
+        <span class="bg-surface px-2 py-0.5 rounded text-caption font-caption text-primary font-medium">${sLabel}</span>
+      `;
+    }
+
+    function revealBlueprint() {
+      const result = document.getElementById('blueprint-result-section');
+      if (result) {
+        result.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+
+    function handleInquirySubmit(e) {
+      e.preventDefault();
+      const success = document.getElementById('inquiry-success-message');
+      if (success) {
+        success.classList.remove('hidden');
+        success.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    }
+
+    // Initialize summary tags
+    updateSummaryTags();
+  </script>
+</div></main><footer class="w-full bg-surface-container-low mt-space-3xl"><div class="max-w-[1440px] mx-auto px-margin md:px-margin-md lg:px-margin-lg pt-space-3xl pb-space-2xl"><div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter-lg"><div class="lg:col-span-4 flex flex-col gap-space-md"><div class="flex items-center gap-space-md"><img alt="Serendiva Brand Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1Wj2dHOYyIJcHZi0c__yPro4GGQEKUZsMGgyl0mj3o6U5R9r3zCJDLj9Z9e_qMEWRAMkOYpyGOAvEzmqnagmXsZkHz4BiTr5Xk7CNSYV8I9NO6cnWHcQYCuwlQe50IvJ1oJkoNswbOu_Zeq7fkYuOFBuNQ4n7R6UYVgYK9fRZ97xNWKgjIN42nbp8ZYOeq4tI1TmLYIWC4dZrVmGMiUXq2h2Y1mqHVXNspdFkSYTp-k58cg3bs1rqNmWQ"/><span class="font-headline-sm text-headline-sm text-primary tracking-tight font-bold">Serendiva</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm">Handcrafted private expeditions, boutique architectural villas, and authentic Sri Lankan heritage curations for the discerning traveler.</p><div class="inline-flex items-center gap-space-sm bg-surface-container px-space-md py-space-sm rounded-full w-fit"><span class="material-symbols-outlined text-tertiary text-sm">verified</span><span class="font-label-md text-label-md text-tertiary">Licensed SLTDA Chauffeur &amp; Tour Operator #TS/2024/091</span></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Expeditions</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="tours" href="#">Signature Journeys</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destinations" href="#">Ceylon Hill Country</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="destination-detail" href="#">Ella Tea Heritage</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="corporate" href="#">Corporate Retreats</a></div></div><div class="lg:col-span-2 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Concierge</span><div class="flex flex-col gap-space-sm"><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="about" href="#">The Serendiva Way</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="trip-quiz" href="#">Route Finder Quiz</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="gallery" href="#">Visual Journal</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="reviews" href="#">Guest Reviews</a><a class="font-body-md text-body-md text-on-surface-variant hover:text-on-surface transition-colors" data-path="contact" href="#">Private Dispatch</a></div></div><div class="lg:col-span-4 flex flex-col gap-space-md"><span class="font-label-lg text-label-lg uppercase tracking-wider text-primary">Private Dispatch Journal</span><p class="font-body-md text-body-md text-on-surface-variant">Receive seasonal insights on Ceylon wildlife migrations, bespoke estate openings, and cultural observances.</p><div class="flex items-center gap-space-xs bg-surface rounded-xl p-space-xs shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><input class="bg-transparent px-space-md py-space-sm font-body-md text-body-md text-on-surface placeholder:text-outline w-full focus:outline-none" placeholder="Your private email address" type="email"/><button class="bg-primary hover:bg-primary-container text-on-primary px-space-md py-space-sm rounded-lg font-label-lg text-label-lg transition-colors shrink-0" type="button">Join</button></div><div class="flex flex-col gap-1 mt-space-sm"><span class="font-caption text-caption text-on-surface-variant">Serving: Colombo · Galle Fort · Kandy · Cultural Triangle · Yala</span><span class="font-caption text-caption text-on-surface-variant">Direct telephone: +94 11 234 5678 · Concierge: private@serendiva.lk</span></div></div></div><div class="mt-space-2xl pt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md"><span class="font-caption text-caption text-on-surface-variant">© 2024 Serendiva - Ceylon Private Journeys. All rights reserved. Registered Travel Partner SLTDA #TS/2024/091.</span><div class="flex items-center gap-space-lg"><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Privacy Policy</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Terms of Bespoke Carriage</a><a class="font-caption text-caption text-on-surface-variant hover:text-on-surface transition-colors" href="#">Safety Protocol</a></div></div></div></footer></body></html>

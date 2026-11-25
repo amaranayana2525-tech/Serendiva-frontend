@@ -1,0 +1,328 @@
+{
+  "id": "cmuv1ndh3006k0i7ds83f9jvr",
+  "slug": "bentota",
+  "name": "Bentota",
+  "tagline": "Lunuganga Gardens, River Safaris & Ayurvedic Retreats",
+  "summary": "A palm-fringed river-mouth resort on the west coast, home to Geoffrey Bawa’s Lunuganga estate, gentle estuary waters for boating and some of the island’s most respected Ayurveda retreats.",
+  "metaLabel": "Western Coast · River Estuary",
+  "badge": null,
+  "bestTimeLabel": "Nov – Apr",
+  "curations": [
+    "Contemplative walk through Bawa’s Lunuganga gardens",
+    "Bentota river and mangrove boat safari",
+    "Kosgoda sea turtle conservation visit"
+  ],
+  "region": {
+    "slug": "colombo-west",
+    "name": "Colombo & Maritime West",
+    "icon": "apartment",
+    "description": "Colonial Cinnamon Mansions, Geoffrey Bawa Architecture & Coastal Sunsets",
+    "places": "Colombo, Negombo, Bentota",
+    "bestMonths": [
+      "peak",
+      "peak",
+      "peak",
+      "peak",
+      "rain",
+      "rain",
+      "good",
+      "good",
+      "rain",
+      "rain",
+      "peak",
+      "peak"
+    ]
+  },
+  "cover": {
+    "id": "cmuv1ndcz00410i7d500mny3e",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsyVBfvtcq2gh7Wiu7hA-tAGb4BvhpFPoiCa8LVBQbR7g_PHWXkvXUoIxDsB4sg0rTxIvi_75DjGOfyIrJfJ3P7mNT0QUbhGJc4DL-UeXLbs6_nP8EbZik5Vzl2kej0QIWnDK2IfcCrlpNi3Y2axgZ8V8xAtL4h7s7dSDpgu_wTgV9bvCRBBpY__coETAxJueYSlfxiSLEpBJBYO2MM6bR9OMGBuHQBho9KpbsqDfS1YADAHemxkE",
+    "alt": "Geoffrey Bawa villa in Bentota at dusk with reflecting pools and a dinner table",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "latitude": 6.421,
+  "longitude": 79.998,
+  "elevation": 5,
+  "headline": "Bentota: River Estuaries, Bawa Gardens & Golden West-Coast Sands",
+  "description": "Where the Bentota river meets the sea, a long golden beach runs south past fishing villages and turtle hatcheries. Inland lies Lunuganga, the country garden Geoffrey Bawa shaped for fifty years, and his brother Bevis’s whimsical Brief Garden.\n\nBentota is only ninety minutes from the airport, which makes it my favourite first or last stop — and the base for Ayurveda programmes with resident physicians.",
+  "quickFacts": [
+    {
+      "icon": "sunny",
+      "label": "Best Climate Window",
+      "value": "Nov – Apr",
+      "note": "Calm seas for swimming; river trips year-round"
+    },
+    {
+      "icon": "bedtime",
+      "label": "Suggested Stay",
+      "value": "2 to 3 Nights",
+      "note": "A natural first or last stop near the airport"
+    },
+    {
+      "icon": "spa",
+      "label": "Wellness",
+      "value": "Ayurveda Retreats",
+      "note": "Resident physicians and multi-day programmes"
+    },
+    {
+      "icon": "directions_car",
+      "label": "Private Access Route",
+      "value": "1.5 hrs from Colombo",
+      "note": "Via the Southern Expressway"
+    }
+  ],
+  "guideNote": {
+    "heading": "Where I Send Guests to Exhale",
+    "paragraphs": [
+      "After the hill country and the parks, Bentota is about doing very little beautifully: a morning in Bawa’s garden, a boat drifting through the mangroves, an Ayurvedic treatment and a long swim when the sea is calm."
+    ],
+    "perks": [
+      {
+        "icon": "park",
+        "label": "Lunuganga Garden Tour"
+      },
+      {
+        "icon": "spa",
+        "label": "Ayurveda Partners"
+      },
+      {
+        "icon": "eco",
+        "label": "Ethical Turtle Visit"
+      }
+    ]
+  },
+  "experiences": [
+    {
+      "kicker": "01 • Garden Architecture",
+      "meta": "Gentle • 2 Hours • Morning",
+      "title": "Lunuganga: Bawa’s Living Garden",
+      "text": "Terraces, follies and framed views across Dedduwa lake — the place where Sri Lanka’s greatest architect experimented with landscape for half a century.",
+      "tagIcon": "park",
+      "tagLabel": "Private Garden Tour",
+      "image": {
+        "id": "cmuv1ndcz002v0i7dumqahz7k",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBvc4HpmbqScL4ao_7guLA3SHRcj7Rqk9OOguH26FXewgSZmmSMGQZx3F04N4xA8o4sfubEP6K9PVCdkEuJqZp3C10d73Pa-9gC2Ai6I1JB1dPBXjX7H11FKeba5LmbKwBsz341R5I1QtMRo-9aqzBqkdQqlOnZMFRuE8jhdQNn_lZLyjy__c6oeuVFnMBIF0i8iD1AALu6xrDMSBeNgMif3uBsq93dWSwoF3YneneuZfn53LP-Zm0",
+        "alt": "Courtyard and lily pond at Geoffrey Bawa's Lunuganga estate in Bentota",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "02 • On the Water",
+      "meta": "Easy • 2 Hours • Late Afternoon",
+      "title": "Estuary Sailing & River Safari",
+      "text": "Sail the sheltered estuary or drift up the Bentota river through mangrove tunnels, past monitor lizards, kingfishers and riverside temples.",
+      "tagIcon": "sailing",
+      "tagLabel": "Life Jackets for All Ages",
+      "image": {
+        "id": "cmuv1ndcz00430i7druax3bvr",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCC6AXohSmtdrXOt9cnZAdI8huZfK_-X6vonOAKLGv8IKlYVHFbH8U7tppNj_mjZegnc4VG6IpFXir0ep6UOnJySvSBIP9VQCj_pASJmxcnq6MFs4tNU0RyJIxstnCkHIQ5Sq1RmwC6hTOa2hZmVAA-rp4GGNIKuh-d5TvSauiqWiJyuXUou1ITSBVjt5VTIv1AFbyVRoEPuRWlr3ABtxsW9mqm2JXINx7qO8vYE6PP0sCuDPRn_jQ",
+        "alt": "Executive team sailing catamarans in turquoise coastal waters",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      }
+    },
+    {
+      "kicker": "03 • Conservation",
+      "meta": "Easy • 1 Hour • Evening",
+      "title": "Kosgoda Sea Turtle Hatchery",
+      "text": "A small community hatchery that protects eggs from poachers and releases hatchlings at night — visited quietly, without handling the turtles.",
+      "tagIcon": "volunteer_activism",
+      "tagLabel": "Ethical Visit",
+      "image": null
+    }
+  ],
+  "cuisine": null,
+  "stays": [],
+  "fieldNotes": [
+    {
+      "icon": "waves",
+      "title": "Monsoon Seas",
+      "text": "From May to October the sea is rough on this coast. Swim only where it is safe — the river and the pool are lovely alternatives."
+    },
+    {
+      "icon": "spa",
+      "title": "Ayurveda Consultation",
+      "text": "Genuine retreats begin with a physician’s consultation. Allow at least three days for treatments to make a real difference."
+    },
+    {
+      "icon": "eco",
+      "title": "Turtle Ethics",
+      "text": "I avoid hatcheries that keep turtles in tanks for photos. The one we visit releases hatchlings straight to the sea."
+    }
+  ],
+  "interests": [
+    "Ayurveda",
+    "Bawa Architecture",
+    "River Safari",
+    "Beach Leisure",
+    "Turtle Conservation"
+  ],
+  "mapPoints": [
+    {
+      "name": "Bentota Beach",
+      "lat": 6.4183,
+      "lng": 79.9966
+    },
+    {
+      "name": "Lunuganga Estate",
+      "lat": 6.393,
+      "lng": 80.027
+    },
+    {
+      "name": "Bentota River Mouth",
+      "lat": 6.4255,
+      "lng": 79.9975
+    },
+    {
+      "name": "Kosgoda Turtle Hatchery",
+      "lat": 6.3355,
+      "lng": 80.0275
+    }
+  ],
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz002v0i7dumqahz7k",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBvc4HpmbqScL4ao_7guLA3SHRcj7Rqk9OOguH26FXewgSZmmSMGQZx3F04N4xA8o4sfubEP6K9PVCdkEuJqZp3C10d73Pa-9gC2Ai6I1JB1dPBXjX7H11FKeba5LmbKwBsz341R5I1QtMRo-9aqzBqkdQqlOnZMFRuE8jhdQNn_lZLyjy__c6oeuVFnMBIF0i8iD1AALu6xrDMSBeNgMif3uBsq93dWSwoF3YneneuZfn53LP-Zm0",
+        "alt": "Courtyard and lily pond at Geoffrey Bawa's Lunuganga estate in Bentota",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Lunuganga",
+      "caption": "Bawa’s courtyard and lily pond"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00430i7druax3bvr",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCC6AXohSmtdrXOt9cnZAdI8huZfK_-X6vonOAKLGv8IKlYVHFbH8U7tppNj_mjZegnc4VG6IpFXir0ep6UOnJySvSBIP9VQCj_pASJmxcnq6MFs4tNU0RyJIxstnCkHIQ5Sq1RmwC6hTOa2hZmVAA-rp4GGNIKuh-d5TvSauiqWiJyuXUou1ITSBVjt5VTIv1AFbyVRoEPuRWlr3ABtxsW9mqm2JXINx7qO8vYE6PP0sCuDPRn_jQ",
+        "alt": "Executive team sailing catamarans in turquoise coastal waters",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Estuary Sailing",
+      "caption": "Calm water off the west coast"
+    }
+  ],
+  "tours": [
+    {
+      "id": "cmuv1ndkj009s0i7dt13bl054",
+      "slug": "ceylon-family-wonder-discovery",
+      "title": "Ceylon Family Wonder & Discovery",
+      "summary": "Eleven gentle days built around children and grandparents alike: wild elephants from the safari jeep, a village day by bullock cart and canoe, junior naturalist kits, a turtle hatchery and safe surf and kayak sessions on the west coast.",
+      "cardTag": "All Ages",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Colombo",
+        "Sigiriya",
+        "Kandy",
+        "Udawalawe",
+        "Bentota"
+      ],
+      "highlights": [
+        "Ethical Elephant Sanctuary Day",
+        "Junior Naturalist Safari Kits",
+        "Kid-Friendly Surfing & Kayak"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001f0i7drk09mcyb",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCKzksJRJEZgRJ2AevD285GeEsCIlbxVtTJQQSWmVb3TncWmFGc41Us-AJfFL6ka9sNW_cfOEl7RdiAhRFf5NsOwLBTkUGqnbIl9SPt4HXDawKDt6opwrjgV5cn_Sd9vEIEcIDQAn3GZDKNLSwPHHD2DTGkd_QsTktEAJEUzCTtCIYnj1sJ4kYW2x0Qz_bG9iL-p4RKJ5lfts07P-36W6mp4fpb8YcjjIiyxXMqoBE_cDYZONlYutk",
+        "alt": "Family walking beside an elephant mother and calf in an Udawalawe sanctuary",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde300520i7dasiux54s",
+          "slug": "family",
+          "name": "Family Journeys & Wildlife",
+          "shortName": "Family Expeditions"
+        }
+      ],
+      "travellerTypes": [
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndkx00a80i7doxfs6gow",
+      "slug": "ayurveda-healing-forest-silence",
+      "title": "Ayurveda, Healing & Forest Silence",
+      "summary": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathing, and private oceanfront meditation.",
+      "cardTag": "Holistic Rejuvenation",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Bentota",
+        "Sinharaja Rainforest",
+        "Ella Foothills",
+        "Weligama Bay"
+      ],
+      "highlights": [
+        "Resident Ayurvedic Doctor Consult",
+        "Daily Dawn Pranayama & Yoga",
+        "Farm-to-Table Organic Dining"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001g0i7dz0vkot17",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+        "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "solo",
+        "couple"
+      ],
+      "seasons": [
+        "year-round"
+      ]
+    }
+  ],
+  "faqs": [],
+  "seo": {
+    "title": "Bentota: Lunuganga Gardens, River Safaris & Ayurvedic Retreats",
+    "description": "A palm-fringed river-mouth resort on the west coast, home to Geoffrey Bawa’s Lunuganga estate, gentle estuary waters for boating and some of the island’s most r",
+    "image": {
+      "id": "cmuv1ndcz00410i7d500mny3e",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsyVBfvtcq2gh7Wiu7hA-tAGb4BvhpFPoiCa8LVBQbR7g_PHWXkvXUoIxDsB4sg0rTxIvi_75DjGOfyIrJfJ3P7mNT0QUbhGJc4DL-UeXLbs6_nP8EbZik5Vzl2kej0QIWnDK2IfcCrlpNi3Y2axgZ8V8xAtL4h7s7dSDpgu_wTgV9bvCRBBpY__coETAxJueYSlfxiSLEpBJBYO2MM6bR9OMGBuHQBho9KpbsqDfS1YADAHemxkE",
+      "alt": "Geoffrey Bawa villa in Bentota at dusk with reflecting pools and a dinner table",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:33:29.941Z"
+}

@@ -1,0 +1,90 @@
+{
+  "from": "2026-10-05",
+  "to": "2027-10-05",
+  "ranges": [
+    {
+      "id": "cmuv1vcfo007vyh7d3icg40k4",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-20",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo007wyh7d357fldmk",
+      "startDate": "2026-10-25",
+      "endDate": "2026-11-02",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo007xyh7dtldwjmi4",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-16",
+      "type": "available"
+    },
+    {
+      "id": "cmuv1vcfo007yyh7dshkqfxr5",
+      "startDate": "2026-11-20",
+      "endDate": "2026-12-03",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo007zyh7dbd5au3dp",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-17",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0080yh7duvpdp0r5",
+      "startDate": "2026-12-26",
+      "endDate": "2027-01-05",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0081yh7dnmf3x5gr",
+      "startDate": "2027-01-11",
+      "endDate": "2027-01-28",
+      "type": "available"
+    },
+    {
+      "id": "cmuv1vcfo0082yh7dwehd9y2v",
+      "startDate": "2027-02-03",
+      "endDate": "2027-02-10",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0083yh7do4b3d44c",
+      "startDate": "2027-02-20",
+      "endDate": "2027-03-04",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0084yh7dov5otfvx",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-20",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0085yh7de8m7f9nq",
+      "startDate": "2027-03-26",
+      "endDate": "2027-04-15",
+      "type": "available"
+    },
+    {
+      "id": "cmuv1vcfo0086yh7dvpou4clf",
+      "startDate": "2027-04-22",
+      "endDate": "2027-05-03",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0087yh7dj2v0y8mn",
+      "startDate": "2027-05-15",
+      "endDate": "2027-05-24",
+      "type": "busy"
+    },
+    {
+      "id": "cmuv1vcfo0088yh7dh2vvv1pi",
+      "startDate": "2027-06-07",
+      "endDate": "2027-06-20",
+      "type": "busy"
+    }
+  ]
+}

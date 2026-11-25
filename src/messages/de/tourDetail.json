@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "titleFallback": "{title} · Private Sri-Lanka-Reise"
+  },
+  "breadcrumb": {
+    "tours": "Rundreisen"
+  },
+  "header": {
+    "kicker": "Signatur-Rundreise",
+    "badgesLabel": "Reise-Höhepunkte",
+    "duration": "Reisedauer"
+  },
+  "gallery": {
+    "label": "Fotogalerie",
+    "viewAll": "{count, plural, one {# Foto} other {Alle # Fotos}} ansehen",
+    "open": "Foto {number} von {total} öffnen: {title}"
+  },
+  "blueprint": {
+    "title": "Routenübersicht",
+    "label": "Stationen in Reihenfolge"
+  },
+  "subnav": {
+    "label": "Bereiche dieser Reise",
+    "overview": "Überblick",
+    "itinerary": "Tagesverlauf",
+    "inclusions": "Leistungen",
+    "route": "Route & Gelände",
+    "faq": "Häufige Fragen",
+    "reviews": "Gästebewertungen"
+  },
+  "overview": {
+    "kicker": "Die Reisephilosophie",
+    "curatedBy": "Kuratiert von {name}",
+    "guideMeta": "{title} · {years} Jahre Ceylon-Erfahrung",
+    "featuresLabel": "Hauptmerkmale",
+    "quote": "„{text}“"
+  },
+  "itinerary": {
+    "eyebrow": "Chronologischer Ablauf",
+    "title": "Detaillierter Tagesverlauf",
+    "expandAll": "Alle {count} Tage aufklappen",
+    "collapseAll": "Alle Tage einklappen",
+    "day": "Tag {number}",
+    "highlight": "Höhepunkt",
+    "meals": "Verpflegung: {meals}",
+    "detailLabel": "{label}:"
+  },
+  "inclusions": {
+    "eyebrow": "Volle Transparenz",
+    "title": "Leistungen & Hinweise",
+    "included": "Inklusive",
+    "notIncluded": "Nicht enthalten"
+  },
+  "route": {
+    "eyebrow": "Geografischer Verlauf",
+    "title": "Streckenprofil & Höhenlagen",
+    "totalCircuit": "Gesamtstrecke",
+    "mapLabel": "Routenkarte für {tour}",
+    "mapHint": "Interaktive Karte — die nummerierten Punkte folgen Ihrem Reiseverlauf.",
+    "stopsTitle": "Stationen in Reihenfolge",
+    "stopDay": "Tag {day}",
+    "stopNumber": "Stopp {number}",
+    "loading": "Routenkarte wird geladen…",
+    "showStops": "Alle {count} Stationen anzeigen",
+    "hideStops": "Liste ausblenden"
+  },
+  "faq": {
+    "eyebrow": "Persönliche Hinweise",
+    "title": "Häufig gestellte Fragen"
+  },
+  "reviews": {
+    "eyebrow": "Verifizierte Stimmen",
+    "title": "Gästeberichte zu dieser Route",
+    "count": "({count, plural, one {# verifizierter Gast} other {# verifizierte Gäste}})",
+    "average": "Durchschnitt {rating} von 5"
+  },
+  "related": {
+    "eyebrow": "Weitere Empfehlungen",
+    "title": "Das könnte Ihnen auch gefallen",
+    "exploreAll": "Alle Routen entdecken",
+    "exploreAllCount": "Alle {count} Routen entdecken"
+  },
+  "inquiry": {
+    "selectedJourney": "Gewählte Reise",
+    "monthPlaceholder": "Monat wählen",
+    "flexible": "Ich bin flexibel",
+    "flexibleWindow": "Flexible Daten",
+    "guests": {
+      "couple": "2 Erwachsene",
+      "solo": "1 Alleinreisender",
+      "family": "3–4 Familie",
+      "group": "5+ Privatgruppe"
+    },
+    "successTitle": "Vielen Dank — Ihre Anfrage zu „{tour}“ ist bei mir eingegangen.",
+    "availabilityTitle": "Meine Verfügbarkeit"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "Serendiva · Private Sri Lanka Tours with a Licensed Guide",
+    "description": "Private, bespoke journeys through Sri Lanka — crafted around your pace and hosted personally by an accredited National Tourist Guide Lecturer. Inquire or chat on WhatsApp."
+  },
+  "hero": {
+    "eyebrow": "Accredited National Tourist Guide Lecturer",
+    "titleLead": "Sri Lanka,",
+    "titleAccent": "Guided Personally.",
+    "intro": "Private, bespoke journeys through the pearl of the Indian Ocean—crafted around your cadence with an accredited National Tourist Guide Lecturer.",
+    "explore": "Explore Curated Tours",
+    "whatsapp": "Chat on WhatsApp",
+    "scrollCue": "Discover Ceylon",
+    "slides": "Sri Lanka in pictures",
+    "slidePicker": "Choose a background photo",
+    "inquiry": {
+      "label": "Quick trip inquiry",
+      "focus": "Expedition Focus",
+      "focusOpen": "Open to Your Suggestions",
+      "month": "Travel Month",
+      "window": "{start} - {end}",
+      "windowWithNote": "{window} ({note})",
+      "notes": {
+        "peakDry": "Peak Dry",
+        "eastCoast": "East Coast"
+      },
+      "flexible": "Flexible / Early Planning",
+      "party": "Private Party Size",
+      "parties": {
+        "couple": "1-2 Guests (Private Couple)",
+        "family": "3-6 Guests (Family / Friends)",
+        "group": "7+ Guests (VIP Delegation / Group)",
+        "solo": "Solo Discerning Explorer"
+      },
+      "submit": "Get My Plan",
+      "submitHint": "Opens my inquiry form with your choices filled in."
+    }
+  },
+  "trust": {
+    "label": "Credentials at a glance",
+    "reviewTitle": "{rating}★ Travelers' Choice",
+    "reviewCount": "{count, plural, one {# Verified Review} other {# Verified Reviews}}"
+  },
+  "guide": {
+    "eyebrow": "Ayubowan & Warmest Welcome",
+    "titleLead": "\"I don't just show you Sri Lanka.",
+    "titleAccent": "I introduce you to its heartbeat.\"",
+    "defaultName": "Dinesh Jayasuriya",
+    "lead": "I am {name}. For over {years} years, I have opened the hidden sanctuaries, ancient monolithic kingdoms, and fragrant spice highlands of my homeland to world wanderers seeking far more than just standard tour buses.",
+    "leadNoYears": "I am {name}. For many years, I have opened the hidden sanctuaries, ancient monolithic kingdoms, and fragrant spice highlands of my homeland to world wanderers seeking far more than just standard tour buses.",
+    "body": "Holding the highest National Tourist Guide Lecturer license issued by the Sri Lanka Tourism Development Authority (SLTDA), I specialize in strictly private, custom itineraries where your curiosity sets the day's tempo.",
+    "pillars": {
+      "private": {
+        "title": "100% Private & Flexible",
+        "body": "Pace your morning. Stop at roadside king coconut stands or secluded viewpoints without rigid deadlines."
+      },
+      "access": {
+        "title": "Insider Access",
+        "body": "Private blessings at Buddhist forest hermitages, colonial arrack tastings, and quiet wildlife corridors."
+      },
+      "fleet": {
+        "title": "VIP Fleet Comfort",
+        "body": "Toyota Prado luxury SUV & VIP Royal Lounge vans, onboard 5G Wi-Fi, chilled Ceylon towels & refreshments."
+      }
+    },
+    "cta": "Read Full Story & Credentials"
+  },
+  "categories": {
+    "eyebrow": "Diverse Ceylon Archetypes",
+    "title": "Choose Your Island Horizon",
+    "intro": "Every category can be blended seamlessly into an interconnected, multi-week voyage tailored to your precise physical and cultural preferences."
+  },
+  "featured": {
+    "eyebrow": "Handcrafted Blueprints",
+    "title": "Signature Private Itineraries",
+    "intro": "Every journey is privately executed, totally customizable, and hosted exclusively by me. No fixed dates, no shared strangers.",
+    "noticeTitle": "Serendiva Concierge Notice:",
+    "notice": "Every journey here is designed personally, never sold off the shelf. I personally review every request to confirm seasonality, villa availability, and VIP transit permits before your personalized proposal is finalized.",
+    "emptyBody": "My signature itineraries are being refreshed. Tell me what you dream of and I will design it around you."
+  },
+  "craft": {
+    "eyebrow": "Bespoke Curation",
+    "title": "How I Craft Your Journey",
+    "quote": "\"Tell me what moves you—wildlife dawn drives, secret ruins, or lazy ocean afternoons—and I will assemble the pieces.\"",
+    "steps": {
+      "share": {
+        "title": "Share Your Intentions & Timing",
+        "body": "Select your travel window, party dynamics, physical activity preferences, and architectural villa desires via my inquiry form or direct WhatsApp line."
+      },
+      "blueprint": {
+        "title": "Receive Your Tailored Blueprint (24h)",
+        "body": "I personally construct an hour-by-hour routing proposal, vetted boutique stays, and wildlife activity windows. We refine it together until it is perfect."
+      },
+      "arrive": {
+        "title": "Arrive & Savor Flawless Ease",
+        "body": "From your VIP Bandaranaike Airport greeting to your last southern sunset, I personally ensure complete security, quiet comfort, and authentic wonder."
+      }
+    },
+    "cta": "Start My Custom Trip Planner"
+  },
+  "destinations": {
+    "eyebrow": "Territories of Wonder",
+    "title": "Iconic Ceylon Encounters",
+    "intro": "Hover over each sanctuary to preview its unique geographic temperament and cultural significance.",
+    "explore": "Explore {name}"
+  },
+  "corporate": {
+    "eyebrow": "Executive Logistics & Private Delegations",
+    "title": "Corporate Retreats, Executive Incentives & Dignitary Escorts",
+    "intro": "I deliver flawless turnkey ground handling for multinational boards, embassy VIPs, and corporate retreats seeking inspiring island environments.",
+    "features": {
+      "estates": {
+        "title": "Private Heritage Estate Buyouts",
+        "body": "Exclusive private hire of Ceylon tea bungalows and coastal design villas for strategy sessions."
+      },
+      "fleet": {
+        "title": "Premium Executive Fleet Transit",
+        "body": "Luxury Toyota Coaster executive coaches and convoy Prado SUVs with dedicated baggage escorts."
+      },
+      "liaison": {
+        "title": "24/7 On-Ground Diplomatic Liaison",
+        "body": "Single point of contact, bilingual interpretation, airport tarmac permits, and tailored dietary catering."
+      }
+    },
+    "cta": "Request a Corporate Proposal",
+    "sealTitle": "SLTDA Certified Operator",
+    "sealBody": "Corporate Ground Handling Certified"
+  },
+  "reviews": {
+    "title": "Guest reviews",
+    "attribution": "— {name}, {place}",
+    "attributionName": "— {name}",
+    "carouselLabel": "Recent guest reflections",
+    "emptyBody": "Guest reflections will appear here soon."
+  },
+  "responsible": {
+    "eyebrow": "Conscious Ceylon Expeditions",
+    "title": "Travel Smart, Tread Lightly",
+    "intro": "I hold an unyielding commitment to preserve Sri Lanka's fragile ecosystems and support indigenous communities. Every expedition directly enriches local artisans, avoids mass commercial tourist mills, and adheres to strict ethical wildlife interaction protocols.",
+    "pillars": {
+      "plastic": {
+        "title": "Zero Single-Use Plastic",
+        "body": "Complimentary personalized double-walled stainless steel insulated flasks in my vehicles."
+      },
+      "equity": {
+        "title": "Community Direct Equity",
+        "body": "Fair compensation paid directly to village cooks, local trackers, and cultural artisans."
+      },
+      "safari": {
+        "title": "Ethical Safari Standard",
+        "body": "Strict engine-off protocols, respectful wildlife distances, and no off-road habitat destruction."
+      }
+    },
+    "cta": "Read My Responsible Travel Pledge"
+  },
+  "faq": {
+    "emptyBody": "Have a question about visas, seasons or etiquette? Ask me directly — I reply personally."
+  },
+  "climate": {
+    "title": "Ceylon Climate & Seasonality Matrix",
+    "intro": "A quick reference guide for picking the perfect regional pairing for your desired departure window.",
+    "regions": {
+      "southWest": {
+        "name": "South & West Coast",
+        "season": "Dec to April",
+        "body": "Mirissa, Galle, Bentota, Colombo. Peak blue skies, calm ocean surf, and whale migrations."
+      },
+      "eastNorth": {
+        "name": "East Coast & North",
+        "season": "May to September",
+        "body": "Trincomalee, Pasikuda, Jaffna. Glorious dry warmth, crystal snorkeling, and dolphin pods."
+      },
+      "highlands": {
+        "name": "Central Tea Highlands",
+        "season": "Year-Round Refresh",
+        "body": "Nuwara Eliya, Ella, Hatton. Crisper mountain temperatures (15°C–22°C), misty peaks, and roaring tea waterfalls."
+      }
+    }
+  },
+  "stories": {
+    "eyebrow": "The Discerning Dispatch",
+    "title": "Stories & Insider Ceylon Notes",
+    "intro": "Curated dispatches I write on quiet viewpoints, tea rituals, and regional culture.",
+    "emptyBody": "New field dispatches are on their way.",
+    "instagramFollow": "Follow My Journeys",
+    "instagramLabel": "Recent photos from Instagram"
+  },
+  "finalCta": {
+    "eyebrow": "Ayubowan · Private Planning Desk"
+  }
+}

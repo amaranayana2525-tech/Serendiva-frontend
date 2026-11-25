@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "斯里兰卡目的地与地理区域",
+    "description": "在专属岛屿地图上探索斯里兰卡各大区域——文化三角、茶乡高地、南部与东部海岸及野生动物国家公园——由国家持证向导 Dinesh Jayasuriya 私人带队。"
+  },
+  "hero": {
+    "kicker": "人文盛典与自然秘境",
+    "title": "多元地貌、千年回响与野性天际线",
+    "intro": "走进斯里兰卡六大风貌各异的自然与文化区域——从贾夫纳棕榈平原、云雾高山雨林到南部金沙海岸，均由国家持证向导 Dinesh Jayasuriya 私人陪同。",
+    "hostTitle": "国家认证私人向导",
+    "hostBody": "SLTDA 执照 #{license}。全程冷气豪华专车、国家公园门票与保护区手续预先安排到位。",
+    "hostBodyNoLicense": "SLTDA 官方持证。全程冷气豪华专车与各保护区通行手续预先安排到位。"
+  },
+  "map": {
+    "label": "标明主要目的地中心的斯里兰卡手绘风格地图",
+    "hubsLabel": "目的地中心",
+    "hubLink": "{name}，{region} — 打开目的地详情指南",
+    "legendTitle": "{count} 大生态地理区",
+    "hoverHint": "悬停或轻触预览",
+    "legendLabel": "选择区域以高亮地图节点并筛选下方目的地",
+    "routingCta": "咨询跨区域私人定制路线",
+    "routingNote": "每段行程均搭配私人专车完全定制。",
+    "regionHubs": "{count, plural, =0 {暂无站点} one {# 个目的地} other {# 个目的地}}",
+    "empty": "目的地亮点即将呈现。"
+  },
+  "curations": {
+    "eyebrow": "Serendiva 目的地典藏",
+    "title": "精选私人目的地指南",
+    "searchLabel": "搜索目的地",
+    "searchPlaceholder": "搜索艾拉、花豹、狮子岩、茶园...",
+    "tabsLabel": "按区域筛选目的地",
+    "all": "全部区域（{count}）",
+    "tab": "{name}（{count}）",
+    "results": "{count, plural, =0 {暂无符合条件的目的地} one {显示 # 个目的地} other {显示 # 个目的地}}",
+    "emptyTitle": "没有找到匹配的目的地",
+    "emptyBody": "试试其他关键词或区域 — 也可以直接告诉我您最期待的风景。",
+    "reset": "显示全部目的地",
+    "emptyAllTitle": "目的地介绍整理中",
+    "emptyAllBody": "我正在整理全岛最钟爱的私藏角落，欢迎直接发送您的旅行设想。"
+  },
+  "season": {
+    "eyebrow": "双季风微气候解读",
+    "title": "斯里兰卡季节与晴雨日历",
+    "intro": "斯里兰卡受西南与东北两股交替季风影响，一侧海岸降雨时，另一侧海岸正值晴空澄澈。",
+    "caption": "全年 1 月至 12 月各大区域最佳旅行月份"
+  },
+  "insight": {
+    "eyebrow": "{name} 的在地提示",
+    "quote": "“得益于交替季风微气候，斯里兰卡一年十二个月总有一段阳光海岸与干爽山谷等着您，无须因季节而妥协。”",
+    "role": "{title} · Serendiva Ceylon Private Journeys",
+    "cta": "按您的出行月份规划"
+  },
+  "quiz": {
+    "kicker": "智能路线推荐",
+    "title": "不确定哪片区域最适合您的月份与偏好？",
+    "body": "只需 60 秒完成锡兰旅程匹配小测试，根据出行月份、节奏和同行人群即时获取建议方案。",
+    "cta": "开始 1 分钟行程测试",
+    "whatsapp": "在 WhatsApp 上联系 Dinesh"
+  },
+  "faq": {
+    "eyebrow": "行前功课",
+    "title": "区域与交通常见问题",
+    "intro": "关于车程距离、季节微气候、公园门票与串联方式的实际说明。"
+  }
+}

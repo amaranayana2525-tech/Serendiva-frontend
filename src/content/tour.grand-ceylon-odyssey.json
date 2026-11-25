@@ -1,0 +1,859 @@
+{
+  "id": "cmuv1ndhy00760i7dnzms2e15",
+  "slug": "grand-ceylon-odyssey",
+  "title": "The Grand Ceylon Odyssey",
+  "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+  "cardTag": "Grand Circuit",
+  "durationDays": 11,
+  "durationNights": 10,
+  "route": [
+    "Negombo",
+    "Cultural Triangle",
+    "Kandy",
+    "Ella Highlands",
+    "Yala National Park",
+    "Galle Fort"
+  ],
+  "highlights": [
+    "Leopard Safari in Yala",
+    "First-Class Scenic Tea Train",
+    "Private Village Cooking Feast"
+  ],
+  "isFeatured": true,
+  "isMostPopular": true,
+  "cover": {
+    "id": "cmuv1ndcz00130i7dot5qncje",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+    "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nddq004w0i7dmayij8qt",
+      "slug": "cultural-heritage",
+      "name": "Cultural & Ancient Kingdoms",
+      "shortName": "Cultural & Heritage"
+    },
+    {
+      "id": "cmuv1ndds004x0i7dt1ak9m7n",
+      "slug": "wildlife-safari",
+      "name": "Wildlife & Safari Expeditions",
+      "shortName": "Wildlife & Safari"
+    },
+    {
+      "id": "cmuv1nddy004y0i7d73erk1uw",
+      "slug": "pristine-beaches",
+      "name": "Pristine Southern Beaches",
+      "shortName": "Pristine Beach"
+    },
+    {
+      "id": "cmuv1nddz004z0i7dh2v8rphf",
+      "slug": "hill-country",
+      "name": "Central Hill Country & Tea Trails",
+      "shortName": "Hill Country"
+    }
+  ],
+  "travellerTypes": [
+    "couple",
+    "family",
+    "group",
+    "solo"
+  ],
+  "seasons": [
+    "nov-apr"
+  ],
+  "description": "If you have one long journey to give Sri Lanka, this is the one I would plan for you. Eleven unhurried days string together the ancient capitals of the Cultural Triangle, royal Kandy, the misty tea country around Nuwara Eliya and Ella, the leopard country of Yala and the Dutch ramparts of Galle.\n\nEvery transfer is broken with something worth stopping for — a spice garden, a waterfall, a roadside king coconut — and the longer stays are placed where you will want to linger: three nights in the Cultural Triangle and two in Ella.",
+  "badges": [
+    "Signature Circuit",
+    "Private Chauffeur-Guide",
+    "UNESCO World Heritage",
+    "Leopard Country"
+  ],
+  "overview": {
+    "kicker": "The Complete Island",
+    "heading": "Ancient Kingdoms, Tea Mountains, Wild Leopards & Ocean Ramparts",
+    "quote": "In eleven days the island changes its clothes five times — from dry-zone monoliths to cloud forest, from leopard scrub to the Indian Ocean. I want you to feel every one of those changes, slowly."
+  },
+  "keyFeatures": [
+    {
+      "icon": "account_balance",
+      "title": "Three Ancient Capitals",
+      "text": "Sigiriya at dawn, Polonnaruwa by bicycle and the sacred city of Kandy."
+    },
+    {
+      "icon": "train",
+      "title": "The Scenic Blue Train",
+      "text": "Reserved observation seats from Nanu Oya to Ella through the heart of tea country."
+    },
+    {
+      "icon": "pets",
+      "title": "Yala Leopard Safari",
+      "text": "Private 4x4 with a senior tracker, timed for the first and last light."
+    },
+    {
+      "icon": "person_pin",
+      "title": "100% Private Guide",
+      "text": "One licensed National Lecturer and one vehicle for your party from arrival to farewell."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "confirmation_number",
+      "text": "Entrance permits for Sigiriya, Dambulla, Polonnaruwa, the Temple of the Tooth and Galle Fort sites"
+    },
+    {
+      "icon": "pets",
+      "text": "Private open 4x4 safari in Yala with park fees and a senior wildlife tracker"
+    },
+    {
+      "icon": "train",
+      "text": "Guaranteed First-Class Observation carriage tickets for the scenic tea country train"
+    },
+    {
+      "icon": "hotel",
+      "text": "10 nights handpicked boutique luxury accommodations with daily breakfasts and curated dinners"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "1,050 Kilometers · 5 Distinct Landscapes",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcl00010i7dolnf8ah3",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA_4-RwBgOo4QQOpOovA-_0Zl-FLkwzWA8XAUtJrNwJ-z0EoFrgaRXqbvL5M6LgJbQwX8rp6qvsZV-yNrl9Sqtxnm0xqxtXEcxUC2tfdGYhCt3NAvteM76pe0uRUdqBTSS0eOMe-Pn-0XkXfGM7SzyvgU9-v86hefwJG_v3mOquEm0ve54MtAmhLQ4poyNsa1VX04vSCW5W6EPLMSixfc6ddKXalOS9abtjIkRbmNVs0QQOFTnaAN0",
+        "alt": "Sigiriya Rock Fortress emerging from morning mist at golden sunrise",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Sigiriya at Sunrise",
+      "caption": "Before the heat and the crowds"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz00320i7dt2g6m1ke",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAHp_KZGQtMK7Ujkclvo4uaHJCr2habxbeJsr9RQZFOooMD1wGfqnaTobKJDAafU_l3mx8ozta06qgSeO-u1cclZG9jeWHEPQI58_N675p5UWJfiJ4lWLjWYNgbakLlQRFCIe5e516WhW5Pf4KO-HXdcBej11MjHeqUlATxpomJapvBbRI18_MaJY5Trd8UCbzcqzvLfXqR_8UxvgFAukE7gB9-aG1CdRRp4DRxB-Xe7eEhXBsqeS0",
+        "alt": "Coconut oil lamps glowing in the Temple of the Sacred Tooth Relic, Kandy",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Kandy by Lamplight",
+      "caption": "The evening puja"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz002y0i7dt6wnabiz",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuABpQ0XlWQG_1ivYnlBMoHvEc7c7FO1SFiSOHoEvbbayi5eY_D7SEDScSpPXrORMuADbd87LPUqLHMcKw_6bYr504phLoOBEhxCBeXgrDincsV_4PttGyJwYLgy89pVJHb2EDDHFUuehIVsWAG4_S-bu-6NJcG0YjL0CEbT7Otvc615FdDrT5OcZ86hWRmQ_TzyQqFqUED6jgw191xSn70auVMjyn52XChq7u7tFmVzULemhvq6QhY",
+        "alt": "Blue train crossing the Nine Arches Bridge beneath highland clouds",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "The Blue Train",
+      "caption": "Nanu Oya to Ella"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001u0i7duew5pnu6",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAww4sGA9MKmGtauTBa4XwMXlp5fzKwaHcMmMOleurHH2zEYaO9MibCXTueo4qJ_X5MF7VECDlIKsf4UVzBnCgLrv8U47KQdqlousf3Jyet1vHMxDufd7CAh5KKR9umKeSAovFpIoJxfnfxdotoMZH3yUtI5TqhV7Xu1W-vUEcFoVGbXotGDDHuIqTt2TI-wqpOmEnFr44OqHDbY0-fu6TeEw78SYejGqkZ5KU3GoQzKmeFXqwhyT4",
+        "alt": "Male leopard walking a red dirt trail in Yala National Park",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Yala Leopard",
+      "caption": "Dawn safari with a senior tracker"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz001v0i7dvc67ur5j",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBplwZj055ZWLUpF930jeJzESl8tCPdXkSiVxp85yW774qsX9T2fRb5ZL364RmXYpP8anUgBEL-BUyvZonlZVdMMMXQ0OfSDRIW0RRvIFLBeRNW3RscYO7x0VRtUQdblP7Q4CYfpkql1neWgX7IaMg1ouaCwzGy7_dPp5u79p7VH9uzacFkW6IrnWhpGKPszA7o6vLlWfjiPB0pzuz6a5WUl2GdWclHqeFqoZvuTZOiyBWFYiNIXCE",
+        "alt": "Galle Fort lighthouse and ramparts against crashing waves at sunset",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Galle Fort",
+      "caption": "A final sunset on the ramparts"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & a Lagoon-Side Welcome in Negombo",
+      "description": "I meet you at the arrivals hall with cold towels and king coconut water, and in twenty-five minutes you are at a quiet lagoon-side hotel. A gentle evening walk past the fishing boats and a welcome seafood dinner while I sketch the journey ahead.",
+      "overnightArea": "Negombo",
+      "meals": "Welcome Dinner",
+      "drivingTime": "Drive: ~25 mins",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Sunset by the Negombo lagoon"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Negombo",
+          "lat": 7.2083,
+          "lng": 79.8358
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "Into the Cultural Triangle via the Dambulla Cave Temples",
+      "description": "We drive inland to the dry zone, pausing for a roadside breakfast of hoppers, and spend the afternoon in the painted caves of Dambulla. Evening arrival at a forest lodge within sight of Sigiriya.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~4 hrs",
+      "details": [
+        {
+          "label": "Private Inclusion",
+          "value": "Floral offerings prepared for the caves"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Negombo",
+          "lat": 7.2083,
+          "lng": 79.8358
+        },
+        {
+          "name": "Dambulla Cave Temple",
+          "lat": 7.8567,
+          "lng": 80.6492
+        },
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Sigiriya at Dawn & a Private Village Cooking Feast",
+      "description": "First entry to the Lion Rock while the air is cool, the frescoes quiet and mist still on the forest. After a rest, a village family welcomes us to cook a feast of clay-pot curries over wood fire — and to eat it together on banana leaves.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Village Lunch",
+      "drivingTime": "Full Day",
+      "details": [
+        {
+          "label": "VIP Feature",
+          "value": "Early gate entry to Sigiriya"
+        },
+        {
+          "label": "Culinary",
+          "value": "Private village cooking feast"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        },
+        {
+          "name": "Hiriwadunna Village",
+          "lat": 8.0233,
+          "lng": 80.7392
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Polonnaruwa by Bicycle & the Minneriya Elephant Gathering",
+      "description": "Vintage bicycles through the royal palaces and rock-cut Buddhas of Polonnaruwa in the morning light. In the late afternoon, a private jeep safari in Minneriya, where elephants gather on the grasslands around the ancient reservoir.",
+      "overnightArea": "Sigiriya",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~1 hr each way",
+      "details": [
+        {
+          "label": "Wildlife",
+          "value": "Minneriya or Kaudulla, depending on the herds"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Polonnaruwa (Gal Vihara)",
+          "lat": 7.9659,
+          "lng": 81.0059
+        },
+        {
+          "name": "Minneriya National Park",
+          "lat": 8.0333,
+          "lng": 80.8667
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "Matale Spice Gardens & the Evening Puja in Kandy",
+      "description": "We climb gently to Matale for true Ceylon cinnamon, cardamom and pepper in an ethical spice garden, then on to Kandy. At dusk, dressed in white, we join the drum-and-horn puja at the Temple of the Sacred Tooth Relic.",
+      "overnightArea": "Kandy",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Attire Prep",
+          "value": "White wraps provided for the temple"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Sigiriya Lion Rock",
+          "lat": 7.957,
+          "lng": 80.7603
+        },
+        {
+          "name": "Matale Spice Gardens",
+          "lat": 7.4675,
+          "lng": 80.6234
+        },
+        {
+          "name": "Temple of the Tooth, Kandy",
+          "lat": 7.2936,
+          "lng": 80.6413
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "Waterfalls & Tea Factories on the Road to Nuwara Eliya",
+      "description": "After the Peradeniya botanic gardens, the road climbs past Ramboda Falls into the tea. We stop at a working factory for a cupping session before arriving in “Little England” for high tea and a fireside dinner.",
+      "overnightArea": "Nuwara Eliya",
+      "meals": "Breakfast, High Tea, Dinner",
+      "drivingTime": "Drive: ~3 hrs",
+      "details": [
+        {
+          "label": "Masterclass",
+          "value": "Tea cupping with a factory officer"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Royal Botanic Gardens, Peradeniya",
+          "lat": 7.269,
+          "lng": 80.5965
+        },
+        {
+          "name": "Ramboda Falls",
+          "lat": 7.0546,
+          "lng": 80.6977
+        },
+        {
+          "name": "Nuwara Eliya",
+          "lat": 6.9497,
+          "lng": 80.7891
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "The Scenic Blue Train to Ella",
+      "description": "From Nanu Oya the observation carriage winds through tunnels, tea estates and cloud forest to Ella — the most beautiful railway journey on the island. Your luggage travels with the car, and we watch the train cross the Nine Arches Bridge at sunset.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Train: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Train",
+          "value": "Reserved first-class observation seats"
+        },
+        {
+          "label": "Luggage Care",
+          "value": "Transported separately by car"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Nanu Oya Station",
+          "lat": 6.9425,
+          "lng": 80.74
+        },
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        },
+        {
+          "name": "Nine Arches Bridge",
+          "lat": 6.8768,
+          "lng": 81.0608
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "title": "Little Adam’s Peak at Dawn & a Planter’s Tea Tasting",
+      "description": "A lantern-lit climb to Little Adam’s Peak for sunrise over the Ella Gap, breakfast back at the villa, and an afternoon tasting of rare golden tips in a planter’s bungalow. The rest of the day is yours.",
+      "overnightArea": "Ella",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Highland Leisure",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Sunrise from the eastern rock bench"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Little Adam's Peak",
+          "lat": 6.8689,
+          "lng": 81.0628
+        },
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        }
+      ]
+    },
+    {
+      "dayNumber": 9,
+      "title": "Down the Ella Gap to Yala & a Dusk Safari",
+      "description": "We descend past Ravana Falls to the dry south-east and check into a tented camp on the edge of Yala. In the afternoon, our first private safari with a senior tracker as the leopards begin to move.",
+      "overnightArea": "Yala",
+      "meals": "Breakfast, Lunch, Dinner",
+      "drivingTime": "Drive: ~2.5 hrs",
+      "details": [
+        {
+          "label": "Overnight Residence",
+          "value": "Luxury tented camp near Palatupana"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ella",
+          "lat": 6.8667,
+          "lng": 81.0466
+        },
+        {
+          "name": "Ravana Falls",
+          "lat": 6.8406,
+          "lng": 81.0544
+        },
+        {
+          "name": "Yala National Park",
+          "lat": 6.3725,
+          "lng": 81.5169
+        }
+      ]
+    },
+    {
+      "dayNumber": 10,
+      "title": "Dawn Leopard Drive & the Coast Road to Galle Fort",
+      "description": "A full dawn drive in Yala with breakfast in the park, then west along the coast past stilt fishermen to Galle Fort. Sunset walk on the ramparts with a sundowner on Flag Rock.",
+      "overnightArea": "Galle Fort",
+      "meals": "Breakfast, Dinner",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Sunset Highlight",
+          "value": "Rampart walk ending at Flag Rock Bastion"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Yala National Park",
+          "lat": 6.3725,
+          "lng": 81.5169
+        },
+        {
+          "name": "Weligama Bay",
+          "lat": 5.9739,
+          "lng": 80.4294
+        },
+        {
+          "name": "Galle Fort",
+          "lat": 6.0267,
+          "lng": 80.217
+        }
+      ]
+    },
+    {
+      "dayNumber": 11,
+      "title": "Galle Fort Morning & Airport Farewell",
+      "description": "A last slow breakfast and a stroll through the fort’s lanes before the expressway takes us back to the airport in about two and a half hours. A day room can be arranged for late flights.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~2.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Farewell",
+          "value": "Ceylon tea gift from Dinesh"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Galle Fort",
+          "lat": 6.0267,
+          "lng": 80.217
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "sigiriya-dambulla",
+      "name": "Sigiriya & Dambulla"
+    },
+    {
+      "slug": "anuradhapura-polonnaruwa",
+      "name": "Anuradhapura & Polonnaruwa"
+    },
+    {
+      "slug": "kandy-knuckles",
+      "name": "Kandy & Knuckles"
+    },
+    {
+      "slug": "nuwara-eliya",
+      "name": "Nuwara Eliya"
+    },
+    {
+      "slug": "ella",
+      "name": "Ella"
+    },
+    {
+      "slug": "yala-bundala",
+      "name": "Yala & Bundala"
+    },
+    {
+      "slug": "galle-fort",
+      "name": "Galle Fort"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcbj005qyh7dimbyupvo",
+      "guestName": "Dr. Julian & Claire Montgomery",
+      "initials": "JM",
+      "country": "GB",
+      "location": "Oxford",
+      "partyLabel": "2 Travelers",
+      "travellerType": "couple",
+      "tourType": "Private Expedition",
+      "tripLabel": "11-Day Custom Ceylon Odyssey",
+      "tour": {
+        "slug": "grand-ceylon-odyssey",
+        "title": "The Grand Ceylon Odyssey"
+      },
+      "rating": 5,
+      "title": "Traveling with Dinesh wasn’t just having a chauffeur-guide—it was like traveling with an extraordinarily knowledgeable, noble brother who effortlessly opened closed doors across the island.",
+      "text": "As an academic who has studied South Asian architecture for twenty-five years, I came to Sri Lanka with impossibly high expectations and a rigorous itinerary. Within two hours of meeting Dinesh at Bandaranaike Airport, Claire and I realized we were in the care of a true master host.\n\nHis private arrangement for our dawn ascent of Sigiriya ensured we stood on the summit platform twenty minutes before the gates opened to the general public—an unforgettable hour of sacred stillness. At the Ceylon colonial tea estate in Hatton, he surprised us with an intimate private lunch inside the planter’s original 1920s residence, arranged personally through his generational friendships.\n\nBeyond the monumental vistas, what moved us most was the delicate, unhurried thoughtfulness: perfectly chilled King Coconuts cut by hand at rural mountain bends, fragrant purple mangosteens placed quietly in the vehicle armrest, and driving so smooth and serene that Claire read her novel uninterrupted through winding jungle switchbacks.",
+      "photo": {
+        "id": "cmuv1ndcz003i0i7dhbvhns9e",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuCsL-dhUBJNJ483Q6Fk7d5PehMN8Jr9m1qmJlY9v5XTRKaGKwLFG6s4zt_6cXEaoz1i0VQRUwn6MEFYBOKCM7jLZqoTldytxxLyH0-enQfHRld6uN5mL8TzbeMai2Mx_QMGDURCD4J4SyrtHBEQCF03rLJeNR7YrPmm0aHkSySdksqSYepXCuua14U-ZKMP2ZtNQi2tOnq6W5xXkGVLsM3p1A1hL1xQmaD9fleR_Sec-2AeVdqaA-Y",
+        "alt": "Julian and Claire Montgomery on a misty tea estate bungalow terrace",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "tripPhotos": [
+        {
+          "id": "cmuv1ndcz003j0i7dnkzcqttj",
+          "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuA2H1oBXt-MSVs7bC-9IA32LhSE3AZDNPJd-sqSLY2e2af09vNf1CaDdHbfcCTlWjfwN47obv1C2CbjDf6eyacnX3NPx2swVxh5WtEKaDJQSyzN7OEFeVRBkMNpEx0CdDMBfcb5Mu9f-vWpHFKZIhyyciS92z0Cg2REtMNgvxaHy8tQys0JkjU797mmXNTDE6K8HzjXlRp_RIAiOikWgMPyTAMFIua9McqNgqBSfTeh0rhmZDuD0O0",
+          "alt": "Sunrise glow over Sigiriya seen from the summit of Pidurangala",
+          "width": null,
+          "height": null,
+          "blurDataUrl": null,
+          "variants": {}
+        },
+        {
+          "id": "cmuv1ndcz003k0i7dlv8k3g94",
+          "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuAXltnuhb3AIS7-rA3qzU3b7mHgoImUm0GmMalOeTIrkpYnKyRF4d31Qg3W_s0W7CgnkV5Xo9vzOLitvMsvB2AirGOBobcz30rx9WiYAdaTfww7aT_MolebTnycWBtlgCtrjNLh4u-yDoEJPEZKpowFVjqP8wpzSHzcs3T1GSzj6eptXnoLVvMEW96C0gijVHHYai8CA5dkQcF8H5FpjjwRwUqcx4eJuncCW1NGt66mitMyEm2Jeqs",
+          "alt": "Table set with porcelain on a colonial veranda above tea terraces",
+          "width": null,
+          "height": null,
+          "blurDataUrl": null,
+          "variants": {}
+        },
+        {
+          "id": "cmuv1ndcz003l0i7d7usylc9d",
+          "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBV5kL_7rU1fk9QAjHDhIOL-VYEk6usfSek_HEKoIj6WyvVfOPDt2hGur83W9kJs8KftEr4LmBl2crb6fGrqQzXrky1NwS0fgG-lIyhSKjCIvETPk6gh78JPs5EsJaF-0Maarzc_dEwtE-u0HuEWkwAF5z-IGt_CZs4yI6-8pnPhbfU_a71ORVmUwBPamRRX1cH3X8XWvHQangyujH-YwVjRZHtEBoVXWWIhKLH3vYBVdCSKqCkrq0",
+          "alt": "Stilt fisherman at twilight on the southern coast",
+          "width": null,
+          "height": null,
+          "blurDataUrl": null,
+          "variants": {}
+        }
+      ],
+      "source": "direct",
+      "travelDate": "2024-02-01T00:00:00.000Z",
+      "isFeatured": true,
+      "createdAt": "2024-02-25T00:00:00.000Z"
+    },
+    {
+      "id": "cmuv1vcbn005ryh7dym3wxwsb",
+      "guestName": "Dr. Julian & Claire Montgomery",
+      "initials": "JM",
+      "country": "GB",
+      "location": "Oxford",
+      "partyLabel": "2 Travelers",
+      "travellerType": "couple",
+      "tourType": "Grand Odyssey",
+      "tripLabel": "11-Day Grand Ceylon Odyssey",
+      "tour": {
+        "slug": "grand-ceylon-odyssey",
+        "title": "The Grand Ceylon Odyssey"
+      },
+      "rating": 5,
+      "title": null,
+      "text": "Impeccable timing, safe driving through the winding mountain passes, and Dinesh’s deep archaeological insights made this our trip of a lifetime. He knew exactly when to arrive at Sigiriya to avoid queues.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "tripadvisor",
+      "travelDate": "2024-02-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2024-02-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 2
+  },
+  "related": [
+    {
+      "id": "cmuv1ndhi006n0i7dndjt3gjx",
+      "slug": "cultural-odyssey",
+      "title": "The Cultural Odyssey",
+      "summary": "Our flagship private journey through Ceylon’s gilded kingdoms: a dawn ascent of Sigiriya before the crowds, the sacred Temple of the Tooth, the scenic tea-country train to Nuwara Eliya and sunset on the ramparts of Galle Fort.",
+      "cardTag": "Chauffeur Guide",
+      "durationDays": 9,
+      "durationNights": 8,
+      "route": [
+        "Colombo",
+        "Sigiriya & Dambulla",
+        "Polonnaruwa",
+        "Kandy",
+        "Nuwara Eliya",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Sigiriya Private Dawn Climb",
+        "Sacred Tooth Relic VIP Entry",
+        "Bespoke Village Cooking Feast"
+      ],
+      "isFeatured": false,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz000w0i7d3xruxgvs",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDrLuM5XOK4-y859bsMPjfy51fgkc8z7_GfgpOy0T_rp2MTX2aDtsrwx3opz11i9JotBaAL5HCDBDC5uuJlISJ-m5oD_aJGzPtsAiaBM5Hub19dSPBGMWSPLFcvLJR5qW37ROp88MqVFc9u8NrKFw1QIQvakYERGUGh12WfNZ1IY0nJrLhxOnwm_eDLivbAiw_0ya1gS1lz7Lmtsb8CJuz_EuK5mGJGH53jVq8iV5-LkzUMhHQv-AI",
+        "alt": "Sigiriya Lion Rock rising above misty jungle canopy at golden hour",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "solo",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    },
+    {
+      "id": "cmuv1ndin00810i7d6svxvalr",
+      "slug": "tea-mist-monasteries-colonial-charms",
+      "title": "Tea Mist, Monasteries & Colonial Charms",
+      "summary": "Slow down with gentle high-altitude air, artisanal tea tastings with fifth-generation estate managers, private evening prayers at the Temple of the Tooth, and misty walks between colonial planter bungalows.",
+      "cardTag": "Scenic Rail Included",
+      "durationDays": 7,
+      "durationNights": 6,
+      "route": [
+        "Kandy",
+        "Hatton",
+        "Nuwara Eliya",
+        "Ella"
+      ],
+      "highlights": [
+        "First-Class Scenic Train Tickets",
+        "Heritage Tea Planter's Bungalow",
+        "Private Temple Forest Blessings"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00170i7d76xnxshc",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBPnyD3WCC6Eowc0Sy-vq6Xmr0XR4m1InauasTW3XEjg_Cm0DO2eosCX5qPIkxGPEiiigqkfjggzfuf2PmjRIh6R4hpNUpeDRlBZFUBkiSL32EkL5WApg90L51dIhxY8lXjXy4-XYHHBDqvE2rTngzQbCte14dmryQrEL_fPxBdLvQYOahYlvOSVx52CymK_AdAs3E9D6zDAU4vJDagqukKVI18T5l_POgijwN67ZywqDx3xfXFypc",
+        "alt": "Colonial tea estate bungalow among misty emerald tea terraces near Hatton",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "family",
+        "group"
+      ],
+      "seasons": [
+        "nov-apr",
+        "jul-aug"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "The Grand Ceylon Odyssey · 10 Nights / 11 Days",
+    "description": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage o",
+    "image": {
+      "id": "cmuv1ndcz00130i7dot5qncje",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+      "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.159Z"
+}

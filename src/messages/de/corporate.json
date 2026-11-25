@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "title": "Firmen-Retreats & Executive-Incentives in Sri Lanka",
+    "description": "Executive Board Retreats, Incentive-Reisen, diplomatische Delegationen und akademische Exkursionen auf Sri Lanka — persönlich koordiniert von einem lizenzierten National Guide."
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "current": "Firmen- & Gruppenreisen"
+  },
+  "hero": {
+    "pill": "Executive-Logistik & Exklusive Retreats",
+    "title": "Firmen-Retreats, Diplomatische Delegationen & Incentives in Sri Lanka",
+    "intro": "Maßgeschneiderte Bodenabfertigung, exklusive Teegut-Übernahmen, reibungslose Flughafentransfers und vertrauliche Programme mit Schweizer Präzision.",
+    "ctaProposal": "Executive-Angebot anfordern",
+    "ctaDeck": "Corporate-Unterlagen anfordern (PDF)",
+    "stats": {
+      "delegations": {
+        "value": "85+",
+        "label": "Internationale Delegationen"
+      },
+      "punctuality": {
+        "value": "100%",
+        "label": "Pünktlichkeit vor Ort"
+      },
+      "clients": {
+        "value": "Top Tier",
+        "label": "Botschaften & Konzerne"
+      }
+    },
+    "statsLabel": "Referenzen im Überblick",
+    "card": {
+      "status": "Einsatzbereites Protokoll",
+      "title": "Dunkeld Bungalow Exklusiv",
+      "body": "Direkter Wasserflugzeug-Transfer zum Castlereagh-Stausee — auf Wunsch mit voller Vertraulichkeit."
+    }
+  },
+  "clients": {
+    "eyebrow": "Verlässliches Protokoll vor Ort",
+    "title": "Vertrauliche Kunden & Diplomatische Delegationen",
+    "listLabel": "Ausgewählte Firmen- und Institutionskunden"
+  },
+  "services": {
+    "eyebrow": "Spezialisierte Leistungsbereiche",
+    "title": "Maßgeschneiderte Lösungen für Unternehmen",
+    "intro": "Ob Vorstandsklausur, internationales Incentive oder diplomatische Delegation — jede Etappe basiert auf Diskretion, redundanter Logistik und Fünf-Sterne-Standard.",
+    "items": {
+      "board": {
+        "badge": "Boardroom-Diskretion",
+        "title": "Vorstands-Retreats & Villen-Buyouts",
+        "body": "Exklusive Privatisierung architektonischer Anwesen mit schneller Satellitenanbindung, Privatkoch und strenger Geheimhaltung.",
+        "footer": "NDA-geschützte Teams"
+      },
+      "incentive": {
+        "badge": "Elite-Incentive",
+        "title": "Wirkungsvolle Incentive-Reisen",
+        "body": "Private Wasserflugzeug-Charter, reservierte historische Zugwaggons im Hochland und Galadinner auf den Bastionen von Galle Fort.",
+        "footer": "Charter & Erlebnisse"
+      },
+      "cohesion": {
+        "badge": "Teamzusammenhalt",
+        "title": "Teambuilding & Natur-Expeditionen",
+        "body": "Geführte Touren in den Bergwäldern der Knuckles Range, Naturschutzprojekte und Segeltörns vor Bentota.",
+        "footer": "Kuratierte Aktivitäten"
+      },
+      "diplomatic": {
+        "badge": "Diplomatisches Protokoll",
+        "title": "VIP- & Delegationsbetreuung",
+        "body": "Gepflegte Luxusfahrzeuge, Vorfeldabholung am Flughafen BIA mit Fast-Track und protokollgeschulte Begleitung.",
+        "footer": "VVIP-Flughafenservice"
+      },
+      "academic": {
+        "badge": "Akademische Reisen",
+        "title": "Universitäts- & Forschungsreisen",
+        "body": "Sondergenehmigungen für archäologische Stätten, Fachvorträge lokaler Historiker und strukturierte Exkursionen.",
+        "footer": "Sondergenehmigungen"
+      },
+      "summit": {
+        "badge": "Konferenzen & Galas",
+        "title": "Vor- & Nachprogramme für Gipfeltreffen",
+        "body": "Maßgeschneiderte Begleitprogramme für Partner, private Kulturabende und nahtlose Transfers ab Colombo.",
+        "footer": "End-to-End-Koordination"
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Methodik",
+    "title": "So orchestriere ich Firmenprogramme",
+    "intro": "Präzise Planung trifft auf herzliche Gastfreundschaft — mit mir als Ihrem persönlichen Ansprechpartner in jeder Phase.",
+    "steps": {
+      "discovery": {
+        "title": "Vertrauliches Briefing",
+        "body": "Klärung von Gruppenprofil, Sicherheitsanforderungen, Ernährungswünschen, Technik und Zeitplan.",
+        "phase": "Phase: Erste 48 Stunden"
+      },
+      "blueprint": {
+        "title": "Individueller Entwurf",
+        "body": "Transparente Angebotsstruktur mit klaren Positionen, Exklusivitätsklauseln und Ausweichplänen.",
+        "phase": "Phase: Abstimmung"
+      },
+      "inspection": {
+        "title": "Vorab-Begehung & Koordination",
+        "body": "Standortbesichtigungen für Ihr Planungsteam sowie persönliche Einweisung aller Partner.",
+        "phase": "Phase: Vorbereitung"
+      },
+      "execution": {
+        "title": "Reibungslose Durchführung",
+        "body": "Separater Gepäcktransfer, persönliche Begrüßungsunterlagen und 24/7-Einsatzleitung vor Ort.",
+        "phase": "Phase: Reiseverlauf"
+      }
+    }
+  },
+  "governance": {
+    "eyebrow": "Compliance & Sicherheit",
+    "title": "Warum Organisationen mir ihre Gäste anvertrauen",
+    "intro": "Bei Geschäftsreisen zählt jeder Ablauf beim ersten Mal — inklusive Haftungsdeckung, geprüften Fahrern und voller Kostentransparenz.",
+    "insuredTitle": "Vollständig versichert & geprüft",
+    "insuredBody": "Umfassender Haftpflichtschutz durch internationale Versicherer für alle Transporte und Programmpunkte.",
+    "pillars": {
+      "fleet": {
+        "title": "Eigene Flotte & geschulte Chauffeure",
+        "body": "Mercedes-Benz, Toyota Alphard VIP und Reisebusse mit sicherheits- und erstehilfegeschulten Fahrern."
+      },
+      "licensing": {
+        "title": "Offizielle SLTDA-Lizenzierung",
+        "body": "Registrierter Inbound Operator bei der Sri Lanka Tourism Development Authority (Lizenz #{licence})."
+      },
+      "transparency": {
+        "title": "Transparente Angebotsstruktur",
+        "body": "Klare, prüffähige Angebote ohne versteckte Gebühren — über diese Website erfolgt keinerlei Online-Zahlung."
+      },
+      "discretion": {
+        "title": "Strikte Vertraulichkeit",
+        "body": "Geheimhaltungsvereinbarungen auf Wunsch bereits vor Austausch der Gästelisten; absolutes Fotoverbot für Mitarbeiter."
+      },
+      "contact": {
+        "title": "Direkter Kontakt: Ich, {name}",
+        "body": "Keine Callcenter — Sie arbeiten direkt mit mir für schnelle Entscheidungen vor Ort."
+      }
+    },
+    "nameFallback": "Dinesh",
+    "licenceFallback": "auf Anfrage"
+  },
+  "blueprints": {
+    "eyebrow": "Beispielkonzepte",
+    "title": "Bewährte Firmenprogramme",
+    "intro": "Vollständig anpassbare Bausteine für Strategie-Retreats, Incentives und Delegationen.",
+    "idealFor": "Ideal für: {group}",
+    "items": {
+      "hill": {
+        "group": "8–16 Führungskräfte",
+        "title": "Strategie-Retreat im Teehochland",
+        "body": "Exklusive Nutzung eines Relais & Châteaux Teebungalows mit ruhigen Tagungsräumen und Teekultur am Nachmittag.",
+        "points": {
+          "one": "Tagungsraum mit redundantem Satelliten-Internet",
+          "two": "Direkter Hubschraubertransfer auf das Anwesen",
+          "three": "Geführte Teewanderung mit Fachbegleitung"
+        },
+        "cta": "Retreat-Briefing anfragen"
+      },
+      "coastal": {
+        "group": "15–35 Teilnehmer",
+        "title": "Küsten- & Wildnis-Incentive",
+        "body": "Luxus-Zeltsafaris im Yala-Nationalpark, private Katamaranfahrten an der Südküste und Galadinner in Galle Fort.",
+        "points": {
+          "one": "Private Safari-Jeeps mit erfahrenen Naturführern",
+          "two": "Exklusiver Katamaran-Ausflug entlang der Küste",
+          "three": "Festliches Dinner auf den Bastionen von Galle Fort"
+        },
+        "cta": "Incentive-Konzept anfragen"
+      },
+      "cultural": {
+        "group": "20–50 Delegierte",
+        "title": "Kulturelle Grand Odyssey",
+        "body": "Für diplomatische Missionen und Vorstände: früher Privatzugang zu Sigiriya sowie besondere Abendveranstaltungen in Kandy.",
+        "points": {
+          "one": "Früher Privatzugang zum Sigiriya-Felsen",
+          "two": "Exklusiver Besuch im Zahntempel in Kandy",
+          "three": "Empfang am Meer in historischem Rahmen"
+        },
+        "cta": "Delegations-Dossier anfragen"
+      }
+    }
+  },
+  "testimonial": {
+    "badge": "Geprüfte Kundenstimme",
+    "quote": "„Serendiva hat unser 34-köpfiges internationales Führungskräfte-Retreat makellos umgesetzt — von der VIP-Abfertigung am Flughafen bis zu den privaten Zugwagen.“",
+    "author": "Dr. Henrik von Bergmann",
+    "role": "Geschäftsführer · European Technology Leadership Forum (Frankfurt & Zürich)"
+  },
+  "rfp": {
+    "eyebrow": "Anfrage starten",
+    "title": "Corporate RFP & Angebotsanfrage",
+    "intro": "Senden Sie Ihre vorläufigen Anforderungen. Ich erstelle innerhalb von 12 Geschäftsstunden ein detailliertes Konzept inklusive Logistik- und Unterkunftsvorschlag.",
+    "desk": {
+      "title": "Direktes Corporate-Desk",
+      "subtitle": "{name} · Persönlich erreichbar",
+      "subtitleFallback": "Persönlich erreichbar",
+      "whatsapp": "Prioritäts-WhatsApp: {number}",
+      "note": "Rund um die Uhr erreichbar für zeitkritische Ankünfte und Fluglogistik."
+    },
+    "form": {
+      "label": "Corporate proposal request",
+      "company": "Unternehmen / Institution",
+      "companyPlaceholder": "z. B. Novartis AG / Botschaft",
+      "contactPerson": "Ansprechpartner & Position",
+      "contactPersonPlaceholder": "z. B. Elena Rostova, Head of Events",
+      "email": "Geschäftliche E-Mail-Adresse",
+      "emailPlaceholder": "name@firma.de",
+      "phone": "Direkttelefon / Mobilnummer",
+      "phonePlaceholder": "+49 30 555 0192",
+      "groupSize": "Geschätzte Gruppengröße",
+      "groupSizes": {
+        "board": "6–12 Vorstand / Board",
+        "group": "15–30 Firmengruppe",
+        "delegation": "30–60 Delegation / Incentive",
+        "summit": "60+ Konferenz / Großveranstaltung"
+      },
+      "dates": "Geplanter Reisemonat & Jahr",
+      "datesPlaceholder": "z. B. November {year} (6 Tage)",
+      "eventType": "Programmart",
+      "eventTypes": {
+        "retreat": "Executive Board Retreat",
+        "incentive": "Incentive-Reise",
+        "diplomatic": "Diplomatische / VIP-Delegation",
+        "conference": "Konferenz-Vor-/Nachprogramm",
+        "academic": "Universitäts- / Forschungsreise"
+      },
+      "logistics": "Besondere Logistik- & Sicherheitswünsche",
+      "logisticsItems": {
+        "seaplane": "Wasserflugzeug-Charter",
+        "train": "Privater Zugwaggon",
+        "fastTrack": "BIA VIP Fast-Track",
+        "av": "Individuelle AV-/Bühnentechnik"
+      },
+      "message": "Kurze Projektbeschreibung oder Umfang",
+      "messagePlaceholder": "Beschreiben Sie gewünschte Details: privates Dinner, Sicherheitsanforderungen, bevorzugte Regionen oder Barrierefreiheit...",
+      "upload": "Briefing-Dokument hochladen",
+      "uploadDrop": "PDF/DOCX max. 5 MB · oder hierher ziehen",
+      "uploadDropActive": "PDF/DOCX zum Anhängen ablegen",
+      "submit": "Maßgeschneidertes Firmenangebot anfordern",
+      "submitting": "Anfrage wird gesendet…",
+      "fileSelected": "Ausgewähltes Dokument"
+    },
+    "success": {
+      "title": "Vielen Dank. Ihr Unternehmensbriefing ist bei mir eingegangen.",
+      "body": "Ich sende Ihnen innerhalb von 12 Stunden ein erstes Konzept samt Verfügbarkeiten.",
+      "referenceLabel": "Ihre Angebotsreferenz",
+      "again": "Weitere Anfrage senden"
+    }
+  },
+  "faq": {
+    "eyebrow": "Rahmenbedingungen & Governance",
+    "title": "Häufige Fragen von Unternehmen"
+  },
+  "finalCta": {
+    "title": "Bereit für eine außergewöhnliche Reise für Ihr Führungsteam?",
+    "body": "Kontaktieren Sie mich direkt für vertrauliche Location-Anfragen und Flugpläne.",
+    "rfp": "RFP-Anfrage starten",
+    "whatsapp": "WhatsApp Concierge"
+  }
+}

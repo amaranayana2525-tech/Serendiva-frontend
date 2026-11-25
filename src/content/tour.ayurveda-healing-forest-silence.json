@@ -1,0 +1,650 @@
+{
+  "id": "cmuv1ndkx00a80i7doxfs6gow",
+  "slug": "ayurveda-healing-forest-silence",
+  "title": "Ayurveda, Healing & Forest Silence",
+  "summary": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathing, and private oceanfront meditation.",
+  "cardTag": "Holistic Rejuvenation",
+  "durationDays": 9,
+  "durationNights": 8,
+  "route": [
+    "Bentota",
+    "Sinharaja Rainforest",
+    "Ella Foothills",
+    "Weligama Bay"
+  ],
+  "highlights": [
+    "Resident Ayurvedic Doctor Consult",
+    "Daily Dawn Pranayama & Yoga",
+    "Farm-to-Table Organic Dining"
+  ],
+  "isFeatured": true,
+  "isMostPopular": false,
+  "cover": {
+    "id": "cmuv1ndcz001g0i7dz0vkot17",
+    "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+    "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+    "width": null,
+    "height": null,
+    "blurDataUrl": null,
+    "variants": {}
+  },
+  "categories": [
+    {
+      "id": "cmuv1nde500530i7duff1bfgw",
+      "slug": "ayurveda-wellness",
+      "name": "Ayurveda & Forest Wellness",
+      "shortName": "Ayurveda & Wellness"
+    }
+  ],
+  "travellerTypes": [
+    "solo",
+    "couple"
+  ],
+  "seasons": [
+    "year-round"
+  ],
+  "description": "This journey begins with three days in a respected Ayurveda retreat in Bentota, where a resident physician assesses your constitution and prescribes treatments, diet and rest. From there we carry the practice with us — into the silence of the Sinharaja rainforest, the cool air of the Ella foothills and, finally, the ocean at Weligama.\n\nMornings begin with pranayama and yoga, meals come from organic farms and gardens, and the days are never crowded. It is as much a pause as a journey.",
+  "badges": [
+    "Holistic Rejuvenation",
+    "Resident Ayurvedic Doctor",
+    "UNESCO Rainforest"
+  ],
+  "overview": {
+    "kicker": "Holistic Rejuvenation",
+    "heading": "Treatments, Rainforest Silence and the Sound of the Sea",
+    "quote": "In Sinharaja the forest is so quiet that you hear the rain arrive minutes before it reaches you. I bring guests here to listen — it is the best medicine I know."
+  },
+  "keyFeatures": [
+    {
+      "icon": "medical_services",
+      "title": "Resident Vaidya",
+      "text": "Daily consultations with a qualified Ayurvedic physician."
+    },
+    {
+      "icon": "self_improvement",
+      "title": "Dawn Pranayama & Yoga",
+      "text": "Gentle daily practice in open-air pavilions."
+    },
+    {
+      "icon": "forest",
+      "title": "UNESCO Rainforest Bathing",
+      "text": "Silent walks in Sinharaja with a naturalist."
+    },
+    {
+      "icon": "eco",
+      "title": "Farm-to-Table Dining",
+      "text": "Organic meals tailored to your Ayurvedic constitution."
+    }
+  ],
+  "included": [
+    {
+      "icon": "verified",
+      "text": "Dedicated licensed National Tourist Guide Lecturer (Dinesh Jayasuriya or vetted senior scholar) throughout the journey"
+    },
+    {
+      "icon": "directions_car",
+      "text": "Private air-conditioned Toyota Prado SUV or VIP Luxury Van with unlimited mileage, expressway tolls & fuel"
+    },
+    {
+      "icon": "medical_services",
+      "text": "Three-day Ayurveda programme in Bentota with physician consultations and daily treatments"
+    },
+    {
+      "icon": "self_improvement",
+      "text": "Daily dawn pranayama and yoga sessions with a certified teacher"
+    },
+    {
+      "icon": "hotel",
+      "text": "8 nights in wellness retreats, a rainforest eco-lodge and an oceanfront villa with all meals"
+    },
+    {
+      "icon": "water_drop",
+      "text": "Unlimited chilled Ceylon mineral water, fresh roadside king coconuts, and cold towels in-transit"
+    }
+  ],
+  "notIncluded": [
+    {
+      "icon": "flight",
+      "text": "International airline tickets to and from Colombo (Bandaranaike BIA)"
+    },
+    {
+      "icon": "health_and_safety",
+      "text": "Comprehensive personal travel, health, and baggage insurance"
+    },
+    {
+      "icon": "wine_bar",
+      "text": "Alcoholic beverages, premium spirits, and personal laundry services"
+    },
+    {
+      "icon": "volunteer_activism",
+      "text": "Discretionary gratuities for hotel bell staff, estate tea pluckers, and personal chauffeur-guide"
+    },
+    {
+      "icon": "badge",
+      "text": "Sri Lanka Electronic Travel Authorization (ETA) visa entry processing fee"
+    }
+  ],
+  "terrains": [],
+  "routeSummary": "540 Kilometers · Coast, Rainforest & Highland Foothills",
+  "gallery": [
+    {
+      "image": {
+        "id": "cmuv1ndcz001h0i7ddasrx4j2",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDEy9uB4eJEuUwe1HujenY8BGzBZNWix_8dMQeUivZ7sLY2PIY5OTFBc24pJM-d4v33Yi2TGCjYh9qDoZ5eSJ3P5ncXQAE50ombVdS-3Pc6Aa3K_lGmlmcOAXxnhVz9qgMkZF1OABF2-WEBqJji3hFGGyNelcC7jc-NgRe_oiVJ3kxxqk-2zMCwqsiOVoQE7SZ-YgxhOOGUZQYIW1nRbjDzPkb6O4iSCzK6uJV2BPYKuHKXc1iYSpo",
+        "alt": "Yoga deck over a river in the Sinharaja rainforest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Rainforest Yoga Deck",
+      "caption": "Morning sunbeams in Sinharaja"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcm000s0i7dadcjmfih",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBqmGz9kAc47hHo2DaQbvnP3bDVtq0ttdPYSNLkqtsQtakvlPXaZFrRK7ThaJhDU0gaBq-HyXICp9ofJTlQS_tfO1yl0o7HkCSUTsuNrbLzcgPpBT9Ess_GMJ9Wcodxnk__vY-5lEudx24gxxnD_EMmlPdSlBAxdKyxP4V7xfmGFTBQ7bnYd5Ammvsgzg0cahdnUaPo3raRNrZggan58nB88eBNAfxQ6ooFc0jVVOZbywqzQI1meS8",
+        "alt": "Ayurvedic wellness pavilion among lotus ponds with a warm oil brass urn",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Ayurveda Pavilion",
+      "caption": "Warm oils and lotus ponds"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndcz004l0i7dmfrzcumu",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBHeDoAMs1NnKi40efJuPeunb45ePWQIinJxldEz_DLTzP0LkTQRPguOPVyMtGafEr8CV4p90w9U8yFmADGZGrsBtGdiPJKLpB3e6uIcSJdnwqgxqqt--lemYczKyz7g74OO3eArgTRpDoT4rl7Lw2Pwfaq_bI9ox3q8QJRLFvrUhrTIIAHFBFf9PtS1yRXyaEqZpyM5nVYTB_hi2HrAOVs6XzuKN9fikKL5ARMdO5HO6olahJRuhM",
+        "alt": "Ayurvedic treatment pavilion with oil urns and lotus blossoms in a spice forest",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Herbal Treatments",
+      "caption": "Physician-guided therapies"
+    },
+    {
+      "image": {
+        "id": "cmuv1ndd0004p0i7dj345f5fk",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5w_bd4Tc6S0ZqqRmw0du-MbES8dOWE_Kl0S84-s5bGrdXLaMhJnoybZfuqm9t0DefqXe9YHyUffeTx1bUURL7StUdktKWPIEneaUafl3F76zZYrs2kPm_RqZlKf41VQlAmaiPjKx4koLV9jVmhUgHgwSXtK7_XyfFRa02iXtbdj-sPdi_wz5lJEdoKzY_WRy0_Gx4EC7pvlH_5MhFWJN7ijwW9Q3yKCA54JxlibWC4r3cXAEe2_s",
+        "alt": "Morning mist and golden rays over the Sinharaja rainforest canopy",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "title": "Sinharaja",
+      "caption": "Mist over the virgin rainforest"
+    }
+  ],
+  "days": [
+    {
+      "dayNumber": 1,
+      "title": "Arrival & Consultation in Bentota",
+      "description": "A short drive to an Ayurveda retreat on the west coast. The resident physician meets you for a full consultation and designs your programme of treatments, diet and rest.",
+      "overnightArea": "Bentota",
+      "meals": "Lunch, Dinner",
+      "drivingTime": "Drive: ~1.5 hrs",
+      "details": [
+        {
+          "label": "Wellness",
+          "value": "Dosha assessment with the resident Vaidya"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        },
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "title": "Treatments, Herbal Garden & Rest",
+      "description": "Dawn pranayama by the river, morning treatments, a walk through the retreat’s herbal garden with the physician and long, quiet afternoons.",
+      "overnightArea": "Bentota",
+      "meals": "All Meals",
+      "drivingTime": "Retreat Day",
+      "details": [
+        {
+          "label": "Practice",
+          "value": "Daily dawn pranayama & yoga"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        }
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "title": "Lunuganga & a Contemplative Garden Walk",
+      "description": "Between treatments, a gentle morning in Geoffrey Bawa’s Lunuganga garden — terraces, framed views and stillness across Dedduwa lake.",
+      "overnightArea": "Bentota",
+      "meals": "All Meals",
+      "drivingTime": "Short Drive",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Private walk in the Lunuganga garden"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Lunuganga Estate",
+          "lat": 6.393,
+          "lng": 80.027
+        }
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "title": "Into the Sinharaja Rainforest",
+      "description": "We drive inland to an eco-lodge on the edge of Sinharaja, a UNESCO-listed virgin rainforest. In the evening, a slow guided walk to listen to frogs and night birds.",
+      "overnightArea": "Sinharaja",
+      "meals": "All Meals",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Overnight Residence",
+          "value": "Rainforest eco-lodge"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Bentota",
+          "lat": 6.421,
+          "lng": 79.998
+        },
+        {
+          "name": "Sinharaja Forest Reserve",
+          "lat": 6.4,
+          "lng": 80.5
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "title": "Forest Bathing & Waterfall Meditation",
+      "description": "A silent morning walk with a naturalist through the forest — endemic birds, giant lianas and dappled light — ending with meditation beside a waterfall pool.",
+      "overnightArea": "Sinharaja",
+      "meals": "All Meals",
+      "drivingTime": "Forest Day",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "UNESCO rainforest bathing with a naturalist"
+        }
+      ],
+      "isHighlight": true,
+      "stops": [
+        {
+          "name": "Sinharaja Forest Reserve",
+          "lat": 6.4,
+          "lng": 80.5
+        }
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "title": "To the Ella Foothills",
+      "description": "A scenic drive east into the hills to a small retreat in the Ella foothills, surrounded by tea and spice gardens. Herbal steam and an early night.",
+      "overnightArea": "Ella Foothills",
+      "meals": "All Meals",
+      "drivingTime": "Drive: ~4 hrs",
+      "details": [
+        {
+          "label": "Wellness",
+          "value": "Herbal steam bath"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Sinharaja Forest Reserve",
+          "lat": 6.4,
+          "lng": 80.5
+        },
+        {
+          "name": "Ella Foothills Retreat",
+          "lat": 6.85,
+          "lng": 81.07
+        }
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "title": "Dawn Breathwork on the Ridge",
+      "description": "Pranayama at sunrise overlooking the Ella Gap, a gentle walk through the tea gardens and a farm-to-table lunch from the retreat’s organic plots.",
+      "overnightArea": "Ella Foothills",
+      "meals": "All Meals",
+      "drivingTime": "Highland Leisure",
+      "details": [
+        {
+          "label": "Culinary",
+          "value": "Organic farm-to-table lunch"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ella Foothills Retreat",
+          "lat": 6.85,
+          "lng": 81.07
+        },
+        {
+          "name": "Little Adam's Peak",
+          "lat": 6.8689,
+          "lng": 81.0628
+        }
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "title": "To the Ocean at Weligama Bay",
+      "description": "Down to the south coast and an oceanfront villa at Weligama. At sunset, a private meditation on the beach as the fishing boats return.",
+      "overnightArea": "Weligama Bay",
+      "meals": "All Meals",
+      "drivingTime": "Drive: ~3.5 hrs",
+      "details": [
+        {
+          "label": "Curated Highlight",
+          "value": "Private oceanfront sunset meditation"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Ella Foothills Retreat",
+          "lat": 6.85,
+          "lng": 81.07
+        },
+        {
+          "name": "Weligama Bay",
+          "lat": 5.9739,
+          "lng": 80.4294
+        }
+      ]
+    },
+    {
+      "dayNumber": 9,
+      "title": "Farewell & Airport Transfer",
+      "description": "A final morning practice by the sea and a light breakfast before the expressway to the airport.",
+      "overnightArea": "Departure",
+      "meals": "Breakfast",
+      "drivingTime": "Drive: ~2.5 hrs via Highway",
+      "details": [
+        {
+          "label": "Farewell",
+          "value": "Herbal oils and tea blend to take home"
+        }
+      ],
+      "isHighlight": false,
+      "stops": [
+        {
+          "name": "Weligama Bay",
+          "lat": 5.9739,
+          "lng": 80.4294
+        },
+        {
+          "name": "Bandaranaike International Airport",
+          "lat": 7.1808,
+          "lng": 79.8841
+        }
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "slug": "bentota",
+      "name": "Bentota"
+    },
+    {
+      "slug": "ella",
+      "name": "Ella"
+    },
+    {
+      "slug": "mirissa-weligama",
+      "name": "Mirissa & Weligama"
+    }
+  ],
+  "faqs": [],
+  "reviews": [
+    {
+      "id": "cmuv1vcd60069yh7drcvvl077",
+      "guestName": "Katrin Weber",
+      "initials": "KW",
+      "country": "DE",
+      "location": "Hamburg",
+      "partyLabel": "Solo Traveler",
+      "travellerType": "solo",
+      "tourType": "Wellness Retreat",
+      "tripLabel": "9-Day Ayurveda & Forest Silence",
+      "tour": {
+        "slug": "ayurveda-healing-forest-silence",
+        "title": "Ayurveda, Healing & Forest Silence"
+      },
+      "rating": 5,
+      "title": "I came home rested for the first time in years",
+      "text": "The Ayurveda days in Bentota were serious and professional, and the rainforest silence in Sinharaja was unforgettable. What I valued most was that Dinesh never filled the days — there was always space to simply be.",
+      "photo": null,
+      "tripPhotos": [],
+      "source": "direct",
+      "travelDate": "2026-01-01T00:00:00.000Z",
+      "isFeatured": false,
+      "createdAt": "2026-01-25T00:00:00.000Z"
+    }
+  ],
+  "reviewSummary": {
+    "average": 5,
+    "count": 1
+  },
+  "related": [
+    {
+      "id": "cmuv1ndjf008o0i7db1hnl0as",
+      "slug": "bespoke-ceylon-honeymoon",
+      "title": "Bespoke Ceylon Honeymoon & Seclusion",
+      "summary": "Couples’ sanctuaries, secluded private pools, candlelit ruins dinners, and unscripted leisurely ocean strolls — from the Cultural Triangle to the tea hills of Ella and a hidden cove near Tangalle.",
+      "cardTag": "Secluded Villas",
+      "durationDays": 10,
+      "durationNights": 9,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella",
+        "Tangalle"
+      ],
+      "highlights": [
+        "Private Candlelit Sigiriya Dinner",
+        "Couples Ayurvedic Rituals",
+        "Luxury Coastal Hideaways"
+      ],
+      "isFeatured": false,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz001b0i7dg3fo08h9",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuBAktumBPuB3isEtLCeBxDZOKvQmPaNIxYTCrfvVXhg6CwvOvhDnCeexWE65_m-EmeUfwkrbjUOmAEuJUfPIodo5FmWECd_Usm8DuTEC2vqxQO7BuqgX5Wp8zfE07gpOxu9zyYI10ca1EIMDD5mnYbNawVl4e-LWFdJGUIqXlVWtCTQzdIRLQDFhmJe_HwEYS5UfWf_LSxHhPdbuvfniMlI0rJ4_pHLjgmIlS1iY5JZvpOaRiNc7Po",
+        "alt": "Infinity pool of a boutique villa above jungle ravines and tea mountains",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nde100510i7da02jrzls",
+          "slug": "honeymoon",
+          "name": "Bespoke Honeymoons",
+          "shortName": "Bespoke Honeymoon"
+        },
+        {
+          "id": "cmuv1nde500530i7duff1bfgw",
+          "slug": "ayurveda-wellness",
+          "name": "Ayurveda & Forest Wellness",
+          "shortName": "Ayurveda & Wellness"
+        }
+      ],
+      "travellerTypes": [
+        "couple"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndhy00760i7dnzms2e15",
+      "slug": "grand-ceylon-odyssey",
+      "title": "The Grand Ceylon Odyssey",
+      "summary": "The quintessential Ceylon masterpiece. Climb Sigiriya at sunrise before the heat, wander sacred tooth relic temples, traverse the tea mountains on the vintage observation train, and track leopards in Yala.",
+      "cardTag": "Grand Circuit",
+      "durationDays": 11,
+      "durationNights": 10,
+      "route": [
+        "Negombo",
+        "Cultural Triangle",
+        "Kandy",
+        "Ella Highlands",
+        "Yala National Park",
+        "Galle Fort"
+      ],
+      "highlights": [
+        "Leopard Safari in Yala",
+        "First-Class Scenic Tea Train",
+        "Private Village Cooking Feast"
+      ],
+      "isFeatured": true,
+      "isMostPopular": true,
+      "cover": {
+        "id": "cmuv1ndcz00130i7dot5qncje",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuC2kYkB1QBOlVZaRUjWqLNuOxNqZ4sWoZ4aYm3JPjIneu6UX-BvoKr52yhLF-4JVnA82iApFn-MRMIOuDsFyd72DcRCzyez4JyfNH92RghdrFRDeprprQHmhpMNQiRDlTjyV2zdXdmCtu9vjmD-ChjKcgXaIinkaH4QtdC0vjiFAlFnP_ACTqK7W4MCmwobrq-2NXOXJVzSXyCnRm1MbA6oFb0tiN_VtMyKVgf3ygG1hh8pkyEbdeY",
+        "alt": "Tea train crossing the Nine Arch Bridge in Ella in morning light",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1nddq004w0i7dmayij8qt",
+          "slug": "cultural-heritage",
+          "name": "Cultural & Ancient Kingdoms",
+          "shortName": "Cultural & Heritage"
+        },
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        },
+        {
+          "id": "cmuv1nddz004z0i7dh2v8rphf",
+          "slug": "hill-country",
+          "name": "Central Hill Country & Tea Trails",
+          "shortName": "Hill Country"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "family",
+        "group",
+        "solo"
+      ],
+      "seasons": [
+        "nov-apr"
+      ]
+    },
+    {
+      "id": "cmuv1ndib007n0i7dtjxn3zxr",
+      "slug": "wild-leopards-untamed-coastlines",
+      "title": "Wild Leopards & Untamed Coastlines",
+      "summary": "Immersive expedition for wildlife photographers and conservation enthusiasts. Private trackers, custom open-sided 4x4 safaris, and private coastal yacht charters for sperm and blue whale sightings.",
+      "cardTag": "Private 4x4 Jeep",
+      "durationDays": 8,
+      "durationNights": 7,
+      "route": [
+        "Colombo",
+        "Wilpattu",
+        "Udawalawe",
+        "Yala",
+        "Mirissa"
+      ],
+      "highlights": [
+        "Private Naturalist Guide",
+        "Blue Whale Yacht Charter",
+        "Luxury Tented Safari Camp"
+      ],
+      "isFeatured": true,
+      "isMostPopular": false,
+      "cover": {
+        "id": "cmuv1ndcz00140i7d3h0lpa8r",
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuANqhF8DwOSLnwAlM_sosr04Gn-rt1GdzCTuZU9DIS_eo0bH8JlsKUTjH8EZhEtAtp3YqkM1rV_xqyqFkn5WV0W4_Cz3FpRxWZ21BXS_crD-wM8Tk07AT7iWCC_bZIoCVjPCybxuxu6lROeUUuh_jQHEO2Smp0GpUAeFaYOAqj7fgqNXSYn0K7IfpCMncjnzIvgZxlw-NsV8agFz2zDxPRMC7bfdysqTE46hv2rjt8jOOCAKZdk5Ls",
+        "alt": "Open-top safari jeep watching a leopard on a granite boulder in Yala",
+        "width": null,
+        "height": null,
+        "blurDataUrl": null,
+        "variants": {}
+      },
+      "categories": [
+        {
+          "id": "cmuv1ndds004x0i7dt1ak9m7n",
+          "slug": "wildlife-safari",
+          "name": "Wildlife & Safari Expeditions",
+          "shortName": "Wildlife & Safari"
+        },
+        {
+          "id": "cmuv1nddy004y0i7d73erk1uw",
+          "slug": "pristine-beaches",
+          "name": "Pristine Southern Beaches",
+          "shortName": "Pristine Beach"
+        }
+      ],
+      "travellerTypes": [
+        "couple",
+        "solo",
+        "group",
+        "family"
+      ],
+      "seasons": [
+        "nov-apr",
+        "may-sep"
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Ayurveda, Healing & Forest Silence · 8 Nights / 9 Days",
+    "description": "A restorative sanctuary journey designed to recalibrate mental and physical vitality. Daily consultations with resident Ayurvedic Vaidyas, endemic forest bathin",
+    "image": {
+      "id": "cmuv1ndcz001g0i7dz0vkot17",
+      "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDsXt0HrfqX7pa2rN58RaLjrqtHXDVQLgLR0m1u7C3k4PVopZmd4suov-KUgUFtsWVxhe9q_ci6NcQzMETrF5riyPfHa25HiX4BDHc0cL1yDfP86CI9QVlPaLpw1QPKjMSEEQKKt0gkVAGe5jfsReOn_R3DeUwaIytPAD6-NQeTe_XyvEIFkm_CRFCUW5otgv97EeMdpO7rn_GZRKyqpg75cXkIaKsOzjkwOini1PLGRtmpSQcX9hs",
+      "alt": "Open-air yoga shala above a lily pond in the Sinharaja rainforest",
+      "width": null,
+      "height": null,
+      "blurDataUrl": null,
+      "variants": {}
+    }
+  },
+  "updatedAt": "2026-10-05T11:21:24.165Z"
+}

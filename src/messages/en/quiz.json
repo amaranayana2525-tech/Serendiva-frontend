@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "title": "Trip Finder Quiz · Find Your Perfect Sri Lanka Route",
+    "description": "Answer four quick questions about your party, trip length, passions and season — and I will match you with the private Sri Lanka journey that suits you best, ready to tailor."
+  },
+  "hero": {
+    "badge": "Ceylon Route Atelier • 60-Second Trip Finder",
+    "title": "Find Your Perfect Sri Lankan Odyssey",
+    "intro": "Answer four curated curiosities to reveal the hand-crafted expedition blueprint attuned to your passions, group rhythm, and preferred season.",
+    "trustLabel": "Why travellers plan with me",
+    "trust": {
+      "guidance": "Direct Chauffeur-Lecturer Guidance",
+      "stays": "Boutique Heritage Stays",
+      "commissions": "Zero Commercial Commissions"
+    }
+  },
+  "stepper": {
+    "regionLabel": "Trip Finder",
+    "stepTitle": "Step {step} of {total}: {name}",
+    "hint": "Estimated completion time: 45 seconds",
+    "progressLabel": "Quiz progress",
+    "progressValue": "Step {step} of {total}",
+    "navLabel": "Quiz steps",
+    "stepUnavailable": "Answer the earlier questions first",
+    "steps": {
+      "party": { "name": "Companion Dynamics", "short": "Companions", "sub": "Party dynamics" },
+      "duration": { "name": "Journey Duration", "short": "Duration", "sub": "Days on island" },
+      "passions": { "name": "Curated Passions", "short": "Passions", "sub": "Curated curiosities" },
+      "season": { "name": "Arrival Season", "short": "Season", "sub": "Arrival timing" }
+    }
+  },
+  "nav": {
+    "back": "Back",
+    "continue": {
+      "party": "Continue to Duration",
+      "duration": "Continue to Passions",
+      "passions": "Continue to Season"
+    },
+    "generate": "Generate My Curated Route"
+  },
+  "questions": {
+    "party": {
+      "number": "Question 01",
+      "title": "Who will be joining you on this Ceylon journey?",
+      "intro": "I tailor vehicle proportions, villa acoustics, and expedition pacing according to your travel arrangement.",
+      "error": "Please choose who is travelling to continue."
+    },
+    "duration": {
+      "number": "Question 02",
+      "title": "What is your ideal journey duration?",
+      "intro": "Sri Lanka is compact yet geographically diverse; I balance scenic drive windows with unhurried villa leisure.",
+      "error": "Please choose a journey length to continue."
+    },
+    "passions": {
+      "number": "Question 03",
+      "title": "What experiences captivate your curiosity most?",
+      "intro": "Select up to three key facets so I can plan specialist lecturers and the right timing windows.",
+      "error": "Please choose at least one experience to continue.",
+      "counter": "{count} of {max} Selected",
+      "limit": "You can choose up to {max} experiences — deselect one to pick another."
+    },
+    "season": {
+      "number": "Question 04",
+      "title": "When do you plan to arrive in Sri Lanka?",
+      "intro": "Sri Lanka experiences dual monsoon systems, guaranteeing that one coast or mountain region is always basked in radiant weather.",
+      "error": "Please choose an arrival season to see your route."
+    }
+  },
+  "party": {
+    "couple": {
+      "title": "Romantic Couple / Honeymoon",
+      "description": "Secluded architectural villas, candlelit Ceylon tea bungalows, discreet private chauffeur pacing.",
+      "tag": "Most Popular"
+    },
+    "solo": {
+      "title": "Solo Explorer",
+      "description": "Autonomous sunrise photography, deep Buddhist monastic discussions, flexible unplanned stops."
+    },
+    "family": {
+      "title": "Family with Children",
+      "description": "Kid-tested safari naturalists, gentle travel legs, connecting suites, and safe coastal surf bays."
+    },
+    "group": {
+      "title": "Friends & Small Group",
+      "description": "Boutique estate buyouts, convivial private chef dinners, mountain treks, and heritage bar curations."
+    },
+    "corporate": {
+      "eyebrow": "Executive Service",
+      "title": "Executive Delegation / Retreat",
+      "description": "Discreet VIP transport, Geoffrey Bawa architectural venues, confidential meetings, and custom gala hosting."
+    }
+  },
+  "duration": {
+    "short": {
+      "range": "5 to 7 Days",
+      "title": "The Essential Ceylon Accent",
+      "description": "Focused regional immersion. Ideal for pairing either the misty tea highlands and cultural triangle, or a wildlife safari and pristine southern coastline.",
+      "chip1": "2 Signature Destinations",
+      "chip2": "Boutique Express"
+    },
+    "balanced": {
+      "range": "8 to 10 Days",
+      "tag": "Recommended",
+      "title": "The Balanced Grand Circuit",
+      "description": "The quintessential Ceylon narrative: UNESCO ancient kingdoms, the world-famed scenic blue train through tea estates, untamed leopard safari, and Galle colonial ramparts.",
+      "chip1": "Sigiriya + Kandy + Ella + Yala + Galle",
+      "chip2": "Full Spectrum Odyssey"
+    },
+    "deep": {
+      "range": "11 to 14 Days",
+      "title": "The Immersive In-Depth Odyssey",
+      "description": "Unrushed double-night stays at premier tea bungalows. Incorporates secluded northern heritage (Jaffna / Wilpattu) alongside the southern coast and tea country.",
+      "chip1": "North-to-South Archipelago",
+      "chip2": "Deep Heritage Immersion"
+    },
+    "grand": {
+      "range": "15+ Days",
+      "title": "The Connoisseur's Slow Expedition",
+      "description": "Total serenity. Extended multi-day wellness immersions, rare wildlife sanctuaries, private boat charters, and deep culinary exploration with master chefs.",
+      "chip1": "Slow Travel Philosophy",
+      "chip2": "Private Villa Buyouts"
+    }
+  },
+  "passions": {
+    "citadels": {
+      "title": "Ancient Citadels & UNESCO Ruins",
+      "description": "Sigiriya dawn ascents, Polonnaruwa royal stone palaces, and sacred Dambulla cave murals.",
+      "short": "UNESCO citadels"
+    },
+    "safari": {
+      "title": "Leopards, Elephants & Safari",
+      "description": "Yala Block 1 uncrowded dawn entries, sloth bear tracking, and private naturalist accompaniment.",
+      "short": "private wildlife safaris"
+    },
+    "tea": {
+      "title": "Misty Tea Country & Railways",
+      "description": "Reserved observation train cars, colonial tea planter bungalows, and private tastings.",
+      "short": "tea mountains"
+    },
+    "coast": {
+      "title": "Pristine South Beaches & Galle Fort",
+      "description": "Catamaran blue whale spotting, Dutch colonial ramparts, and secluded coastal bays.",
+      "short": "southern beaches"
+    },
+    "trekking": {
+      "title": "High-Altitude Trekking & Peaks",
+      "description": "World’s End precipice at Horton Plains, secluded Knuckles range pathways, and waterfall descents.",
+      "short": "highland treks"
+    },
+    "wellness": {
+      "title": "Ayurvedic Sanctuary & Forest Zen",
+      "description": "Authentic physician-guided herbal panchakarma, yoga pavilions, and farm-to-table organic dining.",
+      "short": "Ayurvedic retreats"
+    }
+  },
+  "season": {
+    "nov-apr": {
+      "range": "November to April",
+      "tag": "Peak Season",
+      "title": "Southwest Coast & Central Highlands",
+      "description": "Golden calm seas at Galle & Bentota, blue skies over tea plantations, and optimal leopard visibility in Yala and Udawalawe."
+    },
+    "may-sep": {
+      "range": "May to September",
+      "title": "East Coast & Northern Peninsula",
+      "description": "Crystal-clear diving seas in Trincomalee and Pasikudah, serene Jaffna cultural exploration, and dry conditions across Wilpattu."
+    },
+    "jul-aug": {
+      "range": "July to August",
+      "title": "The Esala Perahera Festival & The Elephant Gathering",
+      "description": "Kandy’s spellbinding sacred relic pageant with torchbearers, paired with the awe-inspiring 300+ elephant assembly at Minneriya reservoir."
+    },
+    "flexible": {
+      "range": "Flexible / Undecided",
+      "title": "I'd Like Dinesh's Recommendation",
+      "description": "I will weigh flight convenience, hotel seasonality, and festival dates to suggest your premier travel window."
+    }
+  },
+  "summary": {
+    "party": {
+      "couple": "Romantic Couple",
+      "solo": "Solo Explorer",
+      "family": "Family & Children",
+      "group": "Small Group",
+      "corporate": "Executive Delegation"
+    },
+    "partyPhrase": {
+      "couple": "a couple's sanctuary",
+      "solo": "a solo explorer's freedom",
+      "family": "a family-friendly rhythm",
+      "group": "a convivial small group",
+      "corporate": "an executive delegation"
+    },
+    "duration": {
+      "short": "5–7 Days",
+      "balanced": "8–10 Days",
+      "deep": "11–14 Days",
+      "grand": "15+ Days"
+    },
+    "durationRange": {
+      "short": "5–7 days",
+      "balanced": "8–10 days",
+      "deep": "11–14 days",
+      "grand": "15+ days"
+    },
+    "durationPhrase": "{range} pacing",
+    "passions": "{count, plural, one {# Passion} other {# Passions}} Chosen",
+    "season": {
+      "nov-apr": "Nov – Apr (West & Tea)",
+      "may-sep": "May – Sep (East Coast)",
+      "jul-aug": "Jul – Aug (Festival)",
+      "flexible": "Flexible Season"
+    },
+    "seasonPrefill": {
+      "nov-apr": "November – April",
+      "may-sep": "May – September",
+      "jul-aug": "July – August (Esala Perahera)",
+      "flexible": "Flexible — please recommend the best window"
+    }
+  },
+  "results": {
+    "announce": "Your route blueprint is ready. Top match: {tour}.",
+    "badge": "{percent}% Route Alignment Match",
+    "title": "Dinesh's Recommended Route Blueprint",
+    "intro": "Synthesized from your preferences: {summary}.",
+    "topLabel": "Your top match",
+    "tailored": "Tailored Itinerary",
+    "trajectory": "Bespoke Route Trajectory",
+    "why": "Why It Matches You",
+    "privileges": "Included Handcrafted Privileges",
+    "viewItinerary": "View the day-by-day itinerary",
+    "guide": {
+      "verified": "Licensed guide",
+      "credentials": "{title} · SLTDA licence {licence} · {years} Years Curating Private Journeys",
+      "vehicle": "Chauffeured in: Air-Conditioned Toyota Prado / HiAce Commuter"
+    },
+    "quote": {
+      "eyebrow": "The Serendiva Difference",
+      "text": "“I do not sell pre-packaged group tours. Every road turned, estate visited, and restaurant table reserved is tuned precisely around your personal clock.”",
+      "attribution": "— {name}, {title}"
+    },
+    "cta": {
+      "eyebrow": "Instant Dispatch",
+      "title": "Send This Blueprint To Dinesh",
+      "intro": "Receive a bespoke day-by-day journey proposal and villa availability within 24 hours.",
+      "profile": "Synthesized Profile",
+      "note": "Your answers travel with you — the inquiry form opens pre-filled, so you only add your name and email.",
+      "plan": "Plan This Journey",
+      "whatsapp": "Chat on WhatsApp with Dinesh",
+      "retake": "Retake Quiz",
+      "adjust": "Adjust My Answers",
+      "reassurance": "Zero obligation • No consultation fees",
+      "privacy": "Your privacy is respected. I never share traveller records.",
+      "corporateNote": "Planning for a company or delegation?",
+      "corporateLink": "See my corporate expeditions"
+    },
+    "whatsappMessage": "Hello Dinesh, the Trip Finder suggested “{tour}” for us ({party}, {duration}, {season}). Could we plan it together?",
+    "contactMessage": "Trip Finder result: “{tour}” — {party}, {duration}, {season}. Passions: {passions}.",
+    "alternatives": {
+      "eyebrow": "Also Worth Considering",
+      "title": "Two More Routes Attuned To You",
+      "intro": "Close runners-up from my journeys — every one can be reshaped around your dates and pace.",
+      "match": "{percent}% match"
+    },
+    "empty": {
+      "title": "Let me design this route from scratch",
+      "body": "My curated journeys are being refreshed right now — send me your answers and I will sketch a private route for you within 24 hours.",
+      "cta": "Send my answers"
+    }
+  },
+  "reasons": {
+    "passionFull": "Rich in {passion}",
+    "passionPartial": "Touches on {passion}",
+    "partySpecialist": "Created especially for {party}",
+    "partyListed": "Paced for {party}",
+    "partyAdapted": "Easily adapted for {party}",
+    "partyNames": {
+      "couple": "couples & honeymooners",
+      "solo": "solo explorers",
+      "family": "families with children",
+      "group": "friends & small groups",
+      "corporate": "executive delegations"
+    },
+    "durationExact": "{days} days — right in your {range} window",
+    "durationAdjustable": "{days} days — easy to shorten or extend to {range}",
+    "seasonIdeal": "At its best in {season}",
+    "seasonYearRound": "Rewarding all year round",
+    "seasonFlexible": "I will time it for the best weather window",
+    "seasonPartial": "Partly in season during {season}",
+    "popular": "One of my most requested journeys"
+  },
+  "process": {
+    "eyebrow": "The Bespoke Process",
+    "title": "How Dinesh Refines Your Journey",
+    "intro": "From quiz submission to stepping off your flight at Bandaranaike International, every detail is personally overseen.",
+    "steps": {
+      "analysis": {
+        "title": "Profile Analysis",
+        "body": "Within minutes of your inquiry, I examine your chosen travel season, party configuration, and desired sights against current road and weather conditions.",
+        "turnaround": "Turnaround: Immediate"
+      },
+      "lockin": {
+        "title": "Boutique Villa Lock-in",
+        "body": "I cross-check availability with my trusted partners: tea planter bungalows, heritage Galle manses, and reserved scenic train compartments.",
+        "turnaround": "Turnaround: Under 12 Hours"
+      },
+      "portfolio": {
+        "title": "Tailored Itinerary Portfolio",
+        "body": "You receive an elegant, day-by-day customized journey portfolio with hand-picked suites, recommended dining, vehicle details, and clear terms.",
+        "turnaround": "Turnaround: Within 24 Hours"
+      }
+    }
+  },
+  "faq": {
+    "title": "Common Route Atelier Inquiries"
+  },
+  "banner": {
+    "eyebrow": "Serendiva Concierge Dispatch",
+    "title": "Prefer to speak directly with Dinesh right now?",
+    "body": "Reach out via WhatsApp audio or direct text message for immediate guidance on seasonal weather patterns.",
+    "cta": "Open Direct WhatsApp Concierge",
+    "page": "Trip Finder Quiz"
+  },
+  "loading": "Loading the Trip Finder…"
+}
