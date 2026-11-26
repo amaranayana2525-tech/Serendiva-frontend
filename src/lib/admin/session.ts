@@ -11,8 +11,14 @@ export const ADMIN_LOGIN_PATH = '/admin/login'
 export const ADMIN_HOME_PATH = '/admin'
 export const AUTH_REFRESH_PATH = '/api/v1/admin/auth/refresh'
 
-/** Auth endpoints that must never trigger refresh-and-retry (they define the session themselves). */
-const NO_RETRY_PATHS = ['/api/v1/admin/auth/login', '/api/v1/admin/auth/refresh', '/api/v1/admin/auth/logout']
+/** Auth endpoints that must never trigger refresh-and-retry (they define or reset the session themselves). */
+const NO_RETRY_PATHS = [
+  '/api/v1/admin/auth/login',
+  '/api/v1/admin/auth/refresh',
+  '/api/v1/admin/auth/logout',
+  '/api/v1/admin/auth/forgot-password',
+  '/api/v1/admin/auth/reset-password',
+]
 
 /** True when `url` (absolute or relative) points at login/refresh/logout. */
 export function isSessionEndpoint(url: string): boolean {

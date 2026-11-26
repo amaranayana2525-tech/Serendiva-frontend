@@ -62,7 +62,9 @@
     "password": "Password",
     "submit": "Sign in",
     "submitting": "Signing in…",
-    "help": "Forgot your password? Ask the site administrator to reset it on the server.",
+    "forgotLink": "Forgot password?",
+    "resetSuccess": "Your password has been reset. Sign in with your new password.",
+    "help": "Forgot your password? Reset it with a verification code sent to your admin email.",
     "errors": {
       "emailRequired": "Please enter your email address.",
       "emailInvalid": "Please enter a valid email address.",
@@ -73,6 +75,37 @@
       "network": "Can't reach the server. Check your connection and try again.",
       "validation": "Please check the highlighted fields.",
       "server": "Something went wrong on the server. Please try again in a moment."
+    },
+    "forgot": {
+      "title": "Reset password",
+      "subtitle": "Enter your admin email address and we'll send a 6-digit verification code.",
+      "sendCode": "Send verification code",
+      "sending": "Sending code…",
+      "backToLogin": "Back to sign in",
+      "resetTitle": "Enter verification code",
+      "resetSubtitle": "If an admin account matches this email, we sent a 6-digit code. It expires in 10 minutes.",
+      "otpLabel": "6-digit verification code",
+      "otpHint": "Check your inbox (and spam folder) for the 6-digit code.",
+      "newPassword": "New password",
+      "confirmPassword": "Repeat new password",
+      "passwordRules": "At least 12 characters, including a letter and a number.",
+      "resetSubmit": "Reset password",
+      "resetting": "Resetting password…",
+      "resend": "Resend code",
+      "resending": "Sending…",
+      "resent": "If an admin account matches this email, a fresh verification code has been sent.",
+      "errors": {
+        "otpRequired": "Please enter the 6-digit verification code.",
+        "otpInvalid": "Enter the 6-digit verification code.",
+        "passwordTooShort": "Use at least 12 characters.",
+        "passwordWeak": "Include at least one letter and one number.",
+        "passwordMismatch": "The passwords don't match.",
+        "invalidOtp": "That verification code is invalid or has expired.",
+        "rateLimited": "Too many attempts. Please wait a few minutes and try again.",
+        "network": "Can't reach the server. Check your connection and try again.",
+        "validation": "Please check the highlighted fields.",
+        "server": "Something went wrong on the server. Please try again in a moment."
+      }
     }
   },
   "password": {
